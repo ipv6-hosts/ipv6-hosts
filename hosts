@@ -10,7 +10,7 @@
 #2404:6800:8005::62 ns3.google.com                     #域名系统服务器ns 
 #2404:6800:8005::62 ns4.google.com                     #域名系统服务器ns 
 2404:6800:8005::65 services.google.com                #服务申请 
-2404:6800:8005::65 goto.google.com                    #跳转 
+2404:6800:8005::8b goto.google.com                    #跳转 
 
 #2404:6800:8005::65 www3.l.google.com 
 
@@ -973,8 +973,6 @@
 
 
 2404:6800:8005::84 www.googlehosted.com 
-2404:6800:8005::84 music.googleusercontent.com        #音乐播放器 专辑封面 等
-
 2404:6800:8005::84 googlehosted.l.google.com 
 
 2404:6800:8005::62 base.googlehosted.com 
@@ -1116,6 +1114,15 @@
 2404:6800:8005::84 sp5ovcebgtpf6rg65f53gdnvqtt3a58n-a-sites-opensocial.googleusercontent.com
 
 
+
+
+#Music Beta by Google  云音乐服务 
+2404:6800:8005::65 music.google.com
+
+
+2404:6800:8005::74 t.doc-0-0-sj.sj.googleusercontent.com #个人音乐库 
+2404:6800:8005::74 music-streaming.l.google.com 
+2404:6800:8005::84 music.googleusercontent.com #音乐播放器 专辑封面 等
 
 
 
