@@ -150,12 +150,13 @@
 2404:6800:8005::62 suggestqueries.google.com          #搜索建议 
 2404:6800:8005::62 suggestqueries.l.google.com        #搜索建议 
 
-2404:6800:8005::62 clients0.google.com                #客户端服务器 
-2404:6800:8005::62 clients1.google.com                #客户端服务器 
-2404:6800:8005::62 clients2.google.com                #客户端服务器 
-2404:6800:8005::62 clients3.google.com                #客户端服务器 
-2404:6800:8005::62 clients4.google.com                #客户端服务器 
-
+2404:6800:8005::62 clients0.google.com 
+2404:6800:8005::62 clients1.google.com 
+2404:6800:8005::62 clients2.google.com 
+2404:6800:8005::62 clients3.google.com 
+2404:6800:8005::62 clients4.google.com 
+2404:6800:8005::8a clients5.google.com 
+2404:6800:8005::66 clients6.google.com 
 2404:6800:8005::62 clients.l.google.com 
 2404:6800:8005::62 clients1.google.com.hk             # .com.hk 搜索建议 
 2404:6800:8005::62 clients-china.l.google.com 
@@ -1049,8 +1050,8 @@
 
 #GTalk             聊天 
 
-#2404:6800:8005::62 talk.google.com 
-#2404:6800:8005::62 talk.l.google.com 
+#2404:6800:8005::7d talk.google.com 
+#2404:6800:8005::7d talk.l.google.com 
 #2404:6800:8005::62 default.talk.google.com 
 
 2404:6800:8005::62 talkgadget.google.com 
