@@ -231,44 +231,40 @@
 
 
 
-#Map               地图 
+#Maps               地图 
 2404:6800:8005::68 maps.google.com                    #主页 
 
 2404:6800:8005::68 local.google.com 
 2404:6800:8005::68 ditu.google.com                    #中国版（镜像） 
 2404:6800:8005::68 maps.l.google.com 
 
-2404:6800:8005::62 maps-api-ssl.google.com
-
-#2404:6800:8005::62 clients.l.google.com
-
+2404:6800:8005::64 maps-api-ssl.google.com 
 
 2404:6800:8005::62 map.google.com 
-2404:6800:8005::62 kh.google.com 
-2404:6800:8005::62 kh.l.google.com 
-2404:6800:8005::62 khmdb.google.com 
-2404:6800:8005::62 khm.google.com                     # 
-2404:6800:8005::62 khm.l.google.com 
-2404:6800:8005::62 khm0.google.com                    #Satellite View 
-2404:6800:8005::62 khm1.google.com                    #Satellite View 
-2404:6800:8005::62 khm2.google.com                    #Satellite View 
-2404:6800:8005::62 khm3.google.com                    #Satellite View 
-2404:6800:8005::62 cbk0.google.com                    #Street View 
-2404:6800:8005::62 cbk1.google.com                    #Street View 
-2404:6800:8005::62 cbk2.google.com                    #Street View 
-2404:6800:8005::62 cbk3.google.com                    #Street View 
+2404:6800:8005::5d kh.google.com 
+2404:6800:8005::5d kh.l.google.com 
+2404:6800:8005::65 khmdb.google.com 
+2404:6800:8005::66 khm.google.com                     # 
+2404:6800:8005::66 khm.l.google.com 
+2404:6800:8005::66 khm0.google.com                    #Satellite View 
+2404:6800:8005::66 khm1.google.com                    #Satellite View 
+2404:6800:8005::66 khm2.google.com                    #Satellite View 
+2404:6800:8005::66 khm3.google.com                    #Satellite View 
+2404:6800:8005::65 cbk0.google.com                    #Street View 
+2404:6800:8005::65 cbk1.google.com                    #Street View 
+2404:6800:8005::65 cbk2.google.com                    #Street View 
+2404:6800:8005::65 cbk3.google.com                    #Street View 
 
 2404:6800:8005::62 mw0.google.com 
-2404:6800:8005::62 mw1.google.com 
-2404:6800:8005::62 mw2.google.com 
+2404:6800:8005::76 mw1.google.com #small 
+2404:6800:8005::76 mw2.google.com #medium 
 2404:6800:8005::62 mw3.google.com 
-2404:6800:8005::62 mw-small.l.google.com 
 
-2404:6800:8005::62 mt.l.google.com 
-2404:6800:8005::62 mt0.google.com 
-2404:6800:8005::62 mt1.google.com 
-2404:6800:8005::62 mt2.google.com 
-2404:6800:8005::62 mt3.google.com 
+2404:6800:8005::71 mt.l.google.com 
+2404:6800:8005::71 mt0.google.com 
+2404:6800:8005::71 mt1.google.com 
+2404:6800:8005::71 mt2.google.com 
+2404:6800:8005::71 mt3.google.com 
 2404:6800:8005::62 mlt0.google.com 
 2404:6800:8005::62 mlt1.google.com 
 2404:6800:8005::62 mlt2.google.com 
@@ -418,7 +414,8 @@
 
 
 #Docs              文档 
-2404:6800:8005::64 docs.google.com 
+2404:6800:8005::71 docs.google.com
+
 2404:6800:8005::64 docs0.google.com 
 2404:6800:8005::64 docs1.google.com 
 2404:6800:8005::64 docs2.google.com 
@@ -429,18 +426,26 @@
 2404:6800:8005::64 docs7.google.com 
 2404:6800:8005::64 docs8.google.com 
 2404:6800:8005::64 docs9.google.com 
-2404:6800:8005::64 0.docs.google.com 
-2404:6800:8005::64 1.docs.google.com 
-2404:6800:8005::64 2.docs.google.com 
-2404:6800:8005::64 3.docs.google.com 
-2404:6800:8005::64 4.docs.google.com 
-2404:6800:8005::64 5.docs.google.com 
-2404:6800:8005::64 6.docs.google.com 
-2404:6800:8005::64 7.docs.google.com 
-2404:6800:8005::64 8.docs.google.com 
-2404:6800:8005::64 9.docs.google.com 
+2404:6800:8001::bd 0.docs.google.com
+2404:6800:8001::bd 1.docs.google.com
+2404:6800:8001::bd 2.docs.google.com
+2404:6800:8001::bd 3.docs.google.com
+2404:6800:8001::bd 4.docs.google.com
+2404:6800:8001::bd 5.docs.google.com
+2404:6800:8001::bd 6.docs.google.com
+2404:6800:8001::bd 7.docs.google.com
+2404:6800:8001::bd 8.docs.google.com
+2404:6800:8001::bd 9.docs.google.com
+2404:6800:8001::bd 10.docs.google.com
+2404:6800:8001::bd 11.docs.google.com
+2404:6800:8001::bd 12.docs.google.com
+2404:6800:8001::bd 13.docs.google.com
+2404:6800:8001::bd 14.docs.google.com
+2404:6800:8001::bd 15.docs.google.com
+2404:6800:8001::bd 16.docs.google.com
+#2404:6800:8001::bd *.docs.google.com #按需要同时打开的文档个数自行添加
+2404:6800:8001::bd browserchannel-docs.l.google.com 
 
-#2404:6800:8005::64 writely.l.google.com 
 2404:6800:8005::62 spreadsheet.google.com 
 2404:6800:8005::62 spreadsheets.google.com 
 2404:6800:8005::62 spreadsheets0.google.com 
@@ -2210,7 +2215,7 @@
 
 
 #Analytics         分析（Google 所提供的网站流量统计服务） 
-2404:6800:8005::68 www.google-analytics.com 
+2404:6800:8005::66 www.google-analytics.com 
 
 2404:6800:8005::61 www.google-analytics.com 
 2404:6800:8005::61 *.google-analytics.com 
