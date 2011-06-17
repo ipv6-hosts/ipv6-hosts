@@ -302,7 +302,9 @@
 2404:6800:8005::11 googlemail.l.google.com 
 2404:6800:8005::12 googlemail.l.google.com 
 2404:6800:8005::13 googlemail.l.google.com 
-2404:6800:8005::bd chatenabled.mail.google.com        #Gmail中Gtalk聊天服务 
+2404:6800:8005::bd chatenabled.mail.google.com        #Gmail中Gtalk聊天服务
+2404:6800:8005::bd filetransferenabled.mail.google.com
+
 #2404:6800:8005::bd b.googlemail.l.google.com
 
 2404:6800:8005::62 talk.gmail.com                     #Gmail中Gtalk聊天服务 
