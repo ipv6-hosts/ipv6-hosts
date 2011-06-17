@@ -1,205 +1,205 @@
-##Google.com       Google.com 
-2404:6800:8005::68 www.google.com                     #主页 
+##Google.com       Google.com
+2404:6800:8005::68 www.google.com                     #主页
 #2404:6800:8005::68 www.l.google.com
 
-2404:6800:8005::c1 m.google.com                       #Google移动版 
-2404:6800:8005::54 accounts.google.com                #帐户 
+2404:6800:8005::c1 m.google.com                       #Google移动版
+2404:6800:8005::54 accounts.google.com                #帐户
 
-#2404:6800:8005::62 ns1.google.com                     #域名系统服务器ns-soa/ns 
-#2404:6800:8005::62 ns2.google.com                     #域名系统服务器ns 
-#2404:6800:8005::62 ns3.google.com                     #域名系统服务器ns 
-#2404:6800:8005::62 ns4.google.com                     #域名系统服务器ns 
-2404:6800:8005::65 services.google.com                #服务申请 
-2404:6800:8005::8b goto.google.com                    #跳转 
+#2404:6800:8005::62 ns1.google.com                     #域名系统服务器ns-soa/ns
+#2404:6800:8005::62 ns2.google.com                     #域名系统服务器ns
+#2404:6800:8005::62 ns3.google.com                     #域名系统服务器ns
+#2404:6800:8005::62 ns4.google.com                     #域名系统服务器ns
+2404:6800:8005::65 services.google.com                #服务申请
+2404:6800:8005::8b goto.google.com                    #跳转
 
-#2404:6800:8005::65 www3.l.google.com 
+#2404:6800:8005::65 www3.l.google.com
 
-#2404:6800:8005::76 www4.l.google.com 
-2404:6800:8005::d2 jmt0.google.com 
+#2404:6800:8005::76 www4.l.google.com
+2404:6800:8005::d2 jmt0.google.com
 
-2404:6800:8005::d2 wire.l.google.com 
-
-
+2404:6800:8005::d2 wire.l.google.com
 
 
-#2404:6800:8005::63 ipv6.google.com 
-#2404:6800:8005::67 ipv6.google.com 
-#2404:6800:8005::68 ipv6.google.com 
-#2404:6800:8005::69 ipv6.google.com 
-#2404:6800:8005::6a ipv6.google.com 
-#2404:6800:8005::93 ipv6.google.com 
-#2404:6800:8003::6a ipv6.l.google.com 
 
-##Google.com.hk    谷歌香港 
-2404:6800:8005::2e www.google.com.hk 
-2404:6800:8005::2e images.google.com.hk 
-2404:6800:8005::2e video.google.com.hk 
-2404:6800:8005::2e maps.google.com.hk 
-2404:6800:8005::2e news.google.com.hk 
-2404:6800:8005::2e translate.google.com.hk 
-2404:6800:8005::2e blogsearch.google.com.hk 
-2404:6800:8005::2e picasaweb.google.com.hk 
-2404:6800:8005::2e toolbar.google.com.hk 
-2404:6800:8005::2e desktop.google.com.hk 
-2404:6800:8005::2e id.google.com.hk 
 
-2404:6800:8005::2e wenda.google.com.hk 
+#2404:6800:8005::63 ipv6.google.com
+#2404:6800:8005::67 ipv6.google.com
+#2404:6800:8005::68 ipv6.google.com
+#2404:6800:8005::69 ipv6.google.com
+#2404:6800:8005::6a ipv6.google.com
+#2404:6800:8005::93 ipv6.google.com
+#2404:6800:8003::6a ipv6.l.google.com
 
-#2404:6800:8005::63 ipv6.google.com.hk 
-#2404:6800:8005::67 ipv6.google.com.hk 
-#2404:6800:8005::68 ipv6.google.com.hk 
-#2404:6800:8005::69 ipv6.google.com.hk 
-#2404:6800:8005::6a ipv6.google.com.hk 
-#2404:6800:8005::93 ipv6.google.com.hk 
-#2404:6800:8003::6a ipv6.l.google.com 
+##Google.com.hk    谷歌香港
+2404:6800:8005::2e www.google.com.hk
+2404:6800:8005::2e images.google.com.hk
+2404:6800:8005::2e video.google.com.hk
+2404:6800:8005::2e maps.google.com.hk
+2404:6800:8005::2e news.google.com.hk
+2404:6800:8005::2e translate.google.com.hk
+2404:6800:8005::2e blogsearch.google.com.hk
+2404:6800:8005::2e picasaweb.google.com.hk
+2404:6800:8005::2e toolbar.google.com.hk
+2404:6800:8005::2e desktop.google.com.hk
+2404:6800:8005::2e id.google.com.hk
+
+2404:6800:8005::2e wenda.google.com.hk
+
+#2404:6800:8005::63 ipv6.google.com.hk
+#2404:6800:8005::67 ipv6.google.com.hk
+#2404:6800:8005::68 ipv6.google.com.hk
+#2404:6800:8005::69 ipv6.google.com.hk
+#2404:6800:8005::6a ipv6.google.com.hk
+#2404:6800:8005::93 ipv6.google.com.hk
+#2404:6800:8003::6a ipv6.l.google.com
 
 2404:6800:8005::67 www.googlechinawebmaster.com
 
-##Google.cn        谷歌中国（启用此地址无法正常使用谷歌音乐） 
+##Google.cn        谷歌中国（启用此地址无法正常使用谷歌音乐）
 
-#2401:3800:c001::68 www.google.cn                      #主页 
+#2401:3800:c001::68 www.google.cn                      #主页
 #2401:3800:c001::68 g.cn                               #导航
 
-#2401:3800:c001::68 google.cn                          #跳转 
-2401:3800:c001::68 translate.google.cn                 #翻译 
+#2401:3800:c001::68 google.cn                          #跳转
+2401:3800:c001::68 translate.google.cn                 #翻译
 2401:3800:c001::68 blogsearch.google.cn                #博客搜索
 
 2401:3800:c001::68 pack.google.cn                      #软件精选（跳转）
 
 2401:3800:c001::68 news.google.cn                      #新闻（跳转）
 
-2401:3800:c001::68 video.google.cn                      #视频（跳转） 
+2401:3800:c001::68 video.google.cn                      #视频（跳转）
 
-#2401:3800:c001::68 ipv6cn.l.google.com 
-#2401:3800:c001::68 ipv6.google.cn 
-#2401:3800:c001::68 ipv6cn.l.google.com 
+#2401:3800:c001::68 ipv6cn.l.google.com
+#2401:3800:c001::68 ipv6.google.cn
+#2401:3800:c001::68 ipv6cn.l.google.com
 
 2404:6800:8005::84 music.googleusercontent.cn
 
-##Google.com.tw    Google 台湾 
-2404:6800:8005::2f www.google.com.tw                  #主页 
+##Google.com.tw    Google 台湾
+2404:6800:8005::2f www.google.com.tw                  #主页
 2404:6800:8005::2f picasaweb.google.com.tw            #picasaweb
 
-##Google.co.jp     Google 日本 
-2a00:1450:8006::30 www.google.co.jp 
+##Google.co.jp     Google 日本
+2a00:1450:8006::30 www.google.co.jp
 
 
-#IPv6：ipv6.google.co.jp 
+#IPv6：ipv6.google.co.jp
 
-## 
+##
 
-2404:6800:8005::20 www.google.com.tr #土耳其 
-2404:6800:8005::21 www.google.com.au #澳大利亚 
-2404:6800:8005::22 www.google.com.vn #越南 
-2404:6800:8005::23 www.google.com.pk #巴基斯坦 
-2404:6800:8005::24 www.google.com.my #马来西亚 
-2404:6800:8005::25 www.google.com.pe 
-2404:6800:8005::26 www.google.co.za 
-2404:6800:8005::27 www.google.co.ve 
-2404:6800:8005::28 www.google.com.ph 
-2404:6800:8005::29 www.google.com.ar 
-2404:6800:8005::2a www.google.co.nz 
-2404:6800:8005::2b www.google.lt 
-#2404:6800:8005::2c www.google.cn     #中国（已死） 
-2404:6800:8005::2d www.google.com.sg #新加坡 
-2404:6800:8005::2e www.google.com.hk #香港 
-2404:6800:8005::2f www.google.com.tw #台湾 
-2404:6800:8005::30 www.google.co.jp  #日本 
-2404:6800:8005::31 www.google.ae 
-2404:6800:8005::32 www.google.co.uk  #英国 
-2404:6800:8005::33 www.google.com.gr 
-2404:6800:8005::34 www.google.de 
-2404:6800:8005::35 www.google.co.il 
-2404:6800:8005::36 www.google.fr     #法国 
-
-
-
-2404:6800:8005::38 www.google.it     #意大利 
-2404:6800:8005::39 www.google.lv 
-2404:6800:8005::3a www.google.ca 
-2404:6800:8005::3b www.google.pl 
-2404:6800:8005::3c www.google.ch 
-2404:6800:8005::3d www.google.ro 
-2404:6800:8005::3e www.google.nl     #荷兰 
-2404:6800:8005::3f www.google.com.ru #俄罗斯 
-2404:6800:8005::40 www.google.at     #奥地利 
-
-2404:6800:8005::42 www.google.be 
-
-2404:6800:8005::44 www.google.co.kr  #南韩 
-2404:6800:8005::45 www.google.com.ua 
-
-2404:6800:8005::48 www.google.fi     #芬兰 
-2404:6800:8005::49 www.google.co.in 
-2404:6800:8005::4a www.google.pt 
-2404:6800:8005::4b www.google.com.ly 
-2404:6800:8005::4c www.google.com.br 
-
-
-#Web               网页 
-2404:6800:8005::68 www.google.com                     #主页 
-
-
-2404:6800:8005::68 encrypted.google.com               #主页 
-2404:6800:8005::68 www.l.google.com 
-
-2404:6800:8005::62 www0.l.google.com 
-2404:6800:8005::62 www1.l.google.com 
-2404:6800:8005::62 www3.l.google.com 
-
-2404:6800:8005::62 suggestqueries.google.com          #搜索建议 
-2404:6800:8005::62 suggestqueries.l.google.com        #搜索建议 
-
-2404:6800:8005::62 clients0.google.com 
-2404:6800:8005::62 clients1.google.com 
-2404:6800:8005::62 clients2.google.com 
-2404:6800:8005::62 clients3.google.com 
-2404:6800:8005::62 clients4.google.com 
-2404:6800:8005::8a clients5.google.com 
-2404:6800:8005::66 clients6.google.com 
-2404:6800:8005::62 clients.l.google.com 
-2404:6800:8005::62 clients1.google.com.hk             # .com.hk 搜索建议 
-2404:6800:8005::62 clients-china.l.google.com 
-2404:6800:8005::62 linkhelp.clients.google.com        #
+2404:6800:8005::20 www.google.com.tr #土耳其
+2404:6800:8005::21 www.google.com.au #澳大利亚
+2404:6800:8005::22 www.google.com.vn #越南
+2404:6800:8005::23 www.google.com.pk #巴基斯坦
+2404:6800:8005::24 www.google.com.my #马来西亚
+2404:6800:8005::25 www.google.com.pe
+2404:6800:8005::26 www.google.co.za
+2404:6800:8005::27 www.google.co.ve
+2404:6800:8005::28 www.google.com.ph
+2404:6800:8005::29 www.google.com.ar
+2404:6800:8005::2a www.google.co.nz
+2404:6800:8005::2b www.google.lt
+#2404:6800:8005::2c www.google.cn     #中国（已死）
+2404:6800:8005::2d www.google.com.sg #新加坡
+2404:6800:8005::2e www.google.com.hk #香港
+2404:6800:8005::2f www.google.com.tw #台湾
+2404:6800:8005::30 www.google.co.jp  #日本
+2404:6800:8005::31 www.google.ae
+2404:6800:8005::32 www.google.co.uk  #英国
+2404:6800:8005::33 www.google.com.gr
+2404:6800:8005::34 www.google.de
+2404:6800:8005::35 www.google.co.il
+2404:6800:8005::36 www.google.fr     #法国
 
 
 
-#Images            图片 
-2404:6800:8005::68 images.google.com                  #主页 
-2404:6800:8005::68 images.l.google.com                # 
-2404:6800:8005::62 tbn0.google.com 
-2404:6800:8005::62 tbn1.google.com 
-2404:6800:8005::62 tbn2.google.com 
-2404:6800:8005::62 tbn3.google.com 
-2404:6800:8005::62 tbn4.google.com 
-2404:6800:8005::62 tbn5.google.com 
-2404:6800:8005::62 tbn6.google.com 
+2404:6800:8005::38 www.google.it     #意大利
+2404:6800:8005::39 www.google.lv
+2404:6800:8005::3a www.google.ca
+2404:6800:8005::3b www.google.pl
+2404:6800:8005::3c www.google.ch
+2404:6800:8005::3d www.google.ro
+2404:6800:8005::3e www.google.nl     #荷兰
+2404:6800:8005::3f www.google.com.ru #俄罗斯
+2404:6800:8005::40 www.google.at     #奥地利
+
+2404:6800:8005::42 www.google.be
+
+2404:6800:8005::44 www.google.co.kr  #南韩
+2404:6800:8005::45 www.google.com.ua
+
+2404:6800:8005::48 www.google.fi     #芬兰
+2404:6800:8005::49 www.google.co.in
+2404:6800:8005::4a www.google.pt
+2404:6800:8005::4b www.google.com.ly
+2404:6800:8005::4c www.google.com.br
+
+
+#Web               网页
+2404:6800:8005::68 www.google.com
+
+
+2404:6800:8005::68 encrypted.google.com
+2404:6800:8005::68 www.l.google.com
+
+2404:6800:8005::62 www0.l.google.com
+2404:6800:8005::62 www1.l.google.com
+2404:6800:8005::62 www3.l.google.com
+
+2404:6800:8005::62 suggestqueries.google.com          #搜索建议
+2404:6800:8005::62 suggestqueries.l.google.com        #搜索建议
+
+2404:6800:8005::62 clients0.google.com
+2404:6800:8005::62 clients1.google.com
+2404:6800:8005::62 clients2.google.com
+2404:6800:8005::62 clients3.google.com
+2404:6800:8005::62 clients4.google.com
+2404:6800:8005::8a clients5.google.com
+2404:6800:8005::66 clients6.google.com
+2404:6800:8005::62 clients.l.google.com
+2404:6800:8005::62 clients1.google.com.hk             # .com.hk 搜索建议
+2404:6800:8005::62 clients-china.l.google.com
+2404:6800:8005::62 linkhelp.clients.google.com
 
 
 
-#Video             视频 
-2404:6800:8005::62 video.google.com                   #主页 
+#Images            图片
+2404:6800:8005::68 images.google.com
+2404:6800:8005::68 images.l.google.com
+2404:6800:8005::62 tbn0.google.com
+2404:6800:8005::62 tbn1.google.com
+2404:6800:8005::62 tbn2.google.com
+2404:6800:8005::62 tbn3.google.com
+2404:6800:8005::62 tbn4.google.com
+2404:6800:8005::62 tbn5.google.com
+2404:6800:8005::62 tbn6.google.com
+
+
+
+#Video             视频
+2404:6800:8005::62 video.google.com
 #2404:6800:8005::62 video.l.google.com
 
 
-2404:6800:8005::62 0.gvt0.com 
-2404:6800:8005::62 1.gvt0.com 
-2404:6800:8005::62 2.gvt0.com 
-2404:6800:8005::62 3.gvt0.com 
-2404:6800:8005::62 4.gvt0.com 
-2404:6800:8005::62 5.gvt0.com 
-2404:6800:8005::62 video-stats.video.google.com 
+2404:6800:8005::62 0.gvt0.com
+2404:6800:8005::62 1.gvt0.com
+2404:6800:8005::62 2.gvt0.com
+2404:6800:8005::62 3.gvt0.com
+2404:6800:8005::62 4.gvt0.com
+2404:6800:8005::62 5.gvt0.com
+2404:6800:8005::62 video-stats.video.google.com
 
-2404:6800:8005::74 upload.video.google.com 
-2404:6800:8005::74 sslvideo-upload.l.google.com 
-2404:6800:8005::62 vp.video.google.com 
-2404:6800:8005::62 vp.video.l.google.com 
+2404:6800:8005::74 upload.video.google.com
+2404:6800:8005::74 sslvideo-upload.l.google.com
+2404:6800:8005::62 vp.video.google.com
+2404:6800:8005::62 vp.video.l.google.com
 
-2404:6800:8005::62 qwqy.vp.video.l.google.com 
-2404:6800:8005::62 nz.vp.video.l.google.com 
-2404:6800:8005::62 nztdug.vp.video.l.google.com 
-2404:6800:8005::62 pr.vp.video.l.google.com 
-2404:6800:8005::62 ug.vp.video.l.google.com 
+2404:6800:8005::62 qwqy.vp.video.l.google.com
+2404:6800:8005::62 nz.vp.video.l.google.com
+2404:6800:8005::62 nztdug.vp.video.l.google.com
+2404:6800:8005::62 pr.vp.video.l.google.com
+2404:6800:8005::62 ug.vp.video.l.google.com
 2404:6800:8005::62 vp01.video.l.google.com
 2404:6800:8005::62 vp02.video.l.google.com
 2404:6800:8005::62 vp03.video.l.google.com
@@ -219,153 +219,153 @@
 2404:6800:8005::62 vp17.video.l.google.com
 2404:6800:8005::62 vp18.video.l.google.com
 2404:6800:8005::62 vp19.video.l.google.com
-2404:6800:8005::62 vp20.video.l.google.com 
+2404:6800:8005::62 vp20.video.l.google.com
 
 
-2401:3800:c001::68 0.gvt0.cn 
-2401:3800:c001::68 1.gvt0.cn 
-2401:3800:c001::68 2.gvt0.cn 
-2401:3800:c001::68 3.gvt0.cn 
-
-
-
-
-
-#Maps               地图 
-2404:6800:8005::68 maps.google.com                    #主页 
-
-2404:6800:8005::68 local.google.com 
-2404:6800:8005::68 ditu.google.com                    #中国版（镜像） 
-2404:6800:8005::68 maps.l.google.com 
-
-2404:6800:8005::64 maps-api-ssl.google.com 
-
-2404:6800:8005::62 map.google.com 
-2404:6800:8005::5d kh.google.com 
-2404:6800:8005::5d kh.l.google.com 
-2404:6800:8005::65 khmdb.google.com 
-2404:6800:8005::66 khm.google.com                     # 
-2404:6800:8005::66 khm.l.google.com 
-2404:6800:8005::66 khm0.google.com                    #Satellite View 
-2404:6800:8005::66 khm1.google.com                    #Satellite View 
-2404:6800:8005::66 khm2.google.com                    #Satellite View 
-2404:6800:8005::66 khm3.google.com                    #Satellite View 
-2404:6800:8005::65 cbk0.google.com                    #Street View 
-2404:6800:8005::65 cbk1.google.com                    #Street View 
-2404:6800:8005::65 cbk2.google.com                    #Street View 
-2404:6800:8005::65 cbk3.google.com                    #Street View 
-
-2404:6800:8005::62 mw0.google.com 
-2404:6800:8005::76 mw1.google.com #small 
-2404:6800:8005::76 mw2.google.com #medium 
-2404:6800:8005::62 mw3.google.com 
-
-2404:6800:8005::71 mt.l.google.com 
-2404:6800:8005::71 mt0.google.com 
-2404:6800:8005::71 mt1.google.com 
-2404:6800:8005::71 mt2.google.com 
-2404:6800:8005::71 mt3.google.com 
-2404:6800:8005::62 mlt0.google.com 
-2404:6800:8005::62 mlt1.google.com 
-2404:6800:8005::62 mlt2.google.com 
-2404:6800:8005::62 mlt3.google.com 
-2404:6800:8005::62 gg.google.com 
-2404:6800:8005::62 csi.l.google.com 
-2404:6800:8005::62 id.google.com 
-2404:6800:8005::62 id.l.google.com 
-2401:3800:c001::68 id.google.cn 
-2404:6800:8005::68 ditu.google.cn 
-2404:6800:8005::68 mt0.google.cn 
-2404:6800:8005::68 mt1.google.cn 
-2404:6800:8005::68 mt2.google.cn 
-2404:6800:8005::68 mt3.google.cn 
-2404:6800:8005::67 maps.gstatic.cn 
-
-
-
-#News              资讯 
-2404:6800:8005::68 news.google.com                    #主页 
-2404:6800:8005::68 news.l.google.com                  
-2404:6800:8005::62 nt0.ggpht.com 
-2404:6800:8005::62 nt1.ggpht.com 
-2404:6800:8005::62 nt2.ggpht.com 
-2404:6800:8005::62 nt3.ggpht.com 
-2404:6800:8005::62 nt4.ggpht.com 
-2404:6800:8005::62 nt5.ggpht.com 
+2401:3800:c001::68 0.gvt0.cn
+2401:3800:c001::68 1.gvt0.cn
+2401:3800:c001::68 2.gvt0.cn
+2401:3800:c001::68 3.gvt0.cn
 
 
 
 
-#Gmail             邮箱 
-2404:6800:8005::11 mail.google.com                    #主页 
-2404:6800:8005::53 googlemail.l.google.com 
-2404:6800:8005::11 googlemail.l.google.com 
-2404:6800:8005::12 googlemail.l.google.com 
-2404:6800:8005::13 googlemail.l.google.com 
+
+#Maps               地图
+2404:6800:8005::68 maps.google.com                    #主页
+
+2404:6800:8005::68 local.google.com
+2404:6800:8005::68 ditu.google.com                    #中国版（镜像）
+2404:6800:8005::68 maps.l.google.com
+
+2404:6800:8005::64 maps-api-ssl.google.com
+
+2404:6800:8005::62 map.google.com
+2404:6800:8005::5d kh.google.com
+2404:6800:8005::5d kh.l.google.com
+2404:6800:8005::65 khmdb.google.com
+2404:6800:8005::66 khm.google.com
+2404:6800:8005::66 khm.l.google.com
+2404:6800:8005::66 khm0.google.com                    #Satellite View
+2404:6800:8005::66 khm1.google.com                    #Satellite View
+2404:6800:8005::66 khm2.google.com                    #Satellite View
+2404:6800:8005::66 khm3.google.com                    #Satellite View
+2404:6800:8005::65 cbk0.google.com                    #Street View
+2404:6800:8005::65 cbk1.google.com                    #Street View
+2404:6800:8005::65 cbk2.google.com                    #Street View
+2404:6800:8005::65 cbk3.google.com                    #Street View
+
+2404:6800:8005::62 mw0.google.com
+2404:6800:8005::76 mw1.google.com #small
+2404:6800:8005::76 mw2.google.com #medium
+2404:6800:8005::62 mw3.google.com
+
+2404:6800:8005::71 mt.l.google.com
+2404:6800:8005::71 mt0.google.com
+2404:6800:8005::71 mt1.google.com
+2404:6800:8005::71 mt2.google.com
+2404:6800:8005::71 mt3.google.com
+2404:6800:8005::62 mlt0.google.com
+2404:6800:8005::62 mlt1.google.com
+2404:6800:8005::62 mlt2.google.com
+2404:6800:8005::62 mlt3.google.com
+2404:6800:8005::62 gg.google.com
+2404:6800:8005::62 csi.l.google.com
+2404:6800:8005::62 id.google.com
+2404:6800:8005::62 id.l.google.com
+2401:3800:c001::68 id.google.cn
+2404:6800:8005::68 ditu.google.cn
+2404:6800:8005::68 mt0.google.cn
+2404:6800:8005::68 mt1.google.cn
+2404:6800:8005::68 mt2.google.cn
+2404:6800:8005::68 mt3.google.cn
+2404:6800:8005::67 maps.gstatic.cn
+
+
+
+#News              资讯
+2404:6800:8005::68 news.google.com
+2404:6800:8005::68 news.l.google.com
+2404:6800:8005::62 nt0.ggpht.com
+2404:6800:8005::62 nt1.ggpht.com
+2404:6800:8005::62 nt2.ggpht.com
+2404:6800:8005::62 nt3.ggpht.com
+2404:6800:8005::62 nt4.ggpht.com
+2404:6800:8005::62 nt5.ggpht.com
+
+
+
+
+#Gmail             邮箱
+2404:6800:8005::11 mail.google.com
+2404:6800:8005::53 googlemail.l.google.com
+2404:6800:8005::11 googlemail.l.google.com
+2404:6800:8005::12 googlemail.l.google.com
+2404:6800:8005::13 googlemail.l.google.com
 2404:6800:8005::bd chatenabled.mail.google.com        #Gmail中Gtalk聊天服务
 2404:6800:8005::bd filetransferenabled.mail.google.com
 
 #2404:6800:8005::bd b.googlemail.l.google.com
 
-2404:6800:8005::62 talk.gmail.com                     #Gmail中Gtalk聊天服务 
-2404:6800:8005::62 gmail.google.com                   # 
-2404:6800:8005::62 gmail.l.google.com                 # 
-2404:6800:8005::62 www.gmail.com                      #Gmail主页 
-2404:6800:8005::62 gmail.com                          #Gmail主页 
-2404:6800:8005::62 pop.gmail.com                      #pop服务 
-2404:6800:8005::62 smtp.gmail.com                     #smtp服务 
-2404:6800:8005::62 smtp1.google.com 
-2404:6800:8005::62 smtp2.google.com 
-2404:6800:8005::62 smtp3.google.com 
-2404:6800:8005::62 smtp4.google.com 
-2404:6800:8005::62 smtp5.google.com 
+2404:6800:8005::62 talk.gmail.com                     #Gmail中Gtalk聊天服务
+2404:6800:8005::62 gmail.google.com
+2404:6800:8005::62 gmail.l.google.com
+2404:6800:8005::62 www.gmail.com
+2404:6800:8005::62 gmail.com
+2404:6800:8005::62 pop.gmail.com                      #pop服务
+2404:6800:8005::62 smtp.gmail.com                     #smtp服务
+2404:6800:8005::62 smtp1.google.com
+2404:6800:8005::62 smtp2.google.com
+2404:6800:8005::62 smtp3.google.com
+2404:6800:8005::62 smtp4.google.com
+2404:6800:8005::62 smtp5.google.com
 2404:6800:8005::62 smtp-out.google.com
 2404:6800:8005::62 smtp-out2.google.com
-2404:6800:8005::62 smtp-out3.google.com 
-2404:6800:8005::62 imap.google.com                    # 
-2404:6800:8005::62 gmail-pop.l.google.com 
-2404:6800:8005::62 gmail-smtp.l.google.com 
-2404:6800:8005::62 gmail-smtp-in.l.google.com 
-2404:6800:8005::62 gmr-smtp-in.l.google.com 
+2404:6800:8005::62 smtp-out3.google.com
+2404:6800:8005::62 imap.google.com
+2404:6800:8005::62 gmail-pop.l.google.com
+2404:6800:8005::62 gmail-smtp.l.google.com
+2404:6800:8005::62 gmail-smtp-in.l.google.com
+2404:6800:8005::62 gmr-smtp-in.l.google.com
 
 
 
-#Books             图书 
-2404:6800:8005::62 books.google.com                   #主页 
+#Books             图书
+2404:6800:8005::62 books.google.com
 #2404:6800:8005::64 www3.l.google.com
 
-2404:6800:8005::62 bks0.books.google.com 
-2404:6800:8005::62 bks1.books.google.com 
-2404:6800:8005::62 bks2.books.google.com 
-2404:6800:8005::62 bks3.books.google.com 
-2404:6800:8005::62 bks4.books.google.com 
-2404:6800:8005::62 bks5.books.google.com 
-2404:6800:8005::62 bks6.books.google.com 
-2404:6800:8005::62 bks7.books.google.com 
-2404:6800:8005::62 bks8.books.google.com 
-2404:6800:8005::62 bks9.books.google.com 
+2404:6800:8005::62 bks0.books.google.com
+2404:6800:8005::62 bks1.books.google.com
+2404:6800:8005::62 bks2.books.google.com
+2404:6800:8005::62 bks3.books.google.com
+2404:6800:8005::62 bks4.books.google.com
+2404:6800:8005::62 bks5.books.google.com
+2404:6800:8005::62 bks6.books.google.com
+2404:6800:8005::62 bks7.books.google.com
+2404:6800:8005::62 bks8.books.google.com
+2404:6800:8005::62 bks9.books.google.com
 
 
 
-#Finance           财经 
-2404:6800:8005::62 finance.google.com 
+#Finance           财经
+2404:6800:8005::62 finance.google.com
 
 
 
-#Translate         翻译 
-2404:6800:8005::62 translate.google.com 
+#Translate         翻译
+2404:6800:8005::62 translate.google.com
 2401:3800:c001::68 translate.google.cn
 
 
 
 
-#Trends            趋势 
+#Trends            趋势
 2404:6800:8005::63 trends.google.com
 
 
 
 
-#Directory         网页目录 
+#Directory         网页目录
 2404:6800:8005::8a directory.google.com
 
 2404:6800:8005::8a dir.google.com                     #Google网页目录
@@ -373,61 +373,61 @@
 
 
 
-#Blog              博客搜索 
-2404:6800:8005::63 blogsearch.google.com 
-#2404:6800:8005::63 www2.l.google.com 
+#Blog              博客搜索
+2404:6800:8005::63 blogsearch.google.com
+#2404:6800:8005::63 www2.l.google.com
 2401:3800:c001::68 blogsearch.google.cn
 
 
 
 
-#Calendar          日历 
-2404:6800:8005::64 calendar.google.com 
+#Calendar          日历
+2404:6800:8005::64 calendar.google.com
 #2404:6800:8005::64 www3.l.google.com
 
 
 
 
 
-#Photo/Picasa      照片/网络相册 
-2404:6800:8005::5d photos.google.com 
+#Photo/Picasa      照片/网络相册
+2404:6800:8005::5d photos.google.com
 #2404:6800:8005::5d picasaweb.l.google.com
 
-2404:6800:8005::63 picasa.google.com 
+2404:6800:8005::63 picasa.google.com
 #2404:6800:8005::63 www2.l.google.com
 
-2404:6800:8005::be picasaweb.google.com 
+2404:6800:8005::be picasaweb.google.com
 #2404:6800:8005::be picasaweb.l.google.com
 
-2404:6800:8005::62 lh0.ggpht.com 
-2404:6800:8005::62 lh1.ggpht.com 
-2404:6800:8005::62 lh2.ggpht.com 
-2404:6800:8005::62 lh3.ggpht.com 
-2404:6800:8005::62 lh4.ggpht.com 
-2404:6800:8005::62 lh5.ggpht.com 
-2404:6800:8005::62 lh6.ggpht.com 
-2404:6800:8005::62 lh7.ggpht.com 
+2404:6800:8005::62 lh0.ggpht.com
+2404:6800:8005::62 lh1.ggpht.com
+2404:6800:8005::62 lh2.ggpht.com
+2404:6800:8005::62 lh3.ggpht.com
+2404:6800:8005::62 lh4.ggpht.com
+2404:6800:8005::62 lh5.ggpht.com
+2404:6800:8005::62 lh6.ggpht.com
+2404:6800:8005::62 lh7.ggpht.com
 
-2404:6800:8005::62 lh8.ggpht.com 
+2404:6800:8005::62 lh8.ggpht.com
 2404:6800:8005::62 lh9.ggpht.com
 
-2404:6800:8005::62 lh6.google.com 
+2404:6800:8005::62 lh6.google.com
 
 
 
-#Docs              文档 
+#Docs              文档
 2404:6800:8005::71 docs.google.com
 
-2404:6800:8005::64 docs0.google.com 
-2404:6800:8005::64 docs1.google.com 
-2404:6800:8005::64 docs2.google.com 
-2404:6800:8005::64 docs3.google.com 
-2404:6800:8005::64 docs4.google.com 
-2404:6800:8005::64 docs5.google.com 
-2404:6800:8005::64 docs6.google.com 
-2404:6800:8005::64 docs7.google.com 
-2404:6800:8005::64 docs8.google.com 
-2404:6800:8005::64 docs9.google.com 
+2404:6800:8005::64 docs0.google.com
+2404:6800:8005::64 docs1.google.com
+2404:6800:8005::64 docs2.google.com
+2404:6800:8005::64 docs3.google.com
+2404:6800:8005::64 docs4.google.com
+2404:6800:8005::64 docs5.google.com
+2404:6800:8005::64 docs6.google.com
+2404:6800:8005::64 docs7.google.com
+2404:6800:8005::64 docs8.google.com
+2404:6800:8005::64 docs9.google.com
 2404:6800:8001::bd 0.docs.google.com
 2404:6800:8001::bd 1.docs.google.com
 2404:6800:8001::bd 2.docs.google.com
@@ -446,32 +446,32 @@
 2404:6800:8001::bd 15.docs.google.com
 2404:6800:8001::bd 16.docs.google.com
 #2404:6800:8001::bd *.docs.google.com #按需要同时打开的文档个数自行添加
-2404:6800:8001::bd browserchannel-docs.l.google.com 
+2404:6800:8001::bd browserchannel-docs.l.google.com
 
-2404:6800:8005::62 spreadsheet.google.com 
-2404:6800:8005::62 spreadsheets.google.com 
-2404:6800:8005::62 spreadsheets0.google.com 
+2404:6800:8005::62 spreadsheet.google.com
+2404:6800:8005::62 spreadsheets.google.com
+2404:6800:8005::62 spreadsheets0.google.com
 
-2404:6800:8005::62 spreadsheets1.google.com 
-2404:6800:8005::62 spreadsheets2.google.com 
+2404:6800:8005::62 spreadsheets1.google.com
+2404:6800:8005::62 spreadsheets2.google.com
 
 
-2404:6800:8005::62 spreadsheets3.google.com 
-2404:6800:8005::62 spreadsheets4.google.com 
-2404:6800:8005::62 spreadsheets5.google.com 
-2404:6800:8005::62 spreadsheets6.google.com 
-2404:6800:8005::62 spreadsheets7.google.com 
-2404:6800:8005::62 spreadsheets8.google.com 
-2404:6800:8005::62 spreadsheets9.google.com 
+2404:6800:8005::62 spreadsheets3.google.com
+2404:6800:8005::62 spreadsheets4.google.com
+2404:6800:8005::62 spreadsheets5.google.com
+2404:6800:8005::62 spreadsheets6.google.com
+2404:6800:8005::62 spreadsheets7.google.com
+2404:6800:8005::62 spreadsheets8.google.com
+2404:6800:8005::62 spreadsheets9.google.com
 2404:6800:8005::62 spreadsheets.l.google.com
 
-2404:6800:8005::62 spreadsheets-china.l.google.com 
+2404:6800:8005::62 spreadsheets-china.l.google.com
 
-2404:6800:8005::62 writely.google.com 
+2404:6800:8005::62 writely.google.com
 2404:6800:8005::62 writely.l.google.com
-2404:6800:8005::62 writely-com.l.google.com 
+2404:6800:8005::62 writely-com.l.google.com
 
-2404:6800:8005::62 writely-china.l.google.com 
+2404:6800:8005::62 writely-china.l.google.com
 2001:4860:4001:2::6 v1.nonxt1.googlevideo.com #视频文件在线播放
 2001:4860:4001:6::6 v1.nonxt2.googlevideo.com
 2001:4860:4001:3::6 v1.nonxt3.googlevideo.com
@@ -669,83 +669,89 @@
 
 
 
-#Reader            阅读器 
-2404:6800:8005::68 reader.google.com 
+#Reader            阅读器
+2404:6800:8005::68 reader.google.com
 2404:6800:8005::68 www2.l.google.com
 
 
 
 
-#Group             论坛 
-2404:6800:8005::62 groups.google.com 
-2404:6800:8005::62 groups.l.google.com 
-2404:6800:8005::89 *.googlegroups.com 
-2404:6800:8005::89 blob-s-docs.googlegroups.com 
+#Group             论坛
+2404:6800:8005::62 groups.google.com
+2404:6800:8005::62 groups.l.google.com
+2404:6800:8005::89 *.googlegroups.com
+2404:6800:8005::89 blob-s-docs.googlegroups.com
 
 
 
-#Scholar           学术搜索 
-2404:6800:8005::62 scholar.google.com 
-2404:6800:8005::62 scholar.l.google.com 
+#Scholar           学术搜索
+2404:6800:8005::62 scholar.google.com
+2404:6800:8005::62 scholar.l.google.com
 
 
 
-#Tools             工具 
-2404:6800:8005::62 tools.google.com 
-2404:6800:8005::62 tools.l.google.com 
+#Tools             工具
+2404:6800:8005::62 tools.google.com
+2404:6800:8005::62 tools.l.google.com
 
 
 
-#Code              代码 
-2404:6800:8005::64 code.google.com                    #主页 
-2404:6800:8005::64 code.l.google.com                  # 
-2404:6800:8005::52 *.googlecode.com                   # 
-2404:6800:8005::52 chromium.googlecode.com            # 
+#Code              代码
+2404:6800:8005::64 code.google.com
+2404:6800:8005::64 code.l.google.com
+2404:6800:8005::52 *.googlecode.com
 
-2404:6800:8005::52 earth-api-samples.googlecode.com 
-2404:6800:8005::52 gmaps-samples-flash.googlecode.com 
+2404:6800:8005::52 chromium.googlecode.com
 
-2404:6800:8005::52 google-code-feed-gadget.googlecode.com 
+2404:6800:8005::52 earth-api-samples.googlecode.com
+2404:6800:8005::52 gmaps-samples-flash.googlecode.com
+
+2404:6800:8005::52 google-code-feed-gadget.googlecode.com
 
 
 
 
-#Labs              实验室 
-2404:6800:8005::65 labs.google.com 
+#Sandbox           服务沙盒
+2404:6800:8005::51 sandbox.google.com
+
+
+
+#Labs              实验室
+2404:6800:8005::65 labs.google.com
 #2404:6800:8005::65 www3.l.google.com
 
-2404:6800:8005::62 www.googlelabs.com 
-2404:6800:8005::62 browsersize.googlelabs.com         #Browser Size 
-2404:6800:8005::62 citytours.googlelabs.com           #City Tours 
+2404:6800:8005::62 www.googlelabs.com
+2404:6800:8005::62 browsersize.googlelabs.com         #Browser Size
+2404:6800:8005::62 citytours.googlelabs.com           #City Tours
 2404:6800:8005::62 datawiki.googlelabs.com            #Google DataWiki
 
-2404:6800:8005::62 fastflip.googlelabs.com            #Fast Flip 
+2404:6800:8005::62 fastflip.googlelabs.com            #Fast Flip
 
 
-2404:6800:8005::62 followfinder.googlelabs.com        #Follow Finder 
-2404:6800:8005::62 earthengine.googlelabs.com         #Earth Engine 
-2404:6800:8005::62 image-swirl.googlelabs.com         #Image Swirl 
+2404:6800:8005::62 followfinder.googlelabs.com        #Follow Finder
+2404:6800:8005::62 earthengine.googlelabs.com         #Earth Engine
+2404:6800:8005::62 image-swirl.googlelabs.com         #Image Swirl
 2404:6800:8005::62 juliamap.googlelabs.com            #Julia Map
 
-2404:6800:8005::62 listen.googlelabs.com              #Google Listen 
+2404:6800:8005::62 listen.googlelabs.com              #Google Listen
 
-2404:6800:8005::62 livingstories.googlelabs.com       #Living Stories 
-2404:6800:8005::62 newstimeline.googlelabs.com        #Google News Timeline 
+2404:6800:8005::62 livingstories.googlelabs.com       #Living Stories
+2404:6800:8005::62 newstimeline.googlelabs.com        #Google News Timeline
 2404:6800:8005::62 pagespeed.googlelabs.com
 
 
 
-2404:6800:8005::62 relatedlinks.googlelabs.com        #Related Links 
+2404:6800:8005::62 relatedlinks.googlelabs.com        #Related Links
 
-2404:6800:8005::62 scriptconv.googlelabs.com          #Script Converter 
-2404:6800:8005::62 similar-images.googlelabs.com      #Similar Images 
-2404:6800:8005::62 storegadget.googlelabs.com         #Google Checkout Store Gadget 
+2404:6800:8005::62 scriptconv.googlelabs.com          #Script Converter
+2404:6800:8005::62 similar-images.googlelabs.com      #Similar Images
+2404:6800:8005::62 storegadget.googlelabs.com         #Google Checkout Store Gadget
 
-2404:6800:8005::62 tables.googlelabs.com              #Fusion Tables 
+2404:6800:8005::62 tables.googlelabs.com              #Fusion Tables
 
-2404:6800:8005::62 appspot.l.google.com 
+2404:6800:8005::62 appspot.l.google.com
 
-#Profiles          个人主页 
+#Profiles          个人主页
 2404:6800:8005::71 profiles.google.com
 
 2404:6800:8005::65 plusone.google.com
@@ -754,361 +760,359 @@
 
 
 
-#Knol              在线百科全书 
-2404:6800:8005::65 knol.google.com 
+#Knol              在线百科全书
+2404:6800:8005::65 knol.google.com
 #2404:6800:8005::65 www3.l.google.com
 
 
 
 
-#SketchUp          3D 建模工具 
-2404:6800:8005::62 sketchup.google.com 
-#2404:6800:8005::62 sketchup.l.google.com 
+#SketchUp          3D 建模工具
+2404:6800:8005::62 sketchup.google.com
+#2404:6800:8005::62 sketchup.l.google.com
 
 
 
-#Pack              软件精选 
-2404:6800:8005::68 pack.google.com 
-#2404:6800:8005::68 www2.l.google.com 
-2404:6800:8005::68 cache.pack.google.com 
-2401:3800:c001::68 pack.google.cn 
+#Pack              软件精选
+2404:6800:8005::68 pack.google.com
+#2404:6800:8005::68 www2.l.google.com
+2404:6800:8005::68 cache.pack.google.com
+2401:3800:c001::68 pack.google.cn
 
 
 
 
-#Blogger           博客服务 
-2404:6800:8005::bf www.blogger.com 
-2404:6800:8005::bf blogger.com 
-2404:6800:8005::bf buttons.blogger.com 
-2404:6800:8005::bf beta.blogger.com 
+#Blogger           博客服务
+2404:6800:8005::bf www.blogger.com
+2404:6800:8005::bf blogger.com
+2404:6800:8005::bf buttons.blogger.com
+2404:6800:8005::bf beta.blogger.com
 
-2404:6800:8005::bf draft.blogger.com                  #Blogger 测试区 
-2404:6800:8005::bf status.blogger.com                 #Blogger 状态 
-2404:6800:8005::bf help.blogger.com                   #支持中心 
-2404:6800:8005::bf buzz.blogger.com                   #Blogger Buzz博客（英文） 
+2404:6800:8005::bf draft.blogger.com                  #Blogger 测试区
+2404:6800:8005::bf status.blogger.com                 #Blogger 状态
+2404:6800:8005::bf help.blogger.com                   #支持中心
+2404:6800:8005::bf buzz.blogger.com                   #Blogger Buzz博客（英文）
 
-2404:6800:8005::bf photos1.blogger.com 
-2404:6800:8005::bf bp0.blogger.com 
+2404:6800:8005::bf photos1.blogger.com
+2404:6800:8005::bf bp0.blogger.com
 
 
 
-2404:6800:8005::bf bp1.blogger.com 
-2404:6800:8005::bf bp2.blogger.com 
+2404:6800:8005::bf bp1.blogger.com
+2404:6800:8005::bf bp2.blogger.com
 2404:6800:8005::bf bloggerphotos.l.google.com
 
-2404:6800:8005::62 blogger.google.com 
-2404:6800:8005::62 www2.blogger.com 
+2404:6800:8005::62 blogger.google.com
+2404:6800:8005::62 www2.blogger.com
 
-2404:6800:8005::62 blogger.l.google.com 
-2404:6800:8005::62 www.blogblog.com 
-2404:6800:8005::62 www1.blogblog.com 
-2404:6800:8005::62 www2.blogblog.com 
-2404:6800:8005::62 img.blogblog.com 
-2404:6800:8005::62 img1.blogblog.com 
-2404:6800:8005::62 img2.blogblog.com 
-2404:6800:8005::62 img.blshe.com 
-
-
+2404:6800:8005::62 blogger.l.google.com
+2404:6800:8005::62 www.blogblog.com
+2404:6800:8005::62 www1.blogblog.com
+2404:6800:8005::62 www2.blogblog.com
+2404:6800:8005::62 img.blogblog.com
+2404:6800:8005::62 img1.blogblog.com
+2404:6800:8005::62 img2.blogblog.com
+2404:6800:8005::62 img.blshe.com
 
 
 
 
 
-#Blogspot          博客服务 
-2404:6800:8005::62 www.blogspot.com                   #主页 
+
+
+#Blogspot          博客服务
+2404:6800:8005::62 www.blogspot.com
 #2404:6800:8005::62 blogger.l.google.com
 
-2404:6800:8005::62 blogsofnote.blogspot.com           #留言博客（英文版本） 
-2404:6800:8005::62 knownissues.blogspot.com           #已知问题 
-2404:6800:8005::62 1.bp.blogspot.com                  # 
-2404:6800:8005::62 2.bp.blogspot.com                  # 
-2404:6800:8005::62 3.bp.blogspot.com                  # 
-2404:6800:8005::62 4.bp.blogspot.com                  # 
-2404:6800:8005::62 bloggertemplatespreview.blogspot.com #模板编辑器的实时预览功能 
-#Google 官方博客群 
-2404:6800:8005::62 adwordsapi.blogspot.com 
-2404:6800:8005::62 adsense-zhs.blogspot.com 
-2404:6800:8005::62 android-developers.blogspot.com 
-2404:6800:8005::62 apacdeveloper.blogspot.com         #Google Asia Pacific Developer Blog 
-2404:6800:8005::62 booksearch.blogspot.com            #Inside Google Books 
-2404:6800:8005::62 chrome.blogspot.com 
-2404:6800:8005::62 doubleclickpublishersapi.blogspot.com 
-2404:6800:8005::62 emeadev.blogspot.com               #Google Europe, Middle East & Africa Developer Blog 
-2404:6800:8005::62 gearsblog.blogspot.com 
-2404:6800:8005::62 google-code-featured.blogspot.com  #Featured Projects on Google Code 
-2404:6800:8005::62 google-entertainment-it.blogspot.com 
-2404:6800:8005::62 google-opensource.blogspot.com 
-2404:6800:8005::62 googleajaxsearchapi.blogspot.com 
-2404:6800:8005::62 googleappengine.blogspot.com 
-2404:6800:8005::62 googleappsdeveloper.blogspot.com 
-2404:6800:8005::62 googleblog.blogspot.com            #Official Google Blog 
-2404:6800:8005::62 googlecheckout.blogspot.com 
+2404:6800:8005::62 blogsofnote.blogspot.com           #留言博客（英文版本）
+2404:6800:8005::62 knownissues.blogspot.com           #已知问题
+2404:6800:8005::62 1.bp.blogspot.com
+2404:6800:8005::62 2.bp.blogspot.com
+2404:6800:8005::62 3.bp.blogspot.com
+2404:6800:8005::62 4.bp.blogspot.com
+2404:6800:8005::62 bloggertemplatespreview.blogspot.com #模板编辑器的实时预览功能
+#Google 官方博客群
+2404:6800:8005::62 adwordsapi.blogspot.com
+2404:6800:8005::62 adsense-zhs.blogspot.com
+2404:6800:8005::62 android-developers.blogspot.com
+2404:6800:8005::62 apacdeveloper.blogspot.com         #Google Asia Pacific Developer Blog
+2404:6800:8005::62 booksearch.blogspot.com            #Inside Google Books
+2404:6800:8005::62 chrome.blogspot.com
+2404:6800:8005::62 doubleclickpublishersapi.blogspot.com
+2404:6800:8005::62 emeadev.blogspot.com               #Google Europe, Middle East & Africa Developer Blog
+2404:6800:8005::62 gearsblog.blogspot.com
+2404:6800:8005::62 google-code-featured.blogspot.com  #Featured Projects on Google Code
+2404:6800:8005::62 google-entertainment-it.blogspot.com
+2404:6800:8005::62 google-opensource.blogspot.com
+2404:6800:8005::62 googleajaxsearchapi.blogspot.com
+2404:6800:8005::62 googleappengine.blogspot.com
+2404:6800:8005::62 googleappsdeveloper.blogspot.com
+2404:6800:8005::62 googleblog.blogspot.com            #Official Google Blog
+2404:6800:8005::62 googlecheckout.blogspot.com
 2404:6800:8005::62 googlecheckoutapi.blogspot.com
 
-2404:6800:8005::62 googlechinablog.blogspot.com 
-2404:6800:8005::62 googlechromereleases.blogspot.com  #Google Chrome Releases 
-2404:6800:8005::62 googlecode.blogspot.com 
-2404:6800:8005::62 googlecustomsearch.blogspot.com    #Google Custom Search Blog 
-2404:6800:8005::62 googleenterprise.blogspot.com 
-2404:6800:8005::62 googlegeodevelopers.blogspot.com   #Google Geo Developers Blog 
-2404:6800:8005::62 googlemashupeditor.blogspot.com 
-2404:6800:8005::62 googlemobile.blogspot.com 
-2404:6800:8005::62 googleresearch.blogspot.com 
-2404:6800:8005::62 googletalk.blogspot.com 
+2404:6800:8005::62 googlechinablog.blogspot.com
+2404:6800:8005::62 googlechromereleases.blogspot.com  #Google Chrome Releases
+2404:6800:8005::62 googlecode.blogspot.com
+2404:6800:8005::62 googlecustomsearch.blogspot.com    #Google Custom Search Blog
+2404:6800:8005::62 googleenterprise.blogspot.com
+2404:6800:8005::62 googlegeodevelopers.blogspot.com   #Google Geo Developers Blog
+2404:6800:8005::62 googlemashupeditor.blogspot.com
+2404:6800:8005::62 googlemobile.blogspot.com
+2404:6800:8005::62 googleresearch.blogspot.com
+2404:6800:8005::62 googletalk.blogspot.com
 2404:6800:8005::62 googlewebmaster-cn.blogspot.com
 
 2404:6800:8005::62 googlewebmastercentral.blogspot.com
 
-2404:6800:8005::62 googlewebtoolkit.blogspot.com 
-2404:6800:8005::62 golangblog.blogspot.com 
-2404:6800:8005::62 gmailblog.blogspot.com 
-2404:6800:8005::62 igoogledeveloper.blogspot.com      #iGoogle Developer Blog 
+2404:6800:8005::62 googlewebtoolkit.blogspot.com
+2404:6800:8005::62 golangblog.blogspot.com
+2404:6800:8005::62 gmailblog.blogspot.com
+2404:6800:8005::62 igoogledeveloper.blogspot.com      #iGoogle Developer Blog
 2404:6800:8005::62 webmproject.blogspot.com
 
-2404:6800:8005::62 youtube-global.blogspot.com        #YouTube Blog 
-#2404:6800:8005::62 *.blogspot.com                     #可以添加你自己的博客地址到这里 
+2404:6800:8005::62 youtube-global.blogspot.com        #YouTube Blog
+#2404:6800:8005::62 *.blogspot.com                     #可以添加你自己的博客地址到这里
 
 
 
 
-#Checkout          买家 
-2404:6800:8005::73 checkout.google.com 
+#Checkout          买家
+2404:6800:8005::73 checkout.google.com
 #2404:6800:8005::73 checkout.l.google.com
 
 
 
 
-#Orkut             网络社区 
+#Orkut             网络社区
 
-2404:6800:8005::56 www.orkut.com 
-#2404:6800:8005::56 orkut-fe.l.google.com 
-2404:6800:8005::56 www.orkut.gmodules.com 
-#2404:6800:8005::56 *.a.orkut.gmodules.com 
-#2404:6800:8005::56 orkut-opensocial.l.google.com 
-2404:6800:8005::57 img1.orkut.com 
-2404:6800:8005::57 img2.orkut.com 
-2404:6800:8005::57 img3.orkut.com 
-2404:6800:8005::57 img4.orkut.com 
-2404:6800:8005::57 img5.orkut.com 
-2404:6800:8005::57 img6.orkut.com 
-2404:6800:8005::57 img7.orkut.com 
-2404:6800:8005::57 img8.orkut.com 
-2404:6800:8005::57 img9.orkut.com 
-#2404:6800:8005::57 orkut-images.l.google.com 
-2404:6800:8005::55 static1.orkut.com 
-2404:6800:8005::55 static2.orkut.com 
-2404:6800:8005::55 static3.orkut.com 
-2404:6800:8005::55 static4.orkut.com 
-#2404:6800:8005::55 orkut-static.l.google.com 
-2404:6800:8005::55 promote.orkut.com 
-#2404:6800:8005::55 orkut-promote.l.google.com 
+2404:6800:8005::56 www.orkut.com
+#2404:6800:8005::56 orkut-fe.l.google.com
+2404:6800:8005::56 www.orkut.gmodules.com
+#2404:6800:8005::56 *.a.orkut.gmodules.com
+#2404:6800:8005::56 orkut-opensocial.l.google.com
+2404:6800:8005::57 img1.orkut.com
+2404:6800:8005::57 img2.orkut.com
+2404:6800:8005::57 img3.orkut.com
+2404:6800:8005::57 img4.orkut.com
+2404:6800:8005::57 img5.orkut.com
+2404:6800:8005::57 img6.orkut.com
+2404:6800:8005::57 img7.orkut.com
+2404:6800:8005::57 img8.orkut.com
+2404:6800:8005::57 img9.orkut.com
+#2404:6800:8005::57 orkut-images.l.google.com
+2404:6800:8005::55 static1.orkut.com
+2404:6800:8005::55 static2.orkut.com
+2404:6800:8005::55 static3.orkut.com
+2404:6800:8005::55 static4.orkut.com
+#2404:6800:8005::55 orkut-static.l.google.com
+2404:6800:8005::55 promote.orkut.com
+#2404:6800:8005::55 orkut-promote.l.google.com
 2404:6800:8005::69 help.orkut.com
 
 2404:6800:8005::62 officialorkutblog.blogspot.com
 
-2404:6800:8003::79 blog.orkut.com 
+2404:6800:8003::79 blog.orkut.com
 2404:6800:8003::79 en.blog.orkut.com
 
 
 
 
 
-#Sites             协作平台 
-2404:6800:8005::65 sites.google.com 
+#Sites             协作平台
+2404:6800:8005::65 sites.google.com
 #2404:6800:8005::65 www3.l.google.com
 
 
-2404:6800:8005::62 gsamplemaps.googlepages.com 
+2404:6800:8005::62 gsamplemaps.googlepages.com
 
 
 
-#Google Apps       企业应用套件 
-2404:6800:8005::62 apps.google.com                    #主页 
+#Google Apps       企业应用套件
+2404:6800:8005::62 apps.google.com
 
 2404:6800:8003::79 ghs.google.com
 
-2404:6800:8003::79 ghs46.google.com              #GHS 双栈入口！ 
-2404:6800:8003::79 ghs.l.google.com 
+2404:6800:8003::79 ghs46.google.com              #GHS 双栈入口！
+2404:6800:8003::79 ghs.l.google.com
 2404:6800:8003::79 ghs46.l.google.com
 
-#2404:6800:8003::79 ghs.google.com                    #可以添加你 GApps 域名的博客地址 / GSites 地址到这里 
+#2404:6800:8003::79 ghs.google.com                    #可以添加你 GApps 域名的博客地址 / GSites 地址到这里
 
 
-#Mashups/App Engine   GAE 
+#Mashups/App Engine   GAE
 2404:6800:8005::67 googlemashups.com                  #Google Mashup Editor
 
-2404:6800:8005::68 www.googlemashups.com 
-2404:6800:8005::62 googlemashups.l.google.com 
-2404:6800:8005::63 *.googlemashups.com 
-2404:6800:8005::64 appengine.google.com               #主页 
+2404:6800:8005::68 www.googlemashups.com
+2404:6800:8005::62 googlemashups.l.google.com
+2404:6800:8005::63 *.googlemashups.com
+2404:6800:8005::64 appengine.google.com
 #2404:6800:8005::64 www3.l.google.com
 
-2404:6800:8005::62 appspot.l.google.com               # 
-2404:6800:8005::8d *.appspot.com 
+2404:6800:8005::62 appspot.l.google.com
+2404:6800:8005::8d *.appspot.com
 
-2404:6800:8005::8d productideas.appspot.com           #Google 汇问 
-2404:6800:8005::8d storegadgetwizard.appspot.com      #Google Checkout Store Gadget 
-2404:6800:8005::8d moderator.appspot.com              #Google Moderator 
+2404:6800:8005::8d productideas.appspot.com           #Google 汇问
+2404:6800:8005::8d storegadgetwizard.appspot.com      #Google Checkout Store Gadget
+2404:6800:8005::8d moderator.appspot.com              #Google Moderator
 
-2404:6800:8005::8d gv-gadget.appspot.com              #YouTube Gadget 
+2404:6800:8005::8d gv-gadget.appspot.com              #YouTube Gadget
 
-2404:6800:8005::8d haiticrisis.appspot.com            #Google Person Finder: Haiti Earthquake 
+2404:6800:8005::8d haiticrisis.appspot.com            #Google Person Finder: Haiti Earthquake
 2404:6800:8005::8d i18napis.appspot.com
 
 
 
 
 
-#Google APIs       开发接口服务 
-2404:6800:8005::62 chart.apis.google.com              #Google 图表 API 
-2404:6800:8005::5f *.googleapis.com 
-2404:6800:8005::5f translate.googleapis.com           #Google 翻译 API 
-2404:6800:8005::5f ajax.googleapis.com                #Ajax API 
+#Google APIs       开发接口服务
+2404:6800:8005::62 chart.apis.google.com              #Google 图表 API
+2404:6800:8005::5f *.googleapis.com
+2404:6800:8005::5f translate.googleapis.com           #Google 翻译 API
+2404:6800:8005::5f ajax.googleapis.com                #Ajax API
 
-2404:6800:8005::5f googleapis-ajax.google.com 
-2404:6800:8005::5f googleapis-ajax.l.google.com 
-
-2404:6800:8005::5f commondatastorage.googleapis.com   # 
-
-
-#Google Hosted     托管服务 
+2404:6800:8005::5f googleapis-ajax.google.com
+2404:6800:8005::5f googleapis-ajax.l.google.com
+#Google Hosted     托管服务
+2404:6800:8005::84 commondatastorage.googleapis.com
+2404:6800:8005::84 googlehosted.l.googleusercontent.com
 
 
-2404:6800:8005::84 www.googlehosted.com 
-2404:6800:8005::84 googlehosted.l.google.com 
+2404:6800:8005::84 www.googlehosted.com
+2404:6800:8005::84 googlehosted.l.google.com
 
-2404:6800:8005::62 base.googlehosted.com 
-2404:6800:8005::62 base0.googlehosted.com 
-2404:6800:8005::62 base1.googlehosted.com 
-2404:6800:8005::62 base2.googlehosted.com 
-2404:6800:8005::62 base3.googlehosted.com 
-2404:6800:8005::62 base4.googlehosted.com 
-2404:6800:8005::62 base5.googlehosted.com 
+2404:6800:8005::62 base.googlehosted.com
+2404:6800:8005::62 base0.googlehosted.com
+2404:6800:8005::62 base1.googlehosted.com
+2404:6800:8005::62 base2.googlehosted.com
+2404:6800:8005::62 base3.googlehosted.com
+2404:6800:8005::62 base4.googlehosted.com
+2404:6800:8005::62 base5.googlehosted.com
 
 
 
-#GoogleUserContent 用户自定义的Google服务 
-2404:6800:8005::84 www.googleusercontent.com                          #
+#GoogleUserContent 用户自定义的Google服务
+2404:6800:8005::84 www.googleusercontent.com
 
-2404:6800:8005::84 clients1.googleusercontent.com                     # 
-2404:6800:8005::84 clients2.googleusercontent.com                     # 
-2404:6800:8005::84 webcache.googleusercontent.com                     #网页快照
+2404:6800:8005::84 clients1.googleusercontent.com
+2404:6800:8005::84 clients2.googleusercontent.com
+2404:6800:8005::84 webcache.googleusercontent.com #网页快照
 
-2404:6800:8005::84 lh0.googleusercontent.com 
-2404:6800:8005::84 lh1.googleusercontent.com 
-2404:6800:8005::84 lh2.googleusercontent.com 
-2404:6800:8005::84 lh3.googleusercontent.com 
-2404:6800:8005::84 lh4.googleusercontent.com 
-2404:6800:8005::84 lh5.googleusercontent.com 
-2404:6800:8005::84 lh6.googleusercontent.com 
+2404:6800:8005::84 lh0.googleusercontent.com
+2404:6800:8005::84 lh1.googleusercontent.com
+2404:6800:8005::84 lh2.googleusercontent.com
+2404:6800:8005::84 lh3.googleusercontent.com
+2404:6800:8005::84 lh4.googleusercontent.com
+2404:6800:8005::84 lh5.googleusercontent.com
+2404:6800:8005::84 lh6.googleusercontent.com
 #2404:6800:8005::62 lh3.googleusercontent.com                          #谷歌音乐（大陆）
 
-#2404:6800:8005::62 lh4.googleusercontent.com                          #谷歌音乐（大陆） 
-#2404:6800:8005::62 lh5.googleusercontent.com                          #谷歌音乐（大陆） 
-#2404:6800:8005::62 lh6.googleusercontent.com                          #谷歌音乐（大陆） 
-2404:6800:8005::84 s2.googleusercontent.com                           # 
-2404:6800:8005::84 themes.googleusercontent.com                       #开放字体库 
-2404:6800:8005::84 wave.googleusercontent.com                         #Wave 
-2404:6800:8005::84 blogger.googleusercontent.com                      #Blogger 
-2404:6800:8005::84 translate.googleusercontent.com                    #翻译
+#2404:6800:8005::62 lh4.googleusercontent.com                          #谷歌音乐（大陆）
+#2404:6800:8005::62 lh5.googleusercontent.com                          #谷歌音乐（大陆）
+#2404:6800:8005::62 lh6.googleusercontent.com                          #谷歌音乐（大陆）
+2404:6800:8005::84 s2.googleusercontent.com
+2404:6800:8005::84 themes.googleusercontent.com  #开放字体库
+2404:6800:8005::84 wave.googleusercontent.com    #Wave
+2404:6800:8005::84 blogger.googleusercontent.com #Blogger
+2404:6800:8005::84 translate.googleusercontent.com #翻译
 2404:6800:8005::84 static.googleusercontent.com
 
 2404:6800:8005::84 mail-attachment.googleusercontent.com
 
 2404:6800:8005::84 code-opensocial.googleusercontent.com
 
-2404:6800:8005::84 music-onebox.googleusercontent.com                 #音乐歌曲CD封面图片 
-2404:6800:8005::84 spreadsheets-opensocial.googleusercontent.com      #表格
+2404:6800:8005::84 music-onebox.googleusercontent.com                 #音乐歌曲CD封面图片
+2404:6800:8005::84 spreadsheets-opensocial.googleusercontent.com     #表格
 
-2404:6800:8005::84 www-opensocial.googleusercontent.com               # 
-2404:6800:8005::84 www-gm-opensocial.googleusercontent.com            #Gmail？
+2404:6800:8005::84 www-opensocial.googleusercontent.com
+2404:6800:8005::84 www-gm-opensocial.googleusercontent.com            #Gmail
 
-2404:6800:8005::84 www-opensocial-sandbox.googleusercontent.com       #SandBox 
-2404:6800:8005::84 www-open-opensocial.googleusercontent.com          # 
-2404:6800:8005::84 1-open-opensocial.googleusercontent.com            # 
-2404:6800:8005::84 www-focus-opensocial.googleusercontent.com         #缩略图 
+2404:6800:8005::84 www-opensocial-sandbox.googleusercontent.com       #SandBox
+2404:6800:8005::84 www-open-opensocial.googleusercontent.com
+2404:6800:8005::84 1-open-opensocial.googleusercontent.com
+2404:6800:8005::84 www-focus-opensocial.googleusercontent.com         #缩略图
 2404:6800:8005::84 images0-focus-opensocial.googleusercontent.com     #缩略图
 
 2404:6800:8005::84 images1-focus-opensocial.googleusercontent.com     #缩略图
 
-2404:6800:8005::84 images2-focus-opensocial.googleusercontent.com     #缩略图 
-2404:6800:8005::84 doc-00-7o-docs.googleusercontent.com               #
+2404:6800:8005::84 images2-focus-opensocial.googleusercontent.com     #缩略图
+2404:6800:8005::84 doc-00-7o-docs.googleusercontent.com
 
-2404:6800:8005::84 doc-08-7o-docs.googleusercontent.com               #
+2404:6800:8005::84 doc-08-7o-docs.googleusercontent.com
 
-2404:6800:8005::84 doc-10-7o-docs.googleusercontent.com               # 
-2404:6800:8005::84 doc-14-7o-docs.googleusercontent.com               #
+2404:6800:8005::84 doc-10-7o-docs.googleusercontent.com
+2404:6800:8005::84 doc-14-7o-docs.googleusercontent.com
 
-2404:6800:8005::84 doc-0c-7o-docs.googleusercontent.com               #
+2404:6800:8005::84 doc-0c-7o-docs.googleusercontent.com
 
-2404:6800:8005::84 doc-0g-7o-docs.googleusercontent.com               #
+2404:6800:8005::84 doc-0g-7o-docs.googleusercontent.com
 
-2404:6800:8005::84 doc-0s-7o-docs.googleusercontent.com               # 
-2404:6800:8005::84 images-onepick-opensocial.googleusercontent.com 
-2404:6800:8005::84 www-kix-opensocial.googleusercontent.com 
-2404:6800:8005::84 www-onepick-opensocial.googleusercontent.com 
-2404:6800:8005::84 www-focus-opensocial.googleusercontent.com         # 
-2404:6800:8005::84 0-focus-opensocial.googleusercontent.com           #
+2404:6800:8005::84 doc-0s-7o-docs.googleusercontent.com
+2404:6800:8005::84 images-onepick-opensocial.googleusercontent.com
+2404:6800:8005::84 www-kix-opensocial.googleusercontent.com
+2404:6800:8005::84 www-onepick-opensocial.googleusercontent.com
+2404:6800:8005::84 www-focus-opensocial.googleusercontent.com
+2404:6800:8005::84 0-focus-opensocial.googleusercontent.com
 
-2404:6800:8005::84 1-focus-opensocial.googleusercontent.com           #
+2404:6800:8005::84 1-focus-opensocial.googleusercontent.com
 
-2404:6800:8005::84 2-focus-opensocial.googleusercontent.com           #
+2404:6800:8005::84 2-focus-opensocial.googleusercontent.com
 
-2404:6800:8005::84 3-focus-opensocial.googleusercontent.com           #
+2404:6800:8005::84 3-focus-opensocial.googleusercontent.com
 
-2404:6800:8005::84 www-open-opensocial.googleusercontent.com          # 
-2404:6800:8005::84 0-open-opensocial.googleusercontent.com            #
+2404:6800:8005::84 www-open-opensocial.googleusercontent.com
+2404:6800:8005::84 0-open-opensocial.googleusercontent.com
 
-2404:6800:8005::84 1-open-opensocial.googleusercontent.com            #
+2404:6800:8005::84 1-open-opensocial.googleusercontent.com
 
-2404:6800:8005::84 2-open-opensocial.googleusercontent.com            #
+2404:6800:8005::84 2-open-opensocial.googleusercontent.com
 
-2404:6800:8005::84 3-open-opensocial.googleusercontent.com            # 
-2404:6800:8005::84 www-wave-opensocial.googleusercontent.com          #Wave 
-2404:6800:8005::84 0-wave-opensocial.googleusercontent.com            # 
-2404:6800:8005::84 1-wave-opensocial.googleusercontent.com            # 
-2404:6800:8005::84 2-wave-opensocial.googleusercontent.com            # 
-2404:6800:8005::84 3-wave-opensocial.googleusercontent.com            # 
-2404:6800:8005::84 4-wave-opensocial.googleusercontent.com            # 
-2404:6800:8005::84 5-wave-opensocial.googleusercontent.com            # 
-2404:6800:8005::84 6-wave-opensocial.googleusercontent.com            # 
-2404:6800:8005::84 7-wave-opensocial.googleusercontent.com            # 
-2404:6800:8005::84 8-wave-opensocial.googleusercontent.com            # 
-2404:6800:8005::84 9-wave-opensocial.googleusercontent.com            # 
-2404:6800:8005::84 10-wave-opensocial.googleusercontent.com           # 
-2404:6800:8005::84 11-wave-opensocial.googleusercontent.com           # 
-2404:6800:8005::84 12-wave-opensocial.googleusercontent.com           # 
-2404:6800:8005::84 13-wave-opensocial.googleusercontent.com           # 
-2404:6800:8005::84 14-wave-opensocial.googleusercontent.com           # 
-2404:6800:8005::84 15-wave-opensocial.googleusercontent.com           # 
-2404:6800:8005::84 16-wave-opensocial.googleusercontent.com           # 
-2404:6800:8005::84 17-wave-opensocial.googleusercontent.com           # 
-2404:6800:8005::84 18-wave-opensocial.googleusercontent.com           # 
-2404:6800:8005::84 19-wave-opensocial.googleusercontent.com           # 
-2404:6800:8005::84 20-wave-opensocial.googleusercontent.com           # 
-2404:6800:8005::84 21-wave-opensocial.googleusercontent.com           # 
-2404:6800:8005::84 22-wave-opensocial.googleusercontent.com           # 
-2404:6800:8005::84 23-wave-opensocial.googleusercontent.com           # 
-2404:6800:8005::84 24-wave-opensocial.googleusercontent.com           # 
-2404:6800:8005::84 25-wave-opensocial.googleusercontent.com           # 
-2404:6800:8005::84 26-wave-opensocial.googleusercontent.com           # 
-2404:6800:8005::84 27-wave-opensocial.googleusercontent.com           # 
-2404:6800:8005::84 28-wave-opensocial.googleusercontent.com           # 
-2404:6800:8005::84 29-wave-opensocial.googleusercontent.com           # 
-2404:6800:8005::84 30-wave-opensocial.googleusercontent.com           # 
-2404:6800:8005::84 31-wave-opensocial.googleusercontent.com           # 
-2404:6800:8005::84 32-wave-opensocial.googleusercontent.com           # 
-2404:6800:8005::84 33-wave-opensocial.googleusercontent.com           # 
-2404:6800:8005::84 34-wave-opensocial.googleusercontent.com           # 
-2404:6800:8005::84 35-wave-opensocial.googleusercontent.com           # 
-2404:6800:8005::84 36-wave-opensocial.googleusercontent.com           # 
-2404:6800:8005::84 37-wave-opensocial.googleusercontent.com           # 
-2404:6800:8005::84 38-wave-opensocial.googleusercontent.com           # 
-2404:6800:8005::84 39-wave-opensocial.googleusercontent.com           # 
-2404:6800:8005::84 40-wave-opensocial.googleusercontent.com           # 
-#2404:6800:8005::84 *-wave-opensocial.googleusercontent.com   #
+2404:6800:8005::84 3-open-opensocial.googleusercontent.com
+2404:6800:8005::84 www-wave-opensocial.googleusercontent.com #Wave
+2404:6800:8005::84 0-wave-opensocial.googleusercontent.com
+2404:6800:8005::84 1-wave-opensocial.googleusercontent.com
+2404:6800:8005::84 2-wave-opensocial.googleusercontent.com
+2404:6800:8005::84 3-wave-opensocial.googleusercontent.com
+2404:6800:8005::84 4-wave-opensocial.googleusercontent.com
+2404:6800:8005::84 5-wave-opensocial.googleusercontent.com
+2404:6800:8005::84 6-wave-opensocial.googleusercontent.com
+2404:6800:8005::84 7-wave-opensocial.googleusercontent.com
+2404:6800:8005::84 8-wave-opensocial.googleusercontent.com
+2404:6800:8005::84 9-wave-opensocial.googleusercontent.com
+2404:6800:8005::84 10-wave-opensocial.googleusercontent.com
+2404:6800:8005::84 11-wave-opensocial.googleusercontent.com
+2404:6800:8005::84 12-wave-opensocial.googleusercontent.com
+2404:6800:8005::84 13-wave-opensocial.googleusercontent.com
+2404:6800:8005::84 14-wave-opensocial.googleusercontent.com
+2404:6800:8005::84 15-wave-opensocial.googleusercontent.com
+2404:6800:8005::84 16-wave-opensocial.googleusercontent.com
+2404:6800:8005::84 17-wave-opensocial.googleusercontent.com
+2404:6800:8005::84 18-wave-opensocial.googleusercontent.com
+2404:6800:8005::84 19-wave-opensocial.googleusercontent.com
+2404:6800:8005::84 20-wave-opensocial.googleusercontent.com
+2404:6800:8005::84 21-wave-opensocial.googleusercontent.com
+2404:6800:8005::84 22-wave-opensocial.googleusercontent.com
+2404:6800:8005::84 23-wave-opensocial.googleusercontent.com
+2404:6800:8005::84 24-wave-opensocial.googleusercontent.com
+2404:6800:8005::84 25-wave-opensocial.googleusercontent.com
+2404:6800:8005::84 26-wave-opensocial.googleusercontent.com
+2404:6800:8005::84 27-wave-opensocial.googleusercontent.com
+2404:6800:8005::84 28-wave-opensocial.googleusercontent.com
+2404:6800:8005::84 29-wave-opensocial.googleusercontent.com
+2404:6800:8005::84 30-wave-opensocial.googleusercontent.com
+2404:6800:8005::84 31-wave-opensocial.googleusercontent.com
+2404:6800:8005::84 32-wave-opensocial.googleusercontent.com
+2404:6800:8005::84 33-wave-opensocial.googleusercontent.com
+2404:6800:8005::84 34-wave-opensocial.googleusercontent.com
+2404:6800:8005::84 35-wave-opensocial.googleusercontent.com
+2404:6800:8005::84 36-wave-opensocial.googleusercontent.com
+2404:6800:8005::84 37-wave-opensocial.googleusercontent.com
+2404:6800:8005::84 38-wave-opensocial.googleusercontent.com
+2404:6800:8005::84 39-wave-opensocial.googleusercontent.com
+2404:6800:8005::84 40-wave-opensocial.googleusercontent.com
+#2404:6800:8005::84 *-wave-opensocial.googleusercontent.com
 
-2404:6800:8005::84 la5dhjn62ripv179lf7outfl68h6dc3c-a-wave-opensocial.googleusercontent.com 
+2404:6800:8005::84 la5dhjn62ripv179lf7outfl68h6dc3c-a-wave-opensocial.googleusercontent.com
 2404:6800:8005::84 3hdrrlnlknhi77nrmsjnjr152ueo3soc-a-calendar-opensocial.googleusercontent.com
 
 2404:6800:8005::84 eds9earadhd329tuipi6kfc947ts928j-a-sites-opensocial.googleusercontent.com
@@ -1118,71 +1122,72 @@
 
 
 
-#Music Beta by Google  云音乐服务 
+#Music Beta by Google  云音乐服务
 2404:6800:8005::65 music.google.com
 
 
-2404:6800:8005::74 t.doc-0-0-sj.sj.googleusercontent.com #个人音乐库 
-2404:6800:8005::74 music-streaming.l.google.com 
+2404:6800:8005::74 t.doc-0-0-sj.sj.googleusercontent.com #个人音乐库
+2404:6800:8005::74 music-streaming.l.google.com
 2404:6800:8005::84 music.googleusercontent.com #音乐播放器 专辑封面 等
 
 
 
 
-#Chrome            谷歌浏览器 
+#Chrome            谷歌浏览器
 
-2404:6800:8005::64 chrome.google.com 
-2404:6800:8005::65 browsersync.google.com 
-2404:6800:8005::65 browsersync.l.google.com 
+2404:6800:8005::64 chrome.google.com
+2404:6800:8005::65 browsersync.google.com
+2404:6800:8005::65 browsersync.l.google.com
 
-2404:6800:8005::63 toolbarqueries.google.com          #PageRank 查询（工具栏显示） 
+2404:6800:8005::63 toolbarqueries.google.com          #PageRank 查询（工具栏显示）
 
 
-2404:6800:8005::63 toolbarqueries.clients.google.com 
-2404:6800:8005::63 toolbarqueries.l.google.com 
+2404:6800:8005::63 toolbarqueries.clients.google.com
+2404:6800:8005::63 toolbarqueries.l.google.com
 2404:6800:8003::79 chrome.angrybirds.com
 
 
 
 
 
-#Chromium          Chromium 项目 
-2404:6800:8005::65 chromium.org                       #跳转至 www 
+#Chromium          Chromium 项目
+2404:6800:8005::65 chromium.org #跳转
 
-2404:6800:8003::79 www.chromium.org 
-2404:6800:8003::79 dev.chromium.org 
+2404:6800:8003::79 www.chromium.org
+2404:6800:8003::79 dev.chromium.org
 
-2404:6800:8003::79 blog.chromium.org 
-#2404:6800:8005::62 build.chromium.org 
-
-
+2404:6800:8003::79 blog.chromium.org
+#2404:6800:8005::62 build.chromium.org
 
 
-#Chromium OS       Chromium 操作系统 
+
+
+#Chromium OS       Chromium 操作系统
 2404:6800:8003::79 goto.ext.google.com
 
-2404:6800:8005::8d welcome-cros.appspot.com           #Chromium 主菜单 
+2404:6800:8005::8d welcome-cros.appspot.com #原 Chromium 主菜单
 
 
 
 
-#SafeBrowing       安全浏览 
+#SafeBrowing       安全检测服务
 
-2404:6800:8005::62 sb.google.com                      #安全浏览检测 API 
+
+2404:6800:8005::62 sb.google.com                      #安全浏览检测 API
 2001:4860:8010::88 sb.l.google.com
 
-2404:6800:8005::62 sb-ssl.google.com 
+2404:6800:8005::62 sb-ssl.google.com
 
-2001:4860:8010::be sb-ssl.google.com 
-2001:4860:8010::5b sb-ssl.google.com 
-2001:4860:8010::5d sb-ssl.google.com 
-2001:4860:8010::88 sb-ssl.google.com 
+2001:4860:8010::be sb-ssl.google.com
+2001:4860:8010::5b sb-ssl.google.com
+2001:4860:8010::5d sb-ssl.google.com
+2001:4860:8010::88 sb-ssl.google.com
 
-2404:6800:8005::62 sb-ssl.l.google.com 
+2404:6800:8005::62 sb-ssl.l.google.com
 
-2404:6800:8005::62 safebrowsing.clients.google.com    #安全浏览警告页面 
+2404:6800:8005::62 safebrowsing.clients.google.com    #安全浏览警告页面
 
-2404:6800:8005::62 safebrowsing-cache.google.com      #安全浏览警告数据（分块加载） 
+2404:6800:8005::62 safebrowsing-cache.google.com      #安全浏览警告数据（分块加载）
 2001:4860:4001:402::17 safebrowsing.cache.l.google.com
 
 
@@ -1190,90 +1195,84 @@
 
 
 
-#Toolbar           工具栏 
+#Toolbar           工具栏
 
-2404:6800:8005::62 toolbar.google.com 
+2404:6800:8005::62 toolbar.google.com
 #2404:6800:8005::62 tools.l.google.com
 
-#2404:6800:8005::62 www.gmailnotifier.com              #Gmail Notifier 
 
 
-
-
-
-
-#Desktop           桌面 
-2404:6800:8005::62 desktop.google.com 
+#Desktop           桌面
+2404:6800:8005::62 desktop.google.com
 2404:6800:8005::62 desktop.l.google.com
 
 
 
-#Google Earth      Google地球 
-2404:6800:8005::65 earth.google.com 
+#Google Earth      Google地球
+2404:6800:8005::65 earth.google.com
+#2404:6800:8005::65 www3.l.google.com
+
+2404:6800:8005::8b auth.keyhole.com
+2404:6800:8005::8b geoauth.google.com
+
+
+
+#Google Mars       Google火星地图
+2404:6800:8005::65 mars.google.com
 #2404:6800:8005::65 www3.l.google.com
 
 
 
-#Google Mars       Google火星地图 
-2404:6800:8005::65 mars.google.com 
-#2404:6800:8005::65 www3.l.google.com
+
+
+#Google Store      Google商店（里面有很多谷歌自己的东西出售，像谷歌T恤、茶杯、小玩意等等）
+#2404:6800:8005::62 www.googlestore.com
+
+
+
+#Download          下载
+2404:6800:8005::5b dl.google.com
+2404:6800:8005::5d dl.l.google.com
+2404:6800:8005::88 dl-ssl.google.com
 
 
 
 
 
-#Google Store      Google商店（里面有很多谷歌自己的东西出售，像谷歌T恤、茶杯、小玩意等等） 
-#2404:6800:8005::62 www.googlestore.com 
+#Wave              波浪
+2404:6800:8005::76 wave.google.com
+2404:6800:8005::76 www4.l.google.com
+2404:6800:8005::76 wave0.google.com
+2404:6800:8005::76 wave1.google.com
+2404:6800:8005::62 googlewave.com
 
 
 
-#Download          下载 
-2404:6800:8005::5b dl.google.com 
-2404:6800:8005::5d dl.l.google.com 
-2404:6800:8005::88 dl-ssl.google.com 
+#WiFi
+2404:6800:8005::7b wifi.google.com
+2404:6800:8005::62 wifi.l.google.com
 
 
 
-#Sandbox           沙盒 
-2404:6800:8005::51 sandbox.google.com 
+#Google Talk/Chat   聊天
+
+#2404:6800:8005::7d talk.google.com
+#2404:6800:8005::7d talk.l.google.com
+#2404:6800:8005::62 default.talk.google.com
+
+2404:6800:8005::62 talkgadget.google.com
+#2404:6800:8005::62 rtmp0.google.com
+#2404:6800:8005::62 users.talk.google.com
 
 
-
-
-#Wave              波浪 
-2404:6800:8005::76 wave.google.com 
-2404:6800:8005::76 www4.l.google.com 
-2404:6800:8005::76 wave0.google.com 
-2404:6800:8005::76 wave1.google.com 
-2404:6800:8005::62 googlewave.com 
-
-
-
-#WiFi              
-2404:6800:8005::7b wifi.google.com 
-2404:6800:8005::62 wifi.l.google.com 
-
-
-
-#GTalk             聊天 
-
-#2404:6800:8005::7d talk.google.com 
-#2404:6800:8005::7d talk.l.google.com 
-#2404:6800:8005::62 default.talk.google.com 
-
-2404:6800:8005::62 talkgadget.google.com 
-#2404:6800:8005::62 rtmp0.google.com 
-#2404:6800:8005::62 users.talk.google.com 
-
-
-#Buzz 
+#Buzz
 2404:6800:8005::62 buzz.google.com
 
 
-#Answers/Guru/WenDa  问答社区（国际版已停止运营） 
-2404:6800:8005::66 answers.google.com 
-#2404:6800:8005::62 guru.google.com 
-2404:6800:8005::62 guru.google.co.th          #泰国 
+#Answers/Guru/WenDa  问答社区（国际版已停止运营）
+2404:6800:8005::66 answers.google.com
+#2404:6800:8005::62 guru.google.com
+2404:6800:8005::62 guru.google.co.th          #泰国
 2404:6800:8005::2e wenda.google.com.hk
 
 
@@ -1281,56 +1280,56 @@
 
 
 
-#Fusion            RSS 聚合指南 
-2404:6800:8005::62 fusion.google.com 
+#Fusion            RSS 聚合指南
+2404:6800:8005::62 fusion.google.com
 
-#iGoogle Modules   iGoogle 小工具 
+#iGoogle Modules   iGoogle 小工具
 
-2404:6800:8005::62 gmodules.com 
-2404:6800:8005::62 www.gmodules.com 
-2404:6800:8005::62 www.ig.gmodules.com 
-2404:6800:8005::62 ig.gmodules.com 
-2404:6800:8005::62 ads.gmodules.com 
-2404:6800:8005::62 p.gmodules.com 
-2404:6800:8005::62 1.ig.gmodules.com 
-2404:6800:8005::62 2.ig.gmodules.com 
-2404:6800:8005::62 3.ig.gmodules.com 
-2404:6800:8005::62 4.ig.gmodules.com 
-2404:6800:8005::62 5.ig.gmodules.com 
-2404:6800:8005::62 6.ig.gmodules.com 
-2404:6800:8005::62 maps.gmodules.com 
-2404:6800:8005::62 img0.gmodules.com 
-2404:6800:8005::62 img1.gmodules.com 
-2404:6800:8005::62 img2.gmodules.com 
-2404:6800:8005::62 img3.gmodules.com 
-2404:6800:8005::62 skins.gmodules.com 
-2404:6800:8005::62 friendconnect.gmodules.com 
-2404:6800:8005::62 mc8tdi0ripmbpds25eboaupdulritrp6.friendconnect.gmodules.com 
+2404:6800:8005::62 gmodules.com
+2404:6800:8005::62 www.gmodules.com
+2404:6800:8005::62 www.ig.gmodules.com
+2404:6800:8005::62 ig.gmodules.com
+2404:6800:8005::62 ads.gmodules.com
+2404:6800:8005::62 p.gmodules.com
+2404:6800:8005::62 1.ig.gmodules.com
+2404:6800:8005::62 2.ig.gmodules.com
+2404:6800:8005::62 3.ig.gmodules.com
+2404:6800:8005::62 4.ig.gmodules.com
+2404:6800:8005::62 5.ig.gmodules.com
+2404:6800:8005::62 6.ig.gmodules.com
+2404:6800:8005::62 maps.gmodules.com
+2404:6800:8005::62 img0.gmodules.com
+2404:6800:8005::62 img1.gmodules.com
+2404:6800:8005::62 img2.gmodules.com
+2404:6800:8005::62 img3.gmodules.com
+2404:6800:8005::62 skins.gmodules.com
+2404:6800:8005::62 friendconnect.gmodules.com
+2404:6800:8005::62 mc8tdi0ripmbpds25eboaupdulritrp6.friendconnect.gmodules.com
 
-2404:6800:8005::62 r1rk9np7bpcsfoeekl0khkd2juj27q3o.friendconnect.gmodules.com 
-2404:6800:8005::62 r1rk9np7bpcsfoeekl0khkd2juj27q3o.a.friendconnect.gmodules.com 
+2404:6800:8005::62 r1rk9np7bpcsfoeekl0khkd2juj27q3o.friendconnect.gmodules.com
+2404:6800:8005::62 r1rk9np7bpcsfoeekl0khkd2juj27q3o.a.friendconnect.gmodules.com
 
 
 
-#GStatic           Google 静态文件存储 
-2404:6800:8005::62 www.gstatic.com 
-2404:6800:8005::62 csi.gstatic.com 
-2404:6800:8005::62 maps.gstatic.com 
-2404:6800:8005::78 ssl.gstatic.com 
-2404:6800:8005::62 t0.gstatic.com 
-2404:6800:8005::62 t1.gstatic.com 
-2404:6800:8005::62 t2.gstatic.com 
-2404:6800:8005::62 t3.gstatic.com 
-#2404:6800:8005::62 t4.gstatic.com 
+#GStatic           Google 静态文件存储
+2404:6800:8005::62 www.gstatic.com
+2404:6800:8005::62 csi.gstatic.com
+2404:6800:8005::62 maps.gstatic.com
+2404:6800:8005::78 ssl.gstatic.com
+2404:6800:8005::62 t0.gstatic.com
+2404:6800:8005::62 t1.gstatic.com
+2404:6800:8005::62 t2.gstatic.com
+2404:6800:8005::62 t3.gstatic.com
+#2404:6800:8005::62 t4.gstatic.com
 
-2404:6800:8005::66 mt0.gstatic.com 
-2404:6800:8005::66 mt1.gstatic.com 
-2404:6800:8005::8b mt2.gstatic.com 
-2404:6800:8005::66 mt3.gstatic.com 
-2404:6800:8005::8b mt4.gstatic.com 
-2404:6800:8005::66 mt5.gstatic.com 
-2404:6800:8005::8b mt6.gstatic.com 
-2404:6800:8005::66 mt7.gstatic.com 
+2404:6800:8005::66 mt0.gstatic.com
+2404:6800:8005::66 mt1.gstatic.com
+2404:6800:8005::8b mt2.gstatic.com
+2404:6800:8005::66 mt3.gstatic.com
+2404:6800:8005::8b mt4.gstatic.com
+2404:6800:8005::66 mt5.gstatic.com
+2404:6800:8005::8b mt6.gstatic.com
+2404:6800:8005::66 mt7.gstatic.com
 
 2404:6800:8005::67 www.gstatic.cn
 
@@ -1338,42 +1337,43 @@
 
 
 
-##Google其他服务 
+##Google其他服务
 
 
 
-#YouTube 
+#YouTube
 
-2404:6800:8005::65 www.youtube.com 
+2404:6800:8005::65 www.youtube.com
 2404:6800:8005::65 www.youtube-nocookie.com
 
-#2404:6800:8005::65 youtube-ui.l.google.com 
-2404:6800:8005::64 youtube-ui-china.l.google.com 
+#2404:6800:8005::65 youtube-ui.l.google.com
+#2404:6800:8005::64 youtube-ui-china.l.google.com
+
 2404:6800:8005::64 m.youtube.com
 
-2404:6800:8005::64 tw.youtube.com 
+2404:6800:8005::64 tw.youtube.com
 #2404:6800:8005::64 youtube-ui.l.google.com
 
-2404:6800:8005::65 youtu.be 
-2404:6800:8005::64 gdata.youtube.com 
+2404:6800:8005::65 youtu.be
+2404:6800:8005::64 gdata.youtube.com
 2404:6800:8005::76 stage.gdata.youtube.com
 
-2404:6800:8005::64 help.youtube.com 
-2404:6800:8005::64 upload.youtube.com 
-2404:6800:8005::64 insight.youtube.com 
-2404:6800:8005::64 img.youtube.com 
-2404:6800:8005::64 s2.youtube.com 
-2404:6800:8005::64 youtube.com 
-2404:6800:8003::79 apiblog.youtube.com            #YouTube API 开发博客 
-2404:6800:8005::64 clients1.youtube.com 
-2001:4860:4001:402::15 static.cache.l.google.com 
-2404:6800:8005::76 ytimg.l.google.com 
-2404:6800:8005::76 i.ytimg.com 
-2404:6800:8005::76 i1.ytimg.com 
-2404:6800:8005::76 i2.ytimg.com 
-2404:6800:8005::76 i3.ytimg.com 
-2404:6800:8005::76 i4.ytimg.com 
-#2404:6800:8005::76 d.yimg.com 
+2404:6800:8005::64 help.youtube.com
+2404:6800:8005::64 upload.youtube.com
+2404:6800:8005::64 insight.youtube.com
+2404:6800:8005::64 img.youtube.com
+2404:6800:8005::64 s2.youtube.com
+2404:6800:8005::64 youtube.com
+2404:6800:8003::79 apiblog.youtube.com            #YouTube API 开发博客
+2404:6800:8005::64 clients1.youtube.com
+2001:4860:4001:402::15 static.cache.l.google.com
+2404:6800:8005::76 ytimg.l.google.com
+2404:6800:8005::76 i.ytimg.com
+2404:6800:8005::76 i1.ytimg.com
+2404:6800:8005::76 i2.ytimg.com
+2404:6800:8005::76 i3.ytimg.com
+2404:6800:8005::76 i4.ytimg.com
+#2404:6800:8005::76 d.yimg.com
 2404:6800:8005::76 s.ytimg.com
 2404:6800:8005::62 s.youtube.com
 
@@ -1761,644 +1761,644 @@
 2001:4860:4001:4::12 v24.nonxt5.c.youtube.com
 2001:4860:4001:7::12 v24.nonxt6.c.youtube.com
 2001:4860:4001:5::12 v24.nonxt7.c.youtube.com
-2001:4860:4001:1::12 v24.nonxt8.c.youtube.com 
+2001:4860:4001:1::12 v24.nonxt8.c.youtube.com
 
-2404:6800:4001::10 r1.kul01s01.c.youtube.com 
-2404:6800:4001::11 r2.kul01s01.c.youtube.com 
-2404:6800:4001::12 r3.kul01s01.c.youtube.com 
-2404:6800:4001::13 r4.kul01s01.c.youtube.com 
-2404:6800:4001::14 r5.kul01s01.c.youtube.com 
-2404:6800:4001::15 r6.kul01s01.c.youtube.com 
-2404:6800:4001::16 r7.kul01s01.c.youtube.com 
-2404:6800:4001::17 r8.kul01s01.c.youtube.com 
-2404:6800:4001::18 r9.kul01s01.c.youtube.com 
-2404:6800:4001::19 r10.kul01s01.c.youtube.com 
-2404:6800:4001::1a r11.kul01s01.c.youtube.com 
-2404:6800:4001::1b r12.kul01s01.c.youtube.com 
-2404:6800:4001::1c r13.kul01s01.c.youtube.com 
-2404:6800:4001::1d r14.kul01s01.c.youtube.com 
-2404:6800:4001::1e r15.kul01s01.c.youtube.com 
-2404:6800:4001::1f r16.kul01s01.c.youtube.com 
-2404:6800:4001::20 r17.kul01s01.c.youtube.com 
-2404:6800:4001::21 r18.kul01s01.c.youtube.com 
-2404:6800:4001::22 r19.kul01s01.c.youtube.com 
-2404:6800:4001::23 r20.kul01s01.c.youtube.com 
-2404:6800:4001::24 r21.kul01s01.c.youtube.com 
-2404:6800:4001::25 r22.kul01s01.c.youtube.com 
-2404:6800:4001::26 r23.kul01s01.c.youtube.com 
-2404:6800:4001::27 r24.kul01s01.c.youtube.com 
+2404:6800:4001::10 r1.kul01s01.c.youtube.com
+2404:6800:4001::11 r2.kul01s01.c.youtube.com
+2404:6800:4001::12 r3.kul01s01.c.youtube.com
+2404:6800:4001::13 r4.kul01s01.c.youtube.com
+2404:6800:4001::14 r5.kul01s01.c.youtube.com
+2404:6800:4001::15 r6.kul01s01.c.youtube.com
+2404:6800:4001::16 r7.kul01s01.c.youtube.com
+2404:6800:4001::17 r8.kul01s01.c.youtube.com
+2404:6800:4001::18 r9.kul01s01.c.youtube.com
+2404:6800:4001::19 r10.kul01s01.c.youtube.com
+2404:6800:4001::1a r11.kul01s01.c.youtube.com
+2404:6800:4001::1b r12.kul01s01.c.youtube.com
+2404:6800:4001::1c r13.kul01s01.c.youtube.com
+2404:6800:4001::1d r14.kul01s01.c.youtube.com
+2404:6800:4001::1e r15.kul01s01.c.youtube.com
+2404:6800:4001::1f r16.kul01s01.c.youtube.com
+2404:6800:4001::20 r17.kul01s01.c.youtube.com
+2404:6800:4001::21 r18.kul01s01.c.youtube.com
+2404:6800:4001::22 r19.kul01s01.c.youtube.com
+2404:6800:4001::23 r20.kul01s01.c.youtube.com
+2404:6800:4001::24 r21.kul01s01.c.youtube.com
+2404:6800:4001::25 r22.kul01s01.c.youtube.com
+2404:6800:4001::26 r23.kul01s01.c.youtube.com
+2404:6800:4001::27 r24.kul01s01.c.youtube.com
 
-2404:6800:4001:1::10 r1.kul01s02.c.youtube.com 
-2404:6800:4001:1::11 r2.kul01s02.c.youtube.com 
-2404:6800:4001:1::12 r3.kul01s02.c.youtube.com 
-2404:6800:4001:1::13 r4.kul01s02.c.youtube.com 
-2404:6800:4001:1::14 r5.kul01s02.c.youtube.com 
-2404:6800:4001:1::15 r6.kul01s02.c.youtube.com 
-2404:6800:4001:1::16 r7.kul01s02.c.youtube.com 
-2404:6800:4001:1::17 r8.kul01s02.c.youtube.com 
-2404:6800:4001:1::18 r9.kul01s02.c.youtube.com 
-2404:6800:4001:1::19 r10.kul01s02.c.youtube.com 
-2404:6800:4001:1::1a r11.kul01s02.c.youtube.com 
-2404:6800:4001:1::1b r12.kul01s02.c.youtube.com 
-2404:6800:4001:1::1c r13.kul01s02.c.youtube.com 
-2404:6800:4001:1::1d r14.kul01s02.c.youtube.com 
-2404:6800:4001:1::1e r15.kul01s02.c.youtube.com 
-2404:6800:4001:1::1f r16.kul01s02.c.youtube.com 
-2404:6800:4001:1::20 r17.kul01s02.c.youtube.com 
-2404:6800:4001:1::21 r18.kul01s02.c.youtube.com 
-2404:6800:4001:1::22 r19.kul01s02.c.youtube.com 
-2404:6800:4001:1::23 r20.kul01s02.c.youtube.com 
-2404:6800:4001:1::24 r21.kul01s02.c.youtube.com 
-2404:6800:4001:1::25 r22.kul01s02.c.youtube.com 
-2404:6800:4001:1::26 r23.kul01s02.c.youtube.com 
-2404:6800:4001:1::27 r24.kul01s02.c.youtube.com 
+2404:6800:4001:1::10 r1.kul01s02.c.youtube.com
+2404:6800:4001:1::11 r2.kul01s02.c.youtube.com
+2404:6800:4001:1::12 r3.kul01s02.c.youtube.com
+2404:6800:4001:1::13 r4.kul01s02.c.youtube.com
+2404:6800:4001:1::14 r5.kul01s02.c.youtube.com
+2404:6800:4001:1::15 r6.kul01s02.c.youtube.com
+2404:6800:4001:1::16 r7.kul01s02.c.youtube.com
+2404:6800:4001:1::17 r8.kul01s02.c.youtube.com
+2404:6800:4001:1::18 r9.kul01s02.c.youtube.com
+2404:6800:4001:1::19 r10.kul01s02.c.youtube.com
+2404:6800:4001:1::1a r11.kul01s02.c.youtube.com
+2404:6800:4001:1::1b r12.kul01s02.c.youtube.com
+2404:6800:4001:1::1c r13.kul01s02.c.youtube.com
+2404:6800:4001:1::1d r14.kul01s02.c.youtube.com
+2404:6800:4001:1::1e r15.kul01s02.c.youtube.com
+2404:6800:4001:1::1f r16.kul01s02.c.youtube.com
+2404:6800:4001:1::20 r17.kul01s02.c.youtube.com
+2404:6800:4001:1::21 r18.kul01s02.c.youtube.com
+2404:6800:4001:1::22 r19.kul01s02.c.youtube.com
+2404:6800:4001:1::23 r20.kul01s02.c.youtube.com
+2404:6800:4001:1::24 r21.kul01s02.c.youtube.com
+2404:6800:4001:1::25 r22.kul01s02.c.youtube.com
+2404:6800:4001:1::26 r23.kul01s02.c.youtube.com
+2404:6800:4001:1::27 r24.kul01s02.c.youtube.com
 
-2404:6800:4001::10 tc.v1.cache1.c.youtube.com 
-2404:6800:4001::10 tc.v1.cache2.c.youtube.com 
-2404:6800:4001::10 tc.v1.cache3.c.youtube.com 
-2404:6800:4001::10 tc.v1.cache4.c.youtube.com 
-2404:6800:4001:1::10 tc.v1.cache5.c.youtube.com 
-2404:6800:4001::10 tc.v1.cache6.c.youtube.com 
-2404:6800:4001::10 tc.v1.cache7.c.youtube.com 
-2404:6800:4001::10 tc.v1.cache8.c.youtube.com 
-2404:6800:4001:1::13 tc.v2.cache1.c.youtube.com 
-2404:6800:4001:1::13 tc.v2.cache2.c.youtube.com 
-2404:6800:4001::13 tc.v2.cache3.c.youtube.com 
-2404:6800:4001:1::13 tc.v2.cache4.c.youtube.com 
-2404:6800:4001::13 tc.v2.cache5.c.youtube.com 
-2404:6800:4001::13 tc.v2.cache6.c.youtube.com 
-2404:6800:4001::13 tc.v2.cache7.c.youtube.com 
-2404:6800:4001::13 tc.v2.cache8.c.youtube.com 
-2404:6800:4001::16 tc.v3.cache1.c.youtube.com 
-2404:6800:4001::16 tc.v3.cache2.c.youtube.com 
-2404:6800:4001::16 tc.v3.cache3.c.youtube.com 
-2404:6800:4001::16 tc.v3.cache4.c.youtube.com 
-2404:6800:4001::16 tc.v3.cache5.c.youtube.com 
-2404:6800:4001::16 tc.v3.cache6.c.youtube.com 
-2404:6800:4001:1::16 tc.v3.cache7.c.youtube.com 
-2404:6800:4001::16 tc.v3.cache8.c.youtube.com 
-2404:6800:4001::19 tc.v4.cache1.c.youtube.com 
-2404:6800:4001:1::19 tc.v4.cache2.c.youtube.com 
-2404:6800:4001::19 tc.v4.cache3.c.youtube.com 
-2404:6800:4001::19 tc.v4.cache4.c.youtube.com 
-2404:6800:4001::19 tc.v4.cache5.c.youtube.com 
-2404:6800:4001::19 tc.v4.cache6.c.youtube.com 
-2404:6800:4001::19 tc.v4.cache7.c.youtube.com 
-2404:6800:4001::19 tc.v4.cache8.c.youtube.com 
-2404:6800:4001::1c tc.v5.cache1.c.youtube.com 
-2404:6800:4001:1::1c tc.v5.cache2.c.youtube.com 
-2404:6800:4001::1c tc.v5.cache3.c.youtube.com 
-2404:6800:4001:1::1c tc.v5.cache4.c.youtube.com 
-2404:6800:4001::1c tc.v5.cache5.c.youtube.com 
-2404:6800:4001::1c tc.v5.cache6.c.youtube.com 
-2404:6800:4001::1c tc.v5.cache7.c.youtube.com 
-2404:6800:4001::1c tc.v5.cache8.c.youtube.com 
-2404:6800:4001::1f tc.v6.cache1.c.youtube.com 
-2404:6800:4001::1f tc.v6.cache2.c.youtube.com 
-2404:6800:4001::1f tc.v6.cache3.c.youtube.com 
-2404:6800:4001::1f tc.v6.cache4.c.youtube.com 
-2404:6800:4001::1f tc.v6.cache5.c.youtube.com 
-2404:6800:4001::1f tc.v6.cache6.c.youtube.com 
-2404:6800:4001::1f tc.v6.cache7.c.youtube.com 
-2404:6800:4001:1::1f tc.v6.cache8.c.youtube.com 
-2404:6800:4001::22 tc.v7.cache1.c.youtube.com 
-2404:6800:4001::22 tc.v7.cache2.c.youtube.com 
-2404:6800:4001::22 tc.v7.cache3.c.youtube.com 
-2404:6800:4001:1::22 tc.v7.cache4.c.youtube.com 
-2404:6800:4001::22 tc.v7.cache5.c.youtube.com 
-2404:6800:4001:1::22 tc.v7.cache6.c.youtube.com 
-2404:6800:4001::22 tc.v7.cache7.c.youtube.com 
-2404:6800:4001::22 tc.v7.cache8.c.youtube.com 
-2404:6800:4001::25 tc.v8.cache1.c.youtube.com 
-2404:6800:4001::25 tc.v8.cache2.c.youtube.com 
-2404:6800:4001:1::25 tc.v8.cache3.c.youtube.com 
-2404:6800:4001::25 tc.v8.cache4.c.youtube.com 
-2404:6800:4001:1::25 tc.v8.cache5.c.youtube.com 
-2404:6800:4001::25 tc.v8.cache6.c.youtube.com 
-2404:6800:4001::25 tc.v8.cache7.c.youtube.com 
-2404:6800:4001:1::25 tc.v8.cache8.c.youtube.com 
-2404:6800:4001::11 tc.v9.cache1.c.youtube.com 
-2404:6800:4001::11 tc.v9.cache2.c.youtube.com 
-2404:6800:4001::11 tc.v9.cache3.c.youtube.com 
-2404:6800:4001:1::11 tc.v9.cache4.c.youtube.com 
-2404:6800:4001:1::11 tc.v9.cache5.c.youtube.com 
-2404:6800:4001::11 tc.v9.cache6.c.youtube.com 
-2404:6800:4001::11 tc.v9.cache7.c.youtube.com 
-2404:6800:4001::11 tc.v9.cache8.c.youtube.com 
-2404:6800:4001::14 tc.v10.cache1.c.youtube.com 
-2404:6800:4001::14 tc.v10.cache2.c.youtube.com 
-2404:6800:4001::14 tc.v10.cache3.c.youtube.com 
-2404:6800:4001::14 tc.v10.cache4.c.youtube.com 
-2404:6800:4001::14 tc.v10.cache5.c.youtube.com 
-2404:6800:4001::14 tc.v10.cache6.c.youtube.com 
-2404:6800:4001:1::14 tc.v10.cache7.c.youtube.com 
-2404:6800:4001::14 tc.v10.cache8.c.youtube.com 
-2404:6800:4001::17 tc.v11.cache1.c.youtube.com 
-2404:6800:4001::17 tc.v11.cache2.c.youtube.com 
-2404:6800:4001::17 tc.v11.cache3.c.youtube.com 
-2404:6800:4001::17 tc.v11.cache4.c.youtube.com 
-2404:6800:4001::17 tc.v11.cache5.c.youtube.com 
-2404:6800:4001::17 tc.v11.cache6.c.youtube.com 
-2404:6800:4001::17 tc.v11.cache7.c.youtube.com 
-2404:6800:4001::17 tc.v11.cache8.c.youtube.com 
-2404:6800:4001::1a tc.v12.cache1.c.youtube.com 
-2404:6800:4001:1::1a tc.v12.cache2.c.youtube.com 
-2404:6800:4001::1a tc.v12.cache3.c.youtube.com 
-2404:6800:4001::1a tc.v12.cache4.c.youtube.com 
-2404:6800:4001::1a tc.v12.cache5.c.youtube.com 
-2404:6800:4001::1a tc.v12.cache6.c.youtube.com 
-2404:6800:4001::1a tc.v12.cache7.c.youtube.com 
-2404:6800:4001::1a tc.v12.cache8.c.youtube.com 
-2404:6800:4001::1d tc.v13.cache1.c.youtube.com 
-2404:6800:4001::1d tc.v13.cache2.c.youtube.com 
-2404:6800:4001::1d tc.v13.cache3.c.youtube.com 
-2404:6800:4001::1d tc.v13.cache4.c.youtube.com 
-2404:6800:4001:1::1d tc.v13.cache5.c.youtube.com 
-2404:6800:4001::1d tc.v13.cache6.c.youtube.com 
-2404:6800:4001::1d tc.v13.cache7.c.youtube.com 
-2404:6800:4001::1d tc.v13.cache8.c.youtube.com 
-2404:6800:4001::20 tc.v14.cache1.c.youtube.com 
-2404:6800:4001::20 tc.v14.cache2.c.youtube.com 
-2404:6800:4001::20 tc.v14.cache3.c.youtube.com 
-2404:6800:4001::20 tc.v14.cache4.c.youtube.com 
-2404:6800:4001::20 tc.v14.cache5.c.youtube.com 
-2404:6800:4001::20 tc.v14.cache6.c.youtube.com 
-2404:6800:4001::20 tc.v14.cache7.c.youtube.com 
-2404:6800:4001:1::20 tc.v14.cache8.c.youtube.com 
-2404:6800:4001::23 tc.v15.cache1.c.youtube.com 
-2404:6800:4001::23 tc.v15.cache2.c.youtube.com 
-2404:6800:4001::23 tc.v15.cache3.c.youtube.com 
-2404:6800:4001:1::23 tc.v15.cache4.c.youtube.com 
-2404:6800:4001::23 tc.v15.cache5.c.youtube.com 
-2404:6800:4001:1::23 tc.v15.cache6.c.youtube.com 
-2404:6800:4001::23 tc.v15.cache7.c.youtube.com 
-2404:6800:4001::23 tc.v15.cache8.c.youtube.com 
-2404:6800:4001::26 tc.v16.cache1.c.youtube.com 
-2404:6800:4001::26 tc.v16.cache2.c.youtube.com 
-2404:6800:4001:1::26 tc.v16.cache3.c.youtube.com 
-2404:6800:4001::26 tc.v16.cache4.c.youtube.com 
-2404:6800:4001::26 tc.v16.cache5.c.youtube.com 
-2404:6800:4001::26 tc.v16.cache6.c.youtube.com 
-2404:6800:4001::26 tc.v16.cache7.c.youtube.com 
-2404:6800:4001::26 tc.v16.cache8.c.youtube.com 
-2404:6800:4001::12 tc.v17.cache1.c.youtube.com 
-2404:6800:4001::12 tc.v17.cache2.c.youtube.com 
-2404:6800:4001::12 tc.v17.cache3.c.youtube.com 
-2404:6800:4001::12 tc.v17.cache4.c.youtube.com 
-2404:6800:4001::12 tc.v17.cache5.c.youtube.com 
-2404:6800:4001::12 tc.v17.cache6.c.youtube.com 
-2404:6800:4001::12 tc.v17.cache7.c.youtube.com 
-2404:6800:4001::12 tc.v17.cache8.c.youtube.com 
-2404:6800:4001:1::15 tc.v18.cache1.c.youtube.com 
-2404:6800:4001:1::15 tc.v18.cache2.c.youtube.com 
-2404:6800:4001::15 tc.v18.cache3.c.youtube.com 
-2404:6800:4001::15 tc.v18.cache4.c.youtube.com 
-2404:6800:4001::15 tc.v18.cache5.c.youtube.com 
-2404:6800:4001::15 tc.v18.cache6.c.youtube.com 
-2404:6800:4001:1::15 tc.v18.cache7.c.youtube.com 
-2404:6800:4001::15 tc.v18.cache8.c.youtube.com 
-2404:6800:4001:1::18 tc.v19.cache1.c.youtube.com 
-2404:6800:4001::18 tc.v19.cache2.c.youtube.com 
-2404:6800:4001:1::18 tc.v19.cache3.c.youtube.com 
-2404:6800:4001:1::18 tc.v19.cache4.c.youtube.com 
-2404:6800:4001::18 tc.v19.cache5.c.youtube.com 
-2404:6800:4001::18 tc.v19.cache6.c.youtube.com 
-2404:6800:4001::18 tc.v19.cache7.c.youtube.com 
-2404:6800:4001::18 tc.v19.cache8.c.youtube.com 
-2404:6800:4001::1b tc.v20.cache1.c.youtube.com 
-2404:6800:4001::1b tc.v20.cache2.c.youtube.com 
-2404:6800:4001::1b tc.v20.cache3.c.youtube.com 
-2404:6800:4001::1b tc.v20.cache4.c.youtube.com 
-2404:6800:4001:1::1b tc.v20.cache5.c.youtube.com 
-2404:6800:4001::1b tc.v20.cache6.c.youtube.com 
-2404:6800:4001::1b tc.v20.cache7.c.youtube.com 
-2404:6800:4001::1b tc.v20.cache8.c.youtube.com 
-2404:6800:4001::1e tc.v21.cache1.c.youtube.com 
-2404:6800:4001::1e tc.v21.cache2.c.youtube.com 
-2404:6800:4001:1::1e tc.v21.cache3.c.youtube.com 
-2404:6800:4001::1e tc.v21.cache4.c.youtube.com 
-2404:6800:4001::1e tc.v21.cache5.c.youtube.com 
-2404:6800:4001:1::1e tc.v21.cache6.c.youtube.com 
-2404:6800:4001::1e tc.v21.cache7.c.youtube.com 
-2404:6800:4001::1e tc.v21.cache8.c.youtube.com 
-2404:6800:4001::21 tc.v22.cache1.c.youtube.com 
-2404:6800:4001::21 tc.v22.cache2.c.youtube.com 
-2404:6800:4001::21 tc.v22.cache3.c.youtube.com 
-2404:6800:4001::21 tc.v22.cache4.c.youtube.com 
-2404:6800:4001:1::21 tc.v22.cache5.c.youtube.com 
-2404:6800:4001::21 tc.v22.cache6.c.youtube.com 
-2404:6800:4001::21 tc.v22.cache7.c.youtube.com 
-2404:6800:4001::21 tc.v22.cache8.c.youtube.com 
-2404:6800:4001:1::24 tc.v23.cache1.c.youtube.com 
-2404:6800:4001::24 tc.v23.cache2.c.youtube.com 
-2404:6800:4001::24 tc.v23.cache3.c.youtube.com 
-2404:6800:4001::24 tc.v23.cache4.c.youtube.com 
-2404:6800:4001::24 tc.v23.cache5.c.youtube.com 
-2404:6800:4001::24 tc.v23.cache6.c.youtube.com 
-2404:6800:4001::24 tc.v23.cache7.c.youtube.com 
-2404:6800:4001::24 tc.v23.cache8.c.youtube.com 
-2404:6800:4001::27 tc.v24.cache1.c.youtube.com 
-2404:6800:4001::27 tc.v24.cache2.c.youtube.com 
-2404:6800:4001::27 tc.v24.cache3.c.youtube.com 
-2404:6800:4001::27 tc.v24.cache4.c.youtube.com 
-2404:6800:4001:1::27 tc.v24.cache5.c.youtube.com 
-2404:6800:4001::27 tc.v24.cache6.c.youtube.com 
-2404:6800:4001::27 tc.v24.cache7.c.youtube.com 
-2404:6800:4001:1::27 tc.v24.cache8.c.youtube.com 
+2404:6800:4001::10 tc.v1.cache1.c.youtube.com
+2404:6800:4001::10 tc.v1.cache2.c.youtube.com
+2404:6800:4001::10 tc.v1.cache3.c.youtube.com
+2404:6800:4001::10 tc.v1.cache4.c.youtube.com
+2404:6800:4001:1::10 tc.v1.cache5.c.youtube.com
+2404:6800:4001::10 tc.v1.cache6.c.youtube.com
+2404:6800:4001::10 tc.v1.cache7.c.youtube.com
+2404:6800:4001::10 tc.v1.cache8.c.youtube.com
+2404:6800:4001:1::13 tc.v2.cache1.c.youtube.com
+2404:6800:4001:1::13 tc.v2.cache2.c.youtube.com
+2404:6800:4001::13 tc.v2.cache3.c.youtube.com
+2404:6800:4001:1::13 tc.v2.cache4.c.youtube.com
+2404:6800:4001::13 tc.v2.cache5.c.youtube.com
+2404:6800:4001::13 tc.v2.cache6.c.youtube.com
+2404:6800:4001::13 tc.v2.cache7.c.youtube.com
+2404:6800:4001::13 tc.v2.cache8.c.youtube.com
+2404:6800:4001::16 tc.v3.cache1.c.youtube.com
+2404:6800:4001::16 tc.v3.cache2.c.youtube.com
+2404:6800:4001::16 tc.v3.cache3.c.youtube.com
+2404:6800:4001::16 tc.v3.cache4.c.youtube.com
+2404:6800:4001::16 tc.v3.cache5.c.youtube.com
+2404:6800:4001::16 tc.v3.cache6.c.youtube.com
+2404:6800:4001:1::16 tc.v3.cache7.c.youtube.com
+2404:6800:4001::16 tc.v3.cache8.c.youtube.com
+2404:6800:4001::19 tc.v4.cache1.c.youtube.com
+2404:6800:4001:1::19 tc.v4.cache2.c.youtube.com
+2404:6800:4001::19 tc.v4.cache3.c.youtube.com
+2404:6800:4001::19 tc.v4.cache4.c.youtube.com
+2404:6800:4001::19 tc.v4.cache5.c.youtube.com
+2404:6800:4001::19 tc.v4.cache6.c.youtube.com
+2404:6800:4001::19 tc.v4.cache7.c.youtube.com
+2404:6800:4001::19 tc.v4.cache8.c.youtube.com
+2404:6800:4001::1c tc.v5.cache1.c.youtube.com
+2404:6800:4001:1::1c tc.v5.cache2.c.youtube.com
+2404:6800:4001::1c tc.v5.cache3.c.youtube.com
+2404:6800:4001:1::1c tc.v5.cache4.c.youtube.com
+2404:6800:4001::1c tc.v5.cache5.c.youtube.com
+2404:6800:4001::1c tc.v5.cache6.c.youtube.com
+2404:6800:4001::1c tc.v5.cache7.c.youtube.com
+2404:6800:4001::1c tc.v5.cache8.c.youtube.com
+2404:6800:4001::1f tc.v6.cache1.c.youtube.com
+2404:6800:4001::1f tc.v6.cache2.c.youtube.com
+2404:6800:4001::1f tc.v6.cache3.c.youtube.com
+2404:6800:4001::1f tc.v6.cache4.c.youtube.com
+2404:6800:4001::1f tc.v6.cache5.c.youtube.com
+2404:6800:4001::1f tc.v6.cache6.c.youtube.com
+2404:6800:4001::1f tc.v6.cache7.c.youtube.com
+2404:6800:4001:1::1f tc.v6.cache8.c.youtube.com
+2404:6800:4001::22 tc.v7.cache1.c.youtube.com
+2404:6800:4001::22 tc.v7.cache2.c.youtube.com
+2404:6800:4001::22 tc.v7.cache3.c.youtube.com
+2404:6800:4001:1::22 tc.v7.cache4.c.youtube.com
+2404:6800:4001::22 tc.v7.cache5.c.youtube.com
+2404:6800:4001:1::22 tc.v7.cache6.c.youtube.com
+2404:6800:4001::22 tc.v7.cache7.c.youtube.com
+2404:6800:4001::22 tc.v7.cache8.c.youtube.com
+2404:6800:4001::25 tc.v8.cache1.c.youtube.com
+2404:6800:4001::25 tc.v8.cache2.c.youtube.com
+2404:6800:4001:1::25 tc.v8.cache3.c.youtube.com
+2404:6800:4001::25 tc.v8.cache4.c.youtube.com
+2404:6800:4001:1::25 tc.v8.cache5.c.youtube.com
+2404:6800:4001::25 tc.v8.cache6.c.youtube.com
+2404:6800:4001::25 tc.v8.cache7.c.youtube.com
+2404:6800:4001:1::25 tc.v8.cache8.c.youtube.com
+2404:6800:4001::11 tc.v9.cache1.c.youtube.com
+2404:6800:4001::11 tc.v9.cache2.c.youtube.com
+2404:6800:4001::11 tc.v9.cache3.c.youtube.com
+2404:6800:4001:1::11 tc.v9.cache4.c.youtube.com
+2404:6800:4001:1::11 tc.v9.cache5.c.youtube.com
+2404:6800:4001::11 tc.v9.cache6.c.youtube.com
+2404:6800:4001::11 tc.v9.cache7.c.youtube.com
+2404:6800:4001::11 tc.v9.cache8.c.youtube.com
+2404:6800:4001::14 tc.v10.cache1.c.youtube.com
+2404:6800:4001::14 tc.v10.cache2.c.youtube.com
+2404:6800:4001::14 tc.v10.cache3.c.youtube.com
+2404:6800:4001::14 tc.v10.cache4.c.youtube.com
+2404:6800:4001::14 tc.v10.cache5.c.youtube.com
+2404:6800:4001::14 tc.v10.cache6.c.youtube.com
+2404:6800:4001:1::14 tc.v10.cache7.c.youtube.com
+2404:6800:4001::14 tc.v10.cache8.c.youtube.com
+2404:6800:4001::17 tc.v11.cache1.c.youtube.com
+2404:6800:4001::17 tc.v11.cache2.c.youtube.com
+2404:6800:4001::17 tc.v11.cache3.c.youtube.com
+2404:6800:4001::17 tc.v11.cache4.c.youtube.com
+2404:6800:4001::17 tc.v11.cache5.c.youtube.com
+2404:6800:4001::17 tc.v11.cache6.c.youtube.com
+2404:6800:4001::17 tc.v11.cache7.c.youtube.com
+2404:6800:4001::17 tc.v11.cache8.c.youtube.com
+2404:6800:4001::1a tc.v12.cache1.c.youtube.com
+2404:6800:4001:1::1a tc.v12.cache2.c.youtube.com
+2404:6800:4001::1a tc.v12.cache3.c.youtube.com
+2404:6800:4001::1a tc.v12.cache4.c.youtube.com
+2404:6800:4001::1a tc.v12.cache5.c.youtube.com
+2404:6800:4001::1a tc.v12.cache6.c.youtube.com
+2404:6800:4001::1a tc.v12.cache7.c.youtube.com
+2404:6800:4001::1a tc.v12.cache8.c.youtube.com
+2404:6800:4001::1d tc.v13.cache1.c.youtube.com
+2404:6800:4001::1d tc.v13.cache2.c.youtube.com
+2404:6800:4001::1d tc.v13.cache3.c.youtube.com
+2404:6800:4001::1d tc.v13.cache4.c.youtube.com
+2404:6800:4001:1::1d tc.v13.cache5.c.youtube.com
+2404:6800:4001::1d tc.v13.cache6.c.youtube.com
+2404:6800:4001::1d tc.v13.cache7.c.youtube.com
+2404:6800:4001::1d tc.v13.cache8.c.youtube.com
+2404:6800:4001::20 tc.v14.cache1.c.youtube.com
+2404:6800:4001::20 tc.v14.cache2.c.youtube.com
+2404:6800:4001::20 tc.v14.cache3.c.youtube.com
+2404:6800:4001::20 tc.v14.cache4.c.youtube.com
+2404:6800:4001::20 tc.v14.cache5.c.youtube.com
+2404:6800:4001::20 tc.v14.cache6.c.youtube.com
+2404:6800:4001::20 tc.v14.cache7.c.youtube.com
+2404:6800:4001:1::20 tc.v14.cache8.c.youtube.com
+2404:6800:4001::23 tc.v15.cache1.c.youtube.com
+2404:6800:4001::23 tc.v15.cache2.c.youtube.com
+2404:6800:4001::23 tc.v15.cache3.c.youtube.com
+2404:6800:4001:1::23 tc.v15.cache4.c.youtube.com
+2404:6800:4001::23 tc.v15.cache5.c.youtube.com
+2404:6800:4001:1::23 tc.v15.cache6.c.youtube.com
+2404:6800:4001::23 tc.v15.cache7.c.youtube.com
+2404:6800:4001::23 tc.v15.cache8.c.youtube.com
+2404:6800:4001::26 tc.v16.cache1.c.youtube.com
+2404:6800:4001::26 tc.v16.cache2.c.youtube.com
+2404:6800:4001:1::26 tc.v16.cache3.c.youtube.com
+2404:6800:4001::26 tc.v16.cache4.c.youtube.com
+2404:6800:4001::26 tc.v16.cache5.c.youtube.com
+2404:6800:4001::26 tc.v16.cache6.c.youtube.com
+2404:6800:4001::26 tc.v16.cache7.c.youtube.com
+2404:6800:4001::26 tc.v16.cache8.c.youtube.com
+2404:6800:4001::12 tc.v17.cache1.c.youtube.com
+2404:6800:4001::12 tc.v17.cache2.c.youtube.com
+2404:6800:4001::12 tc.v17.cache3.c.youtube.com
+2404:6800:4001::12 tc.v17.cache4.c.youtube.com
+2404:6800:4001::12 tc.v17.cache5.c.youtube.com
+2404:6800:4001::12 tc.v17.cache6.c.youtube.com
+2404:6800:4001::12 tc.v17.cache7.c.youtube.com
+2404:6800:4001::12 tc.v17.cache8.c.youtube.com
+2404:6800:4001:1::15 tc.v18.cache1.c.youtube.com
+2404:6800:4001:1::15 tc.v18.cache2.c.youtube.com
+2404:6800:4001::15 tc.v18.cache3.c.youtube.com
+2404:6800:4001::15 tc.v18.cache4.c.youtube.com
+2404:6800:4001::15 tc.v18.cache5.c.youtube.com
+2404:6800:4001::15 tc.v18.cache6.c.youtube.com
+2404:6800:4001:1::15 tc.v18.cache7.c.youtube.com
+2404:6800:4001::15 tc.v18.cache8.c.youtube.com
+2404:6800:4001:1::18 tc.v19.cache1.c.youtube.com
+2404:6800:4001::18 tc.v19.cache2.c.youtube.com
+2404:6800:4001:1::18 tc.v19.cache3.c.youtube.com
+2404:6800:4001:1::18 tc.v19.cache4.c.youtube.com
+2404:6800:4001::18 tc.v19.cache5.c.youtube.com
+2404:6800:4001::18 tc.v19.cache6.c.youtube.com
+2404:6800:4001::18 tc.v19.cache7.c.youtube.com
+2404:6800:4001::18 tc.v19.cache8.c.youtube.com
+2404:6800:4001::1b tc.v20.cache1.c.youtube.com
+2404:6800:4001::1b tc.v20.cache2.c.youtube.com
+2404:6800:4001::1b tc.v20.cache3.c.youtube.com
+2404:6800:4001::1b tc.v20.cache4.c.youtube.com
+2404:6800:4001:1::1b tc.v20.cache5.c.youtube.com
+2404:6800:4001::1b tc.v20.cache6.c.youtube.com
+2404:6800:4001::1b tc.v20.cache7.c.youtube.com
+2404:6800:4001::1b tc.v20.cache8.c.youtube.com
+2404:6800:4001::1e tc.v21.cache1.c.youtube.com
+2404:6800:4001::1e tc.v21.cache2.c.youtube.com
+2404:6800:4001:1::1e tc.v21.cache3.c.youtube.com
+2404:6800:4001::1e tc.v21.cache4.c.youtube.com
+2404:6800:4001::1e tc.v21.cache5.c.youtube.com
+2404:6800:4001:1::1e tc.v21.cache6.c.youtube.com
+2404:6800:4001::1e tc.v21.cache7.c.youtube.com
+2404:6800:4001::1e tc.v21.cache8.c.youtube.com
+2404:6800:4001::21 tc.v22.cache1.c.youtube.com
+2404:6800:4001::21 tc.v22.cache2.c.youtube.com
+2404:6800:4001::21 tc.v22.cache3.c.youtube.com
+2404:6800:4001::21 tc.v22.cache4.c.youtube.com
+2404:6800:4001:1::21 tc.v22.cache5.c.youtube.com
+2404:6800:4001::21 tc.v22.cache6.c.youtube.com
+2404:6800:4001::21 tc.v22.cache7.c.youtube.com
+2404:6800:4001::21 tc.v22.cache8.c.youtube.com
+2404:6800:4001:1::24 tc.v23.cache1.c.youtube.com
+2404:6800:4001::24 tc.v23.cache2.c.youtube.com
+2404:6800:4001::24 tc.v23.cache3.c.youtube.com
+2404:6800:4001::24 tc.v23.cache4.c.youtube.com
+2404:6800:4001::24 tc.v23.cache5.c.youtube.com
+2404:6800:4001::24 tc.v23.cache6.c.youtube.com
+2404:6800:4001::24 tc.v23.cache7.c.youtube.com
+2404:6800:4001::24 tc.v23.cache8.c.youtube.com
+2404:6800:4001::27 tc.v24.cache1.c.youtube.com
+2404:6800:4001::27 tc.v24.cache2.c.youtube.com
+2404:6800:4001::27 tc.v24.cache3.c.youtube.com
+2404:6800:4001::27 tc.v24.cache4.c.youtube.com
+2404:6800:4001:1::27 tc.v24.cache5.c.youtube.com
+2404:6800:4001::27 tc.v24.cache6.c.youtube.com
+2404:6800:4001::27 tc.v24.cache7.c.youtube.com
+2404:6800:4001:1::27 tc.v24.cache8.c.youtube.com
 
-2404:6800:4001::10 v1.cache1.c.youtube.com 
-2404:6800:4001::10 v1.cache2.c.youtube.com 
-2404:6800:4001::10 v1.cache3.c.youtube.com 
-2404:6800:4001::10 v1.cache4.c.youtube.com 
-2404:6800:4001:1::10 v1.cache5.c.youtube.com 
-2404:6800:4001::10 v1.cache6.c.youtube.com 
-2404:6800:4001::10 v1.cache7.c.youtube.com 
-2404:6800:4001::10 v1.cache8.c.youtube.com 
-2404:6800:4001:1::13 v2.cache1.c.youtube.com 
-2404:6800:4001:1::13 v2.cache2.c.youtube.com 
-2404:6800:4001::13 v2.cache3.c.youtube.com 
-2404:6800:4001:1::13 v2.cache4.c.youtube.com 
-2404:6800:4001::13 v2.cache5.c.youtube.com 
-2404:6800:4001::13 v2.cache6.c.youtube.com 
-2404:6800:4001::13 v2.cache7.c.youtube.com 
-2404:6800:4001::13 v2.cache8.c.youtube.com 
-2404:6800:4001::16 v3.cache1.c.youtube.com 
-2404:6800:4001::16 v3.cache2.c.youtube.com 
-2404:6800:4001::16 v3.cache3.c.youtube.com 
-2404:6800:4001::16 v3.cache4.c.youtube.com 
-2404:6800:4001::16 v3.cache5.c.youtube.com 
-2404:6800:4001::16 v3.cache6.c.youtube.com 
-2404:6800:4001:1::16 v3.cache7.c.youtube.com 
-2404:6800:4001::16 v3.cache8.c.youtube.com 
-2404:6800:4001::19 v4.cache1.c.youtube.com 
-2404:6800:4001:1::19 v4.cache2.c.youtube.com 
-2404:6800:4001::19 v4.cache3.c.youtube.com 
-2404:6800:4001::19 v4.cache4.c.youtube.com 
-2404:6800:4001::19 v4.cache5.c.youtube.com 
-2404:6800:4001::19 v4.cache6.c.youtube.com 
-2404:6800:4001::19 v4.cache7.c.youtube.com 
-2404:6800:4001::19 v4.cache8.c.youtube.com 
-2404:6800:4001::1c v5.cache1.c.youtube.com 
-2404:6800:4001:1::1c v5.cache2.c.youtube.com 
-2404:6800:4001::1c v5.cache3.c.youtube.com 
-2404:6800:4001:1::1c v5.cache4.c.youtube.com 
-2404:6800:4001::1c v5.cache5.c.youtube.com 
-2404:6800:4001::1c v5.cache6.c.youtube.com 
-2404:6800:4001::1c v5.cache7.c.youtube.com 
-2404:6800:4001::1c v5.cache8.c.youtube.com 
-2404:6800:4001::1f v6.cache1.c.youtube.com 
-2404:6800:4001::1f v6.cache2.c.youtube.com 
-2404:6800:4001::1f v6.cache3.c.youtube.com 
-2404:6800:4001::1f v6.cache4.c.youtube.com 
-2404:6800:4001::1f v6.cache5.c.youtube.com 
-2404:6800:4001::1f v6.cache6.c.youtube.com 
-2404:6800:4001::1f v6.cache7.c.youtube.com 
-2404:6800:4001:1::1f v6.cache8.c.youtube.com 
-2404:6800:4001::22 v7.cache1.c.youtube.com 
-2404:6800:4001::22 v7.cache2.c.youtube.com 
-2404:6800:4001::22 v7.cache3.c.youtube.com 
-2404:6800:4001:1::22 v7.cache4.c.youtube.com 
-2404:6800:4001::22 v7.cache5.c.youtube.com 
-2404:6800:4001:1::22 v7.cache6.c.youtube.com 
-2404:6800:4001::22 v7.cache7.c.youtube.com 
-2404:6800:4001::22 v7.cache8.c.youtube.com 
-2404:6800:4001::25 v8.cache1.c.youtube.com 
-2404:6800:4001::25 v8.cache2.c.youtube.com 
-2404:6800:4001:1::25 v8.cache3.c.youtube.com 
-2404:6800:4001::25 v8.cache4.c.youtube.com 
-2404:6800:4001:1::25 v8.cache5.c.youtube.com 
-2404:6800:4001::25 v8.cache6.c.youtube.com 
-2404:6800:4001::25 v8.cache7.c.youtube.com 
-2404:6800:4001:1::25 v8.cache8.c.youtube.com 
-2404:6800:4001::11 v9.cache1.c.youtube.com 
-2404:6800:4001::11 v9.cache2.c.youtube.com 
-2404:6800:4001::11 v9.cache3.c.youtube.com 
-2404:6800:4001:1::11 v9.cache4.c.youtube.com 
-2404:6800:4001:1::11 v9.cache5.c.youtube.com 
-2404:6800:4001::11 v9.cache6.c.youtube.com 
-2404:6800:4001::11 v9.cache7.c.youtube.com 
-2404:6800:4001::11 v9.cache8.c.youtube.com 
-2404:6800:4001::14 v10.cache1.c.youtube.com 
-2404:6800:4001::14 v10.cache2.c.youtube.com 
-2404:6800:4001::14 v10.cache3.c.youtube.com 
-2404:6800:4001::14 v10.cache4.c.youtube.com 
-2404:6800:4001::14 v10.cache5.c.youtube.com 
-2404:6800:4001::14 v10.cache6.c.youtube.com 
-2404:6800:4001:1::14 v10.cache7.c.youtube.com 
-2404:6800:4001::14 v10.cache8.c.youtube.com 
-2404:6800:4001::17 v11.cache1.c.youtube.com 
-2404:6800:4001::17 v11.cache2.c.youtube.com 
-2404:6800:4001::17 v11.cache3.c.youtube.com 
-2404:6800:4001::17 v11.cache4.c.youtube.com 
-2404:6800:4001::17 v11.cache5.c.youtube.com 
-2404:6800:4001::17 v11.cache6.c.youtube.com 
-2404:6800:4001::17 v11.cache7.c.youtube.com 
-2404:6800:4001::17 v11.cache8.c.youtube.com 
-2404:6800:4001::1a v12.cache1.c.youtube.com 
-2404:6800:4001:1::1a v12.cache2.c.youtube.com 
-2404:6800:4001::1a v12.cache3.c.youtube.com 
-2404:6800:4001::1a v12.cache4.c.youtube.com 
-2404:6800:4001::1a v12.cache5.c.youtube.com 
-2404:6800:4001::1a v12.cache6.c.youtube.com 
-2404:6800:4001::1a v12.cache7.c.youtube.com 
-2404:6800:4001::1a v12.cache8.c.youtube.com 
-2404:6800:4001::1d v13.cache1.c.youtube.com 
-2404:6800:4001::1d v13.cache2.c.youtube.com 
-2404:6800:4001::1d v13.cache3.c.youtube.com 
-2404:6800:4001::1d v13.cache4.c.youtube.com 
-2404:6800:4001:1::1d v13.cache5.c.youtube.com 
-2404:6800:4001::1d v13.cache6.c.youtube.com 
-2404:6800:4001::1d v13.cache7.c.youtube.com 
-2404:6800:4001::1d v13.cache8.c.youtube.com 
-2404:6800:4001::20 v14.cache1.c.youtube.com 
-2404:6800:4001::20 v14.cache2.c.youtube.com 
-2404:6800:4001::20 v14.cache3.c.youtube.com 
-2404:6800:4001::20 v14.cache4.c.youtube.com 
-2404:6800:4001::20 v14.cache5.c.youtube.com 
-2404:6800:4001::20 v14.cache6.c.youtube.com 
-2404:6800:4001::20 v14.cache7.c.youtube.com 
-2404:6800:4001:1::20 v14.cache8.c.youtube.com 
-2404:6800:4001::23 v15.cache1.c.youtube.com 
-2404:6800:4001::23 v15.cache2.c.youtube.com 
-2404:6800:4001::23 v15.cache3.c.youtube.com 
-2404:6800:4001:1::23 v15.cache4.c.youtube.com 
-2404:6800:4001::23 v15.cache5.c.youtube.com 
-2404:6800:4001:1::23 v15.cache6.c.youtube.com 
-2404:6800:4001::23 v15.cache7.c.youtube.com 
-2404:6800:4001::23 v15.cache8.c.youtube.com 
-2404:6800:4001::26 v16.cache1.c.youtube.com 
-2404:6800:4001::26 v16.cache2.c.youtube.com 
-2404:6800:4001:1::26 v16.cache3.c.youtube.com 
-2404:6800:4001::26 v16.cache4.c.youtube.com 
-2404:6800:4001::26 v16.cache5.c.youtube.com 
-2404:6800:4001::26 v16.cache6.c.youtube.com 
-2404:6800:4001::26 v16.cache7.c.youtube.com 
-2404:6800:4001::26 v16.cache8.c.youtube.com 
-2404:6800:4001::12 v17.cache1.c.youtube.com 
-2404:6800:4001::12 v17.cache2.c.youtube.com 
-2404:6800:4001::12 v17.cache3.c.youtube.com 
-2404:6800:4001::12 v17.cache4.c.youtube.com 
-2404:6800:4001::12 v17.cache5.c.youtube.com 
-2404:6800:4001::12 v17.cache6.c.youtube.com 
-2404:6800:4001::12 v17.cache7.c.youtube.com 
-2404:6800:4001::12 v17.cache8.c.youtube.com 
-2404:6800:4001:1::15 v18.cache1.c.youtube.com 
-2404:6800:4001:1::15 v18.cache2.c.youtube.com 
-2404:6800:4001::15 v18.cache3.c.youtube.com 
-2404:6800:4001::15 v18.cache4.c.youtube.com 
-2404:6800:4001::15 v18.cache5.c.youtube.com 
-2404:6800:4001::15 v18.cache6.c.youtube.com 
-2404:6800:4001:1::15 v18.cache7.c.youtube.com 
-2404:6800:4001::15 v18.cache8.c.youtube.com 
-2404:6800:4001:1::18 v19.cache1.c.youtube.com 
-2404:6800:4001::18 v19.cache2.c.youtube.com 
-2404:6800:4001:1::18 v19.cache3.c.youtube.com 
-2404:6800:4001:1::18 v19.cache4.c.youtube.com 
-2404:6800:4001::18 v19.cache5.c.youtube.com 
-2404:6800:4001::18 v19.cache6.c.youtube.com 
-2404:6800:4001::18 v19.cache7.c.youtube.com 
-2404:6800:4001::18 v19.cache8.c.youtube.com 
-2404:6800:4001::1b v20.cache1.c.youtube.com 
-2404:6800:4001::1b v20.cache2.c.youtube.com 
-2404:6800:4001::1b v20.cache3.c.youtube.com 
-2404:6800:4001::1b v20.cache4.c.youtube.com 
-2404:6800:4001:1::1b v20.cache5.c.youtube.com 
-2404:6800:4001::1b v20.cache6.c.youtube.com 
-2404:6800:4001::1b v20.cache7.c.youtube.com 
-2404:6800:4001::1b v20.cache8.c.youtube.com 
-2404:6800:4001::1e v21.cache1.c.youtube.com 
-2404:6800:4001::1e v21.cache2.c.youtube.com 
-2404:6800:4001:1::1e v21.cache3.c.youtube.com 
-2404:6800:4001::1e v21.cache4.c.youtube.com 
-2404:6800:4001::1e v21.cache5.c.youtube.com 
-2404:6800:4001:1::1e v21.cache6.c.youtube.com 
-2404:6800:4001::1e v21.cache7.c.youtube.com 
-2404:6800:4001::1e v21.cache8.c.youtube.com 
-2404:6800:4001::21 v22.cache1.c.youtube.com 
-2404:6800:4001::21 v22.cache2.c.youtube.com 
-2404:6800:4001::21 v22.cache3.c.youtube.com 
-2404:6800:4001::21 v22.cache4.c.youtube.com 
-2404:6800:4001:1::21 v22.cache5.c.youtube.com 
-2404:6800:4001::21 v22.cache6.c.youtube.com 
-2404:6800:4001::21 v22.cache7.c.youtube.com 
-2404:6800:4001::21 v22.cache8.c.youtube.com 
-2404:6800:4001:1::24 v23.cache1.c.youtube.com 
-2404:6800:4001::24 v23.cache2.c.youtube.com 
-2404:6800:4001::24 v23.cache3.c.youtube.com 
-2404:6800:4001::24 v23.cache4.c.youtube.com 
-2404:6800:4001::24 v23.cache5.c.youtube.com 
-2404:6800:4001::24 v23.cache6.c.youtube.com 
-2404:6800:4001::24 v23.cache7.c.youtube.com 
-2404:6800:4001::24 v23.cache8.c.youtube.com 
-2404:6800:4001::27 v24.cache1.c.youtube.com 
-2404:6800:4001::27 v24.cache2.c.youtube.com 
-2404:6800:4001::27 v24.cache3.c.youtube.com 
-2404:6800:4001::27 v24.cache4.c.youtube.com 
-2404:6800:4001:1::27 v24.cache5.c.youtube.com 
-2404:6800:4001::27 v24.cache6.c.youtube.com 
-2404:6800:4001::27 v24.cache7.c.youtube.com 
-2404:6800:4001:1::27 v24.cache8.c.youtube.com 
+2404:6800:4001::10 v1.cache1.c.youtube.com
+2404:6800:4001::10 v1.cache2.c.youtube.com
+2404:6800:4001::10 v1.cache3.c.youtube.com
+2404:6800:4001::10 v1.cache4.c.youtube.com
+2404:6800:4001:1::10 v1.cache5.c.youtube.com
+2404:6800:4001::10 v1.cache6.c.youtube.com
+2404:6800:4001::10 v1.cache7.c.youtube.com
+2404:6800:4001::10 v1.cache8.c.youtube.com
+2404:6800:4001:1::13 v2.cache1.c.youtube.com
+2404:6800:4001:1::13 v2.cache2.c.youtube.com
+2404:6800:4001::13 v2.cache3.c.youtube.com
+2404:6800:4001:1::13 v2.cache4.c.youtube.com
+2404:6800:4001::13 v2.cache5.c.youtube.com
+2404:6800:4001::13 v2.cache6.c.youtube.com
+2404:6800:4001::13 v2.cache7.c.youtube.com
+2404:6800:4001::13 v2.cache8.c.youtube.com
+2404:6800:4001::16 v3.cache1.c.youtube.com
+2404:6800:4001::16 v3.cache2.c.youtube.com
+2404:6800:4001::16 v3.cache3.c.youtube.com
+2404:6800:4001::16 v3.cache4.c.youtube.com
+2404:6800:4001::16 v3.cache5.c.youtube.com
+2404:6800:4001::16 v3.cache6.c.youtube.com
+2404:6800:4001:1::16 v3.cache7.c.youtube.com
+2404:6800:4001::16 v3.cache8.c.youtube.com
+2404:6800:4001::19 v4.cache1.c.youtube.com
+2404:6800:4001:1::19 v4.cache2.c.youtube.com
+2404:6800:4001::19 v4.cache3.c.youtube.com
+2404:6800:4001::19 v4.cache4.c.youtube.com
+2404:6800:4001::19 v4.cache5.c.youtube.com
+2404:6800:4001::19 v4.cache6.c.youtube.com
+2404:6800:4001::19 v4.cache7.c.youtube.com
+2404:6800:4001::19 v4.cache8.c.youtube.com
+2404:6800:4001::1c v5.cache1.c.youtube.com
+2404:6800:4001:1::1c v5.cache2.c.youtube.com
+2404:6800:4001::1c v5.cache3.c.youtube.com
+2404:6800:4001:1::1c v5.cache4.c.youtube.com
+2404:6800:4001::1c v5.cache5.c.youtube.com
+2404:6800:4001::1c v5.cache6.c.youtube.com
+2404:6800:4001::1c v5.cache7.c.youtube.com
+2404:6800:4001::1c v5.cache8.c.youtube.com
+2404:6800:4001::1f v6.cache1.c.youtube.com
+2404:6800:4001::1f v6.cache2.c.youtube.com
+2404:6800:4001::1f v6.cache3.c.youtube.com
+2404:6800:4001::1f v6.cache4.c.youtube.com
+2404:6800:4001::1f v6.cache5.c.youtube.com
+2404:6800:4001::1f v6.cache6.c.youtube.com
+2404:6800:4001::1f v6.cache7.c.youtube.com
+2404:6800:4001:1::1f v6.cache8.c.youtube.com
+2404:6800:4001::22 v7.cache1.c.youtube.com
+2404:6800:4001::22 v7.cache2.c.youtube.com
+2404:6800:4001::22 v7.cache3.c.youtube.com
+2404:6800:4001:1::22 v7.cache4.c.youtube.com
+2404:6800:4001::22 v7.cache5.c.youtube.com
+2404:6800:4001:1::22 v7.cache6.c.youtube.com
+2404:6800:4001::22 v7.cache7.c.youtube.com
+2404:6800:4001::22 v7.cache8.c.youtube.com
+2404:6800:4001::25 v8.cache1.c.youtube.com
+2404:6800:4001::25 v8.cache2.c.youtube.com
+2404:6800:4001:1::25 v8.cache3.c.youtube.com
+2404:6800:4001::25 v8.cache4.c.youtube.com
+2404:6800:4001:1::25 v8.cache5.c.youtube.com
+2404:6800:4001::25 v8.cache6.c.youtube.com
+2404:6800:4001::25 v8.cache7.c.youtube.com
+2404:6800:4001:1::25 v8.cache8.c.youtube.com
+2404:6800:4001::11 v9.cache1.c.youtube.com
+2404:6800:4001::11 v9.cache2.c.youtube.com
+2404:6800:4001::11 v9.cache3.c.youtube.com
+2404:6800:4001:1::11 v9.cache4.c.youtube.com
+2404:6800:4001:1::11 v9.cache5.c.youtube.com
+2404:6800:4001::11 v9.cache6.c.youtube.com
+2404:6800:4001::11 v9.cache7.c.youtube.com
+2404:6800:4001::11 v9.cache8.c.youtube.com
+2404:6800:4001::14 v10.cache1.c.youtube.com
+2404:6800:4001::14 v10.cache2.c.youtube.com
+2404:6800:4001::14 v10.cache3.c.youtube.com
+2404:6800:4001::14 v10.cache4.c.youtube.com
+2404:6800:4001::14 v10.cache5.c.youtube.com
+2404:6800:4001::14 v10.cache6.c.youtube.com
+2404:6800:4001:1::14 v10.cache7.c.youtube.com
+2404:6800:4001::14 v10.cache8.c.youtube.com
+2404:6800:4001::17 v11.cache1.c.youtube.com
+2404:6800:4001::17 v11.cache2.c.youtube.com
+2404:6800:4001::17 v11.cache3.c.youtube.com
+2404:6800:4001::17 v11.cache4.c.youtube.com
+2404:6800:4001::17 v11.cache5.c.youtube.com
+2404:6800:4001::17 v11.cache6.c.youtube.com
+2404:6800:4001::17 v11.cache7.c.youtube.com
+2404:6800:4001::17 v11.cache8.c.youtube.com
+2404:6800:4001::1a v12.cache1.c.youtube.com
+2404:6800:4001:1::1a v12.cache2.c.youtube.com
+2404:6800:4001::1a v12.cache3.c.youtube.com
+2404:6800:4001::1a v12.cache4.c.youtube.com
+2404:6800:4001::1a v12.cache5.c.youtube.com
+2404:6800:4001::1a v12.cache6.c.youtube.com
+2404:6800:4001::1a v12.cache7.c.youtube.com
+2404:6800:4001::1a v12.cache8.c.youtube.com
+2404:6800:4001::1d v13.cache1.c.youtube.com
+2404:6800:4001::1d v13.cache2.c.youtube.com
+2404:6800:4001::1d v13.cache3.c.youtube.com
+2404:6800:4001::1d v13.cache4.c.youtube.com
+2404:6800:4001:1::1d v13.cache5.c.youtube.com
+2404:6800:4001::1d v13.cache6.c.youtube.com
+2404:6800:4001::1d v13.cache7.c.youtube.com
+2404:6800:4001::1d v13.cache8.c.youtube.com
+2404:6800:4001::20 v14.cache1.c.youtube.com
+2404:6800:4001::20 v14.cache2.c.youtube.com
+2404:6800:4001::20 v14.cache3.c.youtube.com
+2404:6800:4001::20 v14.cache4.c.youtube.com
+2404:6800:4001::20 v14.cache5.c.youtube.com
+2404:6800:4001::20 v14.cache6.c.youtube.com
+2404:6800:4001::20 v14.cache7.c.youtube.com
+2404:6800:4001:1::20 v14.cache8.c.youtube.com
+2404:6800:4001::23 v15.cache1.c.youtube.com
+2404:6800:4001::23 v15.cache2.c.youtube.com
+2404:6800:4001::23 v15.cache3.c.youtube.com
+2404:6800:4001:1::23 v15.cache4.c.youtube.com
+2404:6800:4001::23 v15.cache5.c.youtube.com
+2404:6800:4001:1::23 v15.cache6.c.youtube.com
+2404:6800:4001::23 v15.cache7.c.youtube.com
+2404:6800:4001::23 v15.cache8.c.youtube.com
+2404:6800:4001::26 v16.cache1.c.youtube.com
+2404:6800:4001::26 v16.cache2.c.youtube.com
+2404:6800:4001:1::26 v16.cache3.c.youtube.com
+2404:6800:4001::26 v16.cache4.c.youtube.com
+2404:6800:4001::26 v16.cache5.c.youtube.com
+2404:6800:4001::26 v16.cache6.c.youtube.com
+2404:6800:4001::26 v16.cache7.c.youtube.com
+2404:6800:4001::26 v16.cache8.c.youtube.com
+2404:6800:4001::12 v17.cache1.c.youtube.com
+2404:6800:4001::12 v17.cache2.c.youtube.com
+2404:6800:4001::12 v17.cache3.c.youtube.com
+2404:6800:4001::12 v17.cache4.c.youtube.com
+2404:6800:4001::12 v17.cache5.c.youtube.com
+2404:6800:4001::12 v17.cache6.c.youtube.com
+2404:6800:4001::12 v17.cache7.c.youtube.com
+2404:6800:4001::12 v17.cache8.c.youtube.com
+2404:6800:4001:1::15 v18.cache1.c.youtube.com
+2404:6800:4001:1::15 v18.cache2.c.youtube.com
+2404:6800:4001::15 v18.cache3.c.youtube.com
+2404:6800:4001::15 v18.cache4.c.youtube.com
+2404:6800:4001::15 v18.cache5.c.youtube.com
+2404:6800:4001::15 v18.cache6.c.youtube.com
+2404:6800:4001:1::15 v18.cache7.c.youtube.com
+2404:6800:4001::15 v18.cache8.c.youtube.com
+2404:6800:4001:1::18 v19.cache1.c.youtube.com
+2404:6800:4001::18 v19.cache2.c.youtube.com
+2404:6800:4001:1::18 v19.cache3.c.youtube.com
+2404:6800:4001:1::18 v19.cache4.c.youtube.com
+2404:6800:4001::18 v19.cache5.c.youtube.com
+2404:6800:4001::18 v19.cache6.c.youtube.com
+2404:6800:4001::18 v19.cache7.c.youtube.com
+2404:6800:4001::18 v19.cache8.c.youtube.com
+2404:6800:4001::1b v20.cache1.c.youtube.com
+2404:6800:4001::1b v20.cache2.c.youtube.com
+2404:6800:4001::1b v20.cache3.c.youtube.com
+2404:6800:4001::1b v20.cache4.c.youtube.com
+2404:6800:4001:1::1b v20.cache5.c.youtube.com
+2404:6800:4001::1b v20.cache6.c.youtube.com
+2404:6800:4001::1b v20.cache7.c.youtube.com
+2404:6800:4001::1b v20.cache8.c.youtube.com
+2404:6800:4001::1e v21.cache1.c.youtube.com
+2404:6800:4001::1e v21.cache2.c.youtube.com
+2404:6800:4001:1::1e v21.cache3.c.youtube.com
+2404:6800:4001::1e v21.cache4.c.youtube.com
+2404:6800:4001::1e v21.cache5.c.youtube.com
+2404:6800:4001:1::1e v21.cache6.c.youtube.com
+2404:6800:4001::1e v21.cache7.c.youtube.com
+2404:6800:4001::1e v21.cache8.c.youtube.com
+2404:6800:4001::21 v22.cache1.c.youtube.com
+2404:6800:4001::21 v22.cache2.c.youtube.com
+2404:6800:4001::21 v22.cache3.c.youtube.com
+2404:6800:4001::21 v22.cache4.c.youtube.com
+2404:6800:4001:1::21 v22.cache5.c.youtube.com
+2404:6800:4001::21 v22.cache6.c.youtube.com
+2404:6800:4001::21 v22.cache7.c.youtube.com
+2404:6800:4001::21 v22.cache8.c.youtube.com
+2404:6800:4001:1::24 v23.cache1.c.youtube.com
+2404:6800:4001::24 v23.cache2.c.youtube.com
+2404:6800:4001::24 v23.cache3.c.youtube.com
+2404:6800:4001::24 v23.cache4.c.youtube.com
+2404:6800:4001::24 v23.cache5.c.youtube.com
+2404:6800:4001::24 v23.cache6.c.youtube.com
+2404:6800:4001::24 v23.cache7.c.youtube.com
+2404:6800:4001::24 v23.cache8.c.youtube.com
+2404:6800:4001::27 v24.cache1.c.youtube.com
+2404:6800:4001::27 v24.cache2.c.youtube.com
+2404:6800:4001::27 v24.cache3.c.youtube.com
+2404:6800:4001::27 v24.cache4.c.youtube.com
+2404:6800:4001:1::27 v24.cache5.c.youtube.com
+2404:6800:4001::27 v24.cache6.c.youtube.com
+2404:6800:4001::27 v24.cache7.c.youtube.com
+2404:6800:4001:1::27 v24.cache8.c.youtube.com
 
-####以下為原yt視頻緩存服務器地址列表，遇到無法連接或者連接緩慢的同學可以換回來#### 
-#2001:4860:4007::10   v1.lscache1.c.youtube.com 
-#2001:4860:4007:3::10 v1.lscache2.c.youtube.com 
-#2001:4860:4007:3::10 v1.lscache3.c.youtube.com 
-#2001:4860:4007:1::10 v1.lscache4.c.youtube.com 
-#2001:4860:4007:2::10 v1.lscache5.c.youtube.com 
-#2404:6800:4001::10   v1.lscache6.c.youtube.com 
-#2404:6800:4001::10   v1.lscache7.c.youtube.com 
-#2404:6800:4001:1::10 v1.lscache8.c.youtube.com 
-#2001:4860:4002:2::13 v2.lscache1.c.youtube.com 
-#2001:4860:4007:1::13 v2.lscache2.c.youtube.com 
-#2404:6800:4001::13   v2.lscache3.c.youtube.com 
-#2001:4860:4007::13   v2.lscache4.c.youtube.com 
-#2001:4860:4007::13   v2.lscache5.c.youtube.com 
-#2001:4860:4007:1::13 v2.lscache6.c.youtube.com 
-#2001:4860:4001:402::11 v2.lscache7.c.youtube.com 
-#2001:4860:4001:402::11 v2.lscache8.c.youtube.com 
-#2001:4860:4001:402::12 v3.lscache1.c.youtube.com 
-#2001:4860:4001:402::12 v3.lscache2.c.youtube.com 
-#2001:4860:4001:402::12 v3.lscache3.c.youtube.com 
-#2001:4860:4001:402::12 v3.lscache4.c.youtube.com 
-#2001:4860:4001:402::12 v3.lscache5.c.youtube.com 
-#2001:4860:4001:402::12 v3.lscache6.c.youtube.com 
-#2001:4860:4001:402::12 v3.lscache7.c.youtube.com 
-#2001:4860:4001:402::12 v3.lscache8.c.youtube.com 
-#2001:4860:4001:402::13 v4.lscache1.c.youtube.com 
-#2001:4860:4001:402::13 v4.lscache2.c.youtube.com 
-#2001:4860:4001:402::13 v4.lscache3.c.youtube.com 
-#2001:4860:4001:402::13 v4.lscache4.c.youtube.com 
-#2001:4860:4001:402::13 v4.lscache5.c.youtube.com 
-#2001:4860:4001:402::13 v4.lscache6.c.youtube.com 
-#2001:4860:4001:402::13 v4.lscache7.c.youtube.com 
-#2001:4860:4001:402::13 v4.lscache8.c.youtube.com 
-#2001:4860:4001:402::14 v5.lscache1.c.youtube.com 
-#2001:4860:4001:402::14 v5.lscache2.c.youtube.com 
-#2001:4860:4001:402::14 v5.lscache3.c.youtube.com 
-#2001:4860:4001:402::14 v5.lscache4.c.youtube.com 
-#2001:4860:4001:402::14 v5.lscache5.c.youtube.com 
-#2001:4860:4001:402::14 v5.lscache6.c.youtube.com 
-#2001:4860:4001:402::14 v5.lscache7.c.youtube.com 
-#2001:4860:4001:402::14 v5.lscache8.c.youtube.com 
-#2001:4860:4001:402::15 v6.lscache1.c.youtube.com 
-#2001:4860:4001:402::15 v6.lscache2.c.youtube.com 
-#2001:4860:4001:402::15 v6.lscache3.c.youtube.com 
-#2001:4860:4001:402::15 v6.lscache4.c.youtube.com 
-#2001:4860:4001:402::15 v6.lscache5.c.youtube.com 
-#2001:4860:4001:402::15 v6.lscache6.c.youtube.com 
-#2001:4860:4001:402::15 v6.lscache7.c.youtube.com 
-#2001:4860:4001:402::15 v6.lscache8.c.youtube.com 
-#2001:4860:4001:402::16 v7.lscache1.c.youtube.com 
-#2001:4860:4001:402::16 v7.lscache2.c.youtube.com 
-#2001:4860:4001:402::16 v7.lscache3.c.youtube.com 
-#2001:4860:4001:402::16 v7.lscache4.c.youtube.com 
-#2001:4860:4001:402::16 v7.lscache5.c.youtube.com 
-#2001:4860:4001:402::16 v7.lscache6.c.youtube.com 
-#2001:4860:4001:402::16 v7.lscache7.c.youtube.com 
-#2001:4860:4001:402::16 v7.lscache8.c.youtube.com 
-#2001:4860:4001:402::17 v8.lscache1.c.youtube.com 
-#2001:4860:4001:402::17 v8.lscache2.c.youtube.com 
-#2001:4860:4001:402::17 v8.lscache3.c.youtube.com 
-#2001:4860:4001:402::17 v8.lscache4.c.youtube.com 
-#2001:4860:4001:402::17 v8.lscache5.c.youtube.com 
-#2001:4860:4001:402::17 v8.lscache6.c.youtube.com 
-#2001:4860:4001:402::17 v8.lscache7.c.youtube.com 
-#2001:4860:4001:402::17 v8.lscache8.c.youtube.com 
-#2001:4860:4001:402::18 v9.lscache1.c.youtube.com 
-#2001:4860:4001:402::18 v9.lscache2.c.youtube.com 
-#2001:4860:4001:402::18 v9.lscache3.c.youtube.com 
-#2001:4860:4001:402::18 v9.lscache4.c.youtube.com 
-#2001:4860:4001:402::18 v9.lscache5.c.youtube.com 
-#2001:4860:4001:402::18 v9.lscache6.c.youtube.com 
-#2001:4860:4001:402::18 v9.lscache7.c.youtube.com 
-#2001:4860:4001:402::18 v9.lscache8.c.youtube.com 
-#2001:4860:4001:402::19 v10.lscache1.c.youtube.com 
-#2001:4860:4001:402::19 v10.lscache2.c.youtube.com 
-#2001:4860:4001:402::19 v10.lscache3.c.youtube.com 
-#2001:4860:4001:402::19 v10.lscache4.c.youtube.com 
-#2001:4860:4001:402::19 v10.lscache5.c.youtube.com 
-#2001:4860:4001:402::19 v10.lscache6.c.youtube.com 
-#2001:4860:4001:402::19 v10.lscache7.c.youtube.com 
-#2001:4860:4001:402::19 v10.lscache8.c.youtube.com 
-#2001:4860:4001:402::1a v11.lscache1.c.youtube.com 
-#2001:4860:4001:402::1a v11.lscache2.c.youtube.com 
-#2001:4860:4001:402::1a v11.lscache3.c.youtube.com 
-#2001:4860:4001:402::1a v11.lscache4.c.youtube.com 
-#2001:4860:4001:402::1a v11.lscache5.c.youtube.com 
-#2001:4860:4001:402::1a v11.lscache6.c.youtube.com 
-#2001:4860:4001:402::1a v11.lscache7.c.youtube.com 
-#2001:4860:4001:402::1a v11.lscache8.c.youtube.com 
-#2001:4860:4001:402::1b v12.lscache1.c.youtube.com 
-#2001:4860:4001:402::1b v12.lscache2.c.youtube.com 
-#2001:4860:4001:402::1b v12.lscache3.c.youtube.com 
-#2001:4860:4001:402::1b v12.lscache4.c.youtube.com 
-#2001:4860:4001:402::1b v12.lscache5.c.youtube.com 
-#2001:4860:4001:402::1b v12.lscache6.c.youtube.com 
-#2001:4860:4001:402::1b v12.lscache7.c.youtube.com 
-#2001:4860:4001:402::1b v12.lscache8.c.youtube.com 
-#2001:4860:4001:402::1c v13.lscache1.c.youtube.com 
-#2001:4860:4001:402::1c v13.lscache2.c.youtube.com 
-#2001:4860:4001:402::1c v13.lscache3.c.youtube.com 
-#2001:4860:4001:402::1c v13.lscache4.c.youtube.com 
-#2001:4860:4001:402::1c v13.lscache5.c.youtube.com 
-#2001:4860:4001:402::1c v13.lscache6.c.youtube.com 
-#2001:4860:4001:402::1c v13.lscache7.c.youtube.com 
-#2001:4860:4001:402::1c v13.lscache8.c.youtube.com 
-#2001:4860:4001:402::1d v14.lscache1.c.youtube.com 
-#2001:4860:4001:402::1d v14.lscache2.c.youtube.com 
-#2001:4860:4001:402::1d v14.lscache3.c.youtube.com 
-#2001:4860:4001:402::1d v14.lscache4.c.youtube.com 
-#2001:4860:4001:402::1d v14.lscache5.c.youtube.com 
-#2001:4860:4001:402::1d v14.lscache6.c.youtube.com 
-#2001:4860:4001:402::1d v14.lscache7.c.youtube.com 
-#2001:4860:4001:402::1d v14.lscache8.c.youtube.com 
-#2001:4860:4001:402::1e v15.lscache1.c.youtube.com 
-#2001:4860:4001:402::1e v15.lscache2.c.youtube.com 
-#2001:4860:4001:402::1e v15.lscache3.c.youtube.com 
-#2001:4860:4001:402::1e v15.lscache4.c.youtube.com 
-#2001:4860:4001:402::1e v15.lscache5.c.youtube.com 
-#2001:4860:4001:402::1e v15.lscache6.c.youtube.com 
-#2001:4860:4001:402::1e v15.lscache7.c.youtube.com 
-#2001:4860:4001:402::1e v15.lscache8.c.youtube.com 
-#2001:4860:4001:402::20 v16.lscache1.c.youtube.com 
-#2001:4860:4001:402::20 v16.lscache2.c.youtube.com 
-#2001:4860:4001:402::20 v16.lscache3.c.youtube.com 
-#2001:4860:4001:402::20 v16.lscache4.c.youtube.com 
-#2001:4860:4001:402::20 v16.lscache5.c.youtube.com 
-#2001:4860:4001:402::20 v16.lscache6.c.youtube.com 
-#2001:4860:4001:402::20 v16.lscache7.c.youtube.com 
-#2001:4860:4001:402::20 v16.lscache8.c.youtube.com 
-#2001:4860:4001:402::21 v17.lscache1.c.youtube.com 
-#2001:4860:4001:402::21 v17.lscache2.c.youtube.com 
-#2001:4860:4001:402::21 v17.lscache3.c.youtube.com 
-#2001:4860:4001:402::21 v17.lscache4.c.youtube.com 
-#2001:4860:4001:402::21 v17.lscache5.c.youtube.com 
-#2001:4860:4001:402::21 v17.lscache6.c.youtube.com 
-#2001:4860:4001:402::21 v17.lscache7.c.youtube.com 
-#2001:4860:4001:402::21 v17.lscache8.c.youtube.com 
-#2001:4860:4001:402::22 v18.lscache1.c.youtube.com 
-#2001:4860:4001:402::22 v18.lscache2.c.youtube.com 
-#2001:4860:4001:402::22 v18.lscache3.c.youtube.com 
-#2001:4860:4001:402::22 v18.lscache4.c.youtube.com 
-#2001:4860:4001:402::22 v18.lscache5.c.youtube.com 
-#2001:4860:4001:402::22 v18.lscache6.c.youtube.com 
-#2001:4860:4001:402::22 v18.lscache7.c.youtube.com 
-#2001:4860:4001:402::22 v18.lscache8.c.youtube.com 
-#2001:4860:4001:402::23 v19.lscache1.c.youtube.com 
-#2001:4860:4001:402::23 v19.lscache2.c.youtube.com 
-#2001:4860:4001:402::23 v19.lscache3.c.youtube.com 
-#2001:4860:4001:402::23 v19.lscache4.c.youtube.com 
-#2001:4860:4001:402::23 v19.lscache5.c.youtube.com 
-#2001:4860:4001:402::23 v19.lscache6.c.youtube.com 
-#2001:4860:4001:402::23 v19.lscache7.c.youtube.com 
-#2001:4860:4001:402::23 v19.lscache8.c.youtube.com 
-#2001:4860:4001:402::23 v20.lscache1.c.youtube.com 
-#2001:4860:4001:402::23 v20.lscache2.c.youtube.com 
-#2001:4860:4001:402::23 v20.lscache3.c.youtube.com 
-#2001:4860:4001:402::23 v20.lscache4.c.youtube.com 
-#2001:4860:4001:402::23 v20.lscache5.c.youtube.com 
-#2001:4860:4001:402::23 v20.lscache6.c.youtube.com 
-#2001:4860:4001:402::23 v20.lscache7.c.youtube.com 
-#2001:4860:4001:402::23 v20.lscache8.c.youtube.com 
-#2001:4860:4001:402::24 v21.lscache1.c.youtube.com 
-#2001:4860:4001:402::24 v21.lscache2.c.youtube.com 
-#2001:4860:4001:402::24 v21.lscache3.c.youtube.com 
-#2001:4860:4001:402::24 v21.lscache4.c.youtube.com 
-#2001:4860:4001:402::24 v21.lscache5.c.youtube.com 
-#2001:4860:4001:402::24 v21.lscache6.c.youtube.com 
-#2001:4860:4001:402::24 v21.lscache7.c.youtube.com 
-#2001:4860:4001:402::24 v21.lscache8.c.youtube.com 
-#2001:4860:4001:402::35 v22.lscache1.c.youtube.com 
-#2001:4860:4001:402::25 v22.lscache2.c.youtube.com 
-#2001:4860:4001:402::25 v22.lscache3.c.youtube.com 
-#2001:4860:4001:402::25 v22.lscache4.c.youtube.com 
-#2001:4860:4001:402::25 v22.lscache5.c.youtube.com 
-#2001:4860:4001:402::25 v22.lscache6.c.youtube.com 
-#2001:4860:4001:402::25 v22.lscache7.c.youtube.com 
-#2001:4860:4001:402::25 v22.lscache8.c.youtube.com 
-#2001:4860:4001:402::26 v23.lscache1.c.youtube.com 
-#2001:4860:4001:402::26 v23.lscache2.c.youtube.com 
-#2001:4860:4001:402::26 v23.lscache3.c.youtube.com 
-#2001:4860:4001:402::26 v23.lscache4.c.youtube.com 
-#2001:4860:4001:402::26 v23.lscache5.c.youtube.com 
-#2001:4860:4001:402::26 v23.lscache6.c.youtube.com 
-#2001:4860:4001:402::26 v23.lscache7.c.youtube.com 
-#2001:4860:4001:402::26 v23.lscache8.c.youtube.com 
-#2001:4860:4001:402::27 v24.lscache1.c.youtube.com 
-#2001:4860:4001:402::27 v24.lscache2.c.youtube.com 
-#2001:4860:4001:402::27 v24.lscache3.c.youtube.com 
-#2001:4860:4001:402::27 v24.lscache4.c.youtube.com 
-#2001:4860:4001:402::27 v24.lscache5.c.youtube.com 
-#2001:4860:4001:402::27 v24.lscache6.c.youtube.com 
-#2001:4860:4001:402::27 v24.lscache7.c.youtube.com 
-#2001:4860:4001:402::27 v24.lscache8.c.youtube.com 
+####以下為原yt視頻緩存服務器地址列表，遇到無法連接或者連接緩慢的同學可以換回來####
+#2001:4860:4007::10   v1.lscache1.c.youtube.com
+#2001:4860:4007:3::10 v1.lscache2.c.youtube.com
+#2001:4860:4007:3::10 v1.lscache3.c.youtube.com
+#2001:4860:4007:1::10 v1.lscache4.c.youtube.com
+#2001:4860:4007:2::10 v1.lscache5.c.youtube.com
+#2404:6800:4001::10   v1.lscache6.c.youtube.com
+#2404:6800:4001::10   v1.lscache7.c.youtube.com
+#2404:6800:4001:1::10 v1.lscache8.c.youtube.com
+#2001:4860:4002:2::13 v2.lscache1.c.youtube.com
+#2001:4860:4007:1::13 v2.lscache2.c.youtube.com
+#2404:6800:4001::13   v2.lscache3.c.youtube.com
+#2001:4860:4007::13   v2.lscache4.c.youtube.com
+#2001:4860:4007::13   v2.lscache5.c.youtube.com
+#2001:4860:4007:1::13 v2.lscache6.c.youtube.com
+#2001:4860:4001:402::11 v2.lscache7.c.youtube.com
+#2001:4860:4001:402::11 v2.lscache8.c.youtube.com
+#2001:4860:4001:402::12 v3.lscache1.c.youtube.com
+#2001:4860:4001:402::12 v3.lscache2.c.youtube.com
+#2001:4860:4001:402::12 v3.lscache3.c.youtube.com
+#2001:4860:4001:402::12 v3.lscache4.c.youtube.com
+#2001:4860:4001:402::12 v3.lscache5.c.youtube.com
+#2001:4860:4001:402::12 v3.lscache6.c.youtube.com
+#2001:4860:4001:402::12 v3.lscache7.c.youtube.com
+#2001:4860:4001:402::12 v3.lscache8.c.youtube.com
+#2001:4860:4001:402::13 v4.lscache1.c.youtube.com
+#2001:4860:4001:402::13 v4.lscache2.c.youtube.com
+#2001:4860:4001:402::13 v4.lscache3.c.youtube.com
+#2001:4860:4001:402::13 v4.lscache4.c.youtube.com
+#2001:4860:4001:402::13 v4.lscache5.c.youtube.com
+#2001:4860:4001:402::13 v4.lscache6.c.youtube.com
+#2001:4860:4001:402::13 v4.lscache7.c.youtube.com
+#2001:4860:4001:402::13 v4.lscache8.c.youtube.com
+#2001:4860:4001:402::14 v5.lscache1.c.youtube.com
+#2001:4860:4001:402::14 v5.lscache2.c.youtube.com
+#2001:4860:4001:402::14 v5.lscache3.c.youtube.com
+#2001:4860:4001:402::14 v5.lscache4.c.youtube.com
+#2001:4860:4001:402::14 v5.lscache5.c.youtube.com
+#2001:4860:4001:402::14 v5.lscache6.c.youtube.com
+#2001:4860:4001:402::14 v5.lscache7.c.youtube.com
+#2001:4860:4001:402::14 v5.lscache8.c.youtube.com
+#2001:4860:4001:402::15 v6.lscache1.c.youtube.com
+#2001:4860:4001:402::15 v6.lscache2.c.youtube.com
+#2001:4860:4001:402::15 v6.lscache3.c.youtube.com
+#2001:4860:4001:402::15 v6.lscache4.c.youtube.com
+#2001:4860:4001:402::15 v6.lscache5.c.youtube.com
+#2001:4860:4001:402::15 v6.lscache6.c.youtube.com
+#2001:4860:4001:402::15 v6.lscache7.c.youtube.com
+#2001:4860:4001:402::15 v6.lscache8.c.youtube.com
+#2001:4860:4001:402::16 v7.lscache1.c.youtube.com
+#2001:4860:4001:402::16 v7.lscache2.c.youtube.com
+#2001:4860:4001:402::16 v7.lscache3.c.youtube.com
+#2001:4860:4001:402::16 v7.lscache4.c.youtube.com
+#2001:4860:4001:402::16 v7.lscache5.c.youtube.com
+#2001:4860:4001:402::16 v7.lscache6.c.youtube.com
+#2001:4860:4001:402::16 v7.lscache7.c.youtube.com
+#2001:4860:4001:402::16 v7.lscache8.c.youtube.com
+#2001:4860:4001:402::17 v8.lscache1.c.youtube.com
+#2001:4860:4001:402::17 v8.lscache2.c.youtube.com
+#2001:4860:4001:402::17 v8.lscache3.c.youtube.com
+#2001:4860:4001:402::17 v8.lscache4.c.youtube.com
+#2001:4860:4001:402::17 v8.lscache5.c.youtube.com
+#2001:4860:4001:402::17 v8.lscache6.c.youtube.com
+#2001:4860:4001:402::17 v8.lscache7.c.youtube.com
+#2001:4860:4001:402::17 v8.lscache8.c.youtube.com
+#2001:4860:4001:402::18 v9.lscache1.c.youtube.com
+#2001:4860:4001:402::18 v9.lscache2.c.youtube.com
+#2001:4860:4001:402::18 v9.lscache3.c.youtube.com
+#2001:4860:4001:402::18 v9.lscache4.c.youtube.com
+#2001:4860:4001:402::18 v9.lscache5.c.youtube.com
+#2001:4860:4001:402::18 v9.lscache6.c.youtube.com
+#2001:4860:4001:402::18 v9.lscache7.c.youtube.com
+#2001:4860:4001:402::18 v9.lscache8.c.youtube.com
+#2001:4860:4001:402::19 v10.lscache1.c.youtube.com
+#2001:4860:4001:402::19 v10.lscache2.c.youtube.com
+#2001:4860:4001:402::19 v10.lscache3.c.youtube.com
+#2001:4860:4001:402::19 v10.lscache4.c.youtube.com
+#2001:4860:4001:402::19 v10.lscache5.c.youtube.com
+#2001:4860:4001:402::19 v10.lscache6.c.youtube.com
+#2001:4860:4001:402::19 v10.lscache7.c.youtube.com
+#2001:4860:4001:402::19 v10.lscache8.c.youtube.com
+#2001:4860:4001:402::1a v11.lscache1.c.youtube.com
+#2001:4860:4001:402::1a v11.lscache2.c.youtube.com
+#2001:4860:4001:402::1a v11.lscache3.c.youtube.com
+#2001:4860:4001:402::1a v11.lscache4.c.youtube.com
+#2001:4860:4001:402::1a v11.lscache5.c.youtube.com
+#2001:4860:4001:402::1a v11.lscache6.c.youtube.com
+#2001:4860:4001:402::1a v11.lscache7.c.youtube.com
+#2001:4860:4001:402::1a v11.lscache8.c.youtube.com
+#2001:4860:4001:402::1b v12.lscache1.c.youtube.com
+#2001:4860:4001:402::1b v12.lscache2.c.youtube.com
+#2001:4860:4001:402::1b v12.lscache3.c.youtube.com
+#2001:4860:4001:402::1b v12.lscache4.c.youtube.com
+#2001:4860:4001:402::1b v12.lscache5.c.youtube.com
+#2001:4860:4001:402::1b v12.lscache6.c.youtube.com
+#2001:4860:4001:402::1b v12.lscache7.c.youtube.com
+#2001:4860:4001:402::1b v12.lscache8.c.youtube.com
+#2001:4860:4001:402::1c v13.lscache1.c.youtube.com
+#2001:4860:4001:402::1c v13.lscache2.c.youtube.com
+#2001:4860:4001:402::1c v13.lscache3.c.youtube.com
+#2001:4860:4001:402::1c v13.lscache4.c.youtube.com
+#2001:4860:4001:402::1c v13.lscache5.c.youtube.com
+#2001:4860:4001:402::1c v13.lscache6.c.youtube.com
+#2001:4860:4001:402::1c v13.lscache7.c.youtube.com
+#2001:4860:4001:402::1c v13.lscache8.c.youtube.com
+#2001:4860:4001:402::1d v14.lscache1.c.youtube.com
+#2001:4860:4001:402::1d v14.lscache2.c.youtube.com
+#2001:4860:4001:402::1d v14.lscache3.c.youtube.com
+#2001:4860:4001:402::1d v14.lscache4.c.youtube.com
+#2001:4860:4001:402::1d v14.lscache5.c.youtube.com
+#2001:4860:4001:402::1d v14.lscache6.c.youtube.com
+#2001:4860:4001:402::1d v14.lscache7.c.youtube.com
+#2001:4860:4001:402::1d v14.lscache8.c.youtube.com
+#2001:4860:4001:402::1e v15.lscache1.c.youtube.com
+#2001:4860:4001:402::1e v15.lscache2.c.youtube.com
+#2001:4860:4001:402::1e v15.lscache3.c.youtube.com
+#2001:4860:4001:402::1e v15.lscache4.c.youtube.com
+#2001:4860:4001:402::1e v15.lscache5.c.youtube.com
+#2001:4860:4001:402::1e v15.lscache6.c.youtube.com
+#2001:4860:4001:402::1e v15.lscache7.c.youtube.com
+#2001:4860:4001:402::1e v15.lscache8.c.youtube.com
+#2001:4860:4001:402::20 v16.lscache1.c.youtube.com
+#2001:4860:4001:402::20 v16.lscache2.c.youtube.com
+#2001:4860:4001:402::20 v16.lscache3.c.youtube.com
+#2001:4860:4001:402::20 v16.lscache4.c.youtube.com
+#2001:4860:4001:402::20 v16.lscache5.c.youtube.com
+#2001:4860:4001:402::20 v16.lscache6.c.youtube.com
+#2001:4860:4001:402::20 v16.lscache7.c.youtube.com
+#2001:4860:4001:402::20 v16.lscache8.c.youtube.com
+#2001:4860:4001:402::21 v17.lscache1.c.youtube.com
+#2001:4860:4001:402::21 v17.lscache2.c.youtube.com
+#2001:4860:4001:402::21 v17.lscache3.c.youtube.com
+#2001:4860:4001:402::21 v17.lscache4.c.youtube.com
+#2001:4860:4001:402::21 v17.lscache5.c.youtube.com
+#2001:4860:4001:402::21 v17.lscache6.c.youtube.com
+#2001:4860:4001:402::21 v17.lscache7.c.youtube.com
+#2001:4860:4001:402::21 v17.lscache8.c.youtube.com
+#2001:4860:4001:402::22 v18.lscache1.c.youtube.com
+#2001:4860:4001:402::22 v18.lscache2.c.youtube.com
+#2001:4860:4001:402::22 v18.lscache3.c.youtube.com
+#2001:4860:4001:402::22 v18.lscache4.c.youtube.com
+#2001:4860:4001:402::22 v18.lscache5.c.youtube.com
+#2001:4860:4001:402::22 v18.lscache6.c.youtube.com
+#2001:4860:4001:402::22 v18.lscache7.c.youtube.com
+#2001:4860:4001:402::22 v18.lscache8.c.youtube.com
+#2001:4860:4001:402::23 v19.lscache1.c.youtube.com
+#2001:4860:4001:402::23 v19.lscache2.c.youtube.com
+#2001:4860:4001:402::23 v19.lscache3.c.youtube.com
+#2001:4860:4001:402::23 v19.lscache4.c.youtube.com
+#2001:4860:4001:402::23 v19.lscache5.c.youtube.com
+#2001:4860:4001:402::23 v19.lscache6.c.youtube.com
+#2001:4860:4001:402::23 v19.lscache7.c.youtube.com
+#2001:4860:4001:402::23 v19.lscache8.c.youtube.com
+#2001:4860:4001:402::23 v20.lscache1.c.youtube.com
+#2001:4860:4001:402::23 v20.lscache2.c.youtube.com
+#2001:4860:4001:402::23 v20.lscache3.c.youtube.com
+#2001:4860:4001:402::23 v20.lscache4.c.youtube.com
+#2001:4860:4001:402::23 v20.lscache5.c.youtube.com
+#2001:4860:4001:402::23 v20.lscache6.c.youtube.com
+#2001:4860:4001:402::23 v20.lscache7.c.youtube.com
+#2001:4860:4001:402::23 v20.lscache8.c.youtube.com
+#2001:4860:4001:402::24 v21.lscache1.c.youtube.com
+#2001:4860:4001:402::24 v21.lscache2.c.youtube.com
+#2001:4860:4001:402::24 v21.lscache3.c.youtube.com
+#2001:4860:4001:402::24 v21.lscache4.c.youtube.com
+#2001:4860:4001:402::24 v21.lscache5.c.youtube.com
+#2001:4860:4001:402::24 v21.lscache6.c.youtube.com
+#2001:4860:4001:402::24 v21.lscache7.c.youtube.com
+#2001:4860:4001:402::24 v21.lscache8.c.youtube.com
+#2001:4860:4001:402::35 v22.lscache1.c.youtube.com
+#2001:4860:4001:402::25 v22.lscache2.c.youtube.com
+#2001:4860:4001:402::25 v22.lscache3.c.youtube.com
+#2001:4860:4001:402::25 v22.lscache4.c.youtube.com
+#2001:4860:4001:402::25 v22.lscache5.c.youtube.com
+#2001:4860:4001:402::25 v22.lscache6.c.youtube.com
+#2001:4860:4001:402::25 v22.lscache7.c.youtube.com
+#2001:4860:4001:402::25 v22.lscache8.c.youtube.com
+#2001:4860:4001:402::26 v23.lscache1.c.youtube.com
+#2001:4860:4001:402::26 v23.lscache2.c.youtube.com
+#2001:4860:4001:402::26 v23.lscache3.c.youtube.com
+#2001:4860:4001:402::26 v23.lscache4.c.youtube.com
+#2001:4860:4001:402::26 v23.lscache5.c.youtube.com
+#2001:4860:4001:402::26 v23.lscache6.c.youtube.com
+#2001:4860:4001:402::26 v23.lscache7.c.youtube.com
+#2001:4860:4001:402::26 v23.lscache8.c.youtube.com
+#2001:4860:4001:402::27 v24.lscache1.c.youtube.com
+#2001:4860:4001:402::27 v24.lscache2.c.youtube.com
+#2001:4860:4001:402::27 v24.lscache3.c.youtube.com
+#2001:4860:4001:402::27 v24.lscache4.c.youtube.com
+#2001:4860:4001:402::27 v24.lscache5.c.youtube.com
+#2001:4860:4001:402::27 v24.lscache6.c.youtube.com
+#2001:4860:4001:402::27 v24.lscache7.c.youtube.com
+#2001:4860:4001:402::27 v24.lscache8.c.youtube.com
 
 
-#Android           Google 移动操作系统 
-2404:6800:8005::62 www.android.com 
-2404:6800:8005::62 android.com 
+#Android           Google 移动操作系统
+2404:6800:8005::62 www.android.com
+2404:6800:8005::62 android.com
 
-2404:6800:8003::79 developer.android.com 
+2404:6800:8003::79 developer.android.com
 2404:6800:8005::62 source.android.com
 
 2404:6800:8005::62 market.android.com
@@ -2406,42 +2406,29 @@
 
 
 
-#The Go Programming Language   Go 编程语言 
-2404:6800:8005::62 golang.org 
+#The Go Programming Language   Go 编程语言
+2404:6800:8005::62 golang.org
 
-2404:6800:8005::62 www.golang.org 
+2404:6800:8005::62 www.golang.org
 2404:6800:8003::79 blog.golang.org
 
 
 
 
 
-#Analytics         分析（Google 所提供的网站流量统计服务） 
-2404:6800:8005::66 www.google-analytics.com 
+#Analytics         分析（Google 所提供的网站流量统计服务）
+2404:6800:8005::66 www.google-analytics.com
 
-2404:6800:8005::61 www.google-analytics.com 
-2404:6800:8005::61 *.google-analytics.com 
+2404:6800:8005::61 www.google-analytics.com
+2404:6800:8005::61 *.google-analytics.com
 
-2404:6800:8005::61 ssl.google-analytics.com 
-
-
-
-#DoubleClick       曾经世界最大的网络广告服务商，06年底被Google并购，现AdSense服务指向域名 
-2001:4860:b006::94 ad.doubleclick.net 
-2001:4860:b006::95 ad-g.doubleclick.net 
-2001:4860:b006::95 ad-apac.doubleclick.net 
-2404:6800:8005::9a googleads.g.doubleclick.net 
-2404:6800:8005::9b feedads.g.doubleclick.net 
-2404:6800:8005::90 fls.uk.doubleclick.net 
-2404:6800:8005::8e *.au.doubleclick.net 
-2404:6800:8005::8f *.de.doubleclick.net 
-2404:6800:8005::90 *.uk.doubleclick.net 
-2404:6800:8005::90 *.fr.doubleclick.net 
-2404:6800:8005::92 *.jp.doubleclick.net 
+2404:6800:8005::61 ssl.google-analytics.com
+2404:6800:8005::b8 service.urchin.com
 
 
 
-#FeedBurner 
+
+#FeedBurner
 2404:6800:8005::62 feedburner.google.com
 
 #2404:6800:8005::62 www3-china.l.google.com
@@ -2450,100 +2437,90 @@
 
 2404:6800:8005::62 feeds.feedburner.com
 
-2404:6800:8005::62 feeds2.feedburner.com 
-2404:6800:8005::76 feedproxy.google.com               #Feed 跳转代理 
+2404:6800:8005::62 feeds2.feedburner.com
+2404:6800:8005::76 feedproxy.google.com               #Feed 跳转代理
 
 
 
+#AdWords/AdSense   广告服务
 
+#2404:6800:8005::62 www.googlesyndication.com
 
-#GoogleSyndication Google广告服务 AdWord(Google广告词，对关键字进行右侧付费推广)，原AdSense服务指向域名 
-2404:6800:8005::62 www.googlesyndication.com 
-2404:6800:8005::62 pagead2.googlesyndication.com 
-2404:6800:8005::62 buttons.googlesyndication.com 
-2404:6800:8005::62 domains.googlesyndication.com 
-2404:6800:8005::98 tpc.googlesyndication.com 
+2404:6800:8005::60 www.googleadservices.com
 
-
-
-#GoogleSyndication Google广告服务 AdWord 
-2404:6800:8005::70 adwords.google.com 
-2404:6800:8005::41 adwords.google.sk 
-
-
-
-#GoogleADServices  Google广告服务 AdSense 
-2404:6800:8005::60 www.googleadservices.com 
-2404:6800:8005::a4 pagead2.googleadservices.com 
-2404:6800:8005::a7 partner.googleadservices.com 
-
-
-
-
-#Panoramio 
-2001:4860:8010::8d www.panoramio.com
-
-#2001:4860:8010::8d appspot.l.google.com
-
-2001:4860:8010::8d static.panoramio.com
-
-
-
-
-
-#Keyhole           地理查询软件 
-#2404:6800:8005::62 www.keyhole.com 
-#2404:6800:8005::62 geo.keyhole.com 
-#2404:6800:8005::62 dev.keyhole.com 
-#2404:6800:8005::62 auth.keyhole.com 
-
-
-
-
-
-# 
-
+2404:6800:8005::62 pagead2.googlesyndication.com
 2404:6800:8005::62 pagead.google.com
+2404:6800:8005::a4 pagead2.googleadservices.com
 2404:6800:8005::62 pagead.l.google.com
-2404:6800:8005::62 pagead2.google.com 
+2404:6800:8005::68 buttons.googlesyndication.com
+2404:6800:8005::62 domains.googlesyndication.com
+2404:6800:8005::62 afd.l.google.com
+2404:6800:8005::98 tpc.googlesyndication.com
+2404:6800:8005::98 pagead-tpc.l.google.com
+2404:6800:8005::70 adwords.google.com
+2404:6800:8005::41 adwords.google.sk
+
+2404:6800:8005::a7 partner.googleadservices.com
+2404:6800:8005::a7 partnerad.l.google.com
+
+
+#DoubleClick       曾经世界最大的网络广告服务商，06年底被Google并购，现AdSense服务指向域名
+2001:4860:b006::94 ad.doubleclick.net
+2001:4860:b006::95 ad-g.doubleclick.net
+2001:4860:b006::95 ad-apac.doubleclick.net
+2404:6800:8005::9a googleads.g.doubleclick.net
+2404:6800:8005::9b feedads.g.doubleclick.net
+2404:6800:8005::9c pubads.g.doubleclick.net
+2404:6800:8005::9c partnerad.l.doubleclick.net
+
+2404:6800:8005::90 fls.uk.doubleclick.net
+2404:6800:8005::8e *.au.doubleclick.net
+2404:6800:8005::8f *.de.doubleclick.net
+2404:6800:8005::90 *.uk.doubleclick.net
+2404:6800:8005::90 *.fr.doubleclick.net
+2404:6800:8005::92 *.jp.doubleclick.net
 
 
 
-#Goo.gl            Google短网址服务 
-2404:6800:8005::62 goo.gl 
+#Panoramio
+2404:6800:8005::8d www.panoramio.com
+#2404:6800:8005::8d appspot.l.google.com
+2404:6800:8005::80 static.panoramio.com
 
 
 
-#Urchin            http://www.google.com/urchin/zh-CN/index.html 
-2404:6800:8005::b8 service.urchin.com 
+
+#Goo.gl            Google短网址服务
+2404:6800:8005::62 goo.gl
 
 
-#Google.org        Google 公益 
-2404:6800:8003::79 blog.google.org 
 
-#The WebM Project  WebM 开放多媒体项目 
-2404:6800:8005::65 webmproject.org 
-2404:6800:8005::65 www.webmproject.org 
-2404:6800:8003::79 lists.webmproject.org 
-2404:6800:8003::79 blog.webmproject.org 
+#Google.org        Google 公益
+2404:6800:8003::79 blog.google.org
+
+#The WebM Project  WebM 开放多媒体项目
+2404:6800:8005::65 webmproject.org
+2404:6800:8005::65 www.webmproject.org
+2404:6800:8003::79 lists.webmproject.org
+2404:6800:8003::79 blog.webmproject.org
 2404:6800:8003::79 www.webm-ccl.org
 
 
 
 
-#html5rocks        HTML5 推广专题网站 
+#html5rocks        HTML5 推广专题网站
 
-2404:6800:8003::79 www.html5rocks.com 
-2404:6800:8003::79 slides.html5rocks.com 
-2404:6800:8003::79 playground.html5rocks.com 
-2404:6800:8003::79 studio.html5rocks.com 
+2404:6800:8003::79 www.html5rocks.com
+2404:6800:8003::79 slides.html5rocks.com
+2404:6800:8003::79 playground.html5rocks.com
+2404:6800:8003::79 studio.html5rocks.com
 
-#Google Art Project 
-2404:6800:8003::79 www.googleartproject.com 
-2404:6800:8005::62 art-project-media.appspot.com 
+#Google Art Project
+2404:6800:8003::79 www.googleartproject.com
+2404:6800:8005::62 art-project-media.appspot.com
 
 
-#Google Wave Federation Protocol · GWave 协议开源计划 
+#Google Wave Federation Protocol · GWave 协议开源计划
 2404:6800:8003::79 www.waveprotocol.org
 
 #Chrome 相关专题网站
@@ -2554,14 +2531,14 @@
 2404:6800:8003::79 www.20thingsilearned.com
 
 
-#IPv6 专题 
-2404:6800:8005::65 ipv6test.google.com 
-2404:6800:8005::65 ipv4.google.com 
-#2404:6800:8005::68 ??????.ds.ipv6test.google.com #四级域名为随机六位数字 
+#IPv6 专题
+2404:6800:8005::65 ipv6test.google.com
+2404:6800:8005::65 ipv4.google.com
+#2404:6800:8005::68 ??????.ds.ipv6test.google.com #四级域名为随机六位数字
 #2404:6800:8005::93 p2.*.*.??????.i2.ds.ipv6-exp.l.google.com
 
-2404:6800:8005::69 ds.ipv6test.l.google.com 
-2404:6800:8005::6a ds.ipv6test.l.google.com 
+2404:6800:8005::69 ds.ipv6test.l.google.com
+2404:6800:8005::6a ds.ipv6test.l.google.com
 
-#其他专题站 
+#其他专题站
 2404:6800:8005::76 www.agoogleaday.com
