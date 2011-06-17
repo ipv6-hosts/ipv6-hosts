@@ -976,6 +976,8 @@
 #Google Hosted     托管服务
 2404:6800:8005::84 commondatastorage.googleapis.com
 2404:6800:8005::84 googlehosted.l.googleusercontent.com
+2404:6800:8005::80 c.commondatastorage.googleapis.com
+2404:6800:8005::80 storage.l.googleusercontent.com
 
 
 2404:6800:8005::84 www.googlehosted.com
@@ -1355,6 +1357,7 @@
 #2404:6800:8005::64 youtube-ui.l.google.com
 
 2404:6800:8005::65 youtu.be
+2404:6800:8005::71 accounts.youtube.com
 2404:6800:8005::64 gdata.youtube.com
 2404:6800:8005::76 stage.gdata.youtube.com
 
