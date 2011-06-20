@@ -43,7 +43,7 @@
 2404:6800:8005::2e desktop.google.com.hk
 2404:6800:8005::2e id.google.com.hk
 
-2404:6800:8005::2e wenda.google.com.hk
+2404:6800:8005::93 google.com.hk
 
 #2404:6800:8005::63 ipv6.google.com.hk
 #2404:6800:8005::67 ipv6.google.com.hk
@@ -61,11 +61,6 @@
 #2401:3800:c001::68 g.cn                               #导航
 
 #2401:3800:c001::68 google.cn                          #跳转
-2401:3800:c001::68 translate.google.cn                 #翻译
-2401:3800:c001::68 blogsearch.google.cn                #博客搜索
-
-2401:3800:c001::68 pack.google.cn                      #软件精选（跳转）
-
 2401:3800:c001::68 news.google.cn                      #新闻（跳转）
 
 2401:3800:c001::68 video.google.cn                      #视频（跳转）
@@ -75,6 +70,8 @@
 #2401:3800:c001::68 ipv6cn.l.google.com
 
 2404:6800:8005::84 music.googleusercontent.cn
+
+2404:6800:8005::69 www.265.com #上网导航
 
 ##Google.com.tw    Google 台湾
 2404:6800:8005::2f www.google.com.tw                  #主页
@@ -337,18 +334,34 @@
 
 #Books             图书
 2404:6800:8005::62 books.google.com
+2404:6800:8005::8a books.google.com.hk
+
+2401:3800:c001::68 books.google.cn
+
 #2404:6800:8005::64 www3.l.google.com
 
-2404:6800:8005::62 bks0.books.google.com
-2404:6800:8005::62 bks1.books.google.com
-2404:6800:8005::62 bks2.books.google.com
-2404:6800:8005::62 bks3.books.google.com
-2404:6800:8005::62 bks4.books.google.com
-2404:6800:8005::62 bks5.books.google.com
-2404:6800:8005::62 bks6.books.google.com
-2404:6800:8005::62 bks7.books.google.com
-2404:6800:8005::62 bks8.books.google.com
-2404:6800:8005::62 bks9.books.google.com
+2404:6800:8005::66 bks0.books.google.com
+2404:6800:8005::66 bks1.books.google.com
+2404:6800:8005::66 bks2.books.google.com
+2404:6800:8005::66 bks3.books.google.com
+2404:6800:8005::66 bks4.books.google.com
+2404:6800:8005::66 bks5.books.google.com
+2404:6800:8005::66 bks6.books.google.com
+2404:6800:8005::66 bks7.books.google.com
+2404:6800:8005::66 bks8.books.google.com
+2404:6800:8005::66 bks9.books.google.com
+2404:6800:8005::66 bks10.books.google.com
+2404:6800:8005::66 bks0.books.google.com.hk
+2404:6800:8005::66 bks1.books.google.com.hk
+2404:6800:8005::66 bks2.books.google.com.hk
+2404:6800:8005::66 bks3.books.google.com.hk
+2404:6800:8005::66 bks4.books.google.com.hk
+2404:6800:8005::66 bks5.books.google.com.hk
+2404:6800:8005::66 bks6.books.google.com.hk
+2404:6800:8005::66 bks7.books.google.com.hk
+2404:6800:8005::66 bks8.books.google.com.hk
+2404:6800:8005::66 bks9.books.google.com.hk
+2404:6800:8005::66 bks10.books.google.com.hk
 
 
 
@@ -683,6 +696,8 @@
 
 #Group             论坛
 2404:6800:8005::62 groups.google.com
+2401:3800:c001::68 groups.google.cn
+2404:6800:8005::71 groups.google.com.hk
 2404:6800:8005::62 groups.l.google.com
 2404:6800:8005::89 *.googlegroups.com
 2404:6800:8005::89 blob-s-docs.googlegroups.com
@@ -691,7 +706,11 @@
 
 #Scholar           学术搜索
 2404:6800:8005::62 scholar.google.com
+2404:6800:8005::62 scholar.google.com.hk
+
 2404:6800:8005::62 scholar.l.google.com
+2401:3800:c001::68 scholar.google.cn
+
 
 
 
@@ -782,7 +801,7 @@
 2404:6800:8005::68 pack.google.com
 #2404:6800:8005::68 www2.l.google.com
 2404:6800:8005::68 cache.pack.google.com
-2401:3800:c001::68 pack.google.cn
+2404:6800:8005::6a pack.google.cn
 
 
 
