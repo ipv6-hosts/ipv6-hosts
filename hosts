@@ -281,6 +281,12 @@
 2404:6800:8005::68 mt1.google.cn
 2404:6800:8005::68 mt2.google.cn
 2404:6800:8005::68 mt3.google.cn
+2404:6800:8005::71 mts.google.com #加密版
+2404:6800:8005::71 mts0.google.com
+2404:6800:8005::71 mts1.google.com
+2404:6800:8005::71 mts2.google.com
+2404:6800:8005::71 mts3.google.com
+2404:6800:8005::71 mts.l.google.com
 2404:6800:8005::67 maps.gstatic.cn
 
 
@@ -698,6 +704,7 @@
 2404:6800:8005::62 groups.google.com
 2401:3800:c001::68 groups.google.cn
 2404:6800:8005::71 groups.google.com.hk
+2404:6800:8001::66 groups-beta.google.com
 2404:6800:8005::62 groups.l.google.com
 2404:6800:8005::89 *.googlegroups.com
 2404:6800:8005::89 blob-s-docs.googlegroups.com
@@ -1348,6 +1355,10 @@
 2404:6800:8005::62 t3.gstatic.com
 #2404:6800:8005::62 t4.gstatic.com
 
+2404:6800:8005::93 g0.gstatic.com
+2404:6800:8005::69 g1.gstatic.com
+2404:6800:8005::6a g2.gstatic.com
+2404:6800:8005::93 g3.gstatic.com
 2404:6800:8005::66 mt0.gstatic.com
 2404:6800:8005::66 mt1.gstatic.com
 2404:6800:8005::8b mt2.gstatic.com
