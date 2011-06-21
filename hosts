@@ -3,6 +3,8 @@
 #2404:6800:8005::68 www.l.google.com
 
 2404:6800:8005::c1 m.google.com                       #Google移动版
+2404:6800:8005::c1 m.google.com.hk
+
 2404:6800:8005::54 accounts.google.com                #帐户
 
 #2404:6800:8005::62 ns1.google.com                     #域名系统服务器ns-soa/ns
@@ -70,6 +72,8 @@
 #2401:3800:c001::68 ipv6cn.l.google.com
 
 2404:6800:8005::84 music.googleusercontent.cn
+
+2404:6800:8005::63 m.google.cn
 
 2404:6800:8005::69 www.265.com #上网导航
 
@@ -2312,6 +2316,10 @@
 2404:6800:8005::9b feedads.g.doubleclick.net
 2404:6800:8005::9c pubads.g.doubleclick.net
 2404:6800:8005::9c partnerad.l.doubleclick.net
+
+
+2001:4860:b006::9d s0.2mdn.net
+2001:4860:b006::9d s1.2mdn.net
 
 2404:6800:8005::90 fls.uk.doubleclick.net
 2404:6800:8005::8e *.au.doubleclick.net
