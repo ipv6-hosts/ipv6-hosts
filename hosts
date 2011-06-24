@@ -2237,12 +2237,9 @@
 #Android           Google 移动操作系统
 2404:6800:8005::62 www.android.com
 2404:6800:8005::62 android.com
-
-2404:6800:8003::79 developer.android.com
+2404:6800:8005::8a developer.android.com
 2404:6800:8005::62 source.android.com
-
 2404:6800:8005::62 market.android.com
-
 
 
 
@@ -2390,6 +2387,8 @@
 2404:6800:8005::6a ds.ipv6test.l.google.com
 
 #其他专题站
+
+2404:6800:8005::66 www.data-vocabulary.org
 2404:6800:8005::65 www.googleinsidesearch.com
 2404:6800:8005::79 www.teachparentstech.org
 2404:6800:8005::76 www.agoogleaday.com
