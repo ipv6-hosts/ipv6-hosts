@@ -87,54 +87,46 @@
 
 #IPv6：ipv6.google.co.jp
 
-##
+##其他
 
-2404:6800:8005::20 www.google.com.tr #土耳其
-2404:6800:8005::21 www.google.com.au #澳大利亚
-2404:6800:8005::22 www.google.com.vn #越南
-2404:6800:8005::23 www.google.com.pk #巴基斯坦
-2404:6800:8005::24 www.google.com.my #马来西亚
-2404:6800:8005::25 www.google.com.pe
-2404:6800:8005::26 www.google.co.za
-2404:6800:8005::27 www.google.co.ve
-2404:6800:8005::28 www.google.com.ph
-2404:6800:8005::29 www.google.com.ar
-2404:6800:8005::2a www.google.co.nz
-2404:6800:8005::2b www.google.lt
-#2404:6800:8005::2c www.google.cn     #中国（已死）
-2404:6800:8005::2d www.google.com.sg #新加坡
-2404:6800:8005::2e www.google.com.hk #香港
-2404:6800:8005::2f www.google.com.tw #台湾
-2404:6800:8005::30 www.google.co.jp  #日本
 2404:6800:8005::31 www.google.ae
-2404:6800:8005::32 www.google.co.uk  #英国
-2404:6800:8005::33 www.google.com.gr
-2404:6800:8005::34 www.google.de
-2404:6800:8005::35 www.google.co.il
-2404:6800:8005::36 www.google.fr     #法国
-
-
-
-2404:6800:8005::38 www.google.it     #意大利
-2404:6800:8005::39 www.google.lv
-2404:6800:8005::3a www.google.ca
-2404:6800:8005::3b www.google.pl
-2404:6800:8005::3c www.google.ch
-2404:6800:8005::3d www.google.ro
-2404:6800:8005::3e www.google.nl     #荷兰
-2404:6800:8005::3f www.google.com.ru #俄罗斯
+2404:6800:8005::29 www.google.com.ar
 2404:6800:8005::40 www.google.at     #奥地利
-
+2404:6800:8005::21 www.google.com.au #澳大利亚
 2404:6800:8005::42 www.google.be
-
-2404:6800:8005::44 www.google.co.kr  #南韩
-2404:6800:8005::45 www.google.com.ua
-
-2404:6800:8005::48 www.google.fi     #芬兰
-2404:6800:8005::49 www.google.co.in
-2404:6800:8005::4a www.google.pt
-2404:6800:8005::4b www.google.com.ly
 2404:6800:8005::4c www.google.com.br
+2404:6800:8005::3a www.google.ca
+2404:6800:8005::3c www.google.ch
+#2404:6800:8005::2c www.google.cn     #中国（已死）
+2404:6800:8005::48 www.google.fi     #芬兰
+2404:6800:8005::36 www.google.fr     #法国
+2404:6800:8005::34 www.google.de
+2404:6800:8005::33 www.google.com.gr
+2404:6800:8005::35 www.google.co.il
+2404:6800:8005::49 www.google.co.in
+2404:6800:8005::38 www.google.it     #意大利
+2404:6800:8005::30 www.google.co.jp  #日本
+2404:6800:8005::44 www.google.co.kr  #南韩
+2404:6800:8005::2b www.google.lt
+2404:6800:8005::39 www.google.lv
+2404:6800:8005::4b www.google.com.ly
+2404:6800:8005::24 www.google.com.my #马来西亚
+2404:6800:8005::3e www.google.nl     #荷兰
+2404:6800:8005::2a www.google.co.nz
+2404:6800:8005::25 www.google.com.pe
+2404:6800:8005::28 www.google.com.ph
+2404:6800:8005::23 www.google.com.pk #巴基斯坦
+2404:6800:8005::3b www.google.pl
+2404:6800:8005::4a www.google.pt
+2404:6800:8005::3d www.google.ro
+2404:6800:8005::3f www.google.com.ru #俄罗斯
+2404:6800:8005::2d www.google.com.sg #新加坡
+2404:6800:8005::20 www.google.com.tr #土耳其
+2404:6800:8005::45 www.google.com.ua
+2404:6800:8005::32 www.google.co.uk  #英国
+2404:6800:8005::27 www.google.co.ve
+2404:6800:8005::22 www.google.com.vn #越南
+2404:6800:8005::26 www.google.co.za
 
 
 #Web               网页
@@ -1380,41 +1372,44 @@
 
 
 ##Google其他服务
-#YouTube（如遇错误，请尝试全文替换将 2404:6800:4001: 与 2001:4860:4001: 替换为 2001:4860:4007:）
-2404:6800:8005::65 www.youtube.com
-2404:6800:8005::65 www.youtube-nocookie.com
+#YouTube（如遇错误，请尝试全文替换：）
+#（将 2404:6800:4001: 与 2001:4860:4001: 替换为 2001:4860:4007:）
 
-#2404:6800:8005::65 youtube-ui.l.google.com
-#2404:6800:8005::64 youtube-ui-china.l.google.com
-
-2404:6800:8005::64 m.youtube.com
-
-2404:6800:8005::64 tw.youtube.com
-#2404:6800:8005::64 youtube-ui.l.google.com
-
-2404:6800:8005::65 youtu.be
-2404:6800:8005::71 accounts.youtube.com
-2404:6800:8005::64 gdata.youtube.com
+2404:6800:8005::be youtube.com
+2404:6800:8005::5b www.youtube.com
+2404:6800:8005::5b au.youtube.com
+2404:6800:8005::5b ca.youtube.com
+2404:6800:8005::5b de.youtube.com
+2404:6800:8005::5b fr.youtube.com
+2404:6800:8005::5b jp.youtube.com
+2404:6800:8005::5b ru.youtube.com
+2404:6800:8005::5b uk.youtube.com
+2404:6800:8005::5b tw.youtube.com
+2404:6800:8005::5b www.youtube-nocookie.com
+2404:6800:8005::5b youtube-ui.l.google.com
+2404:6800:8005::66 m.youtube.com
+2404:6800:8005::88 youtu.be
+2404:6800:8005::76 gdata.youtube.com
 2404:6800:8005::76 stage.gdata.youtube.com
-
-2404:6800:8005::64 help.youtube.com
+2404:6800:8005::8a s.youtube.com
+2404:6800:8005::8a s2.youtube.com
+2404:6800:8005::8a accounts.youtube.com
+2404:6800:8005::8a video-stats.l.google.com
+2404:6800:8005::8b img.youtube.com
+2404:6800:8005::8b ytimg.l.google.com
+2404:6800:8005::8b i.ytimg.com
+2404:6800:8005::8b i1.ytimg.com
+2404:6800:8005::8b i2.ytimg.com
+2404:6800:8005::8b i3.ytimg.com
+2404:6800:8005::8b i4.ytimg.com
+2404:6800:8005::8b s.ytimg.com
+2404:6800:8005::8b ytstatic.l.google.com
+2404:6800:8005::69 help.youtube.com
 2404:6800:8005::64 upload.youtube.com
 2404:6800:8005::64 insight.youtube.com
-2404:6800:8005::64 img.youtube.com
-2404:6800:8005::64 s2.youtube.com
-2404:6800:8005::64 youtube.com
-2404:6800:8003::79 apiblog.youtube.com            #YouTube API 开发博客
+2404:6800:8003::79 apiblog.youtube.com
 2404:6800:8005::64 clients1.youtube.com
-2001:4860:4001:402::15 static.cache.l.google.com
-2404:6800:8005::76 ytimg.l.google.com
-2404:6800:8005::76 i.ytimg.com
-2404:6800:8005::76 i1.ytimg.com
-2404:6800:8005::76 i2.ytimg.com
-2404:6800:8005::76 i3.ytimg.com
-2404:6800:8005::76 i4.ytimg.com
-#2404:6800:8005::76 d.yimg.com
-2404:6800:8005::76 s.ytimg.com
-2404:6800:8005::62 s.youtube.com
+2404:6800:4008:2::c static.cache.l.google.com
 
 
 2404:6800:4001::10 v1.lscache1.c.youtube.com
