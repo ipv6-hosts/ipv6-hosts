@@ -1565,6 +1565,8 @@
 2404:6800:8005::84 doc-0g-7o-docs.googleusercontent.com
 
 2404:6800:8005::84 doc-0s-7o-docs.googleusercontent.com
+2404:6800:8005::84 images-docs-opensocial.googleusercontent.com
+
 2404:6800:8005::84 images-onepick-opensocial.googleusercontent.com
 2404:6800:8005::84 www-kix-opensocial.googleusercontent.com
 2404:6800:8005::84 www-onepick-opensocial.googleusercontent.com
@@ -2909,8 +2911,9 @@
 
 #Panoramio
 2404:6800:8005::8d www.panoramio.com
-#2404:6800:8005::8d appspot.l.google.com
 2404:6800:8005::80 static.panoramio.com
+2404:6800:8005::79 blog.panoramio.com
+
 
 
 
