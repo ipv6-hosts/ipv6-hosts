@@ -1553,6 +1553,7 @@
 2404:6800:8005::84 spreadsheets-opensocial.googleusercontent.com     #表格
 
 2404:6800:8005::84 www-opensocial.googleusercontent.com
+2404:6800:8005::84 www-fc-opensocial.googleusercontent.com
 2404:6800:8005::84 www-gm-opensocial.googleusercontent.com            #Gmail
 
 2404:6800:8005::84 www-opensocial-sandbox.googleusercontent.com       #SandBox
@@ -2905,6 +2906,7 @@
 2404:6800:8005::9a googleads.g.doubleclick.net
 2404:6800:8005::9b feedads.g.doubleclick.net
 2404:6800:8005::9c pubads.g.doubleclick.net
+2404:6800:8005::9c www.googletagservices.com
 2404:6800:8005::9c partnerad.l.doubleclick.net
 
 
