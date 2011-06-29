@@ -749,6 +749,7 @@
 
 2404:6800:8005::62 www.googlelabs.com
 2404:6800:8005::62 browsersize.googlelabs.com         #Browser Size
+2404:6800:8005::62 bodybrowser.googlelabs.com #Google Body
 2404:6800:8005::62 citytours.googlelabs.com           #City Tours
 2404:6800:8005::62 datawiki.googlelabs.com            #Google DataWiki
 
@@ -773,7 +774,7 @@
 2404:6800:8005::62 scriptconv.googlelabs.com          #Script Converter
 2404:6800:8005::62 similar-images.googlelabs.com      #Similar Images
 2404:6800:8005::62 storegadget.googlelabs.com         #Google Checkout Store Gadget
-
+2404:6800:8005::62 swiffy.googlelabs.com #Google Swiffy
 2404:6800:8005::62 tables.googlelabs.com              #Fusion Tables
 
 2404:6800:8005::62 appspot.l.google.com
