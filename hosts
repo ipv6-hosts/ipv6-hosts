@@ -248,7 +248,16 @@
 2404:6800:8005::66 khm1.google.com                    #Satellite View
 2404:6800:8005::66 khm2.google.com                    #Satellite View
 2404:6800:8005::66 khm3.google.com                    #Satellite View
+
+2404:6800:8005::8a khms.google.com #加密版
+2404:6800:8005::8a khms0.google.com
+2404:6800:8005::8a khms1.google.com
+2404:6800:8005::8a khms2.google.com
+2404:6800:8005::8a khms3.google.com
+2404:6800:8005::8a khms.l.google.com
+
 2404:6800:8005::65 cbk0.google.com                    #Street View
+
 2404:6800:8005::65 cbk1.google.com                    #Street View
 2404:6800:8005::65 cbk2.google.com                    #Street View
 2404:6800:8005::65 cbk3.google.com                    #Street View
