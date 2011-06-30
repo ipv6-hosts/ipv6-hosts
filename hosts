@@ -61,48 +61,47 @@
 
 ##Google.co.jp Google 日本
 2a00:1450:8006::30 www.google.co.jp
-
 #IPv6：ipv6.google.co.jp
 
 ##其他
-2404:6800:8005::31 www.google.ae
-2404:6800:8005::29 www.google.com.ar
+2404:6800:8005::31 www.google.ae #阿联酋
+2404:6800:8005::29 www.google.com.ar #阿根廷
 2404:6800:8005::40 www.google.at #奥地利
 2404:6800:8005::21 www.google.com.au #澳大利亚
-2404:6800:8005::42 www.google.be
-2404:6800:8005::4c www.google.com.br
-2404:6800:8005::3a www.google.ca
-2404:6800:8005::3c www.google.ch
+2404:6800:8005::42 www.google.be #比利时
+2404:6800:8005::4c www.google.com.br #巴西
+2404:6800:8005::3a www.google.ca #加拿大
+2404:6800:8005::3c www.google.ch #瑞士
 #2404:6800:8005::2c www.google.cn #中国（已死）
 2404:6800:8005::48 www.google.fi #芬兰
 2404:6800:8005::36 www.google.fr #法国
-2404:6800:8005::34 www.google.de
-2404:6800:8005::33 www.google.com.gr
-2404:6800:8005::35 www.google.co.il
-2404:6800:8005::49 www.google.co.in
+2404:6800:8005::34 www.google.de #德国
+2404:6800:8005::33 www.google.com.gr #希腊
+2404:6800:8005::35 www.google.co.il #以色列
+2404:6800:8005::49 www.google.co.in #印度
 2404:6800:8005::38 www.google.it #意大利
 2404:6800:8005::30 www.google.co.jp #日本
 2404:6800:8005::44 www.google.co.kr #南韩
-2404:6800:8005::2b www.google.lt
-2404:6800:8005::39 www.google.lv
-2404:6800:8005::4b www.google.com.ly
+2404:6800:8005::2b www.google.lt #立陶宛
+2404:6800:8005::39 www.google.lv #拉托维亚
+2404:6800:8005::4b www.google.com.ly #利比亚
 2404:6800:8005::24 www.google.com.my #马来西亚
 2404:6800:8005::3e www.google.nl #荷兰
-2404:6800:8005::2a www.google.co.nz
-2404:6800:8005::25 www.google.com.pe
-2404:6800:8005::28 www.google.com.ph
+2404:6800:8005::2a www.google.co.nz #纽西兰
+2404:6800:8005::25 www.google.com.pe #秘鲁
+2404:6800:8005::28 www.google.com.ph #菲律宾
 2404:6800:8005::23 www.google.com.pk #巴基斯坦
-2404:6800:8005::3b www.google.pl
-2404:6800:8005::4a www.google.pt
-2404:6800:8005::3d www.google.ro
+2404:6800:8005::3b www.google.pl #波兰
+2404:6800:8005::4a www.google.pt #葡萄牙
+2404:6800:8005::3d www.google.ro #罗马尼亚
 2404:6800:8005::3f www.google.com.ru #俄罗斯
 2404:6800:8005::2d www.google.com.sg #新加坡
 2404:6800:8005::20 www.google.com.tr #土耳其
-2404:6800:8005::45 www.google.com.ua
+2404:6800:8005::45 www.google.com.ua #乌克兰
 2404:6800:8005::32 www.google.co.uk #英国
-2404:6800:8005::27 www.google.co.ve
+2404:6800:8005::27 www.google.co.ve #委内瑞拉
 2404:6800:8005::22 www.google.com.vn #越南
-2404:6800:8005::26 www.google.co.za
+2404:6800:8005::26 www.google.co.za #南非
 
 #Web 网页
 2404:6800:8005::68 www.google.com
@@ -132,6 +131,291 @@
 2404:6800:8005::65 encrypted-tbn3.google.com
 2404:6800:8005::65 encrypted-tbn.l.google.com
 
+#Google Apps 企业应用套件
+2404:6800:8005::62 apps.google.com
+2404:6800:8003::79 ghs.google.com
+2404:6800:8003::79 ghs46.google.com #GHS 双栈入口！
+2404:6800:8003::79 ghs.l.google.com
+2404:6800:8003::79 ghs46.l.google.com
+#2404:6800:8003::79 ghs.google.com #可以添加你 GApps 域名的博客地址 / GSites 地址到这里
+
+#Mashups/App Engine GAE
+2404:6800:8005::67 googlemashups.com #Google Mashup Editor
+2404:6800:8005::68 www.googlemashups.com
+2404:6800:8005::62 googlemashups.l.google.com
+2404:6800:8005::63 *.googlemashups.com
+2404:6800:8005::64 appengine.google.com
+2404:6800:8005::62 appspot.l.google.com
+2404:6800:8005::8d *.appspot.com
+2404:6800:8005::8d productideas.appspot.com #Google 汇问
+2404:6800:8005::8d storegadgetwizard.appspot.com #Google Checkout Store Gadget
+2404:6800:8005::8d moderator.appspot.com #Google Moderator
+2404:6800:8005::8d gv-gadget.appspot.com #YouTube Gadget
+2404:6800:8005::8d haiticrisis.appspot.com #Google Person Finder: Haiti Earthquake
+2404:6800:8005::8d i18napis.appspot.com
+
+#Answers/Guru/WenDa 问答社区（国际版已停止运营）
+2404:6800:8005::66 answers.google.com
+#2404:6800:8005::62 guru.google.com
+2404:6800:8005::62 guru.google.co.th #泰国
+2404:6800:8005::2e wenda.google.com.hk
+
+#Blog 博客搜索
+2404:6800:8005::63 blogsearch.google.com
+2401:3800:c001::68 blogsearch.google.cn
+
+#Blogger 博客服务
+2404:6800:8005::bf www.blogger.com
+2404:6800:8005::bf blogger.com
+2404:6800:8005::bf buttons.blogger.com
+2404:6800:8005::bf beta.blogger.com
+2404:6800:8005::bf draft.blogger.com #Blogger 测试区
+2404:6800:8005::bf status.blogger.com #Blogger 状态
+2404:6800:8005::bf help.blogger.com #支持中心
+2404:6800:8005::bf buzz.blogger.com #Blogger Buzz博客（英文）
+2404:6800:8005::bf photos1.blogger.com
+2404:6800:8005::bf bp0.blogger.com
+2404:6800:8005::bf bp1.blogger.com
+2404:6800:8005::bf bp2.blogger.com
+2404:6800:8005::bf bloggerphotos.l.google.com
+2404:6800:8005::62 blogger.google.com
+2404:6800:8005::62 www2.blogger.com
+2404:6800:8005::62 blogger.l.google.com
+2404:6800:8005::62 www.blogblog.com
+2404:6800:8005::62 www1.blogblog.com
+2404:6800:8005::62 www2.blogblog.com
+2404:6800:8005::62 img.blogblog.com
+2404:6800:8005::62 img1.blogblog.com
+2404:6800:8005::62 img2.blogblog.com
+2404:6800:8005::62 img.blshe.com
+
+#Blogspot 博客服务
+2404:6800:8005::62 www.blogspot.com
+#2404:6800:8005::62 blogger.l.google.com
+2404:6800:8005::62 blogsofnote.blogspot.com #留言博客（英文版本）
+2404:6800:8005::62 knownissues.blogspot.com #已知问题
+2404:6800:8005::62 1.bp.blogspot.com
+2404:6800:8005::62 2.bp.blogspot.com
+2404:6800:8005::62 3.bp.blogspot.com
+2404:6800:8005::62 4.bp.blogspot.com
+2404:6800:8005::62 bloggertemplatespreview.blogspot.com #模板编辑器的实时预览功能
+#Google 官方博客群
+2404:6800:8005::62 adwordsapi.blogspot.com
+2404:6800:8005::62 adsense-zhs.blogspot.com
+2404:6800:8005::62 android-developers.blogspot.com
+2404:6800:8005::62 apacdeveloper.blogspot.com #Google Asia Pacific Developer Blog
+2404:6800:8005::62 booksearch.blogspot.com #Inside Google Books
+2404:6800:8005::62 chrome.blogspot.com
+2404:6800:8005::62 doubleclickpublishersapi.blogspot.com
+2404:6800:8005::62 emeadev.blogspot.com #Google Europe, Middle East & Africa Developer Blog
+2404:6800:8005::62 gearsblog.blogspot.com
+2404:6800:8005::62 google-code-featured.blogspot.com #Featured Projects on Google Code
+2404:6800:8005::62 google-entertainment-it.blogspot.com
+2404:6800:8005::62 google-opensource.blogspot.com
+2404:6800:8005::62 googleajaxsearchapi.blogspot.com
+2404:6800:8005::62 googleappengine.blogspot.com
+2404:6800:8005::62 googleappsdeveloper.blogspot.com
+2404:6800:8005::62 googleblog.blogspot.com #Official Google Blog
+2404:6800:8005::62 googlecheckout.blogspot.com
+2404:6800:8005::62 googlecheckoutapi.blogspot.com
+2404:6800:8005::62 googlechinablog.blogspot.com
+2404:6800:8005::62 googlechromereleases.blogspot.com #Google Chrome Releases
+2404:6800:8005::62 googlecode.blogspot.com
+2404:6800:8005::62 googlecustomsearch.blogspot.com #Google Custom Search Blog
+2404:6800:8005::62 googleenterprise.blogspot.com
+2404:6800:8005::62 googlegeodevelopers.blogspot.com #Google Geo Developers Blog
+2404:6800:8005::62 googlemashupeditor.blogspot.com
+2404:6800:8005::62 googlemobile.blogspot.com
+2404:6800:8005::62 googleresearch.blogspot.com
+2404:6800:8005::62 googletalk.blogspot.com
+2404:6800:8005::62 googlewebmaster-cn.blogspot.com
+2404:6800:8005::62 googlewebmastercentral.blogspot.com
+2404:6800:8005::62 googlewebtoolkit.blogspot.com
+2404:6800:8005::62 golangblog.blogspot.com
+2404:6800:8005::62 gmailblog.blogspot.com
+2404:6800:8005::62 igoogledeveloper.blogspot.com #iGoogle Developer Blog
+2404:6800:8005::62 webmproject.blogspot.com
+2404:6800:8005::62 youtube-global.blogspot.com #YouTube Blog
+#2404:6800:8005::62 *.blogspot.com #可以添加你自己的博客地址到这里
+
+#Books 图书
+2404:6800:8005::62 books.google.com
+2404:6800:8005::8a books.google.com.hk
+2401:3800:c001::68 books.google.cn
+2404:6800:8005::66 bks0.books.google.com
+2404:6800:8005::66 bks1.books.google.com
+2404:6800:8005::66 bks2.books.google.com
+2404:6800:8005::66 bks3.books.google.com
+2404:6800:8005::66 bks4.books.google.com
+2404:6800:8005::66 bks5.books.google.com
+2404:6800:8005::66 bks6.books.google.com
+2404:6800:8005::66 bks7.books.google.com
+2404:6800:8005::66 bks8.books.google.com
+2404:6800:8005::66 bks9.books.google.com
+2404:6800:8005::66 bks10.books.google.com
+2404:6800:8005::66 bks0.books.google.com.hk
+2404:6800:8005::66 bks1.books.google.com.hk
+2404:6800:8005::66 bks2.books.google.com.hk
+2404:6800:8005::66 bks3.books.google.com.hk
+2404:6800:8005::66 bks4.books.google.com.hk
+2404:6800:8005::66 bks5.books.google.com.hk
+2404:6800:8005::66 bks6.books.google.com.hk
+2404:6800:8005::66 bks7.books.google.com.hk
+2404:6800:8005::66 bks8.books.google.com.hk
+2404:6800:8005::66 bks9.books.google.com.hk
+2404:6800:8005::66 bks10.books.google.com.hk#Buzz
+2404:6800:8005::62 buzz.google.com
+
+#Calendar 日历
+2404:6800:8005::64 calendar.google.com
+
+#Checkout 买家
+2404:6800:8005::73 checkout.google.com
+#2404:6800:8005::73 checkout.l.google.com
+
+#Chrome 谷歌浏览器
+2404:6800:8005::64 chrome.google.com
+2404:6800:8005::65 browsersync.google.com
+2404:6800:8005::65 browsersync.l.google.com
+2404:6800:8005::63 toolbarqueries.google.com #PageRank 查询（工具栏显示）
+2404:6800:8005::63 toolbarqueries.clients.google.com
+2404:6800:8005::63 toolbarqueries.l.google.com
+2404:6800:8003::79 chrome.angrybirds.com
+
+#Chromium Chromium 项目
+2404:6800:8005::65 chromium.org #跳转
+2404:6800:8003::79 www.chromium.org
+2404:6800:8003::79 dev.chromium.org
+2404:6800:8003::79 blog.chromium.org
+#2404:6800:8005::62 build.chromium.org
+
+#Chromium OS Chromium 操作系统
+2404:6800:8003::79 goto.ext.google.com
+2404:6800:8005::8d welcome-cros.appspot.com #原 Chromium 主菜单
+
+#Code 代码
+2404:6800:8005::64 code.google.com
+2404:6800:8005::64 code.l.google.com
+2404:6800:8005::52 *.googlecode.com
+2404:6800:8005::52 chromium.googlecode.com
+2404:6800:8005::52 closure-library.googlecode.com
+2404:6800:8005::52 earth-api-samples.googlecode.com
+2404:6800:8005::52 gmaps-samples-flash.googlecode.com
+2404:6800:8005::52 google-code-feed-gadget.googlecode.com
+
+#Desktop 桌面
+2404:6800:8005::62 desktop.google.com
+2404:6800:8005::62 desktop.l.google.com
+
+#Directory 网页目录
+2404:6800:8005::8a directory.google.com
+2404:6800:8005::8a dir.google.com #Google网页目录
+
+#Docs 文档
+2404:6800:8005::71 docs.google.com
+2404:6800:8005::64 docs0.google.com
+2404:6800:8005::64 docs1.google.com
+2404:6800:8005::64 docs2.google.com
+2404:6800:8005::64 docs3.google.com
+2404:6800:8005::64 docs4.google.com
+2404:6800:8005::64 docs5.google.com
+2404:6800:8005::64 docs6.google.com
+2404:6800:8005::64 docs7.google.com
+2404:6800:8005::64 docs8.google.com
+2404:6800:8005::64 docs9.google.com
+2404:6800:8001::bd 0.docs.google.com
+2404:6800:8001::bd 1.docs.google.com
+2404:6800:8001::bd 2.docs.google.com
+2404:6800:8001::bd 3.docs.google.com
+2404:6800:8001::bd 4.docs.google.com
+2404:6800:8001::bd 5.docs.google.com
+2404:6800:8001::bd 6.docs.google.com
+2404:6800:8001::bd 7.docs.google.com
+2404:6800:8001::bd 8.docs.google.com
+2404:6800:8001::bd 9.docs.google.com
+2404:6800:8001::bd 10.docs.google.com
+2404:6800:8001::bd 11.docs.google.com
+2404:6800:8001::bd 12.docs.google.com
+2404:6800:8001::bd 13.docs.google.com
+2404:6800:8001::bd 14.docs.google.com
+2404:6800:8001::bd 15.docs.google.com
+2404:6800:8001::bd 16.docs.google.com
+#2404:6800:8001::bd *.docs.google.com #按需要同时打开的文档个数自行添加
+2404:6800:8001::bd browserchannel-docs.l.google.com
+2404:6800:8005::62 spreadsheet.google.com
+2404:6800:8005::62 spreadsheets.google.com
+2404:6800:8005::62 spreadsheets0.google.com
+2404:6800:8005::62 spreadsheets1.google.com
+2404:6800:8005::62 spreadsheets2.google.com
+2404:6800:8005::62 spreadsheets3.google.com
+2404:6800:8005::62 spreadsheets4.google.com
+2404:6800:8005::62 spreadsheets5.google.com
+2404:6800:8005::62 spreadsheets6.google.com
+2404:6800:8005::62 spreadsheets7.google.com
+2404:6800:8005::62 spreadsheets8.google.com
+2404:6800:8005::62 spreadsheets9.google.com
+2404:6800:8005::62 spreadsheets.l.google.com
+2404:6800:8005::62 spreadsheets-china.l.google.com
+2404:6800:8005::62 writely.google.com
+2404:6800:8005::62 writely.l.google.com
+2404:6800:8005::62 writely-com.l.google.com
+2404:6800:8005::62 writely-china.l.google.com
+
+#Download 下载
+2404:6800:8005::5b dl.google.com
+2404:6800:8005::5d dl.l.google.com
+2404:6800:8005::88 dl-ssl.google.com
+
+#Google Earth 地球
+2404:6800:8005::65 earth.google.com
+2404:6800:8005::8b auth.keyhole.com
+2404:6800:8005::8b geoauth.google.com
+
+#Finance 财经
+2404:6800:8005::62 finance.google.com
+
+#Fusion RSS 聚合指南
+2404:6800:8005::62 fusion.google.com
+
+#Gmail 邮箱
+2404:6800:8005::11 mail.google.com
+2404:6800:8005::53 googlemail.l.google.com
+2404:6800:8005::11 googlemail.l.google.com
+2404:6800:8005::12 googlemail.l.google.com
+2404:6800:8005::13 googlemail.l.google.com
+2404:6800:8005::bd chatenabled.mail.google.com #Gmail中Gtalk聊天服务
+2404:6800:8005::bd filetransferenabled.mail.google.com
+#2404:6800:8005::bd b.googlemail.l.google.com
+2404:6800:8005::62 talk.gmail.com #Gmail中Gtalk聊天服务
+2404:6800:8005::62 gmail.google.com
+2404:6800:8005::62 gmail.l.google.com
+2404:6800:8005::62 www.gmail.com
+2404:6800:8005::62 gmail.com
+2404:6800:8005::62 pop.gmail.com #pop服务
+2404:6800:8005::62 smtp.gmail.com #smtp服务
+2404:6800:8005::62 smtp1.google.com
+2404:6800:8005::62 smtp2.google.com
+2404:6800:8005::62 smtp3.google.com
+2404:6800:8005::62 smtp4.google.com
+2404:6800:8005::62 smtp5.google.com
+2404:6800:8005::62 smtp-out.google.com
+2404:6800:8005::62 smtp-out2.google.com
+2404:6800:8005::62 smtp-out3.google.com
+2404:6800:8005::62 imap.google.com
+2404:6800:8005::62 gmail-pop.l.google.com
+2404:6800:8005::62 gmail-smtp.l.google.com
+2404:6800:8005::62 gmail-smtp-in.l.google.com
+2404:6800:8005::62 gmr-smtp-in.l.google.com
+
+#Group 论坛
+2404:6800:8005::62 groups.google.com
+2401:3800:c001::68 groups.google.cn
+2404:6800:8005::71 groups.google.com.hk
+2404:6800:8001::66 groups-beta.google.com
+2404:6800:8005::62 groups.l.google.com
+2404:6800:8005::89 *.googlegroups.com
+2404:6800:8005::89 blob-s-docs.googlegroups.com
+
 #Images 图片
 2404:6800:8005::68 images.google.com
 2404:6800:8005::68 images.l.google.com
@@ -143,49 +427,35 @@
 2404:6800:8005::62 tbn5.google.com
 2404:6800:8005::62 tbn6.google.com
 
-#Video 视频
-2404:6800:8005::62 video.google.com
-#2404:6800:8005::62 video.l.google.com
-2404:6800:8005::62 0.gvt0.com
-2404:6800:8005::62 1.gvt0.com
-2404:6800:8005::62 2.gvt0.com
-2404:6800:8005::62 3.gvt0.com
-2404:6800:8005::62 4.gvt0.com
-2404:6800:8005::62 5.gvt0.com
-2404:6800:8005::62 video-stats.video.google.com
-2404:6800:8005::74 upload.video.google.com
-2404:6800:8005::74 sslvideo-upload.l.google.com
-2404:6800:8005::62 vp.video.google.com
-2404:6800:8005::62 vp.video.l.google.com
-2404:6800:8005::62 qwqy.vp.video.l.google.com
-2404:6800:8005::62 nz.vp.video.l.google.com
-2404:6800:8005::62 nztdug.vp.video.l.google.com
-2404:6800:8005::62 pr.vp.video.l.google.com
-2404:6800:8005::62 ug.vp.video.l.google.com
-2404:6800:8005::62 vp01.video.l.google.com
-2404:6800:8005::62 vp02.video.l.google.com
-2404:6800:8005::62 vp03.video.l.google.com
-2404:6800:8005::62 vp04.video.l.google.com
-2404:6800:8005::62 vp05.video.l.google.com
-2404:6800:8005::62 vp06.video.l.google.com
-2404:6800:8005::62 vp07.video.l.google.com
-2404:6800:8005::62 vp08.video.l.google.com
-2404:6800:8005::62 vp09.video.l.google.com
-2404:6800:8005::62 vp10.video.l.google.com
-2404:6800:8005::62 vp11.video.l.google.com
-2404:6800:8005::62 vp12.video.l.google.com
-2404:6800:8005::62 vp13.video.l.google.com
-2404:6800:8005::62 vp14.video.l.google.com
-2404:6800:8005::62 vp15.video.l.google.com
-2404:6800:8005::62 vp16.video.l.google.com
-2404:6800:8005::62 vp17.video.l.google.com
-2404:6800:8005::62 vp18.video.l.google.com
-2404:6800:8005::62 vp19.video.l.google.com
-2404:6800:8005::62 vp20.video.l.google.com
-2401:3800:c001::68 0.gvt0.cn
-2401:3800:c001::68 1.gvt0.cn
-2401:3800:c001::68 2.gvt0.cn
-2401:3800:c001::68 3.gvt0.cn
+#Knol 在线百科全书
+2404:6800:8005::65 knol.google.com
+
+#Labs 实验室
+2404:6800:8005::65 labs.google.com
+2404:6800:8005::62 www.googlelabs.com
+2404:6800:8005::62 browsersize.googlelabs.com #Browser Size
+2404:6800:8005::62 bodybrowser.googlelabs.com #Google Body
+2404:6800:8005::62 citytours.googlelabs.com #City Tours
+2404:6800:8005::62 datawiki.googlelabs.com #Google DataWiki
+2404:6800:8005::62 fastflip.googlelabs.com #Fast Flip
+2404:6800:8005::62 followfinder.googlelabs.com #Follow Finder
+2404:6800:8005::62 earthengine.googlelabs.com #Earth Engine
+2404:6800:8005::62 image-swirl.googlelabs.com #Image Swirl
+2404:6800:8005::62 juliamap.googlelabs.com #Julia Map
+2404:6800:8005::62 listen.googlelabs.com #Google Listen
+2404:6800:8005::62 livingstories.googlelabs.com #Living Stories
+2404:6800:8005::62 newstimeline.googlelabs.com #Google News Timeline
+2404:6800:8005::62 pagespeed.googlelabs.com
+2404:6800:8005::62 relatedlinks.googlelabs.com #Related Links
+2404:6800:8005::62 scriptconv.googlelabs.com #Script Converter
+2404:6800:8005::62 similar-images.googlelabs.com #Similar Images
+2404:6800:8005::62 storegadget.googlelabs.com #Google Checkout Store Gadget
+2404:6800:8005::62 swiffy.googlelabs.com #Google Swiffy
+2404:6800:8005::62 tables.googlelabs.com #Fusion Tables
+2404:6800:8005::62 appspot.l.google.com
+
+#Google Mars 火星地图
+2404:6800:8005::65 mars.google.com
 
 #Maps 地图
 2404:6800:8005::68 maps.google.com #主页
@@ -244,6 +514,12 @@
 2404:6800:8005::71 mts.l.google.com
 2404:6800:8005::67 maps.gstatic.cn
 
+#Music Beta by Google 云音乐服务
+2404:6800:8005::65 music.google.com
+2404:6800:8005::74 t.doc-0-0-sj.sj.googleusercontent.com #个人音乐库
+2404:6800:8005::74 music-streaming.l.google.com
+2404:6800:8005::84 music.googleusercontent.com #音乐播放器 专辑封面 等
+
 #News 资讯
 2404:6800:8005::68 news.google.com
 2404:6800:8005::68 news.l.google.com
@@ -254,83 +530,38 @@
 2404:6800:8005::62 nt4.ggpht.com
 2404:6800:8005::62 nt5.ggpht.com
 
-#Gmail 邮箱
-2404:6800:8005::11 mail.google.com
-2404:6800:8005::53 googlemail.l.google.com
-2404:6800:8005::11 googlemail.l.google.com
-2404:6800:8005::12 googlemail.l.google.com
-2404:6800:8005::13 googlemail.l.google.com
-2404:6800:8005::bd chatenabled.mail.google.com #Gmail中Gtalk聊天服务
-2404:6800:8005::bd filetransferenabled.mail.google.com
-#2404:6800:8005::bd b.googlemail.l.google.com
-2404:6800:8005::62 talk.gmail.com #Gmail中Gtalk聊天服务
-2404:6800:8005::62 gmail.google.com
-2404:6800:8005::62 gmail.l.google.com
-2404:6800:8005::62 www.gmail.com
-2404:6800:8005::62 gmail.com
-2404:6800:8005::62 pop.gmail.com #pop服务
-2404:6800:8005::62 smtp.gmail.com #smtp服务
-2404:6800:8005::62 smtp1.google.com
-2404:6800:8005::62 smtp2.google.com
-2404:6800:8005::62 smtp3.google.com
-2404:6800:8005::62 smtp4.google.com
-2404:6800:8005::62 smtp5.google.com
-2404:6800:8005::62 smtp-out.google.com
-2404:6800:8005::62 smtp-out2.google.com
-2404:6800:8005::62 smtp-out3.google.com
-2404:6800:8005::62 imap.google.com
-2404:6800:8005::62 gmail-pop.l.google.com
-2404:6800:8005::62 gmail-smtp.l.google.com
-2404:6800:8005::62 gmail-smtp-in.l.google.com
-2404:6800:8005::62 gmr-smtp-in.l.google.com
+#Orkut 网络社区
+2404:6800:8005::56 www.orkut.com
+#2404:6800:8005::56 orkut-fe.l.google.com
+2404:6800:8005::56 www.orkut.gmodules.com
+#2404:6800:8005::56 *.a.orkut.gmodules.com
+#2404:6800:8005::56 orkut-opensocial.l.google.com
+2404:6800:8005::57 img1.orkut.com
+2404:6800:8005::57 img2.orkut.com
+2404:6800:8005::57 img3.orkut.com
+2404:6800:8005::57 img4.orkut.com
+2404:6800:8005::57 img5.orkut.com
+2404:6800:8005::57 img6.orkut.com
+2404:6800:8005::57 img7.orkut.com
+2404:6800:8005::57 img8.orkut.com
+2404:6800:8005::57 img9.orkut.com
+#2404:6800:8005::57 orkut-images.l.google.com
+2404:6800:8005::55 static1.orkut.com
+2404:6800:8005::55 static2.orkut.com
+2404:6800:8005::55 static3.orkut.com
+2404:6800:8005::55 static4.orkut.com
+#2404:6800:8005::55 orkut-static.l.google.com
+2404:6800:8005::55 promote.orkut.com
+#2404:6800:8005::55 orkut-promote.l.google.com
+2404:6800:8005::69 help.orkut.com
+2404:6800:8005::62 officialorkutblog.blogspot.com
+2404:6800:8003::79 blog.orkut.com
+2404:6800:8003::79 en.blog.orkut.com
 
-#Books 图书
-2404:6800:8005::62 books.google.com
-2404:6800:8005::8a books.google.com.hk
-2401:3800:c001::68 books.google.cn
-2404:6800:8005::66 bks0.books.google.com
-2404:6800:8005::66 bks1.books.google.com
-2404:6800:8005::66 bks2.books.google.com
-2404:6800:8005::66 bks3.books.google.com
-2404:6800:8005::66 bks4.books.google.com
-2404:6800:8005::66 bks5.books.google.com
-2404:6800:8005::66 bks6.books.google.com
-2404:6800:8005::66 bks7.books.google.com
-2404:6800:8005::66 bks8.books.google.com
-2404:6800:8005::66 bks9.books.google.com
-2404:6800:8005::66 bks10.books.google.com
-2404:6800:8005::66 bks0.books.google.com.hk
-2404:6800:8005::66 bks1.books.google.com.hk
-2404:6800:8005::66 bks2.books.google.com.hk
-2404:6800:8005::66 bks3.books.google.com.hk
-2404:6800:8005::66 bks4.books.google.com.hk
-2404:6800:8005::66 bks5.books.google.com.hk
-2404:6800:8005::66 bks6.books.google.com.hk
-2404:6800:8005::66 bks7.books.google.com.hk
-2404:6800:8005::66 bks8.books.google.com.hk
-2404:6800:8005::66 bks9.books.google.com.hk
-2404:6800:8005::66 bks10.books.google.com.hk
-
-#Finance 财经
-2404:6800:8005::62 finance.google.com
-
-#Translate 翻译
-2404:6800:8005::62 translate.google.com
-2401:3800:c001::68 translate.google.cn
-
-#Trends 趋势
-2404:6800:8005::63 trends.google.com
-
-#Directory 网页目录
-2404:6800:8005::8a directory.google.com
-2404:6800:8005::8a dir.google.com #Google网页目录
-
-#Blog 博客搜索
-2404:6800:8005::63 blogsearch.google.com
-2401:3800:c001::68 blogsearch.google.cn
-
-#Calendar 日历
-2404:6800:8005::64 calendar.google.com
+#Pack 软件精选
+2404:6800:8005::68 pack.google.com
+2404:6800:8005::68 cache.pack.google.com
+2404:6800:8005::6a pack.google.cn
 
 #Photo/Picasa 照片/网络相册
 2404:6800:8005::5d photos.google.com
@@ -349,55 +580,109 @@
 2404:6800:8005::62 lh9.ggpht.com
 2404:6800:8005::62 lh6.google.com
 
-#Docs 文档
-2404:6800:8005::71 docs.google.com
-2404:6800:8005::64 docs0.google.com
-2404:6800:8005::64 docs1.google.com
-2404:6800:8005::64 docs2.google.com
-2404:6800:8005::64 docs3.google.com
-2404:6800:8005::64 docs4.google.com
-2404:6800:8005::64 docs5.google.com
-2404:6800:8005::64 docs6.google.com
-2404:6800:8005::64 docs7.google.com
-2404:6800:8005::64 docs8.google.com
-2404:6800:8005::64 docs9.google.com
-2404:6800:8001::bd 0.docs.google.com
-2404:6800:8001::bd 1.docs.google.com
-2404:6800:8001::bd 2.docs.google.com
-2404:6800:8001::bd 3.docs.google.com
-2404:6800:8001::bd 4.docs.google.com
-2404:6800:8001::bd 5.docs.google.com
-2404:6800:8001::bd 6.docs.google.com
-2404:6800:8001::bd 7.docs.google.com
-2404:6800:8001::bd 8.docs.google.com
-2404:6800:8001::bd 9.docs.google.com
-2404:6800:8001::bd 10.docs.google.com
-2404:6800:8001::bd 11.docs.google.com
-2404:6800:8001::bd 12.docs.google.com
-2404:6800:8001::bd 13.docs.google.com
-2404:6800:8001::bd 14.docs.google.com
-2404:6800:8001::bd 15.docs.google.com
-2404:6800:8001::bd 16.docs.google.com
-#2404:6800:8001::bd *.docs.google.com #按需要同时打开的文档个数自行添加
-2404:6800:8001::bd browserchannel-docs.l.google.com
-2404:6800:8005::62 spreadsheet.google.com
-2404:6800:8005::62 spreadsheets.google.com
-2404:6800:8005::62 spreadsheets0.google.com
-2404:6800:8005::62 spreadsheets1.google.com
-2404:6800:8005::62 spreadsheets2.google.com
-2404:6800:8005::62 spreadsheets3.google.com
-2404:6800:8005::62 spreadsheets4.google.com
-2404:6800:8005::62 spreadsheets5.google.com
-2404:6800:8005::62 spreadsheets6.google.com
-2404:6800:8005::62 spreadsheets7.google.com
-2404:6800:8005::62 spreadsheets8.google.com
-2404:6800:8005::62 spreadsheets9.google.com
-2404:6800:8005::62 spreadsheets.l.google.com
-2404:6800:8005::62 spreadsheets-china.l.google.com
-2404:6800:8005::62 writely.google.com
-2404:6800:8005::62 writely.l.google.com
-2404:6800:8005::62 writely-com.l.google.com
-2404:6800:8005::62 writely-china.l.google.com
+#Profiles 个人主页
+2404:6800:8005::71 profiles.google.com
+2404:6800:8005::65 plusone.google.com
+2404:6800:8005::8a plus.google.com
+
+#Reader 阅读器
+2404:6800:8005::68 reader.google.com
+
+#SafeBrowing 安全检测服务
+2404:6800:8005::62 sb.google.com #安全浏览检测 API
+2001:4860:8010::88 sb.l.google.com
+2404:6800:8005::62 sb-ssl.google.com
+2001:4860:8010::be sb-ssl.google.com
+2001:4860:8010::5b sb-ssl.google.com
+2001:4860:8010::5d sb-ssl.google.com
+2001:4860:8010::88 sb-ssl.google.com
+2404:6800:8005::62 sb-ssl.l.google.com
+2404:6800:8005::62 safebrowsing.clients.google.com #安全浏览警告页面
+2404:6800:8005::62 safebrowsing-cache.google.com #安全浏览警告数据（分块加载）
+2404:6800:8005::65 safebrowsing.cache.l.google.com
+
+#Sandbox 服务沙盒
+2404:6800:8005::51 sandbox.google.com
+
+#Scholar 学术搜索
+2404:6800:8005::62 scholar.google.com
+2404:6800:8005::62 scholar.google.com.hk
+2404:6800:8005::62 scholar.l.google.com
+2401:3800:c001::68 scholar.google.cn
+
+#Sites 协作平台
+2404:6800:8005::65 sites.google.com
+2404:6800:8005::62 gsamplemaps.googlepages.com
+
+#SketchUp 3D 建模工具
+2404:6800:8005::62 sketchup.google.com
+#2404:6800:8005::62 sketchup.l.google.com
+
+#Google Store Google 商店（里面有很多谷歌自己的东西出售，像谷歌T恤、茶杯、小玩意等等）
+#2404:6800:8005::62 www.googlestore.com
+
+#Google Talk/Chat 聊天
+#2404:6800:8005::7d talk.google.com
+#2404:6800:8005::7d talk.l.google.com
+#2404:6800:8005::62 default.talk.google.com
+2404:6800:8005::62 talkgadget.google.com
+#2404:6800:8005::62 rtmp0.google.com
+#2404:6800:8005::62 users.talk.google.com
+
+#Toolbar 工具栏
+2404:6800:8005::62 toolbar.google.com
+#2404:6800:8005::62 tools.l.google.com
+
+#Tools 工具
+2404:6800:8005::62 tools.google.com
+2404:6800:8005::62 tools.l.google.com
+
+#Translate 翻译
+2404:6800:8005::62 translate.google.com
+2401:3800:c001::68 translate.google.cn
+
+#Trends 趋势
+2404:6800:8005::63 trends.google.com
+
+#Video 视频
+2404:6800:8005::62 video.google.com
+#2404:6800:8005::62 video.l.google.com
+2404:6800:8005::62 0.gvt0.com
+2404:6800:8005::62 1.gvt0.com
+2404:6800:8005::62 2.gvt0.com
+2404:6800:8005::62 3.gvt0.com
+2404:6800:8005::62 4.gvt0.com
+2404:6800:8005::62 5.gvt0.com
+2404:6800:8005::62 video-stats.video.google.com
+2404:6800:8005::74 upload.video.google.com
+2404:6800:8005::74 sslvideo-upload.l.google.com
+2404:6800:8005::62 vp.video.google.com
+2404:6800:8005::62 vp.video.l.google.com
+2404:6800:8005::62 qwqy.vp.video.l.google.com
+2404:6800:8005::62 nz.vp.video.l.google.com
+2404:6800:8005::62 nztdug.vp.video.l.google.com
+2404:6800:8005::62 pr.vp.video.l.google.com
+2404:6800:8005::62 ug.vp.video.l.google.com
+2404:6800:8005::62 vp01.video.l.google.com
+2404:6800:8005::62 vp02.video.l.google.com
+2404:6800:8005::62 vp03.video.l.google.com
+2404:6800:8005::62 vp04.video.l.google.com
+2404:6800:8005::62 vp05.video.l.google.com
+2404:6800:8005::62 vp06.video.l.google.com
+2404:6800:8005::62 vp07.video.l.google.com
+2404:6800:8005::62 vp08.video.l.google.com
+2404:6800:8005::62 vp09.video.l.google.com
+2404:6800:8005::62 vp10.video.l.google.com
+2404:6800:8005::62 vp11.video.l.google.com
+2404:6800:8005::62 vp12.video.l.google.com
+2404:6800:8005::62 vp13.video.l.google.com
+2404:6800:8005::62 vp14.video.l.google.com
+2404:6800:8005::62 vp15.video.l.google.com
+2404:6800:8005::62 vp16.video.l.google.com
+2404:6800:8005::62 vp17.video.l.google.com
+2404:6800:8005::62 vp18.video.l.google.com
+2404:6800:8005::62 vp19.video.l.google.com
+2404:6800:8005::62 vp20.video.l.google.com
 2001:4860:4001:2::6 v1.nonxt1.googlevideo.com #视频文件在线播放
 2001:4860:4001:6::6 v1.nonxt2.googlevideo.com
 2001:4860:4001:3::6 v1.nonxt3.googlevideo.com
@@ -590,216 +875,68 @@
 2001:4860:4001:7::12 v24.nonxt6.googlevideo.com
 2001:4860:4001:5::12 v24.nonxt7.googlevideo.com
 2001:4860:4001:1::12 v24.nonxt8.googlevideo.com
+2401:3800:c001::68 0.gvt0.cn
+2401:3800:c001::68 1.gvt0.cn
+2401:3800:c001::68 2.gvt0.cn
+2401:3800:c001::68 3.gvt0.cn
 
-#Reader 阅读器
-2404:6800:8005::68 reader.google.com
+#Wave 波浪
+2404:6800:8005::76 wave.google.com
+2404:6800:8005::76 wave0.google.com
+2404:6800:8005::76 wave1.google.com
+2404:6800:8005::62 googlewave.com
 
-#Group 论坛
-2404:6800:8005::62 groups.google.com
-2401:3800:c001::68 groups.google.cn
-2404:6800:8005::71 groups.google.com.hk
-2404:6800:8001::66 groups-beta.google.com
-2404:6800:8005::62 groups.l.google.com
-2404:6800:8005::89 *.googlegroups.com
-2404:6800:8005::89 blob-s-docs.googlegroups.com
+#WiFi
+2404:6800:8005::7b wifi.google.com
+2404:6800:8005::62 wifi.l.google.com
 
-#Scholar 学术搜索
-2404:6800:8005::62 scholar.google.com
-2404:6800:8005::62 scholar.google.com.hk
-2404:6800:8005::62 scholar.l.google.com
-2401:3800:c001::68 scholar.google.cn
+#iGoogle Modules iGoogle 小工具
+2404:6800:8005::62 gmodules.com
+2404:6800:8005::62 www.gmodules.com
+2404:6800:8005::62 www.ig.gmodules.com
+2404:6800:8005::62 ig.gmodules.com
+2404:6800:8005::62 ads.gmodules.com
+2404:6800:8005::62 p.gmodules.com
+2404:6800:8005::62 1.ig.gmodules.com
+2404:6800:8005::62 2.ig.gmodules.com
+2404:6800:8005::62 3.ig.gmodules.com
+2404:6800:8005::62 4.ig.gmodules.com
+2404:6800:8005::62 5.ig.gmodules.com
+2404:6800:8005::62 6.ig.gmodules.com
+2404:6800:8005::62 maps.gmodules.com
+2404:6800:8005::62 img0.gmodules.com
+2404:6800:8005::62 img1.gmodules.com
+2404:6800:8005::62 img2.gmodules.com
+2404:6800:8005::62 img3.gmodules.com
+2404:6800:8005::62 skins.gmodules.com
+2404:6800:8005::62 friendconnect.gmodules.com
+2404:6800:8005::62 mc8tdi0ripmbpds25eboaupdulritrp6.friendconnect.gmodules.com
+2404:6800:8005::62 r1rk9np7bpcsfoeekl0khkd2juj27q3o.friendconnect.gmodules.com
+2404:6800:8005::62 r1rk9np7bpcsfoeekl0khkd2juj27q3o.a.friendconnect.gmodules.com
 
-#Tools 工具
-2404:6800:8005::62 tools.google.com
-2404:6800:8005::62 tools.l.google.com
-
-#Code 代码
-2404:6800:8005::64 code.google.com
-2404:6800:8005::64 code.l.google.com
-2404:6800:8005::52 *.googlecode.com
-2404:6800:8005::52 chromium.googlecode.com
-2404:6800:8005::52 closure-library.googlecode.com
-2404:6800:8005::52 earth-api-samples.googlecode.com
-2404:6800:8005::52 gmaps-samples-flash.googlecode.com
-2404:6800:8005::52 google-code-feed-gadget.googlecode.com
-
-#Sandbox 服务沙盒
-2404:6800:8005::51 sandbox.google.com
-
-#Labs 实验室
-2404:6800:8005::65 labs.google.com
-2404:6800:8005::62 www.googlelabs.com
-2404:6800:8005::62 browsersize.googlelabs.com #Browser Size
-2404:6800:8005::62 bodybrowser.googlelabs.com #Google Body
-2404:6800:8005::62 citytours.googlelabs.com #City Tours
-2404:6800:8005::62 datawiki.googlelabs.com #Google DataWiki
-2404:6800:8005::62 fastflip.googlelabs.com #Fast Flip
-2404:6800:8005::62 followfinder.googlelabs.com #Follow Finder
-2404:6800:8005::62 earthengine.googlelabs.com #Earth Engine
-2404:6800:8005::62 image-swirl.googlelabs.com #Image Swirl
-2404:6800:8005::62 juliamap.googlelabs.com #Julia Map
-2404:6800:8005::62 listen.googlelabs.com #Google Listen
-2404:6800:8005::62 livingstories.googlelabs.com #Living Stories
-2404:6800:8005::62 newstimeline.googlelabs.com #Google News Timeline
-2404:6800:8005::62 pagespeed.googlelabs.com
-2404:6800:8005::62 relatedlinks.googlelabs.com #Related Links
-2404:6800:8005::62 scriptconv.googlelabs.com #Script Converter
-2404:6800:8005::62 similar-images.googlelabs.com #Similar Images
-2404:6800:8005::62 storegadget.googlelabs.com #Google Checkout Store Gadget
-2404:6800:8005::62 swiffy.googlelabs.com #Google Swiffy
-2404:6800:8005::62 tables.googlelabs.com #Fusion Tables
-2404:6800:8005::62 appspot.l.google.com
-
-#Profiles 个人主页
-2404:6800:8005::71 profiles.google.com
-2404:6800:8005::65 plusone.google.com
-2404:6800:8005::8a plus.google.com
-
-#Knol 在线百科全书
-2404:6800:8005::65 knol.google.com
-
-#SketchUp 3D 建模工具
-2404:6800:8005::62 sketchup.google.com
-#2404:6800:8005::62 sketchup.l.google.com
-
-#Pack 软件精选
-2404:6800:8005::68 pack.google.com
-2404:6800:8005::68 cache.pack.google.com
-2404:6800:8005::6a pack.google.cn
-
-#Blogger 博客服务
-2404:6800:8005::bf www.blogger.com
-2404:6800:8005::bf blogger.com
-2404:6800:8005::bf buttons.blogger.com
-2404:6800:8005::bf beta.blogger.com
-2404:6800:8005::bf draft.blogger.com #Blogger 测试区
-2404:6800:8005::bf status.blogger.com #Blogger 状态
-2404:6800:8005::bf help.blogger.com #支持中心
-2404:6800:8005::bf buzz.blogger.com #Blogger Buzz博客（英文）
-2404:6800:8005::bf photos1.blogger.com
-2404:6800:8005::bf bp0.blogger.com
-2404:6800:8005::bf bp1.blogger.com
-2404:6800:8005::bf bp2.blogger.com
-2404:6800:8005::bf bloggerphotos.l.google.com
-2404:6800:8005::62 blogger.google.com
-2404:6800:8005::62 www2.blogger.com
-2404:6800:8005::62 blogger.l.google.com
-2404:6800:8005::62 www.blogblog.com
-2404:6800:8005::62 www1.blogblog.com
-2404:6800:8005::62 www2.blogblog.com
-2404:6800:8005::62 img.blogblog.com
-2404:6800:8005::62 img1.blogblog.com
-2404:6800:8005::62 img2.blogblog.com
-2404:6800:8005::62 img.blshe.com
-
-#Blogspot 博客服务
-2404:6800:8005::62 www.blogspot.com
-#2404:6800:8005::62 blogger.l.google.com
-2404:6800:8005::62 blogsofnote.blogspot.com #留言博客（英文版本）
-2404:6800:8005::62 knownissues.blogspot.com #已知问题
-2404:6800:8005::62 1.bp.blogspot.com
-2404:6800:8005::62 2.bp.blogspot.com
-2404:6800:8005::62 3.bp.blogspot.com
-2404:6800:8005::62 4.bp.blogspot.com
-2404:6800:8005::62 bloggertemplatespreview.blogspot.com #模板编辑器的实时预览功能
-
-#Google 官方博客群
-2404:6800:8005::62 adwordsapi.blogspot.com
-2404:6800:8005::62 adsense-zhs.blogspot.com
-2404:6800:8005::62 android-developers.blogspot.com
-2404:6800:8005::62 apacdeveloper.blogspot.com #Google Asia Pacific Developer Blog
-2404:6800:8005::62 booksearch.blogspot.com #Inside Google Books
-2404:6800:8005::62 chrome.blogspot.com
-2404:6800:8005::62 doubleclickpublishersapi.blogspot.com
-2404:6800:8005::62 emeadev.blogspot.com #Google Europe, Middle East & Africa Developer Blog
-2404:6800:8005::62 gearsblog.blogspot.com
-2404:6800:8005::62 google-code-featured.blogspot.com #Featured Projects on Google Code
-2404:6800:8005::62 google-entertainment-it.blogspot.com
-2404:6800:8005::62 google-opensource.blogspot.com
-2404:6800:8005::62 googleajaxsearchapi.blogspot.com
-2404:6800:8005::62 googleappengine.blogspot.com
-2404:6800:8005::62 googleappsdeveloper.blogspot.com
-2404:6800:8005::62 googleblog.blogspot.com #Official Google Blog
-2404:6800:8005::62 googlecheckout.blogspot.com
-2404:6800:8005::62 googlecheckoutapi.blogspot.com
-2404:6800:8005::62 googlechinablog.blogspot.com
-2404:6800:8005::62 googlechromereleases.blogspot.com #Google Chrome Releases
-2404:6800:8005::62 googlecode.blogspot.com
-2404:6800:8005::62 googlecustomsearch.blogspot.com #Google Custom Search Blog
-2404:6800:8005::62 googleenterprise.blogspot.com
-2404:6800:8005::62 googlegeodevelopers.blogspot.com #Google Geo Developers Blog
-2404:6800:8005::62 googlemashupeditor.blogspot.com
-2404:6800:8005::62 googlemobile.blogspot.com
-2404:6800:8005::62 googleresearch.blogspot.com
-2404:6800:8005::62 googletalk.blogspot.com
-2404:6800:8005::62 googlewebmaster-cn.blogspot.com
-2404:6800:8005::62 googlewebmastercentral.blogspot.com
-2404:6800:8005::62 googlewebtoolkit.blogspot.com
-2404:6800:8005::62 golangblog.blogspot.com
-2404:6800:8005::62 gmailblog.blogspot.com
-2404:6800:8005::62 igoogledeveloper.blogspot.com #iGoogle Developer Blog
-2404:6800:8005::62 webmproject.blogspot.com
-2404:6800:8005::62 youtube-global.blogspot.com #YouTube Blog
-#2404:6800:8005::62 *.blogspot.com #可以添加你自己的博客地址到这里
-
-#Checkout 买家
-2404:6800:8005::73 checkout.google.com
-#2404:6800:8005::73 checkout.l.google.com
-
-#Orkut 网络社区
-2404:6800:8005::56 www.orkut.com
-#2404:6800:8005::56 orkut-fe.l.google.com
-2404:6800:8005::56 www.orkut.gmodules.com
-#2404:6800:8005::56 *.a.orkut.gmodules.com
-#2404:6800:8005::56 orkut-opensocial.l.google.com
-2404:6800:8005::57 img1.orkut.com
-2404:6800:8005::57 img2.orkut.com
-2404:6800:8005::57 img3.orkut.com
-2404:6800:8005::57 img4.orkut.com
-2404:6800:8005::57 img5.orkut.com
-2404:6800:8005::57 img6.orkut.com
-2404:6800:8005::57 img7.orkut.com
-2404:6800:8005::57 img8.orkut.com
-2404:6800:8005::57 img9.orkut.com
-#2404:6800:8005::57 orkut-images.l.google.com
-2404:6800:8005::55 static1.orkut.com
-2404:6800:8005::55 static2.orkut.com
-2404:6800:8005::55 static3.orkut.com
-2404:6800:8005::55 static4.orkut.com
-#2404:6800:8005::55 orkut-static.l.google.com
-2404:6800:8005::55 promote.orkut.com
-#2404:6800:8005::55 orkut-promote.l.google.com
-2404:6800:8005::69 help.orkut.com
-2404:6800:8005::62 officialorkutblog.blogspot.com
-2404:6800:8003::79 blog.orkut.com
-2404:6800:8003::79 en.blog.orkut.com
-
-#Sites 协作平台
-2404:6800:8005::65 sites.google.com
-2404:6800:8005::62 gsamplemaps.googlepages.com
-
-#Google Apps 企业应用套件
-2404:6800:8005::62 apps.google.com
-2404:6800:8003::79 ghs.google.com
-2404:6800:8003::79 ghs46.google.com #GHS 双栈入口！
-2404:6800:8003::79 ghs.l.google.com
-2404:6800:8003::79 ghs46.l.google.com
-#2404:6800:8003::79 ghs.google.com #可以添加你 GApps 域名的博客地址 / GSites 地址到这里
-
-#Mashups/App Engine GAE
-2404:6800:8005::67 googlemashups.com #Google Mashup Editor
-2404:6800:8005::68 www.googlemashups.com
-2404:6800:8005::62 googlemashups.l.google.com
-2404:6800:8005::63 *.googlemashups.com
-2404:6800:8005::64 appengine.google.com
-2404:6800:8005::62 appspot.l.google.com
-2404:6800:8005::8d *.appspot.com
-2404:6800:8005::8d productideas.appspot.com #Google 汇问
-2404:6800:8005::8d storegadgetwizard.appspot.com #Google Checkout Store Gadget
-2404:6800:8005::8d moderator.appspot.com #Google Moderator
-2404:6800:8005::8d gv-gadget.appspot.com #YouTube Gadget
-2404:6800:8005::8d haiticrisis.appspot.com #Google Person Finder: Haiti Earthquake
-2404:6800:8005::8d i18napis.appspot.com
+#GStatic Google 静态文件存储
+2404:6800:8005::62 www.gstatic.com
+2404:6800:8005::62 csi.gstatic.com
+2404:6800:8005::62 maps.gstatic.com
+2404:6800:8005::78 ssl.gstatic.com
+2404:6800:8005::62 t0.gstatic.com
+2404:6800:8005::62 t1.gstatic.com
+2404:6800:8005::62 t2.gstatic.com
+2404:6800:8005::62 t3.gstatic.com
+#2404:6800:8005::62 t4.gstatic.com
+2404:6800:8005::93 g0.gstatic.com
+2404:6800:8005::69 g1.gstatic.com
+2404:6800:8005::6a g2.gstatic.com
+2404:6800:8005::93 g3.gstatic.com
+2404:6800:8005::66 mt0.gstatic.com
+2404:6800:8005::66 mt1.gstatic.com
+2404:6800:8005::8b mt2.gstatic.com
+2404:6800:8005::66 mt3.gstatic.com
+2404:6800:8005::8b mt4.gstatic.com
+2404:6800:8005::66 mt5.gstatic.com
+2404:6800:8005::8b mt6.gstatic.com
+2404:6800:8005::66 mt7.gstatic.com
+2404:6800:8005::67 www.gstatic.cn
 
 #Google APIs 开发接口服务
 2404:6800:8005::65 apis.google.com
@@ -1413,147 +1550,6 @@
 2404:6800:8005::84 3hdrrlnlknhi77nrmsjnjr152ueo3soc-a-calendar-opensocial.googleusercontent.com
 2404:6800:8005::84 eds9earadhd329tuipi6kfc947ts928j-a-sites-opensocial.googleusercontent.com
 2404:6800:8005::84 sp5ovcebgtpf6rg65f53gdnvqtt3a58n-a-sites-opensocial.googleusercontent.com
-
-#Music Beta by Google 云音乐服务
-2404:6800:8005::65 music.google.com
-2404:6800:8005::74 t.doc-0-0-sj.sj.googleusercontent.com #个人音乐库
-2404:6800:8005::74 music-streaming.l.google.com
-2404:6800:8005::84 music.googleusercontent.com #音乐播放器 专辑封面 等
-
-#Chrome 谷歌浏览器
-2404:6800:8005::64 chrome.google.com
-2404:6800:8005::65 browsersync.google.com
-2404:6800:8005::65 browsersync.l.google.com
-2404:6800:8005::63 toolbarqueries.google.com #PageRank 查询（工具栏显示）
-2404:6800:8005::63 toolbarqueries.clients.google.com
-2404:6800:8005::63 toolbarqueries.l.google.com
-2404:6800:8003::79 chrome.angrybirds.com
-
-#Chromium Chromium 项目
-2404:6800:8005::65 chromium.org #跳转
-2404:6800:8003::79 www.chromium.org
-2404:6800:8003::79 dev.chromium.org
-2404:6800:8003::79 blog.chromium.org
-#2404:6800:8005::62 build.chromium.org
-
-#Chromium OS Chromium 操作系统
-2404:6800:8003::79 goto.ext.google.com
-2404:6800:8005::8d welcome-cros.appspot.com #原 Chromium 主菜单
-
-#SafeBrowing 安全检测服务
-2404:6800:8005::62 sb.google.com #安全浏览检测 API
-2001:4860:8010::88 sb.l.google.com
-2404:6800:8005::62 sb-ssl.google.com
-2001:4860:8010::be sb-ssl.google.com
-2001:4860:8010::5b sb-ssl.google.com
-2001:4860:8010::5d sb-ssl.google.com
-2001:4860:8010::88 sb-ssl.google.com
-2404:6800:8005::62 sb-ssl.l.google.com
-2404:6800:8005::62 safebrowsing.clients.google.com #安全浏览警告页面
-2404:6800:8005::62 safebrowsing-cache.google.com #安全浏览警告数据（分块加载）
-2404:6800:8005::65 safebrowsing.cache.l.google.com
-
-#Toolbar 工具栏
-2404:6800:8005::62 toolbar.google.com
-#2404:6800:8005::62 tools.l.google.com
-
-#Desktop 桌面
-2404:6800:8005::62 desktop.google.com
-2404:6800:8005::62 desktop.l.google.com
-
-#Google Earth Google地球
-2404:6800:8005::65 earth.google.com
-2404:6800:8005::8b auth.keyhole.com
-2404:6800:8005::8b geoauth.google.com
-
-#Google Mars Google火星地图
-2404:6800:8005::65 mars.google.com
-
-#Google Store Google商店（里面有很多谷歌自己的东西出售，像谷歌T恤、茶杯、小玩意等等）
-#2404:6800:8005::62 www.googlestore.com
-
-#Download 下载
-2404:6800:8005::5b dl.google.com
-2404:6800:8005::5d dl.l.google.com
-2404:6800:8005::88 dl-ssl.google.com
-
-#Wave 波浪
-2404:6800:8005::76 wave.google.com
-2404:6800:8005::76 wave0.google.com
-2404:6800:8005::76 wave1.google.com
-2404:6800:8005::62 googlewave.com
-
-#WiFi
-2404:6800:8005::7b wifi.google.com
-2404:6800:8005::62 wifi.l.google.com
-
-#Google Talk/Chat 聊天
-#2404:6800:8005::7d talk.google.com
-#2404:6800:8005::7d talk.l.google.com
-#2404:6800:8005::62 default.talk.google.com
-2404:6800:8005::62 talkgadget.google.com
-#2404:6800:8005::62 rtmp0.google.com
-#2404:6800:8005::62 users.talk.google.com
-
-#Buzz
-2404:6800:8005::62 buzz.google.com
-
-#Answers/Guru/WenDa 问答社区（国际版已停止运营）
-2404:6800:8005::66 answers.google.com
-#2404:6800:8005::62 guru.google.com
-2404:6800:8005::62 guru.google.co.th #泰国
-2404:6800:8005::2e wenda.google.com.hk
-
-#Fusion RSS 聚合指南
-2404:6800:8005::62 fusion.google.com
-
-#iGoogle Modules iGoogle 小工具
-2404:6800:8005::62 gmodules.com
-2404:6800:8005::62 www.gmodules.com
-2404:6800:8005::62 www.ig.gmodules.com
-2404:6800:8005::62 ig.gmodules.com
-2404:6800:8005::62 ads.gmodules.com
-2404:6800:8005::62 p.gmodules.com
-2404:6800:8005::62 1.ig.gmodules.com
-2404:6800:8005::62 2.ig.gmodules.com
-2404:6800:8005::62 3.ig.gmodules.com
-2404:6800:8005::62 4.ig.gmodules.com
-2404:6800:8005::62 5.ig.gmodules.com
-2404:6800:8005::62 6.ig.gmodules.com
-2404:6800:8005::62 maps.gmodules.com
-2404:6800:8005::62 img0.gmodules.com
-2404:6800:8005::62 img1.gmodules.com
-2404:6800:8005::62 img2.gmodules.com
-2404:6800:8005::62 img3.gmodules.com
-2404:6800:8005::62 skins.gmodules.com
-2404:6800:8005::62 friendconnect.gmodules.com
-2404:6800:8005::62 mc8tdi0ripmbpds25eboaupdulritrp6.friendconnect.gmodules.com
-2404:6800:8005::62 r1rk9np7bpcsfoeekl0khkd2juj27q3o.friendconnect.gmodules.com
-2404:6800:8005::62 r1rk9np7bpcsfoeekl0khkd2juj27q3o.a.friendconnect.gmodules.com
-
-#GStatic Google 静态文件存储
-2404:6800:8005::62 www.gstatic.com
-2404:6800:8005::62 csi.gstatic.com
-2404:6800:8005::62 maps.gstatic.com
-2404:6800:8005::78 ssl.gstatic.com
-2404:6800:8005::62 t0.gstatic.com
-2404:6800:8005::62 t1.gstatic.com
-2404:6800:8005::62 t2.gstatic.com
-2404:6800:8005::62 t3.gstatic.com
-#2404:6800:8005::62 t4.gstatic.com
-2404:6800:8005::93 g0.gstatic.com
-2404:6800:8005::69 g1.gstatic.com
-2404:6800:8005::6a g2.gstatic.com
-2404:6800:8005::93 g3.gstatic.com
-2404:6800:8005::66 mt0.gstatic.com
-2404:6800:8005::66 mt1.gstatic.com
-2404:6800:8005::8b mt2.gstatic.com
-2404:6800:8005::66 mt3.gstatic.com
-2404:6800:8005::8b mt4.gstatic.com
-2404:6800:8005::66 mt5.gstatic.com
-2404:6800:8005::8b mt6.gstatic.com
-2404:6800:8005::66 mt7.gstatic.com
-2404:6800:8005::67 www.gstatic.cn
 
 ##Google其他服务
 
@@ -2507,33 +2503,6 @@
 2404:6800:4001::27 v24.cache7.c.youtube.com
 2404:6800:4001:1::27 v24.cache8.c.youtube.com
 
-#Android Google 移动操作系统
-2404:6800:8005::62 www.android.com
-2404:6800:8005::62 android.com
-2404:6800:8005::8a developer.android.com
-2404:6800:8005::62 source.android.com
-2404:6800:8005::62 market.android.com
-
-#The Go Programming Language Go 编程语言
-2404:6800:8005::62 golang.org
-2404:6800:8005::62 www.golang.org
-2404:6800:8003::79 blog.golang.org
-
-#Analytics 分析（Google 所提供的网站流量统计服务）
-2404:6800:8005::66 www.google-analytics.com
-2404:6800:8005::61 www.google-analytics.com
-2404:6800:8005::61 *.google-analytics.com
-2404:6800:8005::61 ssl.google-analytics.com
-2404:6800:8005::b8 service.urchin.com
-
-#FeedBurner
-2404:6800:8005::62 feedburner.google.com
-#2404:6800:8005::62 www3-china.l.google.com
-2404:6800:8005::62 www.feedburner.com
-2404:6800:8005::62 feeds.feedburner.com
-2404:6800:8005::62 feeds2.feedburner.com
-2404:6800:8005::76 feedproxy.google.com #Feed 跳转代理
-
 #AdWords/AdSense 广告服务
 #2404:6800:8005::62 www.googlesyndication.com
 2404:6800:8005::60 www.googleadservices.com
@@ -2550,7 +2519,6 @@
 2404:6800:8005::41 adwords.google.sk
 2404:6800:8005::a7 partner.googleadservices.com
 2404:6800:8005::a7 partnerad.l.google.com
-
 #DoubleClick 曾经世界最大的网络广告服务商，06年底被Google并购，现AdSense服务指向域名
 2001:4860:b006::94 ad.doubleclick.net
 2001:4860:b006::95 ad-g.doubleclick.net
@@ -2569,27 +2537,39 @@
 2404:6800:8005::90 *.fr.doubleclick.net
 2404:6800:8005::92 *.jp.doubleclick.net
 
-#Panoramio
-2404:6800:8005::8d www.panoramio.com
-2404:6800:8005::80 static.panoramio.com
-2404:6800:8005::79 blog.panoramio.com
+#Analytics 分析（Google 所提供的网站流量统计服务）
+2404:6800:8005::66 www.google-analytics.com
+2404:6800:8005::61 www.google-analytics.com
+2404:6800:8005::61 *.google-analytics.com
+2404:6800:8005::61 ssl.google-analytics.com
+2404:6800:8005::b8 service.urchin.com
+
+#Android Google 移动操作系统
+2404:6800:8005::62 www.android.com
+2404:6800:8005::62 android.com
+2404:6800:8005::8a developer.android.com
+2404:6800:8005::62 source.android.com
+2404:6800:8005::62 market.android.com
+
+#Google Art Project
+2404:6800:8003::79 www.googleartproject.com
+2404:6800:8005::62 art-project-media.appspot.com
+
+#FeedBurner
+2404:6800:8005::62 feedburner.google.com
+#2404:6800:8005::62 www3-china.l.google.com
+2404:6800:8005::62 www.feedburner.com
+2404:6800:8005::62 feeds.feedburner.com
+2404:6800:8005::62 feeds2.feedburner.com
+2404:6800:8005::76 feedproxy.google.com #Feed 跳转代理
+
+#The Go Programming Language Go 编程语言
+2404:6800:8005::62 golang.org
+2404:6800:8005::62 www.golang.org
+2404:6800:8003::79 blog.golang.org
 
 #Goo.gl Google短网址服务
 2404:6800:8005::62 goo.gl
-
-#Recaptcha 验证码服务
-2404:6800:8005::69 www.recaptcha.net
-2404:6800:8005::93 api.recaptcha.net
-
-#Google.org Google 公益
-2404:6800:8003::79 blog.google.org
-
-#The WebM Project WebM 开放多媒体项目
-2404:6800:8005::65 webmproject.org
-2404:6800:8005::65 www.webmproject.org
-2404:6800:8003::79 lists.webmproject.org
-2404:6800:8003::79 blog.webmproject.org
-2404:6800:8003::79 www.webm-ccl.org
 
 #html5rocks HTML5 推广专题网站
 2404:6800:8003::79 www.html5rocks.com
@@ -2597,12 +2577,27 @@
 2404:6800:8003::79 playground.html5rocks.com
 2404:6800:8003::79 studio.html5rocks.com
 
-#Google Art Project
-2404:6800:8003::79 www.googleartproject.com
-2404:6800:8005::62 art-project-media.appspot.com
+#Google.org Google 公益
+2404:6800:8003::79 blog.google.org
+
+#Panoramio
+2404:6800:8005::8d www.panoramio.com
+2404:6800:8005::80 static.panoramio.com
+2404:6800:8005::79 blog.panoramio.com
+
+#Recaptcha 验证码服务
+2404:6800:8005::69 www.recaptcha.net
+2404:6800:8005::93 api.recaptcha.net
 
 #Google Wave Federation Protocol · GWave 协议开源计划
 2404:6800:8003::79 www.waveprotocol.org
+
+#The WebM Project WebM 开放多媒体项目
+2404:6800:8005::65 webmproject.org
+2404:6800:8005::65 www.webmproject.org
+2404:6800:8003::79 lists.webmproject.org
+2404:6800:8003::79 blog.webmproject.org
+2404:6800:8003::79 www.webm-ccl.org
 
 #Chrome 相关专题网站
 2404:6800:8005::8b www.chromercise.com
