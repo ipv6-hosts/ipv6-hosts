@@ -416,6 +416,9 @@
 2404:6800:8005::89 *.googlegroups.com
 2404:6800:8005::89 blob-s-docs.googlegroups.com
 
+#Health 健康
+2404:6800:8005::66 health.google.com
+
 #Images 图片
 2404:6800:8005::68 images.google.com
 2404:6800:8005::68 images.l.google.com
@@ -913,6 +916,9 @@
 2404:6800:8005::62 mc8tdi0ripmbpds25eboaupdulritrp6.friendconnect.gmodules.com
 2404:6800:8005::62 r1rk9np7bpcsfoeekl0khkd2juj27q3o.friendconnect.gmodules.com
 2404:6800:8005::62 r1rk9np7bpcsfoeekl0khkd2juj27q3o.a.friendconnect.gmodules.com
+2404:6800:8001::93 partnerpage.google.com
+2404:6800:8005::84 *.ig.ig.gmodules.com
+2404:6800:8005::84 1nltui3li1cdki8kde21baj1igs7ekjc.ig.ig.gmodules.com
 
 #GStatic Google 静态文件存储
 2404:6800:8005::62 www.gstatic.com
