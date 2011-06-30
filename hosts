@@ -618,6 +618,7 @@
 2404:6800:8005::64 code.l.google.com
 2404:6800:8005::52 *.googlecode.com
 2404:6800:8005::52 chromium.googlecode.com
+2404:6800:8005::52 closure-library.googlecode.com
 2404:6800:8005::52 earth-api-samples.googlecode.com
 2404:6800:8005::52 gmaps-samples-flash.googlecode.com
 2404:6800:8005::52 google-code-feed-gadget.googlecode.com
