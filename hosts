@@ -806,6 +806,7 @@
 2404:6800:8005::5f *.googleapis.com
 2404:6800:8005::5f translate.googleapis.com #Google 翻译 API
 2404:6800:8005::5f ajax.googleapis.com #Ajax API
+2404:6800:8005::5f fonts.googleapis.com
 2404:6800:8005::5f googleapis-ajax.google.com
 2404:6800:8005::5f googleapis-ajax.l.google.com
 
@@ -1330,6 +1331,7 @@
 2404:6800:8005::84 static.googleusercontent.com
 2404:6800:8005::84 mail-attachment.googleusercontent.com
 2404:6800:8005::84 code-opensocial.googleusercontent.com
+2404:6800:8005::84 feedback.googleusercontent.com
 2404:6800:8005::84 music-onebox.googleusercontent.com #音乐歌曲CD封面图片
 2404:6800:8005::84 spreadsheets-opensocial.googleusercontent.com #表格
 2404:6800:8005::84 www-opensocial.googleusercontent.com
