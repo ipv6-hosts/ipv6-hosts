@@ -1484,10 +1484,18 @@
 2404:6800:8005::84 www-opensocial-sandbox.googleusercontent.com #SandBox
 2404:6800:8005::84 www-open-opensocial.googleusercontent.com
 2404:6800:8005::84 1-open-opensocial.googleusercontent.com
-2404:6800:8005::84 www-focus-opensocial.googleusercontent.com #缩略图
-2404:6800:8005::84 images0-focus-opensocial.googleusercontent.com #缩略图
-2404:6800:8005::84 images1-focus-opensocial.googleusercontent.com #缩略图
-2404:6800:8005::84 images2-focus-opensocial.googleusercontent.com #缩略图
+2404:6800:8005::84 www-focus-opensocial.googleusercontent.com
+2404:6800:8005::84 images0-focus-opensocial.googleusercontent.com
+2404:6800:8005::84 images1-focus-opensocial.googleusercontent.com
+2404:6800:8005::84 images2-focus-opensocial.googleusercontent.com
+2404:6800:8005::84 images3-focus-opensocial.googleusercontent.com
+2404:6800:8005::84 images4-focus-opensocial.googleusercontent.com
+2404:6800:8005::84 images5-focus-opensocial.googleusercontent.com
+2404:6800:8005::84 images6-focus-opensocial.googleusercontent.com
+2404:6800:8005::84 images7-focus-opensocial.googleusercontent.com
+2404:6800:8005::84 images8-focus-opensocial.googleusercontent.com
+2404:6800:8005::84 images9-focus-opensocial.googleusercontent.com
+2404:6800:8005::84 images*-focus-opensocial.googleusercontent.com #建议通过 pac 实现
 2404:6800:8005::84 images-pos-opensocial.googleusercontent.com
 2404:6800:8005::84 doc-00-7o-docs.googleusercontent.com
 2404:6800:8005::84 doc-08-7o-docs.googleusercontent.com
