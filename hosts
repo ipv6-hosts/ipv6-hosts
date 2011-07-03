@@ -476,16 +476,20 @@
 2404:6800:8005::66 khm1.google.com #Satellite View
 2404:6800:8005::66 khm2.google.com #Satellite View
 2404:6800:8005::66 khm3.google.com #Satellite View
+2404:6800:8005::65 cbk0.google.com #Street View
+2404:6800:8005::65 cbk1.google.com #Street View
+2404:6800:8005::65 cbk2.google.com #Street View
+2404:6800:8005::65 cbk3.google.com #Street View
 2404:6800:8005::8a khms.google.com #加密版
 2404:6800:8005::8a khms0.google.com
 2404:6800:8005::8a khms1.google.com
 2404:6800:8005::8a khms2.google.com
 2404:6800:8005::8a khms3.google.com
+2404:6800:8005::66 cbks0.google.com
+2404:6800:8005::66 cbks1.google.com
+2404:6800:8005::66 cbks2.google.com
+2404:6800:8005::66 cbks3.google.com
 2404:6800:8005::8a khms.l.google.com
-2404:6800:8005::65 cbk0.google.com #Street View
-2404:6800:8005::65 cbk1.google.com #Street View
-2404:6800:8005::65 cbk2.google.com #Street View
-2404:6800:8005::65 cbk3.google.com #Street View
 2404:6800:8005::62 mw0.google.com
 2404:6800:8005::76 mw1.google.com #small
 2404:6800:8005::76 mw2.google.com #medium
@@ -593,13 +597,10 @@
 
 #SafeBrowing 安全检测服务
 2404:6800:8005::62 sb.google.com #安全浏览检测 API
-2001:4860:8010::88 sb.l.google.com
-2404:6800:8005::62 sb-ssl.google.com
-2001:4860:8010::be sb-ssl.google.com
-2001:4860:8010::5b sb-ssl.google.com
-2001:4860:8010::5d sb-ssl.google.com
-2001:4860:8010::88 sb-ssl.google.com
-2404:6800:8005::62 sb-ssl.l.google.com
+2404:6800:8005::88 sb.l.google.com
+2404:6800:8005::5d sb-ssl.google.com
+2404:6800:8005::88 sb-ssl.google.com
+2404:6800:8005::88 sb-ssl.l.google.com
 2404:6800:8005::62 safebrowsing.clients.google.com #安全浏览警告页面
 2404:6800:8005::62 safebrowsing-cache.google.com #安全浏览警告数据（分块加载）
 2404:6800:8005::65 safebrowsing.cache.l.google.com
