@@ -521,12 +521,15 @@
 2404:6800:8005::71 mts3.google.com
 2404:6800:8005::71 mts.l.google.com
 2404:6800:8005::67 maps.gstatic.cn
+2404:6800:8005::8b mobilemaps.clients.google.com
 
 #Music Beta by Google 云音乐服务
 2404:6800:8005::65 music.google.com
 2404:6800:8005::74 t.doc-0-0-sj.sj.googleusercontent.com #个人音乐库
 2404:6800:8005::74 music-streaming.l.google.com
 2404:6800:8005::84 music.googleusercontent.com #音乐播放器 专辑封面 等
+2404:6800:8005::74 uploadsj.clients.google.com #客户端上传
+2404:6800:8005::74 large-uploads.l.google.com
 
 #News 资讯
 2404:6800:8005::68 news.google.com
@@ -2523,6 +2526,7 @@
 2404:6800:8005::8a developer.android.com
 2404:6800:8005::62 source.android.com
 2404:6800:8005::62 market.android.com
+#2404:6800:8005::8b android.clients.google.com #未实际测试过
 
 #Google Art Project
 2404:6800:8003::79 www.googleartproject.com
