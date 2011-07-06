@@ -145,14 +145,14 @@
 2404:6800:8005::62 googlemashups.l.google.com
 2404:6800:8005::63 *.googlemashups.com
 2404:6800:8005::64 appengine.google.com
-2404:6800:8005::62 appspot.l.google.com
-2404:6800:8005::8d *.appspot.com
+2404:6800:8005::8d appspot.l.google.com
 2404:6800:8005::8d productideas.appspot.com #Google 汇问
 2404:6800:8005::8d storegadgetwizard.appspot.com #Google Checkout Store Gadget
 2404:6800:8005::8d moderator.appspot.com #Google Moderator
 2404:6800:8005::8d gv-gadget.appspot.com #YouTube Gadget
 2404:6800:8005::8d haiticrisis.appspot.com #Google Person Finder: Haiti Earthquake
 2404:6800:8005::8d i18napis.appspot.com
+2404:6800:8005::8d *.appspot.com #可以添加自己的 gae 应用
 
 #Answers/Guru/WenDa 问答社区（国际版已停止运营）
 2404:6800:8005::66 answers.google.com
@@ -200,43 +200,44 @@
 2404:6800:8005::62 4.bp.blogspot.com
 2404:6800:8005::62 bloggertemplatespreview.blogspot.com #模板编辑器的实时预览功能
 #Google 官方博客群
-2404:6800:8005::62 adwordsapi.blogspot.com
-2404:6800:8005::62 adsense-zhs.blogspot.com
-2404:6800:8005::62 android-developers.blogspot.com
-2404:6800:8005::62 apacdeveloper.blogspot.com #Google Asia Pacific Developer Blog
-2404:6800:8005::62 booksearch.blogspot.com #Inside Google Books
-2404:6800:8005::62 chrome.blogspot.com
-2404:6800:8005::62 doubleclickpublishersapi.blogspot.com
-2404:6800:8005::62 emeadev.blogspot.com #Google Europe, Middle East & Africa Developer Blog
-2404:6800:8005::62 gearsblog.blogspot.com
-2404:6800:8005::62 google-code-featured.blogspot.com #Featured Projects on Google Code
-2404:6800:8005::62 google-entertainment-it.blogspot.com
-2404:6800:8005::62 google-opensource.blogspot.com
-2404:6800:8005::62 googleajaxsearchapi.blogspot.com
-2404:6800:8005::62 googleappengine.blogspot.com
-2404:6800:8005::62 googleappsdeveloper.blogspot.com
-2404:6800:8005::62 googleblog.blogspot.com #Official Google Blog
-2404:6800:8005::62 googlecheckout.blogspot.com
-2404:6800:8005::62 googlecheckoutapi.blogspot.com
-2404:6800:8005::62 googlechinablog.blogspot.com
-2404:6800:8005::62 googlechromereleases.blogspot.com #Google Chrome Releases
-2404:6800:8005::62 googlecode.blogspot.com
-2404:6800:8005::62 googlecustomsearch.blogspot.com #Google Custom Search Blog
-2404:6800:8005::62 googleenterprise.blogspot.com
-2404:6800:8005::62 googlegeodevelopers.blogspot.com #Google Geo Developers Blog
-2404:6800:8005::62 googlemashupeditor.blogspot.com
-2404:6800:8005::62 googlemobile.blogspot.com
-2404:6800:8005::62 googleresearch.blogspot.com
-2404:6800:8005::62 googletalk.blogspot.com
-2404:6800:8005::62 googlewebmaster-cn.blogspot.com
-2404:6800:8005::62 googlewebmastercentral.blogspot.com
-2404:6800:8005::62 googlewebtoolkit.blogspot.com
-2404:6800:8005::62 golangblog.blogspot.com
-2404:6800:8005::62 gmailblog.blogspot.com
-2404:6800:8005::62 igoogledeveloper.blogspot.com #iGoogle Developer Blog
-2404:6800:8005::62 webmproject.blogspot.com
-2404:6800:8005::62 youtube-global.blogspot.com #YouTube Blog
-#2404:6800:8005::62 *.blogspot.com #可以添加你自己的博客地址到这里
+2404:6800:8005::84 adwordsapi.blogspot.com
+2404:6800:8005::84 adsense-zhs.blogspot.com
+2404:6800:8005::84 android-developers.blogspot.com
+2404:6800:8005::84 apacdeveloper.blogspot.com #Google Asia Pacific Developer Blog
+2404:6800:8005::84 booksearch.blogspot.com #Inside Google Books
+2404:6800:8005::84 chrome.blogspot.com
+2404:6800:8005::84 doubleclickpublishersapi.blogspot.com
+2404:6800:8005::84 emeadev.blogspot.com #Google Europe, Middle East & Africa Developer Blog
+2404:6800:8005::84 gearsblog.blogspot.com
+2404:6800:8005::84 google-code-featured.blogspot.com #Featured Projects on Google Code
+2404:6800:8005::84 google-entertainment-it.blogspot.com
+2404:6800:8005::84 google-opensource.blogspot.com
+2404:6800:8005::84 googleajaxsearchapi.blogspot.com
+2404:6800:8005::84 googleappengine.blogspot.com
+2404:6800:8005::84 googleappsdeveloper.blogspot.com
+2404:6800:8005::84 googleblog.blogspot.com #Official Google Blog
+2404:6800:8005::84 googlecheckout.blogspot.com
+2404:6800:8005::84 googlecheckoutapi.blogspot.com
+2404:6800:8005::84 googlechinablog.blogspot.com
+2404:6800:8005::84 googlechromereleases.blogspot.com #Google Chrome Releases
+2404:6800:8005::84 googlecode.blogspot.com
+2404:6800:8005::84 googlecustomsearch.blogspot.com #Google Custom Search Blog
+2404:6800:8005::84 googleenterprise.blogspot.com
+2404:6800:8005::84 googlegeodevelopers.blogspot.com #Google Geo Developers Blog
+2404:6800:8005::84 googlemashupeditor.blogspot.com
+2404:6800:8005::84 googlemobile.blogspot.com
+2404:6800:8005::84 googleresearch.blogspot.com
+2404:6800:8005::84 googletalk.blogspot.com
+2404:6800:8005::84 googlewebmaster-cn.blogspot.com
+2404:6800:8005::84 googlewebmastercentral.blogspot.com
+2404:6800:8005::84 googlewebtoolkit.blogspot.com
+2404:6800:8005::84 golangblog.blogspot.com
+2404:6800:8005::84 gmailblog.blogspot.com
+2404:6800:8005::84 igoogledeveloper.blogspot.com #iGoogle Developer Blog
+2404:6800:8005::84 webmproject.blogspot.com
+2404:6800:8005::84 youtube-global.blogspot.com #YouTube Blog
+#2404:6800:8005::84 *.blogspot.com #可以添加你自己的博客地址到这里
+2404:6800:8005::84 blogspot.l.google.com
 
 #Books 图书
 2404:6800:8005::62 books.google.com
@@ -297,6 +298,7 @@
 2404:6800:8005::64 code.google.com
 2404:6800:8005::64 code.l.google.com
 2404:6800:8005::52 *.googlecode.com
+2404:6800:8005::52 googlecode.l.google.com
 2404:6800:8005::52 chromium.googlecode.com
 2404:6800:8005::52 closure-library.googlecode.com
 2404:6800:8005::52 earth-api-samples.googlecode.com
@@ -413,8 +415,8 @@
 2404:6800:8005::71 groups.google.com.hk
 2404:6800:8001::66 groups-beta.google.com
 2404:6800:8005::62 groups.l.google.com
-2404:6800:8005::89 *.googlegroups.com
 2404:6800:8005::89 blob-s-docs.googlegroups.com
+2404:6800:8005::89 *.googlegroups.com
 
 #Health 健康
 2404:6800:8005::66 health.google.com
@@ -455,7 +457,6 @@
 2404:6800:8005::62 storegadget.googlelabs.com #Google Checkout Store Gadget
 2404:6800:8005::62 swiffy.googlelabs.com #Google Swiffy
 2404:6800:8005::62 tables.googlelabs.com #Fusion Tables
-2404:6800:8005::62 appspot.l.google.com
 
 #Google Mars 火星地图
 2404:6800:8005::65 mars.google.com
@@ -539,10 +540,10 @@
 
 #Orkut 网络社区
 2404:6800:8005::56 www.orkut.com
-#2404:6800:8005::56 orkut-fe.l.google.com
+2404:6800:8005::56 orkut-fe.l.google.com
 2404:6800:8005::56 www.orkut.gmodules.com
-#2404:6800:8005::56 *.a.orkut.gmodules.com
-#2404:6800:8005::56 orkut-opensocial.l.google.com
+2404:6800:8005::56 *.a.orkut.gmodules.com
+2404:6800:8005::56 orkut-opensocial.l.google.com
 2404:6800:8005::57 img1.orkut.com
 2404:6800:8005::57 img2.orkut.com
 2404:6800:8005::57 img3.orkut.com
@@ -949,6 +950,7 @@
 2404:6800:8005::65 apis.google.com
 2404:6800:8005::62 chart.apis.google.com #Google 图表 API
 2404:6800:8005::5f *.googleapis.com
+2404:6800:8005::5f googleapis.l.google.com
 2404:6800:8005::5f translate.googleapis.com #Google 翻译 API
 2404:6800:8005::5f ajax.googleapis.com #Ajax API
 2404:6800:8005::5f fonts.googleapis.com
