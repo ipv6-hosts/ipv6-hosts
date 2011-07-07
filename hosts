@@ -104,7 +104,7 @@
 2404:6800:8005::26 www.google.co.za #南非
 
 #Web 网页
-2404:6800:8005::68 www.google.com
+2404:6800:8005::68 www.google.com #主/登录域名，GTalk 客户端用户需注释此条，参见 Issue 11
 2404:6800:8005::68 encrypted.google.com
 2404:6800:8005::68 www.l.google.com
 2404:6800:8005::62 www0.l.google.com
@@ -385,8 +385,8 @@
 2404:6800:8005::11 googlemail.l.google.com
 2404:6800:8005::12 googlemail.l.google.com
 2404:6800:8005::13 googlemail.l.google.com
-2404:6800:8005::bd chatenabled.mail.google.com #Gmail中Gtalk聊天服务
-2404:6800:8005::bd filetransferenabled.mail.google.com
+2404:6800:8005::bd chatenabled.mail.google.com #Gmail 中 Gtalk 聊天服务
+2404:6800:8005::bd filetransferenabled.mail.google.com #可能会造成 GTalk 客户端异常
 #2404:6800:8005::bd b.googlemail.l.google.com
 2404:6800:8005::62 talk.gmail.com #Gmail中Gtalk聊天服务
 2404:6800:8005::62 gmail.google.com
