@@ -2495,17 +2495,17 @@
 2404:6800:8005::41 adwords.google.sk
 2404:6800:8005::a7 partner.googleadservices.com
 2404:6800:8005::a7 partnerad.l.google.com
-#DoubleClick 曾经世界最大的网络广告服务商，06年底被Google并购，现AdSense服务指向域名
-2001:4860:b006::94 ad.doubleclick.net
-2001:4860:b006::95 ad-g.doubleclick.net
-2001:4860:b006::95 ad-apac.doubleclick.net
+#DoubleClick
+2404:6800:8005::94 ad.doubleclick.net
+2404:6800:8005::95 ad-g.doubleclick.net
+2404:6800:8005::95 ad-apac.doubleclick.net
 2404:6800:8005::9a googleads.g.doubleclick.net
 2404:6800:8005::9b feedads.g.doubleclick.net
 2404:6800:8005::9c pubads.g.doubleclick.net
 2404:6800:8005::9c www.googletagservices.com
 2404:6800:8005::9c partnerad.l.doubleclick.net
-2001:4860:b006::9d s0.2mdn.net
-2001:4860:b006::9d s1.2mdn.net
+2404:6800:8005::9d s0.2mdn.net
+2404:6800:8005::9d s1.2mdn.net
 2404:6800:8005::90 fls.uk.doubleclick.net
 2404:6800:8005::8e *.au.doubleclick.net
 2404:6800:8005::8f *.de.doubleclick.net
