@@ -951,12 +951,13 @@
 
 #Google APIs 开发接口服务
 2404:6800:8005::65 apis.google.com
-2404:6800:8005::62 chart.apis.google.com #Google 图表 API
+2404:6800:8005::62 chart.apis.google.com
 2404:6800:8005::5f *.googleapis.com
 2404:6800:8005::5f googleapis.l.google.com
-2404:6800:8005::5f translate.googleapis.com #Google 翻译 API
-2404:6800:8005::5f ajax.googleapis.com #Ajax API
+2404:6800:8005::5f ajax.googleapis.com
+2404:6800:8005::5f chart.googleapis.com
 2404:6800:8005::5f fonts.googleapis.com
+2404:6800:8005::5f translate.googleapis.com
 2404:6800:8005::5f googleapis-ajax.google.com
 2404:6800:8005::5f googleapis-ajax.l.google.com
 
