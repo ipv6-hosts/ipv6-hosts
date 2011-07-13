@@ -174,20 +174,21 @@
 2404:6800:8005::bf help.blogger.com #支持中心
 2404:6800:8005::bf buzz.blogger.com #Blogger Buzz博客（英文）
 2404:6800:8005::bf photos1.blogger.com
-2404:6800:8005::bf bp0.blogger.com
-2404:6800:8005::bf bp1.blogger.com
-2404:6800:8005::bf bp2.blogger.com
-2404:6800:8005::bf bloggerphotos.l.google.com
-2404:6800:8005::62 blogger.google.com
-2404:6800:8005::62 www2.blogger.com
-2404:6800:8005::62 blogger.l.google.com
-2404:6800:8005::62 www.blogblog.com
-2404:6800:8005::62 www1.blogblog.com
-2404:6800:8005::62 www2.blogblog.com
-2404:6800:8005::62 img.blogblog.com
-2404:6800:8005::62 img1.blogblog.com
-2404:6800:8005::62 img2.blogblog.com
-2404:6800:8005::62 img.blshe.com
+2404:6800:8005::65 bp0.blogger.com
+2404:6800:8005::65 bp1.blogger.com
+2404:6800:8005::65 bp2.blogger.com
+2404:6800:8005::65 bp3.blogger.com
+2404:6800:8005::65 bloggerphotos.l.google.com
+2404:6800:8005::bf blogger.google.com
+2404:6800:8005::bf www2.blogger.com
+2404:6800:8005::bf blogger.l.google.com
+2404:6800:8005::bf www.blogblog.com
+2404:6800:8005::bf www1.blogblog.com
+2404:6800:8005::bf www2.blogblog.com
+2404:6800:8005::84 img.blogblog.com
+2404:6800:8005::bf img1.blogblog.com
+2404:6800:8005::bf img2.blogblog.com
+2404:6800:8001::79 www.textcube.com
 
 #Blogspot 博客服务
 2404:6800:8005::62 www.blogspot.com
