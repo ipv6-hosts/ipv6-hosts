@@ -958,6 +958,7 @@
 2404:6800:8005::5f ajax.googleapis.com
 2404:6800:8005::5f chart.googleapis.com
 2404:6800:8005::5f fonts.googleapis.com
+2404:6800:8005::5f maps.googleapis.com
 2404:6800:8005::5f translate.googleapis.com
 2404:6800:8005::5f googleapis-ajax.google.com
 2404:6800:8005::5f googleapis-ajax.l.google.com
@@ -1416,6 +1417,12 @@
 2404:6800:8005::84 doc-0c-7o-docs.googleusercontent.com
 2404:6800:8005::84 doc-0g-7o-docs.googleusercontent.com
 2404:6800:8005::84 doc-0s-7o-docs.googleusercontent.com
+2404:6800:8005::84 doc-??-8g-3dwarehouse.googleusercontent.com #建议通过 pac 实现
+2404:6800:8005::84 doc-00-8g-3dwarehouse.googleusercontent.com
+2404:6800:8005::84 doc-0c-8g-3dwarehouse.googleusercontent.com
+2404:6800:8005::84 doc-0o-8g-3dwarehouse.googleusercontent.com
+2404:6800:8005::84 doc-0s-8g-3dwarehouse.googleusercontent.com
+2404:6800:8005::84 doc-10-8g-3dwarehouse.googleusercontent.com
 2404:6800:8005::84 images-docs-opensocial.googleusercontent.com
 2404:6800:8005::84 images-onepick-opensocial.googleusercontent.com
 2404:6800:8005::84 www-kix-opensocial.googleusercontent.com
@@ -2501,6 +2508,7 @@
 2404:6800:8005::94 ad.doubleclick.net
 2404:6800:8005::95 ad-g.doubleclick.net
 2404:6800:8005::95 ad-apac.doubleclick.net
+2404:6800:8005::95 fls.doubleclick.net
 2404:6800:8005::9a googleads.g.doubleclick.net
 2404:6800:8005::9b feedads.g.doubleclick.net
 2404:6800:8005::9c pubads.g.doubleclick.net
@@ -2597,3 +2605,8 @@
 2404:6800:8005::79 www.teachparentstech.org
 2404:6800:8005::76 www.agoogleaday.com
 2404:6800:8005::79 www.gosetsuden.jp
+
+# 托管在 Google 上的其他常用域名
+2404:6800:8005::79 wdyl.com
+2404:6800:8005::79 www.wdyl.com
+2404:6800:8005::79 blog.opensocial.org
