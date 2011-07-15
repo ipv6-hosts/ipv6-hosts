@@ -18,7 +18,7 @@
 #2404:6800:8005::69 ipv6.google.com
 #2404:6800:8005::6a ipv6.google.com
 #2404:6800:8005::93 ipv6.google.com
-#2404:6800:8003::6a ipv6.l.google.com
+#2404:6800:8005::68 ipv6.l.google.com
 
 ##Google.com.hk 谷歌香港
 2404:6800:8005::2e www.google.com.hk
@@ -39,7 +39,6 @@
 #2404:6800:8005::69 ipv6.google.com.hk
 #2404:6800:8005::6a ipv6.google.com.hk
 #2404:6800:8005::93 ipv6.google.com.hk
-#2404:6800:8003::6a ipv6.l.google.com
 2404:6800:8005::67 www.googlechinawebmaster.com
 
 ##Google.cn 谷歌中国（启用此地址无法正常使用谷歌音乐）
@@ -133,11 +132,11 @@
 
 #Google Apps 企业应用套件
 2404:6800:8005::62 apps.google.com
-2404:6800:8003::79 ghs.google.com
-2404:6800:8003::79 ghs46.google.com #GHS 双栈入口！
-2404:6800:8003::79 ghs.l.google.com
-2404:6800:8003::79 ghs46.l.google.com
-#2404:6800:8003::79 ghs.google.com #可以添加你 GApps 域名的博客地址 / GSites 地址到这里
+2404:6800:8005::79 ghs.google.com
+2404:6800:8005::79 ghs46.google.com #GHS 双栈入口！
+2404:6800:8005::79 ghs.l.google.com
+2404:6800:8005::79 ghs46.l.google.com
+#2404:6800:8005::79 ghs.google.com #可以添加你 GApps 域名的博客地址 / GSites 地址到这里
 
 #Mashups/App Engine GAE
 2404:6800:8005::67 googlemashups.com #Google Mashup Editor
@@ -188,7 +187,7 @@
 2404:6800:8005::84 img.blogblog.com
 2404:6800:8005::bf img1.blogblog.com
 2404:6800:8005::bf img2.blogblog.com
-2404:6800:8001::79 www.textcube.com
+2404:6800:8005::79 www.textcube.com
 
 #Blogspot 博客服务
 2404:6800:8005::62 www.blogspot.com
@@ -282,17 +281,17 @@
 2404:6800:8005::63 toolbarqueries.google.com #PageRank 查询（工具栏显示）
 2404:6800:8005::63 toolbarqueries.clients.google.com
 2404:6800:8005::63 toolbarqueries.l.google.com
-2404:6800:8003::79 chrome.angrybirds.com
+2404:6800:8005::79 chrome.angrybirds.com
 
 #Chromium Chromium 项目
 2404:6800:8005::65 chromium.org #跳转
-2404:6800:8003::79 www.chromium.org
-2404:6800:8003::79 dev.chromium.org
-2404:6800:8003::79 blog.chromium.org
+2404:6800:8005::79 www.chromium.org
+2404:6800:8005::79 dev.chromium.org
+2404:6800:8005::79 blog.chromium.org
 #2404:6800:8005::62 build.chromium.org
 
 #Chromium OS Chromium 操作系统
-2404:6800:8003::79 goto.ext.google.com
+2404:6800:8005::79 goto.ext.google.com
 2404:6800:8005::8d welcome-cros.appspot.com #原 Chromium 主菜单
 
 #Code 代码
@@ -567,8 +566,8 @@
 #2404:6800:8005::55 orkut-promote.l.google.com
 2404:6800:8005::69 help.orkut.com
 2404:6800:8005::62 officialorkutblog.blogspot.com
-2404:6800:8003::79 blog.orkut.com
-2404:6800:8003::79 en.blog.orkut.com
+2404:6800:8005::79 blog.orkut.com
+2404:6800:8005::79 en.blog.orkut.com
 
 #Pack 软件精选
 2404:6800:8005::68 pack.google.com
@@ -1524,7 +1523,7 @@
 2404:6800:8005::69 help.youtube.com
 2404:6800:8005::64 upload.youtube.com
 2404:6800:8005::64 insight.youtube.com
-2404:6800:8003::79 apiblog.youtube.com
+2404:6800:8005::79 apiblog.youtube.com
 2404:6800:8005::64 clients1.youtube.com
 2404:6800:4008:2::19 static.cache.l.google.com
 2404:6800:4008:2::6 v1.lscache1.c.youtube.com
@@ -2539,7 +2538,7 @@
 #2404:6800:8005::8b android.clients.google.com #未实际测试过
 
 #Google Art Project
-2404:6800:8003::79 www.googleartproject.com
+2404:6800:8005::79 www.googleartproject.com
 2404:6800:8005::62 art-project-media.appspot.com
 
 #FeedBurner
@@ -2553,19 +2552,19 @@
 #The Go Programming Language Go 编程语言
 2404:6800:8005::62 golang.org
 2404:6800:8005::62 www.golang.org
-2404:6800:8003::79 blog.golang.org
+2404:6800:8005::79 blog.golang.org
 
 #Goo.gl Google短网址服务
 2404:6800:8005::62 goo.gl
 
 #html5rocks HTML5 推广专题网站
-2404:6800:8003::79 www.html5rocks.com
-2404:6800:8003::79 slides.html5rocks.com
-2404:6800:8003::79 playground.html5rocks.com
-2404:6800:8003::79 studio.html5rocks.com
+2404:6800:8005::79 www.html5rocks.com
+2404:6800:8005::79 slides.html5rocks.com
+2404:6800:8005::79 playground.html5rocks.com
+2404:6800:8005::79 studio.html5rocks.com
 
 #Google.org Google 公益
-2404:6800:8003::79 blog.google.org
+2404:6800:8005::79 blog.google.org
 
 #Panoramio
 2404:6800:8005::8d www.panoramio.com
@@ -2577,19 +2576,19 @@
 2404:6800:8005::93 api.recaptcha.net
 
 #Google Wave Federation Protocol · GWave 协议开源计划
-2404:6800:8003::79 www.waveprotocol.org
+2404:6800:8005::79 www.waveprotocol.org
 
 #The WebM Project WebM 开放多媒体项目
 2404:6800:8005::65 webmproject.org
 2404:6800:8005::65 www.webmproject.org
-2404:6800:8003::79 lists.webmproject.org
-2404:6800:8003::79 blog.webmproject.org
-2404:6800:8003::79 www.webm-ccl.org
+2404:6800:8005::79 lists.webmproject.org
+2404:6800:8005::79 blog.webmproject.org
+2404:6800:8005::79 www.webm-ccl.org
 
 #Chrome 相关专题网站
 2404:6800:8005::8b www.chromercise.com
-2404:6800:8003::79 www.chromeexperiments.com
-2404:6800:8003::79 www.20thingsilearned.com
+2404:6800:8005::79 www.chromeexperiments.com
+2404:6800:8005::79 www.20thingsilearned.com
 
 #IPv6 专题
 2404:6800:8005::65 ipv6test.google.com
