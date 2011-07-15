@@ -2522,12 +2522,14 @@
 2404:6800:8005::90 *.fr.doubleclick.net
 2404:6800:8005::92 *.jp.doubleclick.net
 
-#Analytics 分析（Google 所提供的网站流量统计服务）
-2404:6800:8005::66 www.google-analytics.com
+#Analytics 分析
 2404:6800:8005::61 www.google-analytics.com
-2404:6800:8005::61 *.google-analytics.com
 2404:6800:8005::61 ssl.google-analytics.com
+2404:6800:8005::61 *.google-analytics.com
 2404:6800:8005::b8 service.urchin.com
+2404:6800:8005::65 www-google-analytics.l.google.com
+2404:6800:8005::61 ssl-google-analytics.l.google.com
+2404:6800:8005::93 analytics.google.com
 
 #Android Google 移动操作系统
 2404:6800:8005::62 www.android.com
