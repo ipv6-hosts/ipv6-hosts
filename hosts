@@ -8,6 +8,8 @@
 #2404:6800:8005::62 ns2.google.com #域名系统服务器ns
 #2404:6800:8005::62 ns3.google.com #域名系统服务器ns
 #2404:6800:8005::62 ns4.google.com #域名系统服务器ns
+2001:4860:4860::8888 google-public-dns-a.google.com #8.8.8.8
+2001:4860:4860::8844 google-public-dns-b.google.com #8.8.4.4
 2404:6800:8005::65 services.google.com #服务申请
 2404:6800:8005::8b goto.google.com #跳转
 2404:6800:8005::d2 jmt0.google.com
