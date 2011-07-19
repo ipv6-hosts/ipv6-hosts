@@ -2565,7 +2565,8 @@
 2404:6800:8005::79 blog.golang.org
 
 #Goo.gl Google短网址服务
-2404:6800:8005::62 goo.gl
+2404:6800:8005::65 goo.gl
+2404:6800:8005::65 g.co
 
 #html5rocks HTML5 推广专题网站
 2404:6800:8005::79 www.html5rocks.com
