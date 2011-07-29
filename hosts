@@ -160,6 +160,7 @@
 2404:6800:8005::8d gv-gadget.appspot.com #YouTube Gadget
 2404:6800:8005::8d haiticrisis.appspot.com #Google Person Finder: Haiti Earthquake
 2404:6800:8005::8d i18napis.appspot.com
+2404:6800:8005::8d googlesharedspaces.appspot.com
 2404:6800:8005::8d *.appspot.com #可以添加自己的 gae 应用
 
 #Answers/Guru/WenDa 问答社区（国际版已停止运营）
@@ -1364,6 +1365,7 @@
 #Google Hosted 托管服务
 2404:6800:8005::84 commondatastorage.googleapis.com
 2404:6800:8005::84 googlehosted.l.googleusercontent.com
+2404:6800:8005::84 bucket.commondatastorage.googleapis.com
 2404:6800:8005::80 c.commondatastorage.googleapis.com
 2404:6800:8005::80 storage.l.googleusercontent.com
 2404:6800:8005::84 www.googlehosted.com
@@ -1450,6 +1452,7 @@
 2404:6800:8005::84 2-open-opensocial.googleusercontent.com
 2404:6800:8005::84 3-open-opensocial.googleusercontent.com
 2404:6800:8005::84 www-wave-opensocial.googleusercontent.com #Wave
+2404:6800:8005::84 wave-opensocial.googleusercontent.com
 2404:6800:8005::84 0-wave-opensocial.googleusercontent.com
 2404:6800:8005::84 1-wave-opensocial.googleusercontent.com
 2404:6800:8005::84 2-wave-opensocial.googleusercontent.com
