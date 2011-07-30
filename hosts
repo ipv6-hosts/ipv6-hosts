@@ -41,9 +41,8 @@
 2404:6800:8005::a0 google.cn #跳转
 2404:6800:8005::a0 news.google.cn #新闻（跳转）
 2404:6800:8005::a0 video.google.cn #视频（跳转）
-#2401:3800:c001::68 ipv6cn.l.google.com
-#2401:3800:c001::68 ipv6.google.cn
-#2401:3800:c001::68 ipv6cn.l.google.com
+#2404:6800:8005::6a ipv6.google.cn
+#2404:6800:8005::6a ipv6cn.l.google.com
 2404:6800:8005::84 music.googleusercontent.cn
 2404:6800:8005::a0 m.google.cn
 2404:6800:8005::a0 www.265.com #上网导航
@@ -116,6 +115,7 @@
 2404:6800:8005::64 clients5.google.com
 2404:6800:8005::64 clients6.google.com
 2404:6800:8005::64 clients1.google.com.hk # .com.hk 搜索建议
+2404:6800:8005::64 clients1.google.com.tw
 2404:6800:8005::64 linkhelp.clients.google.com
 2404:6800:8005::64 clients.l.google.com
 2404:6800:8005::65 encrypted-tbn0.google.com
@@ -157,6 +157,7 @@
 #Blog 博客搜索
 2404:6800:8005::68 blogsearch.google.com
 2404:6800:8005::68 blogsearch.google.com.hk
+2404:6800:8005::68 blogsearch.google.com.tw
 2404:6800:8005::a0 blogsearch.google.cn
 
 #Blogger 博客服务
@@ -461,6 +462,7 @@
 #Maps 地图
 2404:6800:8005::64 maps.google.com
 2404:6800:8005::64 maps.google.com.hk
+2404:6800:8005::64 maps.google.com.tw
 2404:6800:8005::64 local.google.com
 2404:6800:8005::64 ditu.google.com
 2404:6800:8005::64 maps-api-ssl.google.com
@@ -507,8 +509,8 @@
 2404:6800:8005::8a gg.google.cn
 2404:6800:8005::62 csi.l.google.com
 2404:6800:8005::62 id.google.com
+2404:6800:8005::62 id.google.cn
 2404:6800:8005::62 id.l.google.com
-2401:3800:c001::68 id.google.cn
 2404:6800:8005::a0 ditu.google.cn
 2404:6800:8005::a0 mt.google.cn
 2404:6800:8005::a0 mt0.google.cn
@@ -535,6 +537,7 @@
 #News 资讯
 2404:6800:8005::64 news.google.com
 2404:6800:8005::64 news.google.com.hk
+2404:6800:8005::64 news.google.com.tw
 2404:6800:8005::64 news.l.google.com
 2404:6800:8005::62 nt0.ggpht.com
 2404:6800:8005::62 nt1.ggpht.com
@@ -617,6 +620,7 @@
 #Scholar 学术搜索
 2404:6800:8005::62 scholar.google.com
 2404:6800:8005::62 scholar.google.com.hk
+2404:6800:8005::62 scholar.google.com.tw
 2404:6800:8005::62 scholar.l.google.com
 2404:6800:8005::a0 scholar.google.cn
 
@@ -648,6 +652,7 @@
 #Translate 翻译
 2404:6800:8005::62 translate.google.com
 2404:6800:8005::62 translate.google.com.hk
+2404:6800:8005::62 translate.google.com.tw
 2404:6800:8005::a0 translate.google.cn
 
 #Trends 趋势
@@ -656,6 +661,7 @@
 #Video 视频
 2404:6800:8005::62 video.google.com
 2404:6800:8005::62 video.google.com.hk
+2404:6800:8005::62 video.google.com.tw
 #2404:6800:8005::62 video.l.google.com
 2404:6800:8005::62 0.gvt0.com
 2404:6800:8005::62 1.gvt0.com
