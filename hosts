@@ -5,11 +5,12 @@
 #  http://code.google.com/p/ipv6-hosts/
 
 ##Google.com Google.com
-2404:6800:8005::68 google.com #主页
-#2404:6800:8005::68 www.l.google.com
-2404:6800:8005::c1 m.google.com #Google移动版
-2404:6800:8005::c1 m.google.com.hk
+2404:6800:8005::69 google.com
 2404:6800:8005::54 accounts.google.com #帐户
+2404:6800:8005::54 accounts.l.google.com
+2404:6800:8005::c1 m.google.com #移动版
+2404:6800:8005::c1 m.google.com.hk
+2404:6800:8005::c1 mobile.l.google.com
 #2404:6800:8005::62 ns1.google.com #域名系统服务器ns-soa/ns
 #2404:6800:8005::62 ns2.google.com #域名系统服务器ns
 #2404:6800:8005::62 ns3.google.com #域名系统服务器ns
@@ -21,32 +22,17 @@
 2404:6800:8005::d2 jmt0.google.com
 2404:6800:8005::d2 wire.l.google.com
 #2404:6800:8005::63 ipv6.google.com
-#2404:6800:8005::67 ipv6.google.com
-#2404:6800:8005::68 ipv6.google.com
 #2404:6800:8005::69 ipv6.google.com
-#2404:6800:8005::6a ipv6.google.com
-#2404:6800:8005::93 ipv6.google.com
-#2404:6800:8005::68 ipv6.l.google.com
+#2404:6800:8005::63 ipv6.l.google.com
 
 ##Google.com.hk 谷歌香港
 2404:6800:8005::2e www.google.com.hk
-2404:6800:8005::2e images.google.com.hk
-2404:6800:8005::2e video.google.com.hk
-2404:6800:8005::2e maps.google.com.hk
-2404:6800:8005::2e news.google.com.hk
-2404:6800:8005::2e translate.google.com.hk
-2404:6800:8005::2e blogsearch.google.com.hk
 2404:6800:8005::2e picasaweb.google.com.hk
-2404:6800:8005::2e toolbar.google.com.hk
 2404:6800:8005::2e desktop.google.com.hk
 2404:6800:8005::2e id.google.com.hk
 2404:6800:8005::93 google.com.hk
 #2404:6800:8005::63 ipv6.google.com.hk
-#2404:6800:8005::67 ipv6.google.com.hk
-#2404:6800:8005::68 ipv6.google.com.hk
 #2404:6800:8005::69 ipv6.google.com.hk
-#2404:6800:8005::6a ipv6.google.com.hk
-#2404:6800:8005::93 ipv6.google.com.hk
 2404:6800:8005::67 www.googlechinawebmaster.com
 
 ##Google.cn 谷歌中国（启用此地址无法正常使用谷歌音乐）
@@ -123,16 +109,15 @@
 2404:6800:8005::62 suggestqueries.google.com #搜索建议
 2404:6800:8005::62 suggestqueries.l.google.com #搜索建议
 2404:6800:8005::62 clients0.google.com
-2404:6800:8005::66 clients1.google.com
-2404:6800:8005::66 clients2.google.com
-2404:6800:8005::66 clients3.google.com
-2404:6800:8005::66 clients4.google.com
-2404:6800:8005::86 clients5.google.com
-2404:6800:8005::66 clients6.google.com
-2404:6800:8005::66 clients.l.google.com
-2404:6800:8005::62 clients1.google.com.hk # .com.hk 搜索建议
-2404:6800:8005::62 clients-china.l.google.com
-2404:6800:8005::62 linkhelp.clients.google.com
+2404:6800:8005::64 clients1.google.com
+2404:6800:8005::64 clients2.google.com
+2404:6800:8005::64 clients3.google.com
+2404:6800:8005::64 clients4.google.com
+2404:6800:8005::64 clients5.google.com
+2404:6800:8005::64 clients6.google.com
+2404:6800:8005::64 clients1.google.com.hk # .com.hk 搜索建议
+2404:6800:8005::64 linkhelp.clients.google.com
+2404:6800:8005::64 clients.l.google.com
 2404:6800:8005::65 encrypted-tbn0.google.com
 2404:6800:8005::71 encrypted-tbn1.google.com
 2404:6800:8005::8b encrypted-tbn2.google.com
@@ -167,10 +152,11 @@
 2404:6800:8005::66 answers.google.com
 #2404:6800:8005::62 guru.google.com
 2404:6800:8005::62 guru.google.co.th #泰国
-2404:6800:8005::2e wenda.google.com.hk
+2404:6800:8005::66 wenda.google.com.hk
 
 #Blog 博客搜索
-2404:6800:8005::63 blogsearch.google.com
+2404:6800:8005::68 blogsearch.google.com
+2404:6800:8005::68 blogsearch.google.com.hk
 2404:6800:8005::a0 blogsearch.google.cn
 
 #Blogger 博客服务
@@ -250,8 +236,8 @@
 2404:6800:8005::84 blogspot.l.google.com
 
 #Books 图书
-2404:6800:8005::62 books.google.com
-2404:6800:8005::8a books.google.com.hk
+2404:6800:8005::66 books.google.com
+2404:6800:8005::66 books.google.com.hk
 2404:6800:8005::a0 books.google.cn
 2404:6800:8005::66 bks0.books.google.com
 2404:6800:8005::66 bks1.books.google.com
@@ -420,11 +406,11 @@
 2404:6800:8005::62 gmr-smtp-in.l.google.com
 
 #Group 论坛
-2404:6800:8005::62 groups.google.com
+2404:6800:8005::65 groups.google.com
 2401:3800:c001::68 groups.google.cn
 2404:6800:8005::71 groups.google.com.hk
 2404:6800:8001::66 groups-beta.google.com
-2404:6800:8005::62 groups.l.google.com
+2404:6800:8005::65 groups.l.google.com
 2404:6800:8005::89 blob-s-docs.googlegroups.com
 2404:6800:8005::89 *.googlegroups.com
 
@@ -433,6 +419,7 @@
 
 #Images 图片
 2404:6800:8005::68 images.google.com
+2404:6800:8005::68 images.google.com.hk
 2404:6800:8005::68 images.l.google.com
 2404:6800:8005::62 tbn0.google.com
 2404:6800:8005::62 tbn1.google.com
@@ -472,12 +459,13 @@
 2404:6800:8005::65 mars.google.com
 
 #Maps 地图
-2404:6800:8005::68 maps.google.com #主页
-2404:6800:8005::68 local.google.com
-2404:6800:8005::68 ditu.google.com #中国版（镜像）
-2404:6800:8005::68 maps.l.google.com
+2404:6800:8005::64 maps.google.com
+2404:6800:8005::64 maps.google.com.hk
+2404:6800:8005::64 local.google.com
+2404:6800:8005::64 ditu.google.com
 2404:6800:8005::64 maps-api-ssl.google.com
-2404:6800:8005::62 map.google.com
+2404:6800:8005::64 map.google.com
+2404:6800:8005::64 maps.l.google.com
 2404:6800:8005::5d kh.google.com
 2404:6800:8005::5d kh.l.google.com
 2404:6800:8005::65 khmdb.google.com
@@ -545,8 +533,9 @@
 2404:6800:8005::74 large-uploads.l.google.com
 
 #News 资讯
-2404:6800:8005::68 news.google.com
-2404:6800:8005::68 news.l.google.com
+2404:6800:8005::64 news.google.com
+2404:6800:8005::64 news.google.com.hk
+2404:6800:8005::64 news.l.google.com
 2404:6800:8005::62 nt0.ggpht.com
 2404:6800:8005::62 nt1.ggpht.com
 2404:6800:8005::62 nt2.ggpht.com
@@ -650,16 +639,15 @@
 #2404:6800:8005::62 rtmp0.google.com
 #2404:6800:8005::62 users.talk.google.com
 
-#Toolbar 工具栏
-2404:6800:8005::62 toolbar.google.com
-#2404:6800:8005::62 tools.l.google.com
-
 #Tools 工具
-2404:6800:8005::62 tools.google.com
-2404:6800:8005::62 tools.l.google.com
+2404:6800:8005::66 tools.google.com
+2404:6800:8005::66 toolbar.google.com
+2404:6800:8005::66 toolbar.google.com.hk
+2404:6800:8005::66 tools.l.google.com
 
 #Translate 翻译
 2404:6800:8005::62 translate.google.com
+2404:6800:8005::62 translate.google.com.hk
 2404:6800:8005::a0 translate.google.cn
 
 #Trends 趋势
@@ -667,6 +655,7 @@
 
 #Video 视频
 2404:6800:8005::62 video.google.com
+2404:6800:8005::62 video.google.com.hk
 #2404:6800:8005::62 video.l.google.com
 2404:6800:8005::62 0.gvt0.com
 2404:6800:8005::62 1.gvt0.com
