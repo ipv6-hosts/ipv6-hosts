@@ -381,27 +381,27 @@
 2404:6800:8005::13 googlemail.l.google.com
 2404:6800:8005::bd chatenabled.mail.google.com #Gmail 中 Gtalk 聊天服务
 2404:6800:8005::bd filetransferenabled.mail.google.com #可能会造成 GTalk 客户端异常
-#2404:6800:8005::bd b.googlemail.l.google.com
+2404:6800:8005::bd b.googlemail.l.google.com
 2404:6800:8005::62 talk.gmail.com #Gmail中Gtalk聊天服务
-2404:6800:8005::62 gmail.google.com
-2404:6800:8005::62 gmail.l.google.com
-2404:6800:8005::62 www.gmail.com
-2404:6800:8005::62 gmail.com
-2404:6800:8005::62 pop.gmail.com #pop服务
-2404:6800:8005::62 smtp.gmail.com #smtp服务
+2404:6800:8005::64 gmail.google.com
+2404:6800:8005::11 www.gmail.com
+2404:6800:8005::13 gmail.com
+2001:4860:8005::6d pop.gmail.com
+2001:4860:8005::6d gmail-pop.l.google.com
+2001:4860:8005::6d smtp.gmail.com
+2001:4860:8005::6d gmail-smtp-msa.l.google.com
 2404:6800:8005::62 smtp1.google.com
 2404:6800:8005::62 smtp2.google.com
 2404:6800:8005::62 smtp3.google.com
-2404:6800:8005::62 smtp4.google.com
-2404:6800:8005::62 smtp5.google.com
 2404:6800:8005::62 smtp-out.google.com
-2404:6800:8005::62 smtp-out2.google.com
 2404:6800:8005::62 smtp-out3.google.com
-2404:6800:8005::62 imap.google.com
-2404:6800:8005::62 gmail-pop.l.google.com
-2404:6800:8005::62 gmail-smtp.l.google.com
+2001:4860:8004::6d gmail-smtp.l.google.com
 2404:6800:8005::62 gmail-smtp-in.l.google.com
 2404:6800:8005::62 gmr-smtp-in.l.google.com
+2001:4860:8005::6d smtp.googlemail.com
+2001:4860:8005::6d googlemail-smtp.l.google.com
+2001:4860:8005::6d imap.google.com
+2001:4860:8005::6d gmail-imap.l.google.com
 
 #Group 论坛
 2404:6800:8005::65 groups.google.com
