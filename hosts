@@ -395,7 +395,7 @@
 2404:6800:8005::62 smtp3.google.com
 2404:6800:8005::62 smtp-out.google.com
 2404:6800:8005::62 smtp-out3.google.com
-2001:4860:8004::6d gmail-smtp.l.google.com
+2001:4860:8005::6d gmail-smtp.l.google.com
 2404:6800:8005::62 gmail-smtp-in.l.google.com
 2404:6800:8005::62 gmr-smtp-in.l.google.com
 2001:4860:8005::6d smtp.googlemail.com
