@@ -1182,6 +1182,7 @@
 #Google APIs 开发接口服务
 2404:6800:8005::65 apis.google.com
 2404:6800:8005::62 chart.apis.google.com
+2404:6800:8005::5f www.googleapis.com
 2404:6800:8005::5f *.googleapis.com
 2404:6800:8005::5f googleapis.l.google.com
 2404:6800:8005::5f ajax.googleapis.com
@@ -1669,6 +1670,21 @@
 2404:6800:8005::84 3-open-opensocial.googleusercontent.com
 2404:6800:8005::84 www-oz-opensocial.googleusercontent.com
 2404:6800:8005::84 images-oz-opensocial.googleusercontent.com
+2404:6800:8005::84 4fjvqid3r3oq66t548clrdj52df15coc-a-oz-opensocial.googleusercontent.com
+2404:6800:8005::84 53rd6p0catml6vat6qra84rs0del836d-a-oz-opensocial.googleusercontent.com
+2404:6800:8005::84 59cbv4l9s05pbaks9v77vc3mengeqors-a-oz-opensocial.googleusercontent.com
+2404:6800:8005::84 8kubpeu8314p2efdd7jlv09an9i2ljdo-a-oz-opensocial.googleusercontent.com
+2404:6800:8005::84 adstvca8k2ooaknjjmv89j22n9t676ve-a-oz-opensocial.googleusercontent.com
+2404:6800:8005::84 bt26mravu2qpe56n8gnmjnpv2inl84bf-a-oz-opensocial.googleusercontent.com
+2404:6800:8005::84 debh8vg7vd93bco3prdajidmm7dhql3f-a-oz-opensocial.googleusercontent.com
+2404:6800:8005::84 hsco54a20sh11q9jkmb51ad2n3hmkmrg-a-oz-opensocial.googleusercontent.com
+2404:6800:8005::84 i8brh95qor6r54nkl52hidj2ggcs4jgm-a-oz-opensocial.googleusercontent.com
+2404:6800:8005::84 k6v18tjr24doa89b55o3na41kn4v73eb-a-oz-opensocial.googleusercontent.com
+2404:6800:8005::84 ob7f2qc0i50kbjnc81vkhgmb5hsv7a8l-a-oz-opensocial.googleusercontent.com
+2404:6800:8005::84 qhie5b8u979rnch1q0hqbrmbkn9estf7-a-oz-opensocial.googleusercontent.com
+2404:6800:8005::84 r70rmsn4s0rhk6cehcbbcbfbs31pu0va-a-oz-opensocial.googleusercontent.com
+2404:6800:8005::84 rbjhe237k979f79d87gmenp3gejfonu9-a-oz-opensocial.googleusercontent.com
+2404:6800:8005::84 u807isd5egseeabjccgcns005p2miucq-a-oz-opensocial.googleusercontent.com
 2404:6800:8005::84 upt14k1i2veesusrda9nfotcrbp9d7p5-a-oz-opensocial.googleusercontent.com
 2404:6800:8005::84 *-a-oz-opensocial.googleusercontent.com #建议通过 pac 实现
 2404:6800:8005::84 images-pos-opensocial.googleusercontent.com
