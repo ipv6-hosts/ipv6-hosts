@@ -142,6 +142,9 @@
 2404:6800:8005::8d haiticrisis.appspot.com #Google Person Finder: Haiti Earthquake
 2404:6800:8005::8d i18napis.appspot.com
 2404:6800:8005::8d googlesharedspaces.appspot.com
+2404:6800:8005::8d project-slingshot-gp.appspot.com
+2404:6800:8005::8d r3085-dot-latest-dot-project-slingshot-gp.appspot.com
+2404:6800:8005::8d newsfeed-dot-latest-dot-rovio-ad-engine.appspot.com
 2404:6800:8005::8d *.appspot.com #可以添加自己的 gae 应用
 
 #Answers/Guru/WenDa 问答社区（国际版已停止运营）
@@ -1623,6 +1626,7 @@
 2404:6800:8005::84 lh5.googleusercontent.com
 2404:6800:8005::84 lh6.googleusercontent.com
 2404:6800:8005::84 music-onebox.googleusercontent.com
+2404:6800:8005::84 oauth.googleusercontent.com
 2404:6800:8005::84 static.googleusercontent.com
 2404:6800:8005::84 s2.googleusercontent.com
 2404:6800:8005::84 themes.googleusercontent.com #开放字体库
@@ -1655,6 +1659,7 @@
 2404:6800:8005::84 2-focus-opensocial.googleusercontent.com
 2404:6800:8005::84 3-focus-opensocial.googleusercontent.com
 2404:6800:8005::84 www-kix-opensocial.googleusercontent.com
+2404:6800:8005::84 images-lso-opensocial.googleusercontent.com
 2404:6800:8005::84 www-onepick-opensocial.googleusercontent.com
 2404:6800:8005::84 images-onepick-opensocial.googleusercontent.com
 2404:6800:8005::84 www-open-opensocial.googleusercontent.com
@@ -1662,6 +1667,10 @@
 2404:6800:8005::84 1-open-opensocial.googleusercontent.com
 2404:6800:8005::84 2-open-opensocial.googleusercontent.com
 2404:6800:8005::84 3-open-opensocial.googleusercontent.com
+2404:6800:8005::84 www-oz-opensocial.googleusercontent.com
+2404:6800:8005::84 images-oz-opensocial.googleusercontent.com
+2404:6800:8005::84 upt14k1i2veesusrda9nfotcrbp9d7p5-a-oz-opensocial.googleusercontent.com
+2404:6800:8005::84 *-a-oz-opensocial.googleusercontent.com #建议通过 pac 实现
 2404:6800:8005::84 images-pos-opensocial.googleusercontent.com
 2404:6800:8005::84 www-wave-opensocial.googleusercontent.com
 2404:6800:8005::84 wave-opensocial.googleusercontent.com
