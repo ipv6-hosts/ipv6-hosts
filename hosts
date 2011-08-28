@@ -3028,11 +3028,11 @@
 2404:6800:8005::92 *.jp.doubleclick.net
 
 #Analytics 分析
-2404:6800:8005::61 www.google-analytics.com
+2404:6800:8005::71 www.google-analytics.com
 2404:6800:8005::61 ssl.google-analytics.com
 2404:6800:8005::61 *.google-analytics.com
 2404:6800:8005::b8 service.urchin.com
-2404:6800:8005::65 www-google-analytics.l.google.com
+2404:6800:8005::71 www-google-analytics.l.google.com
 2404:6800:8005::61 ssl-google-analytics.l.google.com
 2404:6800:8005::93 analytics.google.com
 
