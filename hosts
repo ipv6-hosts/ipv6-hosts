@@ -3491,7 +3491,11 @@
 2001:778:0:ffff:64:0:c73b:95f3 business.twitter.com
 2001:778:0:ffff:64:0:c73b:940b business.twitter.com
 2001:778:0:ffff:64:0:c73b:9589 dev.twitter.com
+2001:778:0:ffff:64:0:c73b:95f0 m.twitter.com
+2001:778:0:ffff:64:0:c73b:9460 m.twitter.com
 2001:778:0:ffff:64:0:adcb:d34a media.twitter.com
+2001:778:0:ffff:64:0:c73b:95f0 mobile.twitter.com
+2001:778:0:ffff:64:0:c73b:9460 mobile.twitter.com
 2001:778:0:ffff:64:0:c73b:9454 oauth.twitter.com
 2001:778:0:ffff:64:0:c73b:95d0 oauth.twitter.com
 2001:778:0:ffff:64:0:c73b:95f3 oauth.twitter.com
