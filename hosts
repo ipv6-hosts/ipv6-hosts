@@ -148,6 +148,7 @@
 2404:6800:8005::8d project-slingshot-gp.appspot.com
 2404:6800:8005::8d r3085-dot-latest-dot-project-slingshot-gp.appspot.com
 2404:6800:8005::8d newsfeed-dot-latest-dot-rovio-ad-engine.appspot.com
+2404:6800:8005::8d evolutionofweb.appspot.com
 2404:6800:8005::8d *.appspot.com #可以添加自己的 gae 应用
 
 #Answers/Guru/WenDa 问答社区（国际版已停止运营）
@@ -395,6 +396,8 @@
 2404:6800:8005::64 gmail.google.com
 2404:6800:8005::11 www.gmail.com
 2404:6800:8005::13 gmail.com
+2404:6800:8005::11 m.gmail.com
+2404:6800:8005::11 m.googlemail.com
 2001:4860:8005::6d pop.gmail.com #Foxmail 等客户端不支持 ipv6 连接，参阅 Issue 33
 2001:4860:8005::6d gmail-pop.l.google.com
 2001:4860:8005::6d smtp.gmail.com #Foxmail 暂不支持
@@ -1867,6 +1870,7 @@
 2404:6800:8005::84 googlehosted.l.googleusercontent.com
 2404:6800:8005::84 bucket.commondatastorage.googleapis.com
 2404:6800:8005::80 c.commondatastorage.googleapis.com
+2404:6800:8005::84 chromium-browser-symbols.commondatastorage.googleapis.com
 2404:6800:8005::80 storage.l.googleusercontent.com
 2404:6800:8005::84 www.googlehosted.com
 2404:6800:8005::84 googlehosted.l.google.com
