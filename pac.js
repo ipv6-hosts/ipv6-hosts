@@ -11,6 +11,7 @@ function FindProxyForURL(url, host) {
 	if(/^[\w\-]+:\/+(?!\/)(?:[^\/]+\.)?googlemashups\.com/i.test(url)) return PROXY;
 	if(/^[\w\-]+:\/+(?!\/)(?:[^\/]+\.)?ig\.ig\.gmodules\.com/i.test(url)) return PROXY;
 	if(/^[\w\-]+:\/+(?!\/)(?:[^\/]+\.)?a\.orkut\.gmodules\.com/i.test(url)) return PROXY;
+	if(/^[\w\-]+:\/+(?!\/)doc-(.{5})-docs\.googleusercontent\.com/i.test(url)) return PROXY;
 	if(/^[\w\-]+:\/+(?!\/)(?:[^\/]+\-)?a-fc-opensocial\.googleusercontent\.com/i.test(url)) return PROXY;
 	if(/^[\w\-]+:\/+(?!\/)images(\d{2,})-focus-opensocial\.googleusercontent\.com/i.test(url)) return PROXY;
 	if(/^[\w\-]+:\/+(?!\/)(\d{2,}\.)-wave-opensocial\.googleusercontent\.com/i.test(url)) return PROXY;
