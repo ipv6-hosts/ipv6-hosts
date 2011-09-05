@@ -3495,9 +3495,41 @@
 2404:6800:8005::79 www.thegooglepuzzle.com
 2404:6800:8005::79 www.thegobridgeoglepuzzle.com
 
+###其他主流服务
+#Facebook 脸谱网（尚未完全部署）
+2620:0:1cfe:face:b00c::3 www.v6.facebook.com #Facebook（官方指定主机名）
+2620:0:1cfe:face:b00c::3 attachments.facebook.com
+2620:0:1cfe:face:b00c::6 apps.v6.facebook.com #网页应用
+2620:0:1cfe:face:b00c::6 apps.facebook.com
+2620:0:1cfe:face:b00c::3 graph.facebook.com
+2620:0:1cfe:face:b00c::4 login.v6.facebook.com #登陆（官方指定主机名）
+2620:0:1c18:0:face:b00c:0:2 www.facebook.com
+2620:0:1c00:0:face:b00c:0:1 zh-cn.facebook.com
+2620:0:1c00:0:face:b00c:0:1 zh-tw.facebook.com
+2620:0:1cfe:face:b00c::3 facebook.com #Facebook（非官方指定但可用，不推荐）
+2620:0:1cfe:face:b00c::4 login.facebook.com #登陆（非官方指定但可用，不推荐，会有证书警告）
+2620:0:1cfe:face:b00c::3 12.channel.facebook.com
+2620:0:1cfe:face:b00c::3 12.ctest.facebook.com
+#如需正常使用页面底部聊天功能，请通过 pac 代理 *.12.channel.facebook.com （不支持 ipv6）
+2620:0:1c00:0:face:b00c:0:5 developers.facebook.com
+2620:0:1cfe:face:b00c::3 developers.v6.facebook.com
+2620:0:1cfe:face:b00c::3 external.ak.fbcdn.net
+2620:0:1cfe:face:b00c::3 error.12.channel.facebook.com
+2620:0:1cfe:face:b00c::3 pixel.facebook.com
+2620:0:1cfe:face:b00c::3 pixel.v6.facebook.com
+2620:0:1cfe:face:b00c::7 m.v6.facebook.com #移动版
+2620:0:1cfe:face:b00c::7 m.facebook.com
+2610:d0:face::9 www.lisp6.facebook.com
+2610:d0:face::9 m.lisp6.facebook.com
+2620:0:1c00:0:face:b00c:0:3 check6.facebook.com
+#Facebook CDN
+2620:0:1cfe:face:b00c::3 static.ak.fbcdn.net #网站资源（图像、脚本等）新机制尚未部署至 ipv6
+#2620:0:1cfe:face:b00c::4 s-static.ak.facebook.com #https 连接用网站资源，证书有问题
+
 # 托管在 Google 上的其他常用域名
 2404:6800:8005::79 wdyl.com
 2404:6800:8005::79 www.wdyl.com
+2404:6800:8005::79 blog.twitter.com
 2404:6800:8005::79 blog.opensocial.org
 
 ### IPv6/IPv4 转换代理
@@ -3505,10 +3537,78 @@
 # DNS64 服务器：
 2001:778::37 dns64.litnet.lt
 
+#Facebook CDN
+2001:778:0:ffff:64:0:5f64:926e s-static.ak.facebook.com
+2001:778:0:ffff:64:0:42dc:9747 0-12.channel.facebook.com
+2001:778:0:ffff:64:0:42dc:9747 1-12.channel.facebook.com
+2001:778:0:ffff:64:0:42dc:9747 2-12.channel.facebook.com
+2001:778:0:ffff:64:0:42dc:9747 3-12.channel.facebook.com
+2001:778:0:ffff:64:0:42dc:9747 4-12.channel.facebook.com
+2001:778:0:ffff:64:0:42dc:9747 5-12.channel.facebook.com
+2001:778:0:ffff:64:0:42dc:9747 6-12.channel.facebook.com
+2001:778:0:ffff:64:0:453f:b897 hphotos-ash1.fbcdn.net
+2001:778:0:ffff:64:0:42dc:9a23 hphotos-ash2.fbcdn.net
+2001:778:0:ffff:64:0:45ab:f00a hphotos-ash4.fbcdn.net
+2001:778:0:ffff:64:0:453f:b723 hphotos-sjc1.fbcdn.net
+2001:778:0:ffff:64:0:453f:b4bb hphotos-snc1.fbcdn.net
+2001:778:0:ffff:64:0:453f:b703 hphotos-snc3.fbcdn.net
+2001:778:0:ffff:64:0:453f:b743 hphotos-snc4.fbcdn.net
+2001:778:0:ffff:64:0:42dc:9717 hphotos-snc6.fbcdn.net
+2001:778:0:ffff:64:0:45ab:e318 hphotos-snc7.fbcdn.net
+2001:778:0:ffff:64:0:5c7b:4408 creative.ak.fbcdn.net
+2001:778:0:ffff:64:0:5c7b:4421 creative.ak.fbcdn.net
+2001:778:0:ffff:64:0:40d6:ce19 profile.ak.fbcdn.net
+2001:778:0:ffff:64:0:40d6:ce1a profile.ak.fbcdn.net
+2001:778:0:ffff:64:0:40d6:ce20 profile.ak.fbcdn.net
+2001:778:0:ffff:64:0:40d6:ce29 profile.ak.fbcdn.net
+2001:778:0:ffff:64:0:40d6:ce08 profile.ak.fbcdn.net
+2001:778:0:ffff:64:0:40d6:ce09 profile.ak.fbcdn.net
+2001:778:0:ffff:64:0:40d6:ce12 profile.ak.fbcdn.net
+2001:778:0:ffff:64:0:40d6:ce13 profile.ak.fbcdn.net
+2001:778:0:ffff:64:0:40d6:ce18 profile.ak.fbcdn.net
+2001:778:0:ffff:64:0:5c7b:442b static.ak.fbcdn.net
+2001:778:0:ffff:64:0:5c7b:4422 static.ak.fbcdn.net
+2001:778:0:ffff:64:0:c12d:f58 fbcdn-photos-a.akamaihd.net
+2001:778:0:ffff:64:0:c12d:f59 fbcdn-photos-a.akamaihd.net
+2001:778:0:ffff:64:0:c12d:f60 fbcdn-photos-a.akamaihd.net
+2001:778:0:ffff:64:0:c12d:f63 fbcdn-photos-a.akamaihd.net
+2001:778:0:ffff:64:0:c12d:f70 fbcdn-photos-a.akamaihd.net
+2001:778:0:ffff:64:0:c12d:f73 fbcdn-photos-a.akamaihd.net
+2001:778:0:ffff:64:0:c12d:f80 fbcdn-photos-a.akamaihd.net
+2001:778:0:ffff:64:0:c12d:f8b fbcdn-photos-a.akamaihd.net
+2001:778:0:ffff:64:0:c12d:f92 fbcdn-photos-a.akamaihd.net
+2001:778:0:ffff:64:0:40d6:ce0a fbcdn-profile-a.akamaihd.net
+2001:778:0:ffff:64:0:40d6:ce21 fbcdn-profile-a.akamaihd.net
+2001:778:0:ffff:64:0:40d6:ce22 fbcdn-profile-a.akamaihd.net
+2001:778:0:ffff:64:0:40d6:ce29 fbcdn-profile-a.akamaihd.net
+2001:778:0:ffff:64:0:5c7a:d4fb fbcdn-sphotos-a.akamaihd.net
+2001:778:0:ffff:64:0:5c7a:d4e0 fbcdn-sphotos-a.akamaihd.net
+2001:778:0:ffff:64:0:5c7a:d4e2 fbcdn-sphotos-a.akamaihd.net
+
 #Twitter
 2001:778:0:ffff:64:0:c73b:95e6 twitter.com
 2001:778:0:ffff:64:0:c73b:940a twitter.com
 2001:778:0:ffff:64:0:c73b:9452 twitter.com
+2001:778:0:ffff:64:0:c73b:9415 assets0.twitter.com
+2001:778:0:ffff:64:0:c73b:945c assets0.twitter.com
+2001:778:0:ffff:64:0:c73b:95c7 assets0.twitter.com
+2001:778:0:ffff:64:0:c73b:95e7 assets0.twitter.com
+2001:778:0:ffff:64:0:c73b:9415 assets1.twitter.com
+2001:778:0:ffff:64:0:c73b:945c assets1.twitter.com
+2001:778:0:ffff:64:0:c73b:95c7 assets1.twitter.com
+2001:778:0:ffff:64:0:c73b:95e7 assets1.twitter.com
+2001:778:0:ffff:64:0:c73b:9415 assets2.twitter.com
+2001:778:0:ffff:64:0:c73b:945c assets2.twitter.com
+2001:778:0:ffff:64:0:c73b:95c7 assets2.twitter.com
+2001:778:0:ffff:64:0:c73b:95e7 assets2.twitter.com
+2001:778:0:ffff:64:0:c73b:9415 assets3.twitter.com
+2001:778:0:ffff:64:0:c73b:945c assets3.twitter.com
+2001:778:0:ffff:64:0:c73b:95c7 assets3.twitter.com
+2001:778:0:ffff:64:0:c73b:95e7 assets3.twitter.com
+2001:778:0:ffff:64:0:c73b:9415 assets4.twitter.com
+2001:778:0:ffff:64:0:c73b:945c assets4.twitter.com
+2001:778:0:ffff:64:0:c73b:95c7 assets4.twitter.com
+2001:778:0:ffff:64:0:c73b:95e7 assets4.twitter.com
 2001:778:0:ffff:64:0:c73b:95e8 api.twitter.com
 2001:778:0:ffff:64:0:c73b:9414 api.twitter.com
 2001:778:0:ffff:64:0:c73b:9457 api.twitter.com
@@ -3519,6 +3619,7 @@
 2001:778:0:ffff:64:0:c73b:95f3 business.twitter.com
 2001:778:0:ffff:64:0:c73b:940b business.twitter.com
 2001:778:0:ffff:64:0:c73b:9589 dev.twitter.com
+2001:778:0:ffff:64:0:c73b:94ce help.twitter.com
 2001:778:0:ffff:64:0:c73b:95f0 m.twitter.com
 2001:778:0:ffff:64:0:c73b:9460 m.twitter.com
 2001:778:0:ffff:64:0:adcb:d34a media.twitter.com
@@ -3528,17 +3629,32 @@
 2001:778:0:ffff:64:0:c73b:95d0 oauth.twitter.com
 2001:778:0:ffff:64:0:c73b:95f3 oauth.twitter.com
 2001:778:0:ffff:64:0:c73b:940b oauth.twitter.com
+2001:778:0:ffff:64:0:210:2137 platform.twitter.com
+2001:778:0:ffff:64:0:214:b52b platform0.twitter.com
+2001:778:0:ffff:64:0:214:b551 platform0.twitter.com
+2001:778:0:ffff:64:0:214:b511 platform1.twitter.com
+2001:778:0:ffff:64:0:214:b548 platform1.twitter.com
+2001:778:0:ffff:64:0:214:b543 platform2.twitter.com
+2001:778:0:ffff:64:0:214:b549 platform2.twitter.com
+2001:778:0:ffff:64:0:214:b551 platform3.twitter.com
+2001:778:0:ffff:64:0:214:b559 platform3.twitter.com
 2001:778:0:ffff:64:0:c73b:9454 scribe.twitter.com
 2001:778:0:ffff:64:0:c73b:95d0 scribe.twitter.com
 2001:778:0:ffff:64:0:c73b:95f3 scribe.twitter.com
 2001:778:0:ffff:64:0:c73b:940b scribe.twitter.com
 2001:778:0:ffff:64:0:c73b:94c9 search.twitter.com
-2001:778:0:ffff:64:0:c73b:948a stream.twitter.com
+2001:778:0:ffff:64:0:c73b:9415 static.twitter.com
+2001:778:0:ffff:64:0:c73b:945c static.twitter.com
+2001:778:0:ffff:64:0:c73b:95c7 static.twitter.com
+2001:778:0:ffff:64:0:c73b:95e7 static.twitter.com
 2001:778:0:ffff:64:0:4820:e708 status.twitter.com
+2001:778:0:ffff:64:0:c73b:948a stream.twitter.com
 2001:778:0:ffff:64:0:c73b:94ce support.twitter.com
+2001:778:0:ffff:64:0:c73b:948b userstream.twitter.com
 2001:778:0:ffff:64:0:c73b:940a www.twitter.com
 2001:778:0:ffff:64:0:c73b:95c6 www.twitter.com
 2001:778:0:ffff:64:0:c73b:95e6 www.twitter.com
+2001:778:0:ffff:64:0:c73b:940c t.co
 2001:778:0:ffff:64:0:214:b632 twimg0-a.akamaihd.net
 2001:778:0:ffff:64:0:214:b618 twimg0-a.akamaihd.net
 2001:778:0:ffff:64:0:5e7f:4c35 si0.twimg.com
@@ -3555,6 +3671,12 @@
 2001:778:0:ffff:64:0:417:2c7e a4.twimg.com
 2001:778:0:ffff:64:0:214:b610 a5.twimg.com
 2001:778:0:ffff:64:0:214:b60a a5.twimg.com
+2001:778:0:ffff:64:0:5e7f:4c35 si0.twimg.com
+2001:778:0:ffff:64:0:5e7f:4c35 si1.twimg.com
+2001:778:0:ffff:64:0:5e7f:4c35 si2.twimg.com
+2001:778:0:ffff:64:0:5c7b:9790 si3.twimg.com
+2001:778:0:ffff:64:0:5e7f:4c35 si4.twimg.com
+2001:778:0:ffff:64:0:5c7b:9790 si5.twimg.com
 2001:778:0:ffff:64:0:cdfb:dbe5 widgets.twimg.com
 2001:778:0:ffff:64:0:cdfb:db4a widgets.twimg.com
 2001:778:0:ffff:64:0:cdfb:db73 widgets.twimg.com
