@@ -3496,6 +3496,28 @@
 2404:6800:8005::79 www.thegobridgeoglepuzzle.com
 
 ###其他主流服务
+#bit.ly / j.mp
+#2001:418:e801::10:1 bit.ly
+#2001:418:e801::11:1 bit.ly
+#2001:418:e801::12:1 bit.ly
+#2001:418:e801::15:1 bit.ly
+#2001:418:e801::10:2 j.mp
+#2001:418:e801::11:2 j.mp
+#2001:418:e801::12:2 j.mp
+#2001:418:e801::15:2 j.mp
+#2001:418:e801::10:2 bitly.com
+#2001:418:e801::11:2 bitly.com
+#2001:418:e801::13:2 bitly.com
+#2001:418:e801::15:2 bitly.com
+#2001:418:e801::10:7 api.bit.ly
+#2001:418:e801::11:7 api.bit.ly
+#2001:418:e801::12:7 api.bit.ly
+#2001:418:e801::15:7 api.bit.ly
+#2001:418:e801::10:7 api.bitly.com
+#2001:418:e801::11:7 api.bitly.com
+#2001:418:e801::12:7 api.bitly.com
+#2001:418:e801::15:7 api.bitly.com
+
 #Facebook 脸谱网（尚未完全部署）
 2620:0:1cfe:face:b00c::3 www.v6.facebook.com #Facebook（官方指定主机名）
 2620:0:1cfe:face:b00c::3 attachments.facebook.com
@@ -3525,6 +3547,89 @@
 #Facebook CDN
 2620:0:1cfe:face:b00c::3 static.ak.fbcdn.net #网站资源（图像、脚本等）新机制尚未部署至 ipv6
 #2620:0:1cfe:face:b00c::4 s-static.ak.facebook.com #https 连接用网站资源，证书有问题
+
+#Plurk
+2607:f128:47::1:1 plurk.com
+2607:f128:47::1:1 www.plurk.com
+2607:f128:47::1:1 ipv6.plurk.com
+
+###其他IPv6网站
+##CN 中国大陆
+#GuAo.hk 谷奥
+2001:470:a803::250 www.guao.hk
+2001:470:a803::250 guao.hk
+2600:3c00::f03c:91ff:fe93:67f2 img.gd
+
+#kenengba.com 可能吧
+2001:470:18:5f5::2 www.kenengba.com
+2001:470:18:5f5::2 m.kenengba.com
+
+#Shooter 射手网
+2001:da8:205::6 shooter.cn
+2001:da8:205::6 edu.shooter.cn
+2001:da8:205::6 edufile0.shooter.cn
+
+#Yegle 一阁
+2001:470:0:19b::b869:805d yegle.net
+
+##US 美国
+#Mozilla
+2620:101:8001:5::2:4 www.mozilla.org
+2620:101:8001:5::2:5 www.mozilla.com
+2620:101:8001:5::2:6 addons.mozilla.org
+2620:101:8001:5::2:8 www.firefox.com
+
+#Microsoft 微软
+2002:836b:9820::836b:9886 www.ipv6.microsoft.com
+
+#WikiMedia 维基媒体
+2620:0:860:2:21d:9ff:fe33:f235 static.wikipedia.org #Wikipedia Static HTML Dumps
+2620:0:860:2:21d:9ff:fe33:f235 hume.wikimedia.org #Wikipedia Static HTML Dumps
+2620:0:860:2:230:48ff:fe5a:eb1e download.wikimedia.org #Wikimedia Downloads
+2620:0:860:2:230:48ff:fe5a:eb1e download.wikipedia.org #Wikimedia Downloads
+2620:0:860:2:230:48ff:fe5a:eb1e dumps.wikimedia.org #Wikimedia Downloads
+2620:0:860:2:230:48ff:fe5a:eb1e storage2.wikimedia.org #Wikimedia Downloads
+2620:0:862:1::25:1 lists.wikimedia.org
+2620:0:862:1:209:3dff:fe10:d5d2 svn.wikimedia.org #Wikimedia Subversion
+2620:0:862:1:209:3dff:fe10:d5d2 mayflower.esams.wikimedia.org
+2620:0:862:1:6666:6666:6666:6666 ipv6and4.labs.wikimedia.org #Wikimedia IPv6 AAAA record testing
+
+#ARIN
+2001:500:4:13::81 www.arin.net
+2001:500:4:13::80 www.arin.net
+
+##AU 澳大利亚
+#APNIC
+2001:dc0:2001:11::211 www.apnic.net
+2001:dc0:2001::14 wq.apnic.net
+
+##JP 日本
+#JAIST 北陸先端科学技術大学院大学
+2001:200:141:feed::feed ftp.jaist.ac.jp
+2001:200:141:feed::feed jaist.dl.sourceforge.net
+
+##NL 荷兰
+#Ubuntu Archive
+2001:7b8:3:37::21:2 ipv6.torrent.ubuntu.com #IPv6 Tracker
+2001:7b8:3:37::21:2 nl.archive.ubuntu.com #Archive Mirror NL
+
+#其他托管在 Google 的服务
+#BlogSpot 上的其他常用博客
+2404:6800:8005::62 googlesystem.blogspot.com #Google Operating System
+2404:6800:8005::62 ipv6-or-no-ipv6.blogspot.com #IPv6 Related Stuff
+2404:6800:8005::62 gfwrev.blogspot.com #GFW 技术评论
+2404:6800:8005::62 kamonka.blogspot.com #NHK 纪录片精选
+
+#Google Code 上的其他常用项目
+2404:6800:8005::52 ipv6-hosts.googlecode.com
+2404:6800:8005::52 kibbles.googlecode.com
+
+# GAE 上的常用应用
+2404:6800:8005::8d wave-api.appspot.com #Google Wave API
+2404:6800:8005::8d wave-skynet.appspot.com #SkyNet
+2404:6800:8005::8d mytracks.appspot.com #My Tracks for Android
+2404:6800:8005::8d autoproxy2pac.appspot.com #自动代理配置脚本生成器
+2404:6800:8005::8d fakegdict.appspot.com #Fake Google Dictionary
 
 # 托管在 Google 上的其他常用域名
 2404:6800:8005::79 wdyl.com
@@ -3685,3 +3790,767 @@
 2001:778:0:ffff:64:0:cdfb:dbac widgets.twimg.com
 2001:778:0:ffff:64:0:cdfb:dbbb widgets.twimg.com
 2001:778:0:ffff:64:0:cdfb:dbde widgets.twimg.com
+
+#WikiMedia 维基媒体
+2001:778:0:ffff:64:0:5bc6:aee0 commons.wikimedia.org #维基共享资源
+2001:778:0:ffff:64:0:d050:98a2 en.planet.wikimedia.org
+2001:778:0:ffff:64:0:d050:98a1 ganglia.wikimedia.org
+2001:778:0:ffff:64:0:5bc6:aee8 incubator.wikimedia.org
+2001:778:0:ffff:64:0:d050:9885 mail.wikimedia.org
+2001:778:0:ffff:64:0:5bc6:aee0 meta.wikimedia.org #元维基
+2001:778:0:ffff:64:0:5bc6:aee8 species.wikimedia.org #维基物种
+2001:778:0:ffff:64:0:d050:98a1 spence.wikimedia.org
+2001:778:0:ffff:64:0:d050:98a2 singer.wikimedia.org
+2001:778:0:ffff:64:0:5bc6:aeea upload.wikimedia.org
+2001:778:0:ffff:64:0:d050:98d1 wikimediafoundation.org
+2001:778:0:ffff:64:0:5bc6:aee8 beta.wikiversity.org #维基学院
+2001:778:0:ffff:64:0:5bc6:aee8 www.mediawiki.org
+#WikiBooks 维基教科书
+2001:778:0:ffff:64:0:5bc6:aee8 aa.wikibooks.org
+2001:778:0:ffff:64:0:5bc6:aee8 af.wikibooks.org
+2001:778:0:ffff:64:0:5bc6:aee8 ak.wikibooks.org
+2001:778:0:ffff:64:0:5bc6:aee8 als.wikibooks.org
+2001:778:0:ffff:64:0:5bc6:aee8 ang.wikibooks.org
+2001:778:0:ffff:64:0:5bc6:aee8 ar.wikibooks.org
+2001:778:0:ffff:64:0:5bc6:aee8 as.wikibooks.org
+2001:778:0:ffff:64:0:5bc6:aee8 ast.wikibooks.org
+2001:778:0:ffff:64:0:5bc6:aee8 ay.wikibooks.org
+2001:778:0:ffff:64:0:5bc6:aee8 az.wikibooks.org
+2001:778:0:ffff:64:0:5bc6:aee8 ba.wikibooks.org
+2001:778:0:ffff:64:0:5bc6:aee8 be.wikibooks.org
+2001:778:0:ffff:64:0:5bc6:aee8 bg.wikibooks.org
+2001:778:0:ffff:64:0:5bc6:aee8 bi.wikibooks.org
+2001:778:0:ffff:64:0:5bc6:aee8 bm.wikibooks.org
+2001:778:0:ffff:64:0:5bc6:aee8 bn.wikibooks.org
+2001:778:0:ffff:64:0:5bc6:aee8 bo.wikibooks.org
+2001:778:0:ffff:64:0:5bc6:aee8 bs.wikibooks.org
+2001:778:0:ffff:64:0:5bc6:aee8 ca.wikibooks.org
+2001:778:0:ffff:64:0:5bc6:aee8 ch.wikibooks.org
+2001:778:0:ffff:64:0:5bc6:aee8 co.wikibooks.org
+2001:778:0:ffff:64:0:5bc6:aee8 cs.wikibooks.org
+2001:778:0:ffff:64:0:5bc6:aee8 cv.wikibooks.org
+2001:778:0:ffff:64:0:5bc6:aee8 cy.wikibooks.org
+2001:778:0:ffff:64:0:5bc6:aee8 da.wikibooks.org
+2001:778:0:ffff:64:0:5bc6:aee8 de.wikibooks.org
+2001:778:0:ffff:64:0:5bc6:aee8 el.wikibooks.org
+2001:778:0:ffff:64:0:5bc6:aee8 en.wikibooks.org
+2001:778:0:ffff:64:0:5bc6:aee8 eo.wikibooks.org
+2001:778:0:ffff:64:0:5bc6:aee8 es.wikibooks.org
+2001:778:0:ffff:64:0:5bc6:aee8 et.wikibooks.org
+2001:778:0:ffff:64:0:5bc6:aee8 eu.wikibooks.org
+2001:778:0:ffff:64:0:5bc6:aee8 fa.wikibooks.org
+2001:778:0:ffff:64:0:5bc6:aee8 fi.wikibooks.org
+2001:778:0:ffff:64:0:5bc6:aee8 fr.wikibooks.org
+2001:778:0:ffff:64:0:5bc6:aee8 fy.wikibooks.org
+2001:778:0:ffff:64:0:5bc6:aee8 ga.wikibooks.org
+2001:778:0:ffff:64:0:5bc6:aee8 gl.wikibooks.org
+2001:778:0:ffff:64:0:5bc6:aee8 gn.wikibooks.org
+2001:778:0:ffff:64:0:5bc6:aee8 got.wikibooks.org
+2001:778:0:ffff:64:0:5bc6:aee8 gu.wikibooks.org
+2001:778:0:ffff:64:0:5bc6:aee8 he.wikibooks.org
+2001:778:0:ffff:64:0:5bc6:aee8 hi.wikibooks.org
+2001:778:0:ffff:64:0:5bc6:aee8 hr.wikibooks.org
+2001:778:0:ffff:64:0:5bc6:aee8 hu.wikibooks.org
+2001:778:0:ffff:64:0:5bc6:aee8 hy.wikibooks.org
+2001:778:0:ffff:64:0:5bc6:aee8 ia.wikibooks.org
+2001:778:0:ffff:64:0:5bc6:aee8 id.wikibooks.org
+2001:778:0:ffff:64:0:5bc6:aee8 ie.wikibooks.org
+2001:778:0:ffff:64:0:5bc6:aee8 is.wikibooks.org
+2001:778:0:ffff:64:0:5bc6:aee8 it.wikibooks.org
+2001:778:0:ffff:64:0:5bc6:aee8 ja.wikibooks.org
+2001:778:0:ffff:64:0:5bc6:aee8 ka.wikibooks.org
+2001:778:0:ffff:64:0:5bc6:aee8 kk.wikibooks.org
+2001:778:0:ffff:64:0:5bc6:aee8 km.wikibooks.org
+2001:778:0:ffff:64:0:5bc6:aee8 kn.wikibooks.org
+2001:778:0:ffff:64:0:5bc6:aee8 ko.wikibooks.org
+2001:778:0:ffff:64:0:5bc6:aee8 ks.wikibooks.org
+2001:778:0:ffff:64:0:5bc6:aee8 ku.wikibooks.org
+2001:778:0:ffff:64:0:5bc6:aee8 ky.wikibooks.org
+2001:778:0:ffff:64:0:5bc6:aee8 la.wikibooks.org
+2001:778:0:ffff:64:0:5bc6:aee8 lb.wikibooks.org
+2001:778:0:ffff:64:0:5bc6:aee8 li.wikibooks.org
+2001:778:0:ffff:64:0:5bc6:aee8 ln.wikibooks.org
+2001:778:0:ffff:64:0:5bc6:aee8 lt.wikibooks.org
+2001:778:0:ffff:64:0:5bc6:aee8 lv.wikibooks.org
+2001:778:0:ffff:64:0:5bc6:aee8 mg.wikibooks.org
+2001:778:0:ffff:64:0:5bc6:aee8 mi.wikibooks.org
+2001:778:0:ffff:64:0:5bc6:aee8 mk.wikibooks.org
+2001:778:0:ffff:64:0:5bc6:aee8 ml.wikibooks.org
+2001:778:0:ffff:64:0:5bc6:aee8 mn.wikibooks.org
+2001:778:0:ffff:64:0:5bc6:aee8 mr.wikibooks.org
+2001:778:0:ffff:64:0:5bc6:aee8 ms.wikibooks.org
+2001:778:0:ffff:64:0:5bc6:aee8 my.wikibooks.org
+2001:778:0:ffff:64:0:5bc6:aee8 na.wikibooks.org
+2001:778:0:ffff:64:0:5bc6:aee8 nah.wikibooks.org
+2001:778:0:ffff:64:0:5bc6:aee8 nds.wikibooks.org
+2001:778:0:ffff:64:0:5bc6:aee8 ne.wikibooks.org
+2001:778:0:ffff:64:0:5bc6:aee8 nl.wikibooks.org
+2001:778:0:ffff:64:0:5bc6:aee8 no.wikibooks.org
+2001:778:0:ffff:64:0:5bc6:aee8 oc.wikibooks.org
+2001:778:0:ffff:64:0:5bc6:aee8 pa.wikibooks.org
+2001:778:0:ffff:64:0:5bc6:aee8 pl.wikibooks.org
+2001:778:0:ffff:64:0:5bc6:aee8 ps.wikibooks.org
+2001:778:0:ffff:64:0:5bc6:aee8 pt.wikibooks.org
+2001:778:0:ffff:64:0:5bc6:aee8 qu.wikibooks.org
+2001:778:0:ffff:64:0:5bc6:aee8 rm.wikibooks.org
+2001:778:0:ffff:64:0:5bc6:aee8 ro.wikibooks.org
+2001:778:0:ffff:64:0:5bc6:aee8 ru.wikibooks.org
+2001:778:0:ffff:64:0:5bc6:aee8 sa.wikibooks.org
+2001:778:0:ffff:64:0:5bc6:aee8 se.wikibooks.org
+2001:778:0:ffff:64:0:5bc6:aee8 si.wikibooks.org
+2001:778:0:ffff:64:0:5bc6:aee8 simple.wikibooks.org
+2001:778:0:ffff:64:0:5bc6:aee8 sk.wikibooks.org
+2001:778:0:ffff:64:0:5bc6:aee8 sl.wikibooks.org
+2001:778:0:ffff:64:0:5bc6:aee8 sq.wikibooks.org
+2001:778:0:ffff:64:0:5bc6:aee8 sr.wikibooks.org
+2001:778:0:ffff:64:0:5bc6:aee8 su.wikibooks.org
+2001:778:0:ffff:64:0:5bc6:aee8 sv.wikibooks.org
+2001:778:0:ffff:64:0:5bc6:aee8 sw.wikibooks.org
+2001:778:0:ffff:64:0:5bc6:aee8 ta.wikibooks.org
+2001:778:0:ffff:64:0:5bc6:aee8 te.wikibooks.org
+2001:778:0:ffff:64:0:5bc6:aee8 tg.wikibooks.org
+2001:778:0:ffff:64:0:5bc6:aee8 th.wikibooks.org
+2001:778:0:ffff:64:0:5bc6:aee8 tk.wikibooks.org
+2001:778:0:ffff:64:0:5bc6:aee8 tl.wikibooks.org
+2001:778:0:ffff:64:0:5bc6:aee8 tr.wikibooks.org
+2001:778:0:ffff:64:0:5bc6:aee8 tt.wikibooks.org
+2001:778:0:ffff:64:0:5bc6:aee8 ug.wikibooks.org
+2001:778:0:ffff:64:0:5bc6:aee8 uk.wikibooks.org
+2001:778:0:ffff:64:0:5bc6:aee8 ur.wikibooks.org
+2001:778:0:ffff:64:0:5bc6:aee8 uz.wikibooks.org
+2001:778:0:ffff:64:0:5bc6:aee8 vi.wikibooks.org
+2001:778:0:ffff:64:0:5bc6:aee8 vo.wikibooks.org
+2001:778:0:ffff:64:0:5bc6:aee8 wa.wikibooks.org
+2001:778:0:ffff:64:0:5bc6:aee8 xh.wikibooks.org
+2001:778:0:ffff:64:0:5bc6:aee8 yo.wikibooks.org
+2001:778:0:ffff:64:0:5bc6:aee8 za.wikibooks.org
+2001:778:0:ffff:64:0:5bc6:aee8 zh.wikibooks.org
+2001:778:0:ffff:64:0:5bc6:aee8 zh-min-nan.wikibooks.org
+2001:778:0:ffff:64:0:5bc6:aee8 zu.wikibooks.org
+#WikiNews 维基新闻
+2001:778:0:ffff:64:0:5bc6:aee8 ar.wikinews.org
+2001:778:0:ffff:64:0:5bc6:aee8 bg.wikinews.org
+2001:778:0:ffff:64:0:5bc6:aee8 bs.wikinews.org
+2001:778:0:ffff:64:0:5bc6:aee8 ca.wikinews.org
+2001:778:0:ffff:64:0:5bc6:aee8 cs.wikinews.org
+2001:778:0:ffff:64:0:5bc6:aee8 de.wikinews.org
+2001:778:0:ffff:64:0:5bc6:aee8 el.wikinews.org
+2001:778:0:ffff:64:0:5bc6:aee8 en.wikinews.org
+2001:778:0:ffff:64:0:5bc6:aee8 eo.wikinews.org
+2001:778:0:ffff:64:0:5bc6:aee8 es.wikinews.org
+2001:778:0:ffff:64:0:5bc6:aee8 fa.wikinews.org
+2001:778:0:ffff:64:0:5bc6:aee8 fi.wikinews.org
+2001:778:0:ffff:64:0:5bc6:aee8 fr.wikinews.org
+2001:778:0:ffff:64:0:5bc6:aee8 he.wikinews.org
+2001:778:0:ffff:64:0:5bc6:aee8 hu.wikinews.org
+2001:778:0:ffff:64:0:5bc6:aee8 it.wikinews.org
+2001:778:0:ffff:64:0:5bc6:aee8 ja.wikinews.org
+2001:778:0:ffff:64:0:5bc6:aee8 ko.wikinews.org
+2001:778:0:ffff:64:0:5bc6:aee8 nl.wikinews.org
+2001:778:0:ffff:64:0:5bc6:aee8 no.wikinews.org
+2001:778:0:ffff:64:0:5bc6:aee8 pl.wikinews.org
+2001:778:0:ffff:64:0:5bc6:aee8 pt.wikinews.org
+2001:778:0:ffff:64:0:5bc6:aee8 ro.wikinews.org
+2001:778:0:ffff:64:0:5bc6:aee8 ru.wikinews.org
+2001:778:0:ffff:64:0:5bc6:aee8 sd.wikinews.org
+2001:778:0:ffff:64:0:5bc6:aee8 sq.wikinews.org
+2001:778:0:ffff:64:0:5bc6:aee8 sr.wikinews.org
+2001:778:0:ffff:64:0:5bc6:aee8 sv.wikinews.org
+2001:778:0:ffff:64:0:5bc6:aee8 ta.wikinews.org
+2001:778:0:ffff:64:0:5bc6:aee8 th.wikinews.org
+2001:778:0:ffff:64:0:5bc6:aee8 tr.wikinews.org
+2001:778:0:ffff:64:0:5bc6:aee8 uk.wikinews.org
+2001:778:0:ffff:64:0:5bc6:aee8 zh.wikinews.org
+#WikiPedia 维基百科
+2001:778:0:ffff:64:0:d050:9802 wikipedia.org
+2001:778:0:ffff:64:0:5bc6:aee8 www.wikipedia.org
+2001:778:0:ffff:64:0:5bc6:aee8 aa.wikipedia.org #阿法尔语、阿法语
+2001:778:0:ffff:64:0:5bc6:aee8 ab.wikipedia.org #阿布哈西亚语‎、阿布哈兹语
+2001:778:0:ffff:64:0:5bc6:aee8 ace.wikipedia.org
+2001:778:0:ffff:64:0:5bc6:aee8 af.wikipedia.org #阿非利堪斯语、南非荷兰语、南非语
+2001:778:0:ffff:64:0:5bc6:aee8 ak.wikipedia.org #阿坎语
+2001:778:0:ffff:64:0:5bc6:aee8 als.wikipedia.org #阿勒曼尼语、瑞士德语
+2001:778:0:ffff:64:0:5bc6:aee8 am.wikipedia.org #阿姆哈拉语
+2001:778:0:ffff:64:0:5bc6:aee8 an.wikipedia.org #阿拉贡语、亚拉冈语
+2001:778:0:ffff:64:0:5bc6:aee8 ang.wikipedia.org #古英语
+2001:778:0:ffff:64:0:5bc6:aee8 ar.wikipedia.org #阿拉伯语
+2001:778:0:ffff:64:0:5bc6:aee8 arc.wikipedia.org #阿拉米语
+2001:778:0:ffff:64:0:5bc6:aee8 arz.wikipedia.org
+2001:778:0:ffff:64:0:5bc6:aee8 as.wikipedia.org #阿萨姆语
+2001:778:0:ffff:64:0:5bc6:aee8 ast.wikipedia.org #阿斯图里亚斯语
+2001:778:0:ffff:64:0:5bc6:aee8 av.wikipedia.org #阿瓦尔语
+2001:778:0:ffff:64:0:5bc6:aee8 ay.wikipedia.org #艾马拉语
+2001:778:0:ffff:64:0:5bc6:aee8 az.wikipedia.org #阿塞拜疆语、阿塞拜疆语
+2001:778:0:ffff:64:0:5bc6:aee8 ba.wikipedia.org #巴什基尔语、巴什噶尔语
+2001:778:0:ffff:64:0:5bc6:aee8 bar.wikipedia.org #奥地利-巴伐利亚语
+2001:778:0:ffff:64:0:5bc6:aee8 bat-smg.wikipedia.org #萨莫吉希亚语
+2001:778:0:ffff:64:0:5bc6:aee8 bcl.wikipedia.org #中比科尔语
+2001:778:0:ffff:64:0:5bc6:aee8 be.wikipedia.org #白俄罗斯语
+2001:778:0:ffff:64:0:5bc6:aee8 be-x-old.wikipedia.org #白俄罗斯语（1933年前）
+2001:778:0:ffff:64:0:5bc6:aee8 bg.wikipedia.org #保加利亚语
+2001:778:0:ffff:64:0:5bc6:aee8 bh.wikipedia.org #比哈尔语
+2001:778:0:ffff:64:0:5bc6:aee8 bi.wikipedia.org #比斯拉玛语
+2001:778:0:ffff:64:0:5bc6:aee8 bm.wikipedia.org #班巴拉语
+2001:778:0:ffff:64:0:5bc6:aee8 bn.wikipedia.org #孟加拉语
+2001:778:0:ffff:64:0:5bc6:aee8 bo.wikipedia.org #藏语
+2001:778:0:ffff:64:0:5bc6:aee8 bpy.wikipedia.org #比什奴普莱利亚-曼尼浦尔语
+2001:778:0:ffff:64:0:5bc6:aee8 br.wikipedia.org #布列塔尼语、布里多尼语
+2001:778:0:ffff:64:0:5bc6:aee8 bs.wikipedia.org #波斯尼亚语、波斯尼亚语
+2001:778:0:ffff:64:0:5bc6:aee8 bug.wikipedia.org #布吉语
+2001:778:0:ffff:64:0:5bc6:aee8 bxr.wikipedia.org #布里亚特语
+2001:778:0:ffff:64:0:5bc6:aee8 ca.wikipedia.org #加泰隆尼亚语、加泰罗尼亚语、加泰隆语、瓦伦西亚语
+2001:778:0:ffff:64:0:5bc6:aee8 cbk-zam.wikipedia.org #三宝颜共同语
+2001:778:0:ffff:64:0:5bc6:aee8 cdo.wikipedia.org #闽东话
+2001:778:0:ffff:64:0:5bc6:aee8 ce.wikipedia.org #车臣语
+2001:778:0:ffff:64:0:5bc6:aee8 ceb.wikipedia.org #宿务语、宿雾语
+2001:778:0:ffff:64:0:5bc6:aee8 ch.wikipedia.org #查莫罗语
+2001:778:0:ffff:64:0:5bc6:aee8 chr.wikipedia.org #切罗基语
+2001:778:0:ffff:64:0:5bc6:aee8 chy.wikipedia.org #夏延语
+2001:778:0:ffff:64:0:5bc6:aee8 ckb.wikipedia.org
+2001:778:0:ffff:64:0:5bc6:aee8 co.wikipedia.org #科西嘉语
+2001:778:0:ffff:64:0:5bc6:aee8 cr.wikipedia.org #克里语
+2001:778:0:ffff:64:0:5bc6:aee8 crh.wikipedia.org #克里米亚鞑靼语
+2001:778:0:ffff:64:0:5bc6:aee8 cs.wikipedia.org #捷克语
+2001:778:0:ffff:64:0:5bc6:aee8 csb.wikipedia.org #卡舒比语
+2001:778:0:ffff:64:0:5bc6:aee8 cu.wikipedia.org #古教会斯拉夫语
+2001:778:0:ffff:64:0:5bc6:aee8 cv.wikipedia.org #楚瓦什语
+2001:778:0:ffff:64:0:5bc6:aee8 cy.wikipedia.org #威尔士语、威尔斯语
+2001:778:0:ffff:64:0:5bc6:aee8 da.wikipedia.org #丹麦语
+2001:778:0:ffff:64:0:5bc6:aee8 de.wikipedia.org #德语
+2001:778:0:ffff:64:0:5bc6:aee8 diq.wikipedia.org #南扎扎其语
+2001:778:0:ffff:64:0:5bc6:aee8 dsb.wikipedia.org #下索布语
+2001:778:0:ffff:64:0:5bc6:aee8 dv.wikipedia.org #迪维希语
+2001:778:0:ffff:64:0:5bc6:aee8 dz.wikipedia.org #宗喀语、不丹语
+2001:778:0:ffff:64:0:5bc6:aee8 ee.wikipedia.org #埃维语、幽语
+2001:778:0:ffff:64:0:5bc6:aee8 el.wikipedia.org #现代希腊语
+2001:778:0:ffff:64:0:5bc6:aee8 eml.wikipedia.org #艾米利亚-罗马涅语
+2001:778:0:ffff:64:0:5bc6:aee8 en.wikipedia.org #英语
+2001:778:0:ffff:64:0:5bc6:aee8 eo.wikipedia.org #世界语
+2001:778:0:ffff:64:0:5bc6:aee8 es.wikipedia.org #西班牙语
+2001:778:0:ffff:64:0:5bc6:aee8 et.wikipedia.org #爱沙尼亚语
+2001:778:0:ffff:64:0:5bc6:aee8 eu.wikipedia.org #巴斯克语
+2001:778:0:ffff:64:0:5bc6:aee8 ext.wikipedia.org #埃斯特雷马杜拉语
+2001:778:0:ffff:64:0:5bc6:aee8 fa.wikipedia.org #波斯语
+2001:778:0:ffff:64:0:5bc6:aee8 ff.wikipedia.org #富拉语、弗拉尼语
+2001:778:0:ffff:64:0:5bc6:aee8 fi.wikipedia.org #芬兰语
+2001:778:0:ffff:64:0:5bc6:aee8 fiu-vro.wikipedia.org #佛罗语
+2001:778:0:ffff:64:0:5bc6:aee8 fj.wikipedia.org #斐济语
+2001:778:0:ffff:64:0:5bc6:aee8 fo.wikipedia.org #法罗斯语、法罗语
+2001:778:0:ffff:64:0:5bc6:aee8 fr.wikipedia.org #法语
+2001:778:0:ffff:64:0:5bc6:aee8 frp.wikipedia.org #法兰克-普罗旺斯语
+2001:778:0:ffff:64:0:5bc6:aee8 fur.wikipedia.org #弗留利语
+2001:778:0:ffff:64:0:5bc6:aee8 fy.wikipedia.org #弗里西亚语、西弗里西亚语
+2001:778:0:ffff:64:0:5bc6:aee8 ga.wikipedia.org #爱尔兰语
+2001:778:0:ffff:64:0:5bc6:aee8 gan.wikipedia.org #赣语
+2001:778:0:ffff:64:0:5bc6:aee8 gd.wikipedia.org #苏格兰盖尔语
+2001:778:0:ffff:64:0:5bc6:aee8 gl.wikipedia.org #加利西亚语、加里西亚语
+2001:778:0:ffff:64:0:5bc6:aee8 glk.wikipedia.org #吉拉克语
+2001:778:0:ffff:64:0:5bc6:aee8 gn.wikipedia.org #瓜拉尼语
+2001:778:0:ffff:64:0:5bc6:aee8 got.wikipedia.org #哥特语、哥德语
+2001:778:0:ffff:64:0:5bc6:aee8 gu.wikipedia.org #古吉拉特语
+2001:778:0:ffff:64:0:5bc6:aee8 gv.wikipedia.org #马恩岛语、曼岛语
+2001:778:0:ffff:64:0:5bc6:aee8 ha.wikipedia.org #豪萨语、豪撒语
+2001:778:0:ffff:64:0:5bc6:aee8 hak.wikipedia.org #客家话
+2001:778:0:ffff:64:0:5bc6:aee8 haw.wikipedia.org #夏威夷语
+2001:778:0:ffff:64:0:5bc6:aee8 he.wikipedia.org #希伯来语
+2001:778:0:ffff:64:0:5bc6:aee8 hi.wikipedia.org #印地语
+2001:778:0:ffff:64:0:5bc6:aee8 hif.wikipedia.org #斐济印度斯坦语
+2001:778:0:ffff:64:0:5bc6:aee8 hr.wikipedia.org #克罗地亚语、克罗地亚语
+2001:778:0:ffff:64:0:5bc6:aee8 hsb.wikipedia.org #上索布语
+2001:778:0:ffff:64:0:5bc6:aee8 ht.wikipedia.org #海地克里奥尔语
+2001:778:0:ffff:64:0:5bc6:aee8 hu.wikipedia.org #匈牙利语
+2001:778:0:ffff:64:0:5bc6:aee8 hy.wikipedia.org #亚美尼亚语
+2001:778:0:ffff:64:0:5bc6:aee8 ia.wikipedia.org #国际语（国际语A）
+2001:778:0:ffff:64:0:5bc6:aee8 id.wikipedia.org #印尼语、印度尼西亚语
+2001:778:0:ffff:64:0:5bc6:aee8 ie.wikipedia.org #西方国际语（国际语E）
+2001:778:0:ffff:64:0:5bc6:aee8 ig.wikipedia.org #伊博语、伊格柏语
+2001:778:0:ffff:64:0:5bc6:aee8 ik.wikipedia.org #依努庇克语、伊努必语
+2001:778:0:ffff:64:0:5bc6:aee8 ilo.wikipedia.org #伊洛卡诺语
+2001:778:0:ffff:64:0:5bc6:aee8 io.wikipedia.org #伊多语
+2001:778:0:ffff:64:0:5bc6:aee8 is.wikipedia.org #冰岛语
+2001:778:0:ffff:64:0:5bc6:aee8 it.wikipedia.org #意大利语、意大利语
+2001:778:0:ffff:64:0:5bc6:aee8 iu.wikipedia.org #伊努伊特语、伊努特语、因纽特语
+2001:778:0:ffff:64:0:5bc6:aee8 ja.wikipedia.org #日语、日本语
+2001:778:0:ffff:64:0:5bc6:aee8 jbo.wikipedia.org #逻辑语
+2001:778:0:ffff:64:0:5bc6:aee8 jv.wikipedia.org #爪哇语
+2001:778:0:ffff:64:0:5bc6:aee8 ka.wikipedia.org #格鲁吉亚语、乔治亚语
+2001:778:0:ffff:64:0:5bc6:aee8 kaa.wikipedia.org #卡拉卡尔帕克语
+2001:778:0:ffff:64:0:5bc6:aee8 kab.wikipedia.org #卡布列语
+2001:778:0:ffff:64:0:5bc6:aee8 kg.wikipedia.org #刚果语
+2001:778:0:ffff:64:0:5bc6:aee8 ki.wikipedia.org #基库尤语、吉库尤语
+2001:778:0:ffff:64:0:5bc6:aee8 kk.wikipedia.org #哈萨克语
+2001:778:0:ffff:64:0:5bc6:aee8 kl.wikipedia.org #格陵兰语
+2001:778:0:ffff:64:0:5bc6:aee8 km.wikipedia.org #高棉语、中高棉语
+2001:778:0:ffff:64:0:5bc6:aee8 kn.wikipedia.org #卡纳达语、康纳达语
+2001:778:0:ffff:64:0:5bc6:aee8 ko.wikipedia.org #朝鲜语
+2001:778:0:ffff:64:0:5bc6:aee8 krc.wikipedia.org
+2001:778:0:ffff:64:0:5bc6:aee8 ks.wikipedia.org #克什米尔语、喀什米尔语
+2001:778:0:ffff:64:0:5bc6:aee8 ksh.wikipedia.org #库尔施语
+2001:778:0:ffff:64:0:5bc6:aee8 ku.wikipedia.org #库尔德语、库德语
+2001:778:0:ffff:64:0:5bc6:aee8 kv.wikipedia.org #科米语
+2001:778:0:ffff:64:0:5bc6:aee8 kw.wikipedia.org #康沃尔语、康瓦尔语
+2001:778:0:ffff:64:0:5bc6:aee8 ky.wikipedia.org #吉尔吉斯语、柯尔克孜语
+2001:778:0:ffff:64:0:5bc6:aee8 la.wikipedia.org #拉丁语
+2001:778:0:ffff:64:0:5bc6:aee8 lad.wikipedia.org #拉迪诺语
+2001:778:0:ffff:64:0:5bc6:aee8 lb.wikipedia.org #卢森堡语
+2001:778:0:ffff:64:0:5bc6:aee8 lbe.wikipedia.org #腊克语
+2001:778:0:ffff:64:0:5bc6:aee8 lg.wikipedia.org #干达语、卢干达语
+2001:778:0:ffff:64:0:5bc6:aee8 li.wikipedia.org #林堡语
+2001:778:0:ffff:64:0:5bc6:aee8 lij.wikipedia.org #利古里亚语
+2001:778:0:ffff:64:0:5bc6:aee8 lmo.wikipedia.org #伦巴底语
+2001:778:0:ffff:64:0:5bc6:aee8 ln.wikipedia.org #林加拉语、林格拉语
+2001:778:0:ffff:64:0:5bc6:aee8 lo.wikipedia.org #老挝语、老挝语
+2001:778:0:ffff:64:0:5bc6:aee8 lt.wikipedia.org #立陶宛语
+2001:778:0:ffff:64:0:5bc6:aee8 lv.wikipedia.org #拉脱维亚语
+2001:778:0:ffff:64:0:d050:9885 mail.wikipedia.org
+2001:778:0:ffff:64:0:5bc6:aee8 map-bms.wikipedia.org #班尤马山语
+2001:778:0:ffff:64:0:5bc6:aee8 mdf.wikipedia.org #莫克沙语
+2001:778:0:ffff:64:0:5bc6:aee8 mg.wikipedia.org #马达加斯加语、马拉加西语
+2001:778:0:ffff:64:0:5bc6:aee8 mh.wikipedia.org #马绍尔语
+2001:778:0:ffff:64:0:5bc6:aee8 mhr.wikipedia.org
+2001:778:0:ffff:64:0:5bc6:aee8 mi.wikipedia.org #毛利语
+2001:778:0:ffff:64:0:5bc6:aee8 mk.wikipedia.org #马其顿语
+2001:778:0:ffff:64:0:5bc6:aee8 ml.wikipedia.org #马拉雅拉姆语
+2001:778:0:ffff:64:0:5bc6:aee8 mn.wikipedia.org #蒙古语
+2001:778:0:ffff:64:0:5bc6:aee8 mr.wikipedia.org #马拉地语、马拉提语
+2001:778:0:ffff:64:0:5bc6:aee8 ms.wikipedia.org #马来语
+2001:778:0:ffff:64:0:5bc6:aee8 mt.wikipedia.org #马耳他语、马尔他语
+2001:778:0:ffff:64:0:5bc6:aee8 mwl.wikipedia.org
+2001:778:0:ffff:64:0:5bc6:aee8 my.wikipedia.org #缅甸语
+2001:778:0:ffff:64:0:5bc6:aee8 myv.wikipedia.org #厄尔兹亚语
+2001:778:0:ffff:64:0:5bc6:aee8 mzn.wikipedia.org #马赞德兰语
+2001:778:0:ffff:64:0:5bc6:aee8 na.wikipedia.org #瑙鲁语、诺鲁语
+2001:778:0:ffff:64:0:5bc6:aee8 nah.wikipedia.org #纳瓦特尔语
+2001:778:0:ffff:64:0:5bc6:aee8 nap.wikipedia.org #拿坡里语
+2001:778:0:ffff:64:0:5bc6:aee8 nds.wikipedia.org #低地撒克逊语
+2001:778:0:ffff:64:0:5bc6:aee8 nds-nl.wikipedia.org #荷兰低地萨克逊语
+2001:778:0:ffff:64:0:5bc6:aee8 ne.wikipedia.org #尼泊尔语
+2001:778:0:ffff:64:0:5bc6:aee8 new.wikipedia.org #尼瓦尔语
+2001:778:0:ffff:64:0:5bc6:aee8 ng.wikipedia.org #恩敦加语、恩东加语
+2001:778:0:ffff:64:0:5bc6:aee8 nl.wikipedia.org #荷兰语
+2001:778:0:ffff:64:0:5bc6:aee8 nn.wikipedia.org #新挪威语
+2001:778:0:ffff:64:0:5bc6:aee8 no.wikipedia.org #挪威语
+2001:778:0:ffff:64:0:5bc6:aee8 nov.wikipedia.org #诺维亚语
+2001:778:0:ffff:64:0:5bc6:aee8 nrm.wikipedia.org #诺曼语
+2001:778:0:ffff:64:0:5bc6:aee8 nv.wikipedia.org #纳瓦霍语、纳瓦荷语
+2001:778:0:ffff:64:0:5bc6:aee8 ny.wikipedia.org #尼扬贾语、齐切瓦语
+2001:778:0:ffff:64:0:5bc6:aee8 oc.wikipedia.org #奥克西唐语、奥克西坦语、奥克语
+2001:778:0:ffff:64:0:5bc6:aee8 om.wikipedia.org #奥罗莫语
+2001:778:0:ffff:64:0:5bc6:aee8 or.wikipedia.org #奥利亚语、奥里亚语
+2001:778:0:ffff:64:0:5bc6:aee8 os.wikipedia.org #奥塞梯语、奥塞提语
+2001:778:0:ffff:64:0:5bc6:aee8 pa.wikipedia.org #旁遮普语
+2001:778:0:ffff:64:0:5bc6:aee8 pag.wikipedia.org #邦阿西楠语
+2001:778:0:ffff:64:0:5bc6:aee8 pam.wikipedia.org #邦板牙语
+2001:778:0:ffff:64:0:5bc6:aee8 pap.wikipedia.org #帕皮亚门托语
+2001:778:0:ffff:64:0:5bc6:aee8 pcd.wikipedia.org
+2001:778:0:ffff:64:0:5bc6:aee8 pdc.wikipedia.org #宾夕法尼亚德语
+2001:778:0:ffff:64:0:5bc6:aee8 pi.wikipedia.org #巴利语
+2001:778:0:ffff:64:0:5bc6:aee8 pih.wikipedia.org #皮特凯恩-诺福克语
+2001:778:0:ffff:64:0:5bc6:aee8 pl.wikipedia.org #波兰语
+2001:778:0:ffff:64:0:5bc6:aee8 pms.wikipedia.org #皮埃蒙特语
+2001:778:0:ffff:64:0:5bc6:aee8 pnb.wikipedia.org
+2001:778:0:ffff:64:0:5bc6:aee8 pnt.wikipedia.org
+2001:778:0:ffff:64:0:5bc6:aee8 ps.wikipedia.org #普什图语、帕图语
+2001:778:0:ffff:64:0:5bc6:aee8 pt.wikipedia.org #葡萄牙语
+2001:778:0:ffff:64:0:5bc6:aee8 qu.wikipedia.org #克丘亚语、凯楚亚语、奇楚瓦语
+2001:778:0:ffff:64:0:5bc6:aee8 rm.wikipedia.org #罗曼什语
+2001:778:0:ffff:64:0:5bc6:aee8 rmy.wikipedia.org #Vlax 罗姆语
+2001:778:0:ffff:64:0:5bc6:aee8 rn.wikipedia.org #基隆迪语、克伦地语
+2001:778:0:ffff:64:0:5bc6:aee8 ro.wikipedia.org #罗马尼亚语
+2001:778:0:ffff:64:0:5bc6:aee8 roa-rup.wikipedia.org #阿罗马尼亚语
+2001:778:0:ffff:64:0:5bc6:aee8 roa-tara.wikipedia.org #塔兰托语
+2001:778:0:ffff:64:0:5bc6:aee8 ru.wikipedia.org #俄语
+2001:778:0:ffff:64:0:5bc6:aee8 rw.wikipedia.org #基尼阿万达语、卢旺达语
+2001:778:0:ffff:64:0:5bc6:aee8 sa.wikipedia.org #梵语
+2001:778:0:ffff:64:0:5bc6:aee8 sah.wikipedia.org #雅库特语
+2001:778:0:ffff:64:0:5bc6:aee8 sc.wikipedia.org #撒丁语、萨丁尼亚语
+2001:778:0:ffff:64:0:5bc6:aee8 scn.wikipedia.org #西西里语
+2001:778:0:ffff:64:0:5bc6:aee8 sco.wikipedia.org #苏格兰语
+2001:778:0:ffff:64:0:5bc6:aee8 sd.wikipedia.org #信德语、辛德语
+2001:778:0:ffff:64:0:5bc6:aee8 se.wikipedia.org #北萨米语、北萨莫斯语
+2001:778:0:ffff:64:0:5bc6:aee8 sg.wikipedia.org #桑戈语
+2001:778:0:ffff:64:0:5bc6:aee8 sh.wikipedia.org #塞尔维亚-克罗地亚语
+2001:778:0:ffff:64:0:5bc6:aee8 si.wikipedia.org #僧加罗语、僧伽罗语
+2001:778:0:ffff:64:0:5bc6:aee8 simple.wikipedia.org #简单英语
+2001:778:0:ffff:64:0:5bc6:aee8 sk.wikipedia.org #斯洛伐克语
+2001:778:0:ffff:64:0:5bc6:aee8 sl.wikipedia.org #斯洛文尼亚语、斯洛文尼亚语
+2001:778:0:ffff:64:0:5bc6:aee8 sm.wikipedia.org #萨摩亚语
+2001:778:0:ffff:64:0:5bc6:aee8 sn.wikipedia.org #修纳语、绍纳语
+2001:778:0:ffff:64:0:5bc6:aee8 so.wikipedia.org #索马里语、索马里语
+2001:778:0:ffff:64:0:5bc6:aee8 sq.wikipedia.org #阿尔巴尼亚语
+2001:778:0:ffff:64:0:5bc6:aee8 sr.wikipedia.org #塞尔维亚语
+2001:778:0:ffff:64:0:5bc6:aee8 srn.wikipedia.org #苏里南汤加语
+2001:778:0:ffff:64:0:5bc6:aee8 ss.wikipedia.org #斯瓦特语、斯威士兰语
+2001:778:0:ffff:64:0:5bc6:aee8 st.wikipedia.org #南塞索托语、索托语、南梭苏语
+2001:778:0:ffff:64:0:5bc6:aee8 stq.wikipedia.org #沙特弗里西语
+2001:778:0:ffff:64:0:5bc6:aee8 su.wikipedia.org #巽他语
+2001:778:0:ffff:64:0:5bc6:aee8 sv.wikipedia.org #瑞典语
+2001:778:0:ffff:64:0:5bc6:aee8 sw.wikipedia.org #斯瓦希里语、斯瓦西里语
+2001:778:0:ffff:64:0:5bc6:aee8 szl.wikipedia.org #西里西亚语
+2001:778:0:ffff:64:0:5bc6:aee8 ta.wikipedia.org #泰米尔语、坦米尔语、淡米尔语
+2001:778:0:ffff:64:0:5bc6:aee8 te.wikipedia.org #泰卢固语
+2001:778:0:ffff:64:0:5bc6:aee8 tet.wikipedia.org #特塔姆语、德顿语
+2001:778:0:ffff:64:0:5bc6:aee8 tg.wikipedia.org #塔吉克语
+2001:778:0:ffff:64:0:5bc6:aee8 th.wikipedia.org #泰语
+2001:778:0:ffff:64:0:5bc6:aee8 ti.wikipedia.org #提格里尼亚语、提格利尼亚语
+2001:778:0:ffff:64:0:5bc6:aee8 tk.wikipedia.org #土库曼语
+2001:778:0:ffff:64:0:5bc6:aee8 tl.wikipedia.org #塔加洛语、塔加拉语、他加禄语
+2001:778:0:ffff:64:0:5bc6:aee8 tn.wikipedia.org #茨瓦纳语
+2001:778:0:ffff:64:0:5bc6:aee8 to.wikipedia.org #汤加语 (汤加岛)、东加语
+2001:778:0:ffff:64:0:5bc6:aee8 tpi.wikipedia.org #托克皮辛语、巴布亚皮钦语
+2001:778:0:ffff:64:0:5bc6:aee8 tr.wikipedia.org #土耳其语
+2001:778:0:ffff:64:0:5bc6:aee8 ts.wikipedia.org #聪加语、宗加语、宋加语
+2001:778:0:ffff:64:0:5bc6:aee8 tt.wikipedia.org #塔塔尔语、鞑靼语
+2001:778:0:ffff:64:0:5bc6:aee8 tum.wikipedia.org #奇图姆布卡语
+2001:778:0:ffff:64:0:5bc6:aee8 tw.wikipedia.org #契维语、特威语、多威语、奇族语
+2001:778:0:ffff:64:0:5bc6:aee8 ty.wikipedia.org #塔希提语、大溪地语
+2001:778:0:ffff:64:0:5bc6:aee8 udm.wikipedia.org #乌德穆尔特语
+2001:778:0:ffff:64:0:5bc6:aee8 ug.wikipedia.org #维吾尔语
+2001:778:0:ffff:64:0:5bc6:aee8 uk.wikipedia.org #乌克兰语
+2001:778:0:ffff:64:0:5bc6:aee8 ur.wikipedia.org #乌尔都语、乌都语、晤鲁都语
+2001:778:0:ffff:64:0:5bc6:aee8 uz.wikipedia.org #乌兹别克语、乌孜别克语
+2001:778:0:ffff:64:0:5bc6:aee8 ve.wikipedia.org #文达语、温达语
+2001:778:0:ffff:64:0:5bc6:aee8 vec.wikipedia.org #威尼斯语
+2001:778:0:ffff:64:0:5bc6:aee8 vi.wikipedia.org #越南语、京语
+2001:778:0:ffff:64:0:5bc6:aee8 vls.wikipedia.org #佛兰芒语
+2001:778:0:ffff:64:0:5bc6:aee8 vo.wikipedia.org #沃拉普克语
+2001:778:0:ffff:64:0:5bc6:aee8 wa.wikipedia.org #瓦龙语、华隆语、瓦隆语
+2001:778:0:ffff:64:0:5bc6:aee8 war.wikipedia.org #瓦赖语
+2001:778:0:ffff:64:0:5bc6:aee8 wo.wikipedia.org #沃洛夫语、渥鲁夫语
+2001:778:0:ffff:64:0:5bc6:aee8 wuu.wikipedia.org #吴语
+2001:778:0:ffff:64:0:5bc6:aee8 xal.wikipedia.org #卡尔梅克语、卫拉特语
+2001:778:0:ffff:64:0:5bc6:aee8 xh.wikipedia.org #科萨语
+2001:778:0:ffff:64:0:5bc6:aee8 yi.wikipedia.org #依地语、意第绪语
+2001:778:0:ffff:64:0:5bc6:aee8 yo.wikipedia.org #约鲁巴语
+2001:778:0:ffff:64:0:5bc6:aee8 za.wikipedia.org #壮语
+2001:778:0:ffff:64:0:5bc6:aee8 zea.wikipedia.org #西兰语
+2001:778:0:ffff:64:0:5bc6:aee8 zh.wikipedia.org #中文、汉语
+2001:778:0:ffff:64:0:5bc6:aee8 zh-classical.wikipedia.org #文言文
+2001:778:0:ffff:64:0:5bc6:aee8 zh-min-nan.wikipedia.org #闽南话
+2001:778:0:ffff:64:0:5bc6:aee8 zh-yue.wikipedia.org #粤语
+2001:778:0:ffff:64:0:5bc6:aee8 zu.wikipedia.org #祖鲁语
+#WikiPedia Mobile 维基百科移动版
+2001:778:0:ffff:64:0:d050:9805 m.wikipedia.org
+2001:778:0:ffff:64:0:d050:9805 zh.m.wikipedia.org
+#WikiQuote 维基语录
+2001:778:0:ffff:64:0:5bc6:aee8 af.wikiquote.org
+2001:778:0:ffff:64:0:5bc6:aee8 als.wikiquote.org
+2001:778:0:ffff:64:0:5bc6:aee8 am.wikiquote.org
+2001:778:0:ffff:64:0:5bc6:aee8 ang.wikiquote.org
+2001:778:0:ffff:64:0:5bc6:aee8 ar.wikiquote.org
+2001:778:0:ffff:64:0:5bc6:aee8 ast.wikiquote.org
+2001:778:0:ffff:64:0:5bc6:aee8 az.wikiquote.org
+2001:778:0:ffff:64:0:5bc6:aee8 be.wikiquote.org
+2001:778:0:ffff:64:0:5bc6:aee8 bg.wikiquote.org
+2001:778:0:ffff:64:0:5bc6:aee8 bm.wikiquote.org
+2001:778:0:ffff:64:0:5bc6:aee8 br.wikiquote.org
+2001:778:0:ffff:64:0:5bc6:aee8 bs.wikiquote.org
+2001:778:0:ffff:64:0:5bc6:aee8 ca.wikiquote.org
+2001:778:0:ffff:64:0:5bc6:aee8 co.wikiquote.org
+2001:778:0:ffff:64:0:5bc6:aee8 cr.wikiquote.org
+2001:778:0:ffff:64:0:5bc6:aee8 cs.wikiquote.org
+2001:778:0:ffff:64:0:5bc6:aee8 cy.wikiquote.org
+2001:778:0:ffff:64:0:5bc6:aee8 da.wikiquote.org
+2001:778:0:ffff:64:0:5bc6:aee8 de.wikiquote.org
+2001:778:0:ffff:64:0:5bc6:aee8 el.wikiquote.org
+2001:778:0:ffff:64:0:5bc6:aee8 en.wikiquote.org
+2001:778:0:ffff:64:0:5bc6:aee8 eo.wikiquote.org
+2001:778:0:ffff:64:0:5bc6:aee8 es.wikiquote.org
+2001:778:0:ffff:64:0:5bc6:aee8 et.wikiquote.org
+2001:778:0:ffff:64:0:5bc6:aee8 eu.wikiquote.org
+2001:778:0:ffff:64:0:5bc6:aee8 fa.wikiquote.org
+2001:778:0:ffff:64:0:5bc6:aee8 fi.wikiquote.org
+2001:778:0:ffff:64:0:5bc6:aee8 fr.wikiquote.org
+2001:778:0:ffff:64:0:5bc6:aee8 ga.wikiquote.org
+2001:778:0:ffff:64:0:5bc6:aee8 gl.wikiquote.org
+2001:778:0:ffff:64:0:5bc6:aee8 gu.wikiquote.org
+2001:778:0:ffff:64:0:5bc6:aee8 he.wikiquote.org
+2001:778:0:ffff:64:0:5bc6:aee8 hi.wikiquote.org
+2001:778:0:ffff:64:0:5bc6:aee8 hr.wikiquote.org
+2001:778:0:ffff:64:0:5bc6:aee8 hu.wikiquote.org
+2001:778:0:ffff:64:0:5bc6:aee8 hy.wikiquote.org
+2001:778:0:ffff:64:0:5bc6:aee8 id.wikiquote.org
+2001:778:0:ffff:64:0:5bc6:aee8 is.wikiquote.org
+2001:778:0:ffff:64:0:5bc6:aee8 it.wikiquote.org
+2001:778:0:ffff:64:0:5bc6:aee8 ja.wikiquote.org
+2001:778:0:ffff:64:0:5bc6:aee8 ka.wikiquote.org
+2001:778:0:ffff:64:0:5bc6:aee8 kk.wikiquote.org
+2001:778:0:ffff:64:0:5bc6:aee8 kn.wikiquote.org
+2001:778:0:ffff:64:0:5bc6:aee8 ko.wikiquote.org
+2001:778:0:ffff:64:0:5bc6:aee8 kr.wikiquote.org
+2001:778:0:ffff:64:0:5bc6:aee8 ks.wikiquote.org
+2001:778:0:ffff:64:0:5bc6:aee8 ku.wikiquote.org
+2001:778:0:ffff:64:0:5bc6:aee8 kw.wikiquote.org
+2001:778:0:ffff:64:0:5bc6:aee8 ky.wikiquote.org
+2001:778:0:ffff:64:0:5bc6:aee8 la.wikiquote.org
+2001:778:0:ffff:64:0:5bc6:aee8 lb.wikiquote.org
+2001:778:0:ffff:64:0:5bc6:aee8 li.wikiquote.org
+2001:778:0:ffff:64:0:5bc6:aee8 lt.wikiquote.org
+2001:778:0:ffff:64:0:5bc6:aee8 ml.wikiquote.org
+2001:778:0:ffff:64:0:5bc6:aee8 mr.wikiquote.org
+2001:778:0:ffff:64:0:5bc6:aee8 na.wikiquote.org
+2001:778:0:ffff:64:0:5bc6:aee8 nds.wikiquote.org
+2001:778:0:ffff:64:0:5bc6:aee8 nl.wikiquote.org
+2001:778:0:ffff:64:0:5bc6:aee8 nn.wikiquote.org
+2001:778:0:ffff:64:0:5bc6:aee8 no.wikiquote.org
+2001:778:0:ffff:64:0:5bc6:aee8 pl.wikiquote.org
+2001:778:0:ffff:64:0:5bc6:aee8 pt.wikiquote.org
+2001:778:0:ffff:64:0:5bc6:aee8 qu.wikiquote.org
+2001:778:0:ffff:64:0:5bc6:aee8 ro.wikiquote.org
+2001:778:0:ffff:64:0:5bc6:aee8 ru.wikiquote.org
+2001:778:0:ffff:64:0:5bc6:aee8 simple.wikiquote.org
+2001:778:0:ffff:64:0:5bc6:aee8 sk.wikiquote.org
+2001:778:0:ffff:64:0:5bc6:aee8 sl.wikiquote.org
+2001:778:0:ffff:64:0:5bc6:aee8 sq.wikiquote.org
+2001:778:0:ffff:64:0:5bc6:aee8 sr.wikiquote.org
+2001:778:0:ffff:64:0:5bc6:aee8 su.wikiquote.org
+2001:778:0:ffff:64:0:5bc6:aee8 sv.wikiquote.org
+2001:778:0:ffff:64:0:5bc6:aee8 ta.wikiquote.org
+2001:778:0:ffff:64:0:5bc6:aee8 te.wikiquote.org
+2001:778:0:ffff:64:0:5bc6:aee8 th.wikiquote.org
+2001:778:0:ffff:64:0:5bc6:aee8 tk.wikiquote.org
+2001:778:0:ffff:64:0:5bc6:aee8 tr.wikiquote.org
+2001:778:0:ffff:64:0:5bc6:aee8 tt.wikiquote.org
+2001:778:0:ffff:64:0:5bc6:aee8 ug.wikiquote.org
+2001:778:0:ffff:64:0:5bc6:aee8 uk.wikiquote.org
+2001:778:0:ffff:64:0:5bc6:aee8 ur.wikiquote.org
+2001:778:0:ffff:64:0:5bc6:aee8 uz.wikiquote.org
+2001:778:0:ffff:64:0:5bc6:aee8 vi.wikiquote.org
+2001:778:0:ffff:64:0:5bc6:aee8 vo.wikiquote.org
+2001:778:0:ffff:64:0:5bc6:aee8 wo.wikiquote.org
+2001:778:0:ffff:64:0:5bc6:aee8 za.wikiquote.org
+2001:778:0:ffff:64:0:5bc6:aee8 zh.wikiquote.org
+2001:778:0:ffff:64:0:5bc6:aee8 zh-min-nan.wikiquote.org
+#WikiSource 维基文库
+2001:778:0:ffff:64:0:5bc6:aee8 ang.wikisource.org
+2001:778:0:ffff:64:0:5bc6:aee8 ar.wikisource.org
+2001:778:0:ffff:64:0:5bc6:aee8 az.wikisource.org
+2001:778:0:ffff:64:0:5bc6:aee8 bg.wikisource.org
+2001:778:0:ffff:64:0:5bc6:aee8 bn.wikisource.org
+2001:778:0:ffff:64:0:5bc6:aee8 br.wikisource.org
+2001:778:0:ffff:64:0:5bc6:aee8 bs.wikisource.org
+2001:778:0:ffff:64:0:5bc6:aee8 ca.wikisource.org
+2001:778:0:ffff:64:0:5bc6:aee8 cs.wikisource.org
+2001:778:0:ffff:64:0:5bc6:aee8 cy.wikisource.org
+2001:778:0:ffff:64:0:5bc6:aee8 da.wikisource.org
+2001:778:0:ffff:64:0:5bc6:aee8 de.wikisource.org
+2001:778:0:ffff:64:0:5bc6:aee8 el.wikisource.org
+2001:778:0:ffff:64:0:5bc6:aee8 en.wikisource.org
+2001:778:0:ffff:64:0:5bc6:aee8 eo.wikisource.org
+2001:778:0:ffff:64:0:5bc6:aee8 es.wikisource.org
+2001:778:0:ffff:64:0:5bc6:aee8 et.wikisource.org
+2001:778:0:ffff:64:0:5bc6:aee8 fa.wikisource.org
+2001:778:0:ffff:64:0:5bc6:aee8 fi.wikisource.org
+2001:778:0:ffff:64:0:5bc6:aee8 fo.wikisource.org
+2001:778:0:ffff:64:0:5bc6:aee8 fr.wikisource.org
+2001:778:0:ffff:64:0:5bc6:aee8 gl.wikisource.org
+2001:778:0:ffff:64:0:5bc6:aee8 he.wikisource.org
+2001:778:0:ffff:64:0:5bc6:aee8 hr.wikisource.org
+2001:778:0:ffff:64:0:5bc6:aee8 ht.wikisource.org
+2001:778:0:ffff:64:0:5bc6:aee8 hu.wikisource.org
+2001:778:0:ffff:64:0:5bc6:aee8 hy.wikisource.org
+2001:778:0:ffff:64:0:5bc6:aee8 id.wikisource.org
+2001:778:0:ffff:64:0:5bc6:aee8 is.wikisource.org
+2001:778:0:ffff:64:0:5bc6:aee8 it.wikisource.org
+2001:778:0:ffff:64:0:5bc6:aee8 ja.wikisource.org
+2001:778:0:ffff:64:0:5bc6:aee8 kn.wikisource.org
+2001:778:0:ffff:64:0:5bc6:aee8 ko.wikisource.org
+2001:778:0:ffff:64:0:5bc6:aee8 la.wikisource.org
+2001:778:0:ffff:64:0:5bc6:aee8 li.wikisource.org
+2001:778:0:ffff:64:0:5bc6:aee8 lt.wikisource.org
+2001:778:0:ffff:64:0:5bc6:aee8 mk.wikisource.org
+2001:778:0:ffff:64:0:5bc6:aee8 ml.wikisource.org
+2001:778:0:ffff:64:0:5bc6:aee8 nl.wikisource.org
+2001:778:0:ffff:64:0:5bc6:aee8 no.wikisource.org
+2001:778:0:ffff:64:0:5bc6:aee8 pl.wikisource.org
+2001:778:0:ffff:64:0:5bc6:aee8 pt.wikisource.org
+2001:778:0:ffff:64:0:5bc6:aee8 ro.wikisource.org
+2001:778:0:ffff:64:0:5bc6:aee8 ru.wikisource.org
+2001:778:0:ffff:64:0:5bc6:aee8 sa.wikisource.org
+2001:778:0:ffff:64:0:5bc6:aee8 sah.wikisource.org
+2001:778:0:ffff:64:0:5bc6:aee8 sk.wikisource.org
+2001:778:0:ffff:64:0:5bc6:aee8 sl.wikisource.org
+2001:778:0:ffff:64:0:5bc6:aee8 sr.wikisource.org
+2001:778:0:ffff:64:0:5bc6:aee8 sv.wikisource.org
+2001:778:0:ffff:64:0:5bc6:aee8 ta.wikisource.org
+2001:778:0:ffff:64:0:5bc6:aee8 te.wikisource.org
+2001:778:0:ffff:64:0:5bc6:aee8 th.wikisource.org
+2001:778:0:ffff:64:0:5bc6:aee8 tr.wikisource.org
+2001:778:0:ffff:64:0:5bc6:aee8 uk.wikisource.org
+2001:778:0:ffff:64:0:5bc6:aee8 vec.wikisource.org
+2001:778:0:ffff:64:0:5bc6:aee8 vi.wikisource.org
+2001:778:0:ffff:64:0:5bc6:aee8 www.wikisource.org
+2001:778:0:ffff:64:0:5bc6:aee8 yi.wikisource.org
+2001:778:0:ffff:64:0:5bc6:aee8 zh.wikisource.org
+2001:778:0:ffff:64:0:5bc6:aee8 zh-min-nan.wikisource.org
+#Wiktionary 维基词典
+2001:778:0:ffff:64:0:5bc6:aee8 aa.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 ab.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 af.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 ak.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 als.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 am.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 an.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 ang.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 ar.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 as.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 ast.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 av.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 ay.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 az.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 be.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 bg.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 bh.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 bi.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 bm.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 bn.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 bo.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 br.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 bs.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 ca.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 ch.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 chr.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 co.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 cr.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 cs.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 csb.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 cy.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 da.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 de.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 dv.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 dz.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 el.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 en.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 eo.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 es.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 et.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 eu.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 fa.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 fi.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 fj.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 fo.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 fr.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 fy.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 ga.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 gd.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 gl.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 gn.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 gu.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 gv.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 ha.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 he.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 hi.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 hr.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 hsb.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 hu.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 hy.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 ia.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 id.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 ie.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 ik.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 io.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 is.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 it.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 iu.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 ja.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 jbo.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 jv.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 ka.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 kk.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 kl.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 km.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 kn.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 ko.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 ks.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 ku.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 kw.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 ky.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 la.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 lb.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 li.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 ln.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 lo.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 lt.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 lv.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 mg.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 mh.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 mi.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 mk.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 ml.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 mn.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 mo.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 mr.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 ms.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 mt.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 my.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 na.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 nah.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 nds.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 ne.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 nl.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 nn.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 no.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 oc.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 om.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 or.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 pa.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 pi.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 pl.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 ps.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 pt.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 qu.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 rm.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 rn.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 ro.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 roa-rup.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 ru.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 rw.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 sa.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 sc.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 scn.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 sd.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 sg.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 sh.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 si.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 simple.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 sk.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 sl.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 sm.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 sn.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 so.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 sq.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 sr.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 ss.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 st.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 su.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 sv.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 sw.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 ta.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 te.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 tg.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 th.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 ti.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 tk.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 tl.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 tn.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 to.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 tpi.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 tr.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 ts.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 tt.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 tw.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 ug.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 uk.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 ur.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 uz.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 vi.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 vo.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 wa.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 wo.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 xh.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 yi.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 yo.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 za.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 zh.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 zh-min-nan.wiktionary.org
+2001:778:0:ffff:64:0:5bc6:aee8 zu.wiktionary.org
