@@ -3642,6 +3642,13 @@
 # DNS64 服务器：
 2001:778::37 dns64.litnet.lt
 
+#bit.ly / j.mp
+2001:778:0:ffff:64:0:a88f:ac35 bit.ly
+2001:778:0:ffff:64:0:a88f:ac35 j.mp
+2001:778:0:ffff:64:0:a88f:ac36 api.bit.ly
+2001:778:0:ffff:64:0:a88f:ac36 api.bitly.com
+2001:778:0:ffff:64:0:a88f:ac39 bitly.com
+
 #Facebook CDN
 2001:778:0:ffff:64:0:5f64:926e s-static.ak.facebook.com
 2001:778:0:ffff:64:0:42dc:9747 0-12.channel.facebook.com
@@ -3776,6 +3783,7 @@
 2001:778:0:ffff:64:0:417:2c7e a4.twimg.com
 2001:778:0:ffff:64:0:214:b610 a5.twimg.com
 2001:778:0:ffff:64:0:214:b60a a5.twimg.com
+2001:778:0:ffff:64:0:c0dd:6d51 p.twimg.com
 2001:778:0:ffff:64:0:5e7f:4c35 si0.twimg.com
 2001:778:0:ffff:64:0:5e7f:4c35 si1.twimg.com
 2001:778:0:ffff:64:0:5e7f:4c35 si2.twimg.com
