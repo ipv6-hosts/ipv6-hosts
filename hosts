@@ -149,6 +149,7 @@
 2404:6800:8005::8d r3269-dot-latest-dot-project-slingshot-gp.appspot.com
 2404:6800:8005::8d newsfeed-dot-latest-dot-rovio-ad-engine.appspot.com
 2404:6800:8005::8d evolutionofweb.appspot.com
+2404:6800:8001::8d yt-debates.appspot.com
 2404:6800:8005::8d *.appspot.com #可以添加自己的 gae 应用
 
 #Answers/Guru/WenDa 问答社区（国际版已停止运营）
@@ -1961,6 +1962,8 @@
 2404:6800:8005::84 www-opensocial.googleusercontent.com
 2404:6800:8005::84 images-docs-opensocial.googleusercontent.com
 2404:6800:8005::84 www-gm-opensocial.googleusercontent.com #Gmail
+2404:6800:8005::84 4lam9a1ki27mb9p1h5q3furvvf58ss02-a-gm-opensocial.googleusercontent.com #YouTube in Gmail
+2404:6800:8005::84 nl3atn8402ncgahndqn8rb6qi2ld2g5a-a-gm-opensocial.googleusercontent.com
 2404:6800:8005::84 www-opensocial-sandbox.googleusercontent.com
 2404:6800:8005::84 www-fc-opensocial.googleusercontent.com
 2404:6800:8005::84 *-a-fc-opensocial.googleusercontent.com
