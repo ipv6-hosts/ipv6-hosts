@@ -2250,12 +2250,14 @@
 2404:6800:8005::84 lh6.googleusercontent.com
 2404:6800:8005::84 music-onebox.googleusercontent.com
 2404:6800:8005::84 oauth.googleusercontent.com
+2404:6800:8005::84 reader.googleusercontent.com
 2404:6800:8005::84 static.googleusercontent.com
 2404:6800:8005::84 s2.googleusercontent.com
 2404:6800:8005::84 themes.googleusercontent.com #开放字体库
 2404:6800:8005::84 translate.googleusercontent.com
 2404:6800:8005::84 wave.googleusercontent.com
 2404:6800:8005::84 webcache.googleusercontent.com #网页快照
+2404:6800:8005::84 ytimg.googleusercontent.com
 2404:6800:8005::84 code-opensocial.googleusercontent.com
 2404:6800:8005::84 spreadsheets-opensocial.googleusercontent.com
 2404:6800:8005::84 www-opensocial.googleusercontent.com
@@ -4139,6 +4141,8 @@
 2001:778:0:ffff:64:0:c73b:9457 api.twitter.com
 2001:778:0:ffff:64:0:c73b:95c8 api.twitter.com
 2001:778:0:ffff:64:0:210:2537 cdn.api.twitter.com
+2001:778:0:ffff:64:0:5c7b:4429 urls.api.twitter.com
+2001:778:0:ffff:64:0:5c7b:4439 urls.api.twitter.com
 2001:778:0:ffff:64:0:c73b:9454 business.twitter.com
 2001:778:0:ffff:64:0:c73b:95d0 business.twitter.com
 2001:778:0:ffff:64:0:c73b:95f3 business.twitter.com
