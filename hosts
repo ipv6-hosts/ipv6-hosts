@@ -106,6 +106,7 @@
 2404:6800:8005::62 suggestqueries.l.google.com #搜索建议
 2404:6800:8005::64 gxc.google.com #gwt
 2404:6800:8005::64 gxc.google.com.hk
+2404:6800:8005::64 investor.google.com
 2404:6800:8005::64 clients1.google.com
 2404:6800:8005::64 clients2.google.com
 2404:6800:8005::64 clients3.google.com
@@ -447,21 +448,26 @@
 
 #Labs 实验室
 2404:6800:8005::65 labs.google.com
+2404:6800:8005::8a labs.google.cn
 2404:6800:8005::62 www.googlelabs.com
 2404:6800:8005::62 browsersize.googlelabs.com #Browser Size
 2404:6800:8005::62 bodybrowser.googlelabs.com #Google Body
 2404:6800:8005::62 citytours.googlelabs.com #City Tours
+2404:6800:8005::8d correlate.googlelabs.com
 2404:6800:8005::62 datawiki.googlelabs.com #Google DataWiki
+2404:6800:8005::62 earthengine.googlelabs.com #Earth Engine
 2404:6800:8005::62 fastflip.googlelabs.com #Fast Flip
 2404:6800:8005::62 followfinder.googlelabs.com #Follow Finder
-2404:6800:8005::62 earthengine.googlelabs.com #Earth Engine
+2404:6800:8005::8d guru.googlelabs.com
 2404:6800:8005::62 image-swirl.googlelabs.com #Image Swirl
 2404:6800:8005::62 juliamap.googlelabs.com #Julia Map
 2404:6800:8005::62 listen.googlelabs.com #Google Listen
 2404:6800:8005::62 livingstories.googlelabs.com #Living Stories
 2404:6800:8005::62 newstimeline.googlelabs.com #Google News Timeline
+2404:6800:8005::8d ngrams.googlelabs.com
 2404:6800:8005::62 pagespeed.googlelabs.com
 2404:6800:8005::62 relatedlinks.googlelabs.com #Related Links
+2404:6800:8005::8d scribe.googlelabs.com
 2404:6800:8005::62 scriptconv.googlelabs.com #Script Converter
 2404:6800:8005::62 similar-images.googlelabs.com #Similar Images
 2404:6800:8005::62 storegadget.googlelabs.com #Google Checkout Store Gadget
@@ -607,6 +613,7 @@
 2404:6800:8005::65 plusone.google.com
 2404:6800:8005::8a plus.google.com
 2404:6800:8005::8a plus.google.com.hk # URL 重定向
+2404:6800:8005::64 developers.google.com
 
 #Reader 阅读器
 2404:6800:8005::68 reader.google.com
@@ -3769,6 +3776,8 @@
 2404:6800:8005::95 ad-g.doubleclick.net
 2404:6800:8005::95 ad-apac.doubleclick.net
 2404:6800:8005::95 dart-apac.l.doubleclick.net
+2404:6800:8005::95 dart.l.doubleclick.net
+2404:6800:8005::95 n4061ad.hk.doubleclick.net
 2404:6800:8005::95 fls.doubleclick.net
 2404:6800:8005::9a googleads.g.doubleclick.net
 2404:6800:8005::9b feedads.g.doubleclick.net
@@ -4167,6 +4176,7 @@
 2001:778:0:ffff:64:0:c73b:948a stream.twitter.com
 2001:778:0:ffff:64:0:c73b:94ce support.twitter.com
 2001:778:0:ffff:64:0:c73b:948b userstream.twitter.com
+2001:778:0:ffff:64:0:c73b:94d5 upload.twitter.com
 2001:778:0:ffff:64:0:c73b:940a www.twitter.com
 2001:778:0:ffff:64:0:c73b:95c6 www.twitter.com
 2001:778:0:ffff:64:0:c73b:95e6 www.twitter.com
