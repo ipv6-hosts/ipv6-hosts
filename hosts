@@ -229,6 +229,7 @@
 2404:6800:8005::84 googlegeodevelopers.blogspot.com #Google Geo Developers Blog
 2404:6800:8005::84 googlemashupeditor.blogspot.com
 2404:6800:8005::84 googlemobile.blogspot.com
+2404:6800:8005::84 googleplusplatform.blogspot.com
 2404:6800:8005::84 googleresearch.blogspot.com
 2404:6800:8005::84 googletalk.blogspot.com
 2404:6800:8005::84 googlewebmaster-cn.blogspot.com
@@ -2207,7 +2208,8 @@
 2404:6800:8005::84 blogger.googleusercontent.com
 2404:6800:8005::84 clients1.googleusercontent.com
 2404:6800:8005::84 clients2.googleusercontent.com
-2404:6800:8005::84 doc-00-1o-docs.googleusercontent.com #建议通过 pac 实现
+2404:6800:8005::84 doc-00-1k-docs.googleusercontent.com #建议通过 pac 实现
+2404:6800:8005::84 doc-00-1o-docs.googleusercontent.com
 2404:6800:8005::84 doc-04-1o-docs.googleusercontent.com
 2404:6800:8005::84 doc-08-1o-docs.googleusercontent.com
 2404:6800:8005::84 doc-0c-1o-docs.googleusercontent.com
@@ -2228,6 +2230,7 @@
 2404:6800:8005::84 doc-0s-6c-docs.googleusercontent.com
 2404:6800:8005::84 doc-10-6c-docs.googleusercontent.com
 2404:6800:8005::84 doc-14-6c-docs.googleusercontent.com
+2404:6800:8005::84 doc-0o-74-docs.googleusercontent.com
 2404:6800:8005::84 doc-14-74-docs.googleusercontent.com
 2404:6800:8005::84 doc-00-7o-docs.googleusercontent.com
 2404:6800:8005::84 doc-04-7o-docs.googleusercontent.com
@@ -4301,9 +4304,11 @@
 2001:778:0:ffff:64:0:5bc6:aee0 commons.wikimedia.org #维基共享资源
 2001:778:0:ffff:64:0:d050:98a2 en.planet.wikimedia.org
 2001:778:0:ffff:64:0:d050:98a1 ganglia.wikimedia.org
+2001:778:0:ffff:64:0:5bc6:aee9 geoiplookup.wikimedia.org
 2001:778:0:ffff:64:0:5bc6:aee8 incubator.wikimedia.org
 2001:778:0:ffff:64:0:d050:9885 mail.wikimedia.org
 2001:778:0:ffff:64:0:5bc6:aee0 meta.wikimedia.org #元维基
+2001:778:0:ffff:64:0:d050:9886 secure.wikimedia.org
 2001:778:0:ffff:64:0:5bc6:aee8 species.wikimedia.org #维基物种
 2001:778:0:ffff:64:0:d050:98a1 spence.wikimedia.org
 2001:778:0:ffff:64:0:d050:98a2 singer.wikimedia.org
