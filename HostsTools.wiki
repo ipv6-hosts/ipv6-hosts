@@ -1,0 +1,6 @@
+#summary 常用 hosts 工具。
+#labels Featured,hosts
+
+= 常用 hosts 处理工具 =
+ * [http://2.xslidian.sinaapp.com/hostsparse.php `nslookup` 返回结果转换为 hosts 语法]
+ * [http://code.google.com/p/ipv6-hosts/issues/detail?id=89#c5 Matlab 域名相同条目清理脚本] by jimdavid126：Issue 89
