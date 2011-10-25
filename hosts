@@ -4382,10 +4382,14 @@
 2001:778:0:ffff:64:0:cdfb:dbde widgets.twimg.com
 
 #WikiMedia 维基媒体
+2001:778:0:ffff:64:0:5bc6:aee9 bits.wikimedia.org
+2001:778:0:ffff:64:0:5bc6:aee9 bits-geo.wikimedia.org
+2001:778:0:ffff:64:0:d050:9894 blog.wikimedia.org
 2001:778:0:ffff:64:0:5bc6:aee0 commons.wikimedia.org #维基共享资源
 2001:778:0:ffff:64:0:d050:98a2 en.planet.wikimedia.org
 2001:778:0:ffff:64:0:d050:98a1 ganglia.wikimedia.org
 2001:778:0:ffff:64:0:5bc6:aee9 geoiplookup.wikimedia.org
+2001:778:0:ffff:64:0:d050:9894 hooper.wikimedia.org
 2001:778:0:ffff:64:0:5bc6:aee0 incubator.wikimedia.org
 2001:778:0:ffff:64:0:d050:9885 mail.wikimedia.org
 2001:778:0:ffff:64:0:5bc6:aee0 meta.wikimedia.org #元维基
@@ -4394,6 +4398,7 @@
 2001:778:0:ffff:64:0:d050:98a1 spence.wikimedia.org
 2001:778:0:ffff:64:0:d050:98a2 singer.wikimedia.org
 2001:778:0:ffff:64:0:5bc6:aeea upload.wikimedia.org
+2001:778:0:ffff:64:0:5bc6:aee0 www.wikimedia.org
 2001:778:0:ffff:64:0:d050:98d1 wikimediafoundation.org
 2001:778:0:ffff:64:0:5bc6:aee7 beta.wikiversity.org #维基学院
 2001:778:0:ffff:64:0:5bc6:aee8 www.mediawiki.org
