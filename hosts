@@ -137,21 +137,21 @@
 2404:6800:8005::62 googlemashups.l.google.com
 2404:6800:8005::63 *.googlemashups.com
 2404:6800:8005::64 appengine.google.com
-2404:6800:8005::8d appspot.l.google.com
-2404:6800:8005::8d productideas.appspot.com #Google 汇问
-2404:6800:8005::8d storegadgetwizard.appspot.com #Google Checkout Store Gadget
-2404:6800:8005::8d moderator.appspot.com #Google Moderator
-2404:6800:8005::8d gv-gadget.appspot.com #YouTube Gadget
-2404:6800:8005::8d haiticrisis.appspot.com #Google Person Finder: Haiti Earthquake
-2404:6800:8005::8d i18napis.appspot.com
-2404:6800:8005::8d googcloudlabs.appspot.com
-2404:6800:8005::8d googlesharedspaces.appspot.com
-2404:6800:8005::8d project-slingshot-gp.appspot.com
-2404:6800:8005::8d r3269-dot-latest-dot-project-slingshot-gp.appspot.com
-2404:6800:8005::8d newsfeed-dot-latest-dot-rovio-ad-engine.appspot.com
-2404:6800:8005::8d evolutionofweb.appspot.com
+2404:6800:8002::8d appspot.l.google.com
+2404:6800:8002::8d productideas.appspot.com #Google 汇问
+2404:6800:8002::8d storegadgetwizard.appspot.com #Google Checkout Store Gadget
+2404:6800:8002::8d moderator.appspot.com #Google Moderator
+2404:6800:8002::8d gv-gadget.appspot.com #YouTube Gadget
+2404:6800:8002::8d haiticrisis.appspot.com #Google Person Finder: Haiti Earthquake
+2404:6800:8002::8d i18napis.appspot.com
+2404:6800:8002::8d googcloudlabs.appspot.com
+2404:6800:8002::8d googlesharedspaces.appspot.com
+2404:6800:8002::8d project-slingshot-gp.appspot.com
+2404:6800:8002::8d r3269-dot-latest-dot-project-slingshot-gp.appspot.com
+2404:6800:8002::8d newsfeed-dot-latest-dot-rovio-ad-engine.appspot.com
+2404:6800:8002::8d evolutionofweb.appspot.com
 2404:6800:8001::8d yt-debates.appspot.com
-2404:6800:8005::8d *.appspot.com #可以添加自己的 gae 应用
+2404:6800:8002::8d *.appspot.com #可以添加自己的 gae 应用
 
 #Answers/Guru/WenDa 问答社区（国际版已停止运营）
 2404:6800:8005::66 answers.google.com
@@ -298,7 +298,7 @@
 
 #Chromium OS Chromium 操作系统
 2404:6800:8005::79 goto.ext.google.com
-2404:6800:8005::8d welcome-cros.appspot.com #原 Chromium 主菜单
+2404:6800:8002::8d welcome-cros.appspot.com #原 Chromium 主菜单
 
 #Code 代码
 2404:6800:8005::64 code.google.com
@@ -3926,7 +3926,7 @@
 2404:6800:8005::79 blog.google.org
 
 #Panoramio
-2404:6800:8005::8d www.panoramio.com
+2404:6800:8002::8d www.panoramio.com
 2404:6800:8005::80 static.panoramio.com
 2404:6800:8005::79 blog.panoramio.com
 
@@ -4098,11 +4098,11 @@
 2404:6800:8005::52 kibbles.googlecode.com
 
 # GAE 上的常用应用
-2404:6800:8005::8d wave-api.appspot.com #Google Wave API
-2404:6800:8005::8d wave-skynet.appspot.com #SkyNet
-2404:6800:8005::8d mytracks.appspot.com #My Tracks for Android
-2404:6800:8005::8d autoproxy2pac.appspot.com #自动代理配置脚本生成器
-2404:6800:8005::8d fakegdict.appspot.com #Fake Google Dictionary
+2404:6800:8002::8d wave-api.appspot.com #Google Wave API
+2404:6800:8002::8d wave-skynet.appspot.com #SkyNet
+2404:6800:8002::8d mytracks.appspot.com #My Tracks for Android
+2404:6800:8002::8d autoproxy2pac.appspot.com #自动代理配置脚本生成器
+2404:6800:8002::8d fakegdict.appspot.com #Fake Google Dictionary
 
 # 托管在 Google 上的其他常用域名
 2404:6800:8005::79 wdyl.com
