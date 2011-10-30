@@ -450,30 +450,30 @@
 #Labs 实验室
 2404:6800:8005::65 labs.google.com
 2404:6800:8005::8a labs.google.cn
-2404:6800:8005::62 www.googlelabs.com
-2404:6800:8005::62 browsersize.googlelabs.com #Browser Size
-2404:6800:8005::62 bodybrowser.googlelabs.com #Google Body
-2404:6800:8005::62 citytours.googlelabs.com #City Tours
-2404:6800:8005::8d correlate.googlelabs.com
-2404:6800:8005::62 datawiki.googlelabs.com #Google DataWiki
-2404:6800:8005::62 earthengine.googlelabs.com #Earth Engine
-2404:6800:8005::62 fastflip.googlelabs.com #Fast Flip
-2404:6800:8005::62 followfinder.googlelabs.com #Follow Finder
-2404:6800:8005::8d guru.googlelabs.com
-2404:6800:8005::62 image-swirl.googlelabs.com #Image Swirl
-2404:6800:8005::62 juliamap.googlelabs.com #Julia Map
-2404:6800:8005::62 listen.googlelabs.com #Google Listen
-2404:6800:8005::62 livingstories.googlelabs.com #Living Stories
-2404:6800:8005::62 newstimeline.googlelabs.com #Google News Timeline
-2404:6800:8005::8d ngrams.googlelabs.com
-2404:6800:8005::62 pagespeed.googlelabs.com
-2404:6800:8005::62 relatedlinks.googlelabs.com #Related Links
-2404:6800:8005::8d scribe.googlelabs.com
-2404:6800:8005::62 scriptconv.googlelabs.com #Script Converter
-2404:6800:8005::62 similar-images.googlelabs.com #Similar Images
-2404:6800:8005::62 storegadget.googlelabs.com #Google Checkout Store Gadget
-2404:6800:8005::62 swiffy.googlelabs.com #Google Swiffy
-2404:6800:8005::62 tables.googlelabs.com #Fusion Tables
+2404:6800:8002::8d www.googlelabs.com
+2404:6800:8002::8d browsersize.googlelabs.com #Browser Size
+2404:6800:8002::8d bodybrowser.googlelabs.com #Google Body
+2404:6800:8002::8d citytours.googlelabs.com #City Tours
+2404:6800:8002::8d correlate.googlelabs.com
+2404:6800:8002::8d datawiki.googlelabs.com #Google DataWiki
+2404:6800:8002::8d earthengine.googlelabs.com #Earth Engine
+2404:6800:8002::8d fastflip.googlelabs.com #Fast Flip
+2404:6800:8002::8d followfinder.googlelabs.com #Follow Finder
+2404:6800:8002::8d guru.googlelabs.com
+2404:6800:8002::8d image-swirl.googlelabs.com #Image Swirl
+2404:6800:8002::8d juliamap.googlelabs.com #Julia Map
+2404:6800:8002::8d listen.googlelabs.com #Google Listen
+2404:6800:8002::8d livingstories.googlelabs.com #Living Stories
+2404:6800:8002::8d newstimeline.googlelabs.com #Google News Timeline
+2404:6800:8002::8d ngrams.googlelabs.com
+2404:6800:8002::8d pagespeed.googlelabs.com
+2404:6800:8002::8d relatedlinks.googlelabs.com #Related Links
+2404:6800:8002::8d scribe.googlelabs.com
+2404:6800:8002::8d scriptconv.googlelabs.com #Script Converter
+2404:6800:8002::8d similar-images.googlelabs.com #Similar Images
+2404:6800:8002::8d storegadget.googlelabs.com #Google Checkout Store Gadget
+2404:6800:8002::8d swiffy.googlelabs.com #Google Swiffy
+2404:6800:8002::8d tables.googlelabs.com #Fusion Tables
 
 #Google Mars 火星地图
 2404:6800:8005::65 mars.google.com
