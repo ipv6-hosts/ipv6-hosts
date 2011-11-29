@@ -4056,15 +4056,15 @@
 2002:836b:9820::836b:9886 www.ipv6.microsoft.com
 
 #WikiMedia 维基媒体
-2620:0:860:2:21d:9ff:fe33:f235 static.wikipedia.org #Wikipedia Static HTML Dumps
-2620:0:860:2:21d:9ff:fe33:f235 hume.wikimedia.org #Wikipedia Static HTML Dumps
-2620:0:860:2:230:48ff:fe5a:eb1e download.wikimedia.org #Wikimedia Downloads
-2620:0:860:2:230:48ff:fe5a:eb1e download.wikipedia.org #Wikimedia Downloads
-2620:0:860:2:230:48ff:fe5a:eb1e dumps.wikimedia.org #Wikimedia Downloads
-2620:0:860:2:230:48ff:fe5a:eb1e storage2.wikimedia.org #Wikimedia Downloads
+#2620:0:860:2:21d:9ff:fe33:f235 static.wikipedia.org #Wikipedia Static HTML Dumps
+#2620:0:860:2:21d:9ff:fe33:f235 hume.wikimedia.org #Wikipedia Static HTML Dumps
+#2620:0:860:2:230:48ff:fe5a:eb1e download.wikimedia.org #Wikimedia Downloads
+#2620:0:860:2:230:48ff:fe5a:eb1e download.wikipedia.org #Wikimedia Downloads
+#2620:0:860:2:230:48ff:fe5a:eb1e dumps.wikimedia.org #Wikimedia Downloads
+#2620:0:860:2:230:48ff:fe5a:eb1e dataset2.wikimedia.org #Wikimedia Downloads
 2620:0:862:1::25:1 lists.wikimedia.org
-2620:0:862:1:209:3dff:fe10:d5d2 svn.wikimedia.org #Wikimedia Subversion
-2620:0:862:1:209:3dff:fe10:d5d2 mayflower.esams.wikimedia.org
+#2620:0:862:1:209:3dff:fe10:d5d2 svn.wikimedia.org #Wikimedia Subversion
+#2620:0:862:1:209:3dff:fe10:d5d2 mayflower.esams.wikimedia.org
 2620:0:862:1:6666:6666:6666:6666 ipv6and4.labs.wikimedia.org #Wikimedia IPv6 AAAA record testing
 
 #ARIN
@@ -4386,10 +4386,15 @@
 2001:778:0:ffff:64:0:5bc6:aee9 bits-geo.wikimedia.org
 2001:778:0:ffff:64:0:d050:9894 blog.wikimedia.org
 2001:778:0:ffff:64:0:5bc6:aee0 commons.wikimedia.org #维基共享资源
+2001:778:0:ffff:64:0:d050:98b9 dataset2.wikimedia.org
+2001:778:0:ffff:64:0:d050:98b9 download.wikimedia.org
+2001:778:0:ffff:64:0:d050:98b9 dumps.wikimedia.org
 2001:778:0:ffff:64:0:d050:98a2 en.planet.wikimedia.org
+2001:778:0:ffff:64:0:d050:9893 formey.wikimedia.org
 2001:778:0:ffff:64:0:d050:98a1 ganglia.wikimedia.org
 2001:778:0:ffff:64:0:5bc6:aee9 geoiplookup.wikimedia.org
 2001:778:0:ffff:64:0:d050:9894 hooper.wikimedia.org
+2620:0:860:2:21d:9ff:fe33:f235 hume.wikimedia.org
 2001:778:0:ffff:64:0:5bc6:aee0 incubator.wikimedia.org
 2001:778:0:ffff:64:0:d050:9885 mail.wikimedia.org
 2001:778:0:ffff:64:0:5bc6:aee0 meta.wikimedia.org #元维基
@@ -4397,6 +4402,8 @@
 2001:778:0:ffff:64:0:5bc6:aee0 species.wikimedia.org #维基物种
 2001:778:0:ffff:64:0:d050:98a1 spence.wikimedia.org
 2001:778:0:ffff:64:0:d050:98a2 singer.wikimedia.org
+2620:0:860:2:21d:9ff:fe33:f235 static.wikipedia.org
+2001:778:0:ffff:64:0:d050:9893 svn.wikimedia.org
 2001:778:0:ffff:64:0:5bc6:aeea upload.wikimedia.org
 2001:778:0:ffff:64:0:5bc6:aee0 www.wikimedia.org
 2001:778:0:ffff:64:0:d050:98d1 wikimediafoundation.org
@@ -4625,6 +4632,7 @@
 2001:778:0:ffff:64:0:5bc6:aee1 da.wikipedia.org
 2001:778:0:ffff:64:0:5bc6:aee1 de.wikipedia.org
 2001:778:0:ffff:64:0:5bc6:aee1 diq.wikipedia.org
+2001:778:0:ffff:64:0:d050:98b9 download.wikipedia.org
 2001:778:0:ffff:64:0:5bc6:aee1 dsb.wikipedia.org
 2001:778:0:ffff:64:0:5bc6:aee1 dv.wikipedia.org
 2001:778:0:ffff:64:0:5bc6:aee1 dz.wikipedia.org
