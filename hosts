@@ -589,7 +589,8 @@
 
 #Pack 软件精选
 2404:6800:8005::68 pack.google.com
-2404:6800:8005::68 cache.pack.google.com
+2607:f8b0:4004:6::15 cache.pack.google.com
+2607:f8b0:4004:6::15 cache.l.google.com
 2404:6800:8005::6a pack.google.cn
 
 #Photo/Picasa 照片/网络相册
