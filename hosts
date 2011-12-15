@@ -616,6 +616,8 @@
 2404:6800:8005::65 plusone.google.com
 2404:6800:8005::8a plus.google.com
 2404:6800:8005::8a plus.google.com.hk # URL 重定向
+2404:6800:8005::8a plus.url.google.com
+2404:6800:8005::8a plus.url.google.com.hk #实际上不存在的域名
 2404:6800:8005::64 developers.google.com
 
 #Reader 阅读器
