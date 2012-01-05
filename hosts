@@ -122,6 +122,7 @@
 2404:6800:8005::8b encrypted-tbn2.google.com
 2404:6800:8005::65 encrypted-tbn3.google.com
 2404:6800:8005::65 encrypted-tbn.l.google.com
+2404:6800:8005::65 support.google.com
 
 #Google Apps 企业应用套件
 2404:6800:8005::62 apps.google.com
@@ -4036,6 +4037,9 @@
 2607:f128:47::1:1 plurk.com
 2607:f128:47::1:1 www.plurk.com
 2607:f128:47::1:1 ipv6.plurk.com
+
+#Blizzard Entertainment 暴雪娱乐
+2001:1890:e000:c01:dad3:85ff:fed9:ce24 ipv6.blizzard.com
 
 ###其他IPv6网站
 ##CN 中国大陆
