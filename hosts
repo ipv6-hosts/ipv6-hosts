@@ -4026,6 +4026,8 @@
 2610:d0:face::9 www.lisp6.facebook.com
 2610:d0:face::9 m.lisp6.facebook.com
 2620:0:1c00:0:face:b00c:0:3 check6.facebook.com
+2620:0:1cfe:face:b00c::3 upload.facebook.com
+2620:0:1cfe:face:b00c::3 vupload.facebook.com
 #Facebook CDN
 2620:0:1cfe:face:b00c::3 static.ak.fbcdn.net #网站资源（图像、脚本等）新机制尚未部署至 ipv6
 #2620:0:1cfe:face:b00c::4 s-static.ak.facebook.com #https 连接用网站资源，证书有问题
