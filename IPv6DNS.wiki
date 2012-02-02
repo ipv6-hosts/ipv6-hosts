@@ -24,3 +24,12 @@
  * *`dns.sjtu.edu.cn`*
   ** `2001:da8:8000:1:202:120:2:101`
   ** `202.120.2.101`
+
+== 限制请求来源的 DNS ==
+ * sixxs DNS 缓存服务，仅响应来自 AICCU 用户的请求
+ * *`nscache.ap.sixxs.net`* *`nzwlg01.sixxs.net`* (WikiMedia IPv6 白名单成员)
+  ** `2001:4428:0:401::122`
+ * *`nscache.eu.sixxs.net`* *`fihel01.sixxs.net`*
+  ** `2001:14b8:0:3007::6`
+ * *`nscache.us.sixxs.net`*
+  ** `2001:4de0:1000:a3::2`
