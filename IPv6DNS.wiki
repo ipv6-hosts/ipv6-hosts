@@ -1,5 +1,5 @@
 #summary 常用 IPv6 DNS 服务器。
-#labels Featured,DNS,IPv6,Google-over-IPv6
+#labels Featured,DNS,IPv6,Google-over-IPv6,sixxs
 
 == 加入“Google Over IPv6”计划的 DNS ==
 只有加入该计划的 DNS 服务器才能解析出 Google 系列服务的 IPv6 地址。
@@ -27,9 +27,9 @@
 
 == 限制请求来源的 DNS ==
  * sixxs DNS 缓存服务，仅响应来自 AICCU 用户的请求
- * *`nscache.ap.sixxs.net`* *`nzwlg01.sixxs.net`* (WikiMedia IPv6 白名单成员)
-  ** `2001:4428:0:401::122`
- * *`nscache.eu.sixxs.net`* *`fihel01.sixxs.net`*
-  ** `2001:14b8:0:3007::6`
- * *`nscache.us.sixxs.net`*
-  ** `2001:4de0:1000:a3::2`
+  ** *`nscache.ap.sixxs.net`* *`nzwlg01.sixxs.net`* (WikiMedia IPv6 白名单成员)
+   ** `2001:4428:0:401::122`
+  ** *`nscache.eu.sixxs.net`* *`fihel01.sixxs.net`*
+   ** `2001:14b8:0:3007::6`
+  ** *`nscache.us.sixxs.net`*
+   ** `2001:4de0:1000:a3::2`
