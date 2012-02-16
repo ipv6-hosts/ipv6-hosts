@@ -3939,8 +3939,10 @@
 2404:6800:8005::79 blog.panoramio.com
 
 #Recaptcha 验证码服务
-2404:6800:8005::69 www.recaptcha.net
-2404:6800:8005::93 api.recaptcha.net
+2404:6800:8005::67 www.recaptcha.net
+2404:6800:8005::67 api.recaptcha.net
+2404:6800:8005::67 api-secure.recaptcha.net
+2404:6800:8005::67 mailhide.recaptcha.net
 
 #Google Wave Federation Protocol · GWave 协议开源计划
 2404:6800:8005::79 www.waveprotocol.org
