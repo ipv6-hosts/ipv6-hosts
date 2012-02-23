@@ -4103,6 +4103,9 @@
 2001:7b8:3:37::21:2 ipv6.torrent.ubuntu.com #IPv6 Tracker
 2001:7b8:3:37::21:2 nl.archive.ubuntu.com #Archive Mirror NL
 
+#PA 巴拿马
+2a02:29b8:1925::2 bitsnoop.com
+
 #其他托管在 Google 的服务
 #BlogSpot 上的其他常用博客
 2404:6800:8005::62 googlesystem.blogspot.com #Google Operating System
