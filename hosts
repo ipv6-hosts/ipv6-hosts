@@ -4079,7 +4079,7 @@
 #2620:0:860:2:230:48ff:fe5a:eb1e download.wikipedia.org #Wikimedia Downloads
 #2620:0:860:2:230:48ff:fe5a:eb1e dumps.wikimedia.org #Wikimedia Downloads
 #2620:0:860:2:230:48ff:fe5a:eb1e dataset2.wikimedia.org #Wikimedia Downloads
-2620:0:862:1::25:1 lists.wikimedia.org
+#2620:0:861:1::2 lists.wikimedia.org
 #2620:0:862:1:209:3dff:fe10:d5d2 svn.wikimedia.org #Wikimedia Subversion
 #2620:0:862:1:209:3dff:fe10:d5d2 mayflower.esams.wikimedia.org
 2620:0:862:1:6666:6666:6666:6666 ipv6and4.labs.wikimedia.org #Wikimedia IPv6 AAAA record testing
@@ -4427,7 +4427,7 @@
 2001:778:0:ffff:64:0:d050:98a2 singer.wikimedia.org
 2620:0:860:2:21d:9ff:fe33:f235 static.wikipedia.org
 2001:778:0:ffff:64:0:d050:9893 svn.wikimedia.org
-2001:778:0:ffff:64:0:5bc6:aeea upload.wikimedia.org
+#2001:778:0:ffff:64:0:5bc6:aeea upload.wikimedia.org
 2001:778:0:ffff:64:0:5bc6:aee0 www.wikimedia.org
 2001:778:0:ffff:64:0:d050:98d1 wikimediafoundation.org
 2001:778:0:ffff:64:0:5bc6:aee7 beta.wikiversity.org #维基学院
