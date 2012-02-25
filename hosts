@@ -4908,6 +4908,15 @@
 # DNS64 服务器：
 2001:778::37 dns64.litnet.lt
 
+#Amazon S3
+2001:778:0:ffff:64:0:cfab:a3d7 s3.amazonaws.com
+2001:778:0:ffff:64:0:4815:d3c8 twitter-any.s3.amazonaws.com
+2001:778:0:ffff:64:0:4815:d3c8 twitter-blog.s3.amazonaws.com
+2001:778:0:ffff:64:0:4815:c30f twitter-badges.s3.amazonaws.com
+2001:778:0:ffff:64:0:4815:c30f twitter_production.s3.amazonaws.com
+2001:778:0:ffff:64:0:4815:c30f twitter-widgets.s3.amazonaws.com
+2001:778:0:ffff:64:0:4815:c30f xinyusi.s3.amazonaws.com
+
 #bit.ly / j.mp
 2001:778:0:ffff:64:0:a88f:ac35 bit.ly
 2001:778:0:ffff:64:0:a88f:ac35 j.mp
@@ -5125,9 +5134,6 @@
 2001:778:0:ffff:64:0:b8a9:4f21 si4.twimg.com
 2001:778:0:ffff:64:0:215:6f90 si5.twimg.com
 2001:778:0:ffff:64:0:b8a9:4f21 widgets.twimg.com
-2001:778:0:ffff:64:0:4815:d3c8 twitter-any.s3.amazonaws.com
-2001:778:0:ffff:64:0:4815:d3c8 twitter-blog.s3.amazonaws.com
-
 
 #WikiMedia 维基媒体
 2001:778:0:ffff:64:0:5bc6:aee9 bits-geo.wikimedia.org
