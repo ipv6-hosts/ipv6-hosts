@@ -664,6 +664,8 @@
 2404:6800:8005::62 talkgadget.google.com
 #2404:6800:8005::62 rtmp0.google.com
 #2404:6800:8005::62 users.talk.google.com
+2404:6800:8005::bc mtalk.google.com
+2404:6800:8005::bc mobile-gtalk.l.google.com
 
 #Tools 工具
 2404:6800:8005::66 tools.google.com
