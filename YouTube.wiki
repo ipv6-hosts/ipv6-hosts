@@ -1,0 +1,31 @@
+#summary YouTube IPv6 部署概况
+#labels YouTube
+
+= 简介 =
+
+YouTube 网站页面及图片、脚本等资源通过 web 服务提供，全部提供 IPv4/IPv6 双栈访问。
+而视频文件及直播流则通过 Google 所大力部署的 BigCache 业务分发，其中部分数据中心未部署 IPv6。
+
+
+= 细节 =
+
+== web 部分 ==
+ * 用户界面（UI）
+  * [CNAME]：youtube-ui.l.google.com
+  * [AAAA 记录后缀]：::be
+ * 静态资源（Static）
+  * [CNAME]：ytstatic.l.google.com video-stats.l.google.com
+  * [AAAA 记录后缀]：::66 ::8b
+ * 视频截图（Image）
+  * [CNAME]：ytimg.l.google.com
+  * [AAAA 记录后缀]：::8a
+
+== BigCache 部分 ==
+域名前缀：
+ * v?.lscache?.c.youtube.com （公开视频）
+ * v?.nonxt?.c.youtube.com （私密视频）
+ * v?.cache?.c.youtube.com （未命中缓存）
+ * tc.v?.cache?.c.youtube.com （多次重定向）
+ * r?._xxx_??s??.c.youtube.com （前缀限定地址，其中“xxx”为数据中心所在地的 IATA 缩写）
+
+具体部署完全由 BigCache 统一调度。
