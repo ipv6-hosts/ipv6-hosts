@@ -1,0 +1,12 @@
+#summary Google BigCache 业务概况
+#labels BigCache,Google
+
+= 简介 =
+
+BigCache 是 [Google] 为解决云存储分发而设计的 [CDN] 体系。
+
+
+= 来历 =
+
+ * Google 为开发者提供“Google Storage”云存储平台（ https://sandbox.google.com/storage/ ），文件域名为 commondatastorage.googleapis.com
+ * CDN 系统为 c.commondatastorage.googleapis.com ，同前缀同 ip 的网段被分配给 *.c.* 域名
