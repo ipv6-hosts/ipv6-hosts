@@ -5,6 +5,10 @@
 
 BigCache 是 [Google] 为解决云存储分发而设计的 [CDN] 体系，提供 IPv6 支持，但负载不足时会跳转至 IPv4。
 
+= 原理 =
+若命中缓存，则直接返回数据；
+若未能命中，跳转到 tc 或 r*，参数 redirect_counter +1；
+若 redirect_counter=5 且仍无法及时装取数据，则返回 500。
 
 = 来历 =
 
@@ -27,3 +31,10 @@ BigCache 是 [Google] 为解决云存储分发而设计的 [CDN] 体系，提供
  * r*.sjc 圣荷西
  * r*.tpe 台北
  * 等等
+
+= IP 分配 =
+IPv4：YouTube Inc. 网段
+IPv6：Google
+
+= 与原 YouTube CDN 的区别 =
+原域名：数据中心代号-数据中心代号机组号.youtube.com
