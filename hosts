@@ -4396,6 +4396,7 @@
 2620:0:1cfe:face:b00c::3 attachments.facebook.com
 2620:0:1cfe:face:b00c::6 apps.v6.facebook.com #网页应用
 2620:0:1cfe:face:b00c::6 apps.facebook.com
+2620:0:1c18:0:face:b00c:0:3 connect.facebook.com
 2620:0:1cfe:face:b00c::3 graph.facebook.com
 2620:0:1cfe:face:b00c::4 login.v6.facebook.com #登陆（官方指定主机名）
 2620:0:1c18:0:face:b00c:0:2 www.facebook.com
