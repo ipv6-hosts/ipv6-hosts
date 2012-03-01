@@ -3,10 +3,27 @@
 
 = 简介 =
 
-BigCache 是 [Google] 为解决云存储分发而设计的 [CDN] 体系。
+BigCache 是 [Google] 为解决云存储分发而设计的 [CDN] 体系，提供 IPv6 支持，但负载不足时会跳转至 IPv4。
 
 
 = 来历 =
 
  * Google 为开发者提供“Google Storage”云存储平台（ https://sandbox.google.com/storage/ ），文件域名为 commondatastorage.googleapis.com
- * CDN 系统为 c.commondatastorage.googleapis.com ，同前缀同 ip 的网段被分配给 *.c.* 域名
+ * 为解决跨数据中心的实时同步，大体积文件通过 v*.lscache?.c.bigcache.googleapis.com 及 c.commondatastorage.googleapis.com 域名传输
+
+= 已知 BigCache 域名后缀 =
+即 *.c.* 格式的动态分配域名。
+ * v*.lscache?.c.youtube.com
+ * v*.lscache?.c.googlesyndication.com
+ * v*.lscache?.c.android.clients.google.com
+ * v*.lscache?.googlevideo.com
+
+= 已知静态域名前缀 =
+即与 IP 地址一一对应的域名，不会随用户网络情况不同而改变。
+ * r*.hkg 香港
+ * r*.maa 金奈
+ * r*.ord 芝加哥
+ * r*.pek 北京
+ * r*.sjc 圣荷西
+ * r*.tpe 台北
+ * 等等
