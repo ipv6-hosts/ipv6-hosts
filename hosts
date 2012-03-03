@@ -2063,7 +2063,7 @@
 2404:6800:4003:2::f v8.lscache3.c.bigcache.googleapis.com
 2404:6800:4003:3::f v8.lscache4.c.bigcache.googleapis.com
 2404:6800:4003:4::f v8.lscache5.c.bigcache.googleapis.com
-173.194.49.47 v8.lscache6.c.bigcache.googleapis.com
+2404:6800:4003:5::f v8.lscache6.c.bigcache.googleapis.com
 2404:6800:4003:6::f v8.lscache7.c.bigcache.googleapis.com
 2404:6800:4003:7::f v8.lscache8.c.bigcache.googleapis.com
 2404:6800:4003::13 v9.lscache1.c.bigcache.googleapis.com
@@ -2098,7 +2098,7 @@
 2404:6800:4003:5::c v12.lscache6.c.bigcache.googleapis.com
 2404:6800:4003:6::c v12.lscache7.c.bigcache.googleapis.com
 2404:6800:4003:7::c v12.lscache8.c.bigcache.googleapis.com
-74.125.96.144 v13.lscache1.c.bigcache.googleapis.com
+2404:6800:4003::10 v13.lscache1.c.bigcache.googleapis.com
 2404:6800:4003:1::10 v13.lscache2.c.bigcache.googleapis.com
 2404:6800:4003:2::10 v13.lscache3.c.bigcache.googleapis.com
 2404:6800:4003:3::10 v13.lscache4.c.bigcache.googleapis.com
@@ -2125,12 +2125,12 @@
 2404:6800:4003::9 v16.lscache1.c.bigcache.googleapis.com
 2404:6800:4003:1::9 v16.lscache2.c.bigcache.googleapis.com
 2404:6800:4003:2::9 v16.lscache3.c.bigcache.googleapis.com
-74.125.96.233 v16.lscache4.c.bigcache.googleapis.com
+2404:6800:4003:3::9 v16.lscache4.c.bigcache.googleapis.com
 2404:6800:4003:4::9 v16.lscache5.c.bigcache.googleapis.com
 2404:6800:4003:5::9 v16.lscache6.c.bigcache.googleapis.com
 2404:6800:4003:6::9 v16.lscache7.c.bigcache.googleapis.com
 2404:6800:4003:7::9 v16.lscache8.c.bigcache.googleapis.com
-74.125.96.141 v17.lscache1.c.bigcache.googleapis.com
+2404:6800:4003::d v17.lscache1.c.bigcache.googleapis.com
 2404:6800:4003:1::d v17.lscache2.c.bigcache.googleapis.com
 2404:6800:4003:2::d v17.lscache3.c.bigcache.googleapis.com
 2404:6800:4003:3::d v17.lscache4.c.bigcache.googleapis.com
@@ -2163,7 +2163,7 @@
 2404:6800:4003:6::19 v20.lscache7.c.bigcache.googleapis.com
 2404:6800:4003:7::19 v20.lscache8.c.bigcache.googleapis.com
 2404:6800:4003::6 v21.lscache1.c.bigcache.googleapis.com
-74.125.96.166 v21.lscache2.c.bigcache.googleapis.com
+2404:6800:4003:1::6 v21.lscache2.c.bigcache.googleapis.com
 2404:6800:4003:2::6 v21.lscache3.c.bigcache.googleapis.com
 2404:6800:4003:3::6 v21.lscache4.c.bigcache.googleapis.com
 2404:6800:4003:4::6 v21.lscache5.c.bigcache.googleapis.com
@@ -2810,7 +2810,7 @@
 2404:6800:4003:5::19 v20.nonxt6.c.youtube.com
 2404:6800:4003:6::19 v20.nonxt7.c.youtube.com
 2404:6800:4003:7::19 v20.nonxt8.c.youtube.com
-74.125.96.134 v21.nonxt1.c.youtube.com
+2404:6800:4003::6 v21.nonxt1.c.youtube.com
 2404:6800:4003:1::6 v21.nonxt2.c.youtube.com
 2404:6800:4003:2::6 v21.nonxt3.c.youtube.com
 2404:6800:4003:3::6 v21.nonxt4.c.youtube.com
@@ -3002,7 +3002,7 @@
 2404:6800:4003:5::19 v20.cache6.c.youtube.com
 2404:6800:4003:6::19 v20.cache7.c.youtube.com
 2404:6800:4003:7::19 v20.cache8.c.youtube.com
-74.125.96.134 v21.cache1.c.youtube.com
+2404:6800:4003::6 v21.cache1.c.youtube.com
 2404:6800:4003:1::6 v21.cache2.c.youtube.com
 2404:6800:4003:2::6 v21.cache3.c.youtube.com
 2404:6800:4003:3::6 v21.cache4.c.youtube.com
@@ -3672,7 +3672,7 @@
 2404:6800:4005:7::12 v24.cache7.c.googlesyndication.com
 2404:6800:4005:3::12 v24.cache8.c.googlesyndication.com
 2404:6800:4003::6 v1.lscache1.c.googlesyndication.com
-74.125.96.166 v1.lscache2.c.googlesyndication.com
+2404:6800:4003:1::6 v1.lscache2.c.googlesyndication.com
 2404:6800:4003:2::6 v1.lscache3.c.googlesyndication.com
 2404:6800:4003:3::6 v1.lscache4.c.googlesyndication.com
 2404:6800:4003:4::6 v1.lscache5.c.googlesyndication.com
@@ -3697,7 +3697,7 @@
 2404:6800:4003:7::e v3.lscache8.c.googlesyndication.com
 2404:6800:4003::12 v4.lscache1.c.googlesyndication.com
 2404:6800:4003:1::12 v4.lscache2.c.googlesyndication.com
-74.125.96.210 v4.lscache3.c.googlesyndication.com
+2404:6800:4003:2::12 v4.lscache3.c.googlesyndication.com
 2404:6800:4003:3::12 v4.lscache4.c.googlesyndication.com
 2404:6800:4003:4::12 v4.lscache5.c.googlesyndication.com
 2404:6800:4003:5::12 v4.lscache6.c.googlesyndication.com
@@ -3732,13 +3732,13 @@
 2404:6800:4003:2::f v8.lscache3.c.googlesyndication.com
 2404:6800:4003:3::f v8.lscache4.c.googlesyndication.com
 2404:6800:4003:4::f v8.lscache5.c.googlesyndication.com
-173.194.49.47 v8.lscache6.c.googlesyndication.com
+2404:6800:4003:5::f v8.lscache6.c.googlesyndication.com
 2404:6800:4003:6::f v8.lscache7.c.googlesyndication.com
 2404:6800:4003:7::f v8.lscache8.c.googlesyndication.com
 2404:6800:4003::13 v9.lscache1.c.googlesyndication.com
 2404:6800:4003:1::13 v9.lscache2.c.googlesyndication.com
 2404:6800:4003:2::13 v9.lscache3.c.googlesyndication.com
-74.125.96.243 v9.lscache4.c.googlesyndication.com
+2404:6800:4003:3::13 v9.lscache4.c.googlesyndication.com
 2404:6800:4003:4::13 v9.lscache5.c.googlesyndication.com
 2404:6800:4003:5::13 v9.lscache6.c.googlesyndication.com
 2404:6800:4003:6::13 v9.lscache7.c.googlesyndication.com
@@ -3762,7 +3762,7 @@
 2404:6800:4003::c v12.lscache1.c.googlesyndication.com
 2404:6800:4003:1::c v12.lscache2.c.googlesyndication.com
 2404:6800:4003:2::c v12.lscache3.c.googlesyndication.com
-74.125.96.236 v12.lscache4.c.googlesyndication.com
+2404:6800:4003:3::c v12.lscache4.c.googlesyndication.com
 2404:6800:4003:4::c v12.lscache5.c.googlesyndication.com
 2404:6800:4003:5::c v12.lscache6.c.googlesyndication.com
 2404:6800:4003:6::c v12.lscache7.c.googlesyndication.com
@@ -3773,8 +3773,8 @@
 2404:6800:4003:3::10 v13.lscache4.c.googlesyndication.com
 2404:6800:4003:4::10 v13.lscache5.c.googlesyndication.com
 2404:6800:4003:5::10 v13.lscache6.c.googlesyndication.com
-173.194.49.80 v13.lscache7.c.googlesyndication.com
-173.194.49.112 v13.lscache8.c.googlesyndication.com
+2404:6800:4003:6::10 v13.lscache7.c.googlesyndication.com
+2404:6800:4003:7::10 v13.lscache8.c.googlesyndication.com
 2404:6800:4003::14 v14.lscache1.c.googlesyndication.com
 2404:6800:4003:1::14 v14.lscache2.c.googlesyndication.com
 2404:6800:4003:2::14 v14.lscache3.c.googlesyndication.com
@@ -3804,7 +3804,7 @@
 2404:6800:4003:2::d v17.lscache3.c.googlesyndication.com
 2404:6800:4003:3::d v17.lscache4.c.googlesyndication.com
 2404:6800:4003:4::d v17.lscache5.c.googlesyndication.com
-173.194.49.45 v17.lscache6.c.googlesyndication.com
+2404:6800:4003:5::d v17.lscache6.c.googlesyndication.com
 2404:6800:4003:6::d v17.lscache7.c.googlesyndication.com
 2404:6800:4003:7::d v17.lscache8.c.googlesyndication.com
 2404:6800:4003::11 v18.lscache1.c.googlesyndication.com
@@ -3844,7 +3844,7 @@
 2404:6800:4003:2::a v22.lscache3.c.googlesyndication.com
 2404:6800:4003:3::a v22.lscache4.c.googlesyndication.com
 2404:6800:4003:4::a v22.lscache5.c.googlesyndication.com
-173.194.49.42 v22.lscache6.c.googlesyndication.com
+2404:6800:4003:5::a v22.lscache6.c.googlesyndication.com
 2404:6800:4003:6::a v22.lscache7.c.googlesyndication.com
 2404:6800:4003:7::a v22.lscache8.c.googlesyndication.com
 2404:6800:4003::e v23.lscache1.c.googlesyndication.com
