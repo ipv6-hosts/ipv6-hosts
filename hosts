@@ -620,7 +620,7 @@
 2404:6800:8005::8a plus.google.com
 2404:6800:8005::8a plus.google.com.hk # URL 重定向
 2404:6800:8005::8a plus.url.google.com
-2404:6800:8005::8a plus.url.google.com.hk #实际上不存在的域名
+#2404:6800:8005::8a plus.url.google.com.hk #实际上不存在的域名
 2404:6800:8005::64 developers.google.com
 
 #Reader 阅读器
@@ -5465,6 +5465,9 @@
 2001:778:0:ffff:64:0:5c7b:4498 fbcdn-vthumb-a.akamaihd.net
 2001:778:0:ffff:64:0:5c7b:44b0 fbcdn-vthumb-a.akamaihd.net
 2001:778:0:ffff:64:0:5c7b:44b3 fbcdn-vthumb-a.akamaihd.net
+
+#Google Plus
+2001:778:0:ffff:64:0:1faa:a606 plus.url.google.com.hk #非官方，有错误请汇报
 
 #Twitter
 2001:778:0:ffff:64:0:c73b:9452 twitter.com
