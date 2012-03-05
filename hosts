@@ -4453,8 +4453,10 @@
 ##US 美国
 #Mozilla
 2620:101:8001:5::2:4 www.mozilla.org
-2620:101:8001:5::2:5 www.mozilla.com
 2620:101:8001:5::2:6 addons.mozilla.org
+2620:101:8001:5::2:4 nightly.mozilla.org
+2001:6b0:e:2018::1337 releases.mozilla.org
+2620:101:8001:5::2:5 www.mozilla.com
 2620:101:8001:5::2:8 www.firefox.com
 
 #Microsoft 微软
