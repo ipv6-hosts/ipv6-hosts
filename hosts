@@ -630,7 +630,6 @@
 2404:6800:8005::62 sb.google.com #安全浏览检测 API
 2404:6800:8005::88 sb.l.google.com
 2404:6800:8005::5d sb-ssl.google.com
-2404:6800:8005::88 sb-ssl.google.com
 2404:6800:8005::88 sb-ssl.l.google.com
 2404:6800:8005::62 safebrowsing.clients.google.com #安全浏览警告页面
 2404:6800:8005::62 safebrowsing-cache.google.com #安全浏览警告数据（分块加载）
@@ -4353,7 +4352,6 @@
 #2404:6800:8005::68 ??????.ds.ipv6test.google.com #四级域名为随机六位数字
 #2404:6800:8005::93 p2.*.*.??????.i2.ds.ipv6-exp.l.google.com
 2404:6800:8005::69 ds.ipv6test.l.google.com
-2404:6800:8005::6a ds.ipv6test.l.google.com
 
 #其他专题站
 2404:6800:8005::66 www.data-vocabulary.org
@@ -5243,7 +5241,6 @@
 
 #ARIN
 2001:500:4:13::81 www.arin.net
-2001:500:4:13::80 www.arin.net
 
 ##AU 澳大利亚
 #APNIC
@@ -5333,7 +5330,6 @@
 2001:778:0:ffff:64:0:42dc:9717 hphotos-snc6.fbcdn.net
 2001:778:0:ffff:64:0:45ab:e318 hphotos-snc7.fbcdn.net
 2001:778:0:ffff:64:0:5c7b:4408 creative.ak.fbcdn.net
-2001:778:0:ffff:64:0:5c7b:4421 creative.ak.fbcdn.net
 2001:778:0:ffff:64:0:c12d:f53 photos-a.ak.fbcdn.net
 2001:778:0:ffff:64:0:c12d:f73 photos-e.ak.fbcdn.net
 2001:778:0:ffff:64:0:c12d:f7b photos-i.ak.fbcdn.net
@@ -5361,110 +5357,20 @@
 2001:778:0:ffff:64:0:c12d:f90 photos-t.ak.fbcdn.net
 2001:778:0:ffff:64:0:c12d:f90 photos-x.ak.fbcdn.net#photos-d.ak.facebook.com.edgesuite.net
 2001:778:0:ffff:64:0:5c7b:4491	a1.sphotos.ak.fbcdn.net
-2001:778:0:ffff:64:0:5c7b:449b	a1.sphotos.ak.fbcdn.net
-2001:778:0:ffff:64:0:5c7b:44a2	a1.sphotos.ak.fbcdn.net
-2001:778:0:ffff:64:0:5c7b:44a3	a1.sphotos.ak.fbcdn.net
-2001:778:0:ffff:64:0:5c7b:44a9	a1.sphotos.ak.fbcdn.net
-2001:778:0:ffff:64:0:5c7b:44ab	a1.sphotos.ak.fbcdn.net
-2001:778:0:ffff:64:0:5c7b:44b1	a1.sphotos.ak.fbcdn.net
 2001:778:0:ffff:64:0:5c7b:446b	a2.sphotos.ak.fbcdn.net
-2001:778:0:ffff:64:0:5c7b:4473	a2.sphotos.ak.fbcdn.net
-2001:778:0:ffff:64:0:5c7b:4479	a2.sphotos.ak.fbcdn.net
-2001:778:0:ffff:64:0:5c7b:447a	a2.sphotos.ak.fbcdn.net
-2001:778:0:ffff:64:0:5c7b:4480	a2.sphotos.ak.fbcdn.net
-2001:778:0:ffff:64:0:5c7b:4481	a2.sphotos.ak.fbcdn.net
-2001:778:0:ffff:64:0:5c7b:4498	a2.sphotos.ak.fbcdn.net
-2001:778:0:ffff:64:0:5c7b:449a	a2.sphotos.ak.fbcdn.net
-2001:778:0:ffff:64:0:5c7b:44a0	a2.sphotos.ak.fbcdn.net
 2001:778:0:ffff:64:0:5c7b:4510	a3.sphotos.ak.fbcdn.net
-2001:778:0:ffff:64:0:5c7b:4520	a3.sphotos.ak.fbcdn.net
-2001:778:0:ffff:64:0:5c7b:4523	a3.sphotos.ak.fbcdn.net
-2001:778:0:ffff:64:0:5c7b:452b	a3.sphotos.ak.fbcdn.net
 2001:778:0:ffff:64:0:5c7b:450a	a4.sphotos.ak.fbcdn.net
-2001:778:0:ffff:64:0:5c7b:450b	a4.sphotos.ak.fbcdn.net
-2001:778:0:ffff:64:0:5c7b:4528	a4.sphotos.ak.fbcdn.net
-2001:778:0:ffff:64:0:5c7b:4529	a4.sphotos.ak.fbcdn.net
 2001:778:0:ffff:64:0:5c7b:4469	a5.sphotos.ak.fbcdn.net
-2001:778:0:ffff:64:0:5c7b:4471	a5.sphotos.ak.fbcdn.net
-2001:778:0:ffff:64:0:5c7b:4473	a5.sphotos.ak.fbcdn.net
-2001:778:0:ffff:64:0:5c7b:4491	a5.sphotos.ak.fbcdn.net
-2001:778:0:ffff:64:0:5c7b:449a	a5.sphotos.ak.fbcdn.net
-2001:778:0:ffff:64:0:5c7b:44a0	a5.sphotos.ak.fbcdn.net
-2001:778:0:ffff:64:0:5c7b:44a1	a5.sphotos.ak.fbcdn.net
-2001:778:0:ffff:64:0:5c7b:44a2	a5.sphotos.ak.fbcdn.net
-2001:778:0:ffff:64:0:5c7b:44b1	a5.sphotos.ak.fbcdn.net
 2001:778:0:ffff:64:0:5c7b:446a	a6.sphotos.ak.fbcdn.net
-2001:778:0:ffff:64:0:5c7b:4473	a6.sphotos.ak.fbcdn.net
-2001:778:0:ffff:64:0:5c7b:4478	a6.sphotos.ak.fbcdn.net
-2001:778:0:ffff:64:0:5c7b:447a	a6.sphotos.ak.fbcdn.net
-2001:778:0:ffff:64:0:5c7b:447b	a6.sphotos.ak.fbcdn.net
-2001:778:0:ffff:64:0:5c7b:4482	a6.sphotos.ak.fbcdn.net
-2001:778:0:ffff:64:0:5c7b:4483	a6.sphotos.ak.fbcdn.net
-2001:778:0:ffff:64:0:5c7b:448a	a6.sphotos.ak.fbcdn.net
-2001:778:0:ffff:64:0:5c7b:44b3	a6.sphotos.ak.fbcdn.net
 2001:778:0:ffff:64:0:5c7a:d4d9	a7.sphotos.ak.fbcdn.net
-2001:778:0:ffff:64:0:5c7a:d4db	a7.sphotos.ak.fbcdn.net
-2001:778:0:ffff:64:0:5c7a:d4e3	a7.sphotos.ak.fbcdn.net
-2001:778:0:ffff:64:0:5c7a:d509	a7.sphotos.ak.fbcdn.net
-2001:778:0:ffff:64:0:5c7a:d513	a7.sphotos.ak.fbcdn.net
-2001:778:0:ffff:64:0:5c7a:d522	a7.sphotos.ak.fbcdn.net
-2001:778:0:ffff:64:0:5c7a:d523	a7.sphotos.ak.fbcdn.net
-2001:778:0:ffff:64:0:5c7a:d529	a7.sphotos.ak.fbcdn.net
-2001:778:0:ffff:64:0:5c7a:d52a	a7.sphotos.ak.fbcdn.net
 2001:778:0:ffff:64:0:5c7a:d4c9	a8.sphotos.ak.fbcdn.net
-2001:778:0:ffff:64:0:5c7a:d4ca	a8.sphotos.ak.fbcdn.net
-2001:778:0:ffff:64:0:5c7a:d4d1	a8.sphotos.ak.fbcdn.net
-2001:778:0:ffff:64:0:5c7a:d4e2	a8.sphotos.ak.fbcdn.net
-2001:778:0:ffff:64:0:5c7a:d4ea	a8.sphotos.ak.fbcdn.net
-2001:778:0:ffff:64:0:5c7a:d4fa	a8.sphotos.ak.fbcdn.net
-2001:778:0:ffff:64:0:5c7a:d508	a8.sphotos.ak.fbcdn.net
-2001:778:0:ffff:64:0:5c7a:d509	a8.sphotos.ak.fbcdn.net
-2001:778:0:ffff:64:0:5c7a:d52b	a8.sphotos.ak.fbcdn.net
 2001:778:0:ffff:64:0:40d6:ce19 profile.ak.fbcdn.net
-2001:778:0:ffff:64:0:40d6:ce1a profile.ak.fbcdn.net
-2001:778:0:ffff:64:0:40d6:ce20 profile.ak.fbcdn.net
-2001:778:0:ffff:64:0:40d6:ce29 profile.ak.fbcdn.net
-2001:778:0:ffff:64:0:40d6:ce08 profile.ak.fbcdn.net
-2001:778:0:ffff:64:0:40d6:ce09 profile.ak.fbcdn.net
-2001:778:0:ffff:64:0:40d6:ce12 profile.ak.fbcdn.net
-2001:778:0:ffff:64:0:40d6:ce13 profile.ak.fbcdn.net
-2001:778:0:ffff:64:0:40d6:ce18 profile.ak.fbcdn.net
 2001:778:0:ffff:64:0:5c7b:442b static.ak.fbcdn.net
-2001:778:0:ffff:64:0:5c7b:4422 static.ak.fbcdn.net
 2001:778:0:ffff:64:0:5c7b:4478 vthumb.ak.fbcdn.net
-2001:778:0:ffff:64:0:5c7b:447b vthumb.ak.fbcdn.net
-2001:778:0:ffff:64:0:5c7b:4481 vthumb.ak.fbcdn.net
-2001:778:0:ffff:64:0:5c7b:4483 vthumb.ak.fbcdn.net
-2001:778:0:ffff:64:0:5c7b:448b vthumb.ak.fbcdn.net
-2001:778:0:ffff:64:0:5c7b:4498 vthumb.ak.fbcdn.net
-2001:778:0:ffff:64:0:5c7b:4499 vthumb.ak.fbcdn.net
-2001:778:0:ffff:64:0:5c7b:449a vthumb.ak.fbcdn.net
-2001:778:0:ffff:64:0:5c7b:44b0 vthumb.ak.fbcdn.net
 2001:778:0:ffff:64:0:c12d:f58 fbcdn-photos-a.akamaihd.net
-2001:778:0:ffff:64:0:c12d:f59 fbcdn-photos-a.akamaihd.net
-2001:778:0:ffff:64:0:c12d:f60 fbcdn-photos-a.akamaihd.net
-2001:778:0:ffff:64:0:c12d:f63 fbcdn-photos-a.akamaihd.net
-2001:778:0:ffff:64:0:c12d:f70 fbcdn-photos-a.akamaihd.net
-2001:778:0:ffff:64:0:c12d:f73 fbcdn-photos-a.akamaihd.net
-2001:778:0:ffff:64:0:c12d:f80 fbcdn-photos-a.akamaihd.net
-2001:778:0:ffff:64:0:c12d:f8b fbcdn-photos-a.akamaihd.net
-2001:778:0:ffff:64:0:c12d:f92 fbcdn-photos-a.akamaihd.net
 2001:778:0:ffff:64:0:40d6:ce0a fbcdn-profile-a.akamaihd.net
-2001:778:0:ffff:64:0:40d6:ce21 fbcdn-profile-a.akamaihd.net
-2001:778:0:ffff:64:0:40d6:ce22 fbcdn-profile-a.akamaihd.net
-2001:778:0:ffff:64:0:40d6:ce29 fbcdn-profile-a.akamaihd.net
 2001:778:0:ffff:64:0:5c7a:d4fb fbcdn-sphotos-a.akamaihd.net
-2001:778:0:ffff:64:0:5c7a:d4e0 fbcdn-sphotos-a.akamaihd.net
-2001:778:0:ffff:64:0:5c7a:d4e2 fbcdn-sphotos-a.akamaihd.net
 2001:778:0:ffff:64:0:5c7b:4470 fbcdn-vthumb-a.akamaihd.net
-2001:778:0:ffff:64:0:5c7b:4472 fbcdn-vthumb-a.akamaihd.net
-2001:778:0:ffff:64:0:5c7b:447b fbcdn-vthumb-a.akamaihd.net
-2001:778:0:ffff:64:0:5c7b:4483 fbcdn-vthumb-a.akamaihd.net
-2001:778:0:ffff:64:0:5c7b:4488 fbcdn-vthumb-a.akamaihd.net
-2001:778:0:ffff:64:0:5c7b:448b fbcdn-vthumb-a.akamaihd.net
-2001:778:0:ffff:64:0:5c7b:4498 fbcdn-vthumb-a.akamaihd.net
-2001:778:0:ffff:64:0:5c7b:44b0 fbcdn-vthumb-a.akamaihd.net
-2001:778:0:ffff:64:0:5c7b:44b3 fbcdn-vthumb-a.akamaihd.net
 
 #Google Plus
 2001:778:0:ffff:64:0:1faa:a606 plus.url.google.com.hk #非官方，有错误请汇报
