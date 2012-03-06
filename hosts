@@ -3906,6 +3906,7 @@
 2404:6800:8005::64 android.clients.google.com
 2404:6800:8005::64 android.l.google.com
 2404:6800:8005::64 android-china.l.google.com
+2404:6800:8005::66 play.google.com
 2404:6800:4003::6 v1.lscache1.c.android.clients.google.com
 2404:6800:4003:1::6 v1.lscache2.c.android.clients.google.com
 2404:6800:4003:2::6 v1.lscache3.c.android.clients.google.com
