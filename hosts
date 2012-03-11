@@ -402,27 +402,27 @@
 2404:6800:8005::11 gmail.com
 2404:6800:8005::11 m.gmail.com
 2404:6800:8005::11 m.googlemail.com
-2001:4860:8004::6d pop.gmail.com #Foxmail 等客户端不支持 ipv6 连接，参阅 Issue 33
-2001:4860:8004::6d gmail-pop.l.google.com
-2001:4860:8004::10 pop.googlemail.com
-2001:4860:8004::10 googlemail-pop.l.google.com
-2001:4860:8004::6d smtp.gmail.com #Foxmail 暂不支持
-2001:4860:8004::6d gmail-smtp-msa.l.google.com
+2001:4860:8005::6d pop.gmail.com #Foxmail 等客户端不支持 ipv6 连接，参阅 Issue 33
+2001:4860:8005::6d gmail-pop.l.google.com
+2001:4860:8005::10 pop.googlemail.com
+2001:4860:8005::10 googlemail-pop.l.google.com
+2001:4860:8005::6c smtp.gmail.com #Foxmail 暂不支持
+2001:4860:8005::6c gmail-smtp-msa.l.google.com
 2404:6800:8005::62 smtp1.google.com
 #2404:6800:8005::62 smtp2.google.com
 2404:6800:8005::62 smtp3.google.com
 2404:6800:8005::62 smtp-out.google.com
 2404:6800:8005::62 smtp-out3.google.com
-2001:4860:8004::6d gmail-smtp.l.google.com
+2001:4860:8005::6d gmail-smtp.l.google.com
 2404:6800:8005::62 gmail-smtp-in.l.google.com
 2404:6800:8005::62 gmr-smtp-in.l.google.com
-2001:4860:8004::10 smtp.googlemail.com
-2001:4860:8004::10 googlemail-smtp.l.google.com
+2001:4860:8005::10 smtp.googlemail.com
+2001:4860:8005::10 googlemail-smtp.l.google.com
 2001:4860:8005::6c imap.gmail.com #Foxmail 暂不支持
 2001:4860:8005::6c imap.google.com
 2001:4860:8005::6c gmail-imap.l.google.com
-2001:4860:8004::10 imap.googlemail.com
-2001:4860:8004::10 googlemail-imap.l.google.com
+2001:4860:8005::10 imap.googlemail.com
+2001:4860:8005::10 googlemail-imap.l.google.com
 
 #Group 论坛
 2404:6800:8005::8b groups.google.com
