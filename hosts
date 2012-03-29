@@ -4402,9 +4402,9 @@
 2620:0:1c00:0:face:b00c:0:1 zh-tw.facebook.com
 2620:0:1cfe:face:b00c::3 facebook.com #Facebook（非官方指定但可用，不推荐）
 2620:0:1cfe:face:b00c::4 login.facebook.com #登陆（非官方指定但可用，不推荐，会有证书警告）
-2620:0:1cfe:face:b00c::3 12.channel.facebook.com
-2620:0:1cfe:face:b00c::3 12.ctest.facebook.com
-#如需正常使用页面底部聊天功能，请通过 pac 代理 *.12.channel.facebook.com （不支持 ipv6）
+2620:0:1cfe:face:b00c::3 333.channel.facebook.com
+2620:0:1cfe:face:b00c::3 333.ctest.facebook.com
+#如需正常使用页面底部聊天功能，请通过 pac 代理 *.channel.facebook.com （不支持 ipv6）
 2620:0:1c00:0:face:b00c:0:5 developers.facebook.com
 2620:0:1cfe:face:b00c::3 developers.v6.facebook.com
 2620:0:1cfe:face:b00c::3 external.ak.fbcdn.net
@@ -5312,13 +5312,13 @@
 
 #Facebook CDN
 2001:778:0:ffff:64:0:5f64:926e s-static.ak.facebook.com
-2001:778:0:ffff:64:0:42dc:9747 0-12.channel.facebook.com
-2001:778:0:ffff:64:0:42dc:9747 1-12.channel.facebook.com
-2001:778:0:ffff:64:0:42dc:9747 2-12.channel.facebook.com
-2001:778:0:ffff:64:0:42dc:9747 3-12.channel.facebook.com
-2001:778:0:ffff:64:0:42dc:9747 4-12.channel.facebook.com
-2001:778:0:ffff:64:0:42dc:9747 5-12.channel.facebook.com
-2001:778:0:ffff:64:0:42dc:9747 6-12.channel.facebook.com
+2001:778:0:ffff:64:0:45ab:e329 0-333.channel.facebook.com
+2001:778:0:ffff:64:0:45ab:e329 1-333.channel.facebook.com
+2001:778:0:ffff:64:0:45ab:e329 2-333.channel.facebook.com
+2001:778:0:ffff:64:0:45ab:e329 3-333.channel.facebook.com
+2001:778:0:ffff:64:0:45ab:e329 4-333.channel.facebook.com
+2001:778:0:ffff:64:0:45ab:e329 5-333.channel.facebook.com
+2001:778:0:ffff:64:0:45ab:e329 6-333.channel.facebook.com
 2001:778:0:ffff:64:0:5435:a7ce s-external.ak.fbcdn.net
 2001:778:0:ffff:64:0:42dc:9a1d hphotos-iad1.fbcdn.net
 2001:778:0:ffff:64:0:453f:b897 hphotos-ash1.fbcdn.net
