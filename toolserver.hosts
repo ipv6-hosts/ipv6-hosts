@@ -35,6 +35,7 @@
 2620:0:862:301::1:5 ha-sql-proxy.esi.toolserver.org
 2620:0:862:301::1:6 ha-sge.esi.toolserver.org
 2620:0:862:301::1:7 ha-puppet.esi.toolserver.org
+2620:0:862:301::1:8 ha-bind-recursor.esi.toolserver.org
 2620:0:862:301::2:0 thyme.esi.toolserver.org
 2620:0:862:301::2:1 ptolemy.esi.toolserver.org
 2620:0:862:301::2:2 hemlock.esi.toolserver.org
