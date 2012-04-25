@@ -4369,6 +4369,8 @@
 2404:6800:8005::79 www.googlezeitgeist.com
 2404:6800:8005::66 www.googleinsidesearch.com
 2404:6800:8005::79 www.dartlang.org
+2404:6800:8005::79 try.dartlang.org
+2404:6800:8005::79 news.dartlang.org
 
 ###其他主流服务
 #bit.ly / j.mp
@@ -5284,6 +5286,7 @@
 2404:6800:8005::52 kibbles.googlecode.com
 
 # GAE 上的常用应用
+2404:6800:8005::8d gsdview.appspot.com
 2404:6800:8002::8d wave-api.appspot.com #Google Wave API
 2404:6800:8002::8d wave-skynet.appspot.com #SkyNet
 2404:6800:8002::8d mytracks.appspot.com #My Tracks for Android
