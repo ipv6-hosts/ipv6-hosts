@@ -328,6 +328,7 @@
 
 #Docs 文档
 2404:6800:8005::71 docs.google.com
+2404:6800:8005::65 drive.google.com
 2404:6800:8005::64 docs0.google.com
 2404:6800:8005::64 docs1.google.com
 2404:6800:8005::64 docs2.google.com
@@ -356,6 +357,7 @@
 2404:6800:8005::bd 15.docs.google.com
 2404:6800:8005::bd 16.docs.google.com
 2404:6800:8005::bd *.docs.google.com #按需要同时打开的文档个数自行添加
+2404:6800:8005::bd *.drive.google.com
 2404:6800:8005::bd browserchannel-docs.l.google.com
 2404:6800:8005::62 spreadsheet.google.com
 2404:6800:8005::62 spreadsheets.google.com
@@ -633,6 +635,7 @@
 2404:6800:8005::88 sb.l.google.com
 2404:6800:8005::5d sb-ssl.google.com
 2404:6800:8005::88 sb-ssl.l.google.com
+2404:6800:8005::5b safebrowsing.google.com
 2404:6800:8005::62 safebrowsing.clients.google.com #安全浏览警告页面
 2404:6800:8005::62 safebrowsing-cache.google.com #安全浏览警告数据（分块加载）
 2404:6800:8005::65 safebrowsing.cache.l.google.com
