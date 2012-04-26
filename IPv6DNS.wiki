@@ -10,14 +10,14 @@
  * *`ns.ipv6.uni-leipzig.de`*
   ** `2001:638:902:1::10`
   ** `139.18.25.34`
-
-== 其他 DNS ==
  * *`google-public-dns-a.google.com`*
   ** `2001:4860:4860::8888`
-  ** `8.8.8.8`
+  ** `8.8.8.8`（不返回 Google 系列的 AAAA 记录）
  * *`google-public-dns-b.google.com`*
   ** `2001:4860:4860::8844`
-  ** `8.8.4.4`
+  ** `8.8.4.4`（不返回 Google 系列的 AAAA 记录）
+
+== 其他 DNS ==
  * *`resolver1.opendns.com`* *`resolver2.opendns.com`*
   ** `2620:0:ccc::2` `2620:0:ccd::2`
   ** `208.67.222.222` `208.67.220.220`
