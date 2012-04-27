@@ -356,6 +356,23 @@
 2404:6800:8005::bd 14.docs.google.com
 2404:6800:8005::bd 15.docs.google.com
 2404:6800:8005::bd 16.docs.google.com
+2404:6800:8005::bd 0.drive.google.com
+2404:6800:8005::bd 1.drive.google.com
+2404:6800:8005::bd 2.drive.google.com
+2404:6800:8005::bd 3.drive.google.com
+2404:6800:8005::bd 4.drive.google.com
+2404:6800:8005::bd 5.drive.google.com
+2404:6800:8005::bd 6.drive.google.com
+2404:6800:8005::bd 7.drive.google.com
+2404:6800:8005::bd 8.drive.google.com
+2404:6800:8005::bd 9.drive.google.com
+2404:6800:8005::bd 10.drive.google.com
+2404:6800:8005::bd 11.drive.google.com
+2404:6800:8005::bd 12.drive.google.com
+2404:6800:8005::bd 13.drive.google.com
+2404:6800:8005::bd 14.drive.google.com
+2404:6800:8005::bd 15.drive.google.com
+2404:6800:8005::bd 16.drive.google.com
 2404:6800:8005::bd *.docs.google.com #按需要同时打开的文档个数自行添加
 2404:6800:8005::bd *.drive.google.com
 2404:6800:8005::bd browserchannel-docs.l.google.com
@@ -377,6 +394,7 @@
 2404:6800:8005::62 writely.l.google.com
 2404:6800:8005::62 writely-com.l.google.com
 2404:6800:8005::62 writely-china.l.google.com
+2404:6800:8005::74 upload.docs.google.com #large-uploads.l.google.com
 
 #Download 下载
 2404:6800:8005::5b dl.google.com

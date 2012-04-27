@@ -5,6 +5,7 @@ function FindProxyForURL(url, host) {
 	if(/^[\w\-]+:\/+(?!\/)(?:[^\/]+\.)?appspot\.com/i.test(url)) return PROXY;
 	if(/^[\w\-]+:\/+(?!\/)(?:[^\/]+\.)?blogspot\.com/i.test(url)) return PROXY;
 	if(/^[\w\-]+:\/+(?!\/)(\d{2,}\.)docs\.google\.com/i.test(url)) return PROXY;
+	if(/^[\w\-]+:\/+(?!\/)(\d{2,}\.)drive\.google\.com/i.test(url)) return PROXY;
 	if(/^[\w\-]+:\/+(?!\/)(?:[^\/]+\.)?googleapis\.com/i.test(url)) return PROXY;
 	if(/^[\w\-]+:\/+(?!\/)(?:[^\/]+\.)?googlecode\.com/i.test(url)) return PROXY;
 	if(/^[\w\-]+:\/+(?!\/)(?:[^\/]+\.)?googlegroups\.com/i.test(url)) return PROXY;
