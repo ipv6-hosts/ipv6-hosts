@@ -1831,6 +1831,10 @@
 2404:6800:8005::5f translate.googleapis.com #googleapis.l.google.com
 ###2404:6800:8005::5f googleapis-ajax.google.com
 ###2404:6800:8005::5f googleapis-ajax.l.google.com
+2404:6800:8005::64 mt0.googleapis.com #mt.l.google.com
+2404:6800:8005::64 mt1.googleapis.com #mt.l.google.com
+2404:6800:8005::64 mt2.googleapis.com #mt.l.google.com
+2404:6800:8005::64 mt3.googleapis.com #mt.l.google.com
 
 #BigCache (Google Storage)
 2404:6800:4005::6 v1.lscache1.c.bigcache.googleapis.com
