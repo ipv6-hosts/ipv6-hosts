@@ -4,18 +4,18 @@
 == 加入“Google Over IPv6”计划的 DNS ==
 只有加入该计划的 DNS 服务器才能解析出 Google 系列服务的 IPv6 地址。
 
- * *`ordns.he.net`*
+ * *`ordns.he.net`* （最优）
   ** `2001:470:20::2`
   ** `74.82.42.42`
- * *`ns.ipv6.uni-leipzig.de`*
-  ** `2001:638:902:1::10`
-  ** `139.18.25.34`
- * *`google-public-dns-a.google.com`*
+ * *`google-public-dns-a.google.com`* （推荐）
   ** `2001:4860:4860::8888`
   ** `8.8.8.8`（不返回 Google 系列的 AAAA 记录）
- * *`google-public-dns-b.google.com`*
+ * *`google-public-dns-b.google.com`* （推荐）
   ** `2001:4860:4860::8844`
   ** `8.8.4.4`（不返回 Google 系列的 AAAA 记录）
+ * *`ns.ipv6.uni-leipzig.de`* （西欧地区适用）
+  ** `2001:638:902:1::10`
+  ** `139.18.25.34`
 
 == 其他 DNS ==
  * *`resolver1.opendns.com`* *`resolver2.opendns.com`*
