@@ -453,6 +453,7 @@
 2404:6800:8005::71 groups.google.com.hk #groups.l.google.com
 2404:6800:8005::71 groups-beta.google.com #groups.l.google.com
 2404:6800:8005::71 groups.l.google.com
+2404:6800:8005::66 productforums.google.com #groups.l.google.com
 2404:6800:8005::89 blob-s-docs.googlegroups.com #googlegroups.l.google.com
 2404:6800:8005::89 *.googlegroups.com #googlegroups.l.google.com
 
@@ -1828,6 +1829,7 @@
 2404:6800:8005::5f chart.googleapis.com #googleapis.l.google.com
 2404:6800:8005::5f fonts.googleapis.com #googleapis.l.google.com
 2404:6800:8005::5f maps.googleapis.com #googleapis.l.google.com
+2404:6800:8005::5f redirector-bigcache.googleapis.com #googleapis.l.google.com
 2404:6800:8005::5f translate.googleapis.com #googleapis.l.google.com
 ###2404:6800:8005::5f googleapis-ajax.google.com
 ###2404:6800:8005::5f googleapis-ajax.l.google.com
