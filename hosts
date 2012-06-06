@@ -4585,21 +4585,25 @@
 #2001:418:e801::15:7 api.bitly.com
 
 #Facebook 脸谱网
-2620:0:1cfe:face:b00c::3 www.v6.facebook.com
-2620:0:1cfe:face:b00c::3 attachments.facebook.com #?
-2620:0:1cfe:face:b00c::6 apps.v6.facebook.com
-2a03:2880:2110:3f01:face:b00c:0:2 apps.facebook.com
-2a03:2880:10:1f02:face:b00c:0:25 connect.facebook.com #www.facebook.com
-2a03:2880:10:8f01:face:b00c:0:26 graph.facebook.com
-#2620:0:1cfe:face:b00c::4 login.v6.facebook.com
-2a03:2880:10:1f02:face:b00c:0:25 www.facebook.com
-2a03:2880:10:1f03:face:b00c:0:27 zh-cn.facebook.com #star.facebook.com
-2a03:2880:10:1f03:face:b00c:0:27 zh-tw.facebook.com #star.facebook.com
-2a03:2880:2110:3f01:face:b00c:0:2 star.facebook.com
 2a03:2880:2110:3f01:face:b00c:: facebook.com
 2a03:2880:10:1f02:face:b00c:0:25 facebook.com
 2a03:2880:10:8f01:face:b00c:0:25 facebook.com
+2a03:2880:10:1f02:face:b00c:0:25 www.facebook.com
+2a03:2880:10:1f02:face:b00c:0:25 connect.facebook.com #www.facebook.com
+2a03:2880:10:8f01:face:b00c:0:26 graph.facebook.com
+2a03:2880:10:1f03:face:b00c:0:27 zh-cn.facebook.com #star.facebook.com
+2a03:2880:10:1f03:face:b00c:0:27 zh-tw.facebook.com #star.facebook.com
+2a03:2880:10:8f02:face:b00c:0:27 check6.facebook.com
+2a03:2880:10:8f01:face:b00c:0:28 m.facebook.com
+2a03:2880:2110:3f01:face:b00c:0:2 apps.facebook.com
 2a03:2880:2110:3f01:face:b00c:0:2 login.facebook.com #star.facebook.com
+2a03:2880:2110:3f02:face:b00c:0:2 pixel.facebook.com #star.facebook.com
+2a03:2880:2110:3f01:face:b00c:0:2 star.facebook.com
+2a03:2880:2110:3f02:face:b00c:0:4 upload.facebook.com
+2620:0:1cfe:face:b00c::3 www.v6.facebook.com
+2620:0:1cfe:face:b00c::3 attachments.facebook.com #?
+#2620:0:1cfe:face:b00c::4 login.v6.facebook.com
+2620:0:1cfe:face:b00c::6 apps.v6.facebook.com
 2620:0:1cfe:face:b00c::3 333.channel.facebook.com #?
 #2620:0:1cfe:face:b00c::3 333.ctest.facebook.com
 #如需正常使用页面底部聊天功能，请通过 pac 代理 *.channel.facebook.com
@@ -4607,21 +4611,19 @@
 #2620:0:1cfe:face:b00c::3 developers.v6.facebook.com
 #2620:0:1cfe:face:b00c::3 external.ak.fbcdn.net
 2620:0:1cfe:face:b00c::3 error.12.channel.facebook.com #?
-2a03:2880:2110:3f02:face:b00c:0:2 pixel.facebook.com #star.facebook.com
 2620:0:1cfe:face:b00c::3 pixel.v6.facebook.com #www.v6.facebook.com
-2620:0:1cfe:face:b00c::7 m.v6.facebook.com #移动版
-2a03:2880:10:8f01:face:b00c:0:28 m.facebook.com
-2610:d0:face::9 www.lisp6.facebook.com
-2610:d0:face::9 m.lisp6.facebook.com #www.lisp6.facebook.com
-2a03:2880:10:8f02:face:b00c:0:27 check6.facebook.com
-2a03:2880:2110:3f02:face:b00c:0:4 upload.facebook.com
 2620:0:1cfe:face:b00c::3 vupload.facebook.com #?
-#Facebook CDN
 #2620:0:1cfe:face:b00c::3 static.ak.fbcdn.net #网站资源（图像、脚本等）新机制尚未部署至 ipv6
 #2620:0:1cfe:face:b00c::4 s-static.ak.facebook.com #https 连接用网站资源，证书有问题
+2620:0:1cfe:face:b00c::7 m.v6.facebook.com #移动版
+2610:d0:face::9 www.lisp6.facebook.com
+2610:d0:face::9 m.lisp6.facebook.com #www.lisp6.facebook.com
+
 #Akamai
 2600:140e:3:1:8600::236 s-static.ak.facebook.com #s-static.ak.facebook.com.edgekey.net
 2600:140e:3:1:8d00::236 s-static.ak.facebook.com
+2600:140e:3:1:8000::38a s-external.ak.fbcdn.net #s-external.ak.fbcdn.net.edgekey.net
+2600:140e:3:1:8400::38a s-external.ak.fbcdn.net
 2600:140e:3:1:8100::d19 s-static.ak.fbcdn.net #s-static.ak.fbcdn.net.edgekey.net
 2600:140e:3:1:8500::d19 s-static.ak.fbcdn.net
 2600:140e:1::3cfe:83d1 creative.ak.fbcdn.net #ads.ak.facebook.com.edgesuite.net
@@ -4635,8 +4637,8 @@
 2600:140e:1::3cfe:834f profile.ak.fbcdn.net #profile.ak.facebook.com.edgesuite.net
 2600:140e:1::3cfe:8348 profile.ak.fbcdn.net
 2600:140e:1::3cfe:8336 profile.ak.fbcdn.net
-2600:140e:3:1:8000::38a s-external.ak.fbcdn.net #s-external.ak.fbcdn.net.edgekey.net
-2600:140e:3:1:8400::38a s-external.ak.fbcdn.net
+2600:140e:1::3cfe:8345 fbcdn-profile-a.akamaihd.net
+2600:140e:1::3cfe:8350 fbcdn-profile-a.akamaihd.net#fbcdn-profile-a.akamaihd.net.edgesuite.net
 2600:140e:3::3cfe:af08 photos-a.ak.fbcdn.net
 2600:140e:3::3cfe:af09 photos-e.ak.fbcdn.net
 2600:140e:3::3cfe:af11 photos-i.ak.fbcdn.net
@@ -4663,6 +4665,9 @@
 2600:140e:3::3cfe:af19 photos-p.ak.fbcdn.net
 2600:140e:3::3cfe:af1b photos-t.ak.fbcdn.net
 2600:140e:3::3cfe:af1b photos-x.ak.fbcdn.net#photos-d.ak.facebook.com.edgesuite.net
+2600:140e:3::3cfe:af09 fbcdn-photos-a.akamaihd.net
+2600:140e:3::3cfe:af18 fbcdn-photos-a.akamaihd.net
+2600:140e:3::3cfe:af19 fbcdn-photos-a.akamaihd.net#fbcdn-photos-a.akamaihd.net.edgesuite.net
 2001:590:1:602::3f8d:c05a a1.sphotos.ak.fbcdn.net
 2001:590:1:602::3f8d:c06b a1.sphotos.ak.fbcdn.net#a1.sphotos.ak.fbcdn.net.edgesuite.net
 2001:590:1:602::3f8d:c071 a2.sphotos.ak.fbcdn.net
@@ -4681,11 +4686,6 @@
 2001:418:8404:11::c7ef:b6ea a8.sphotos.ak.fbcdn.net#a8.sphotos.ak.fbcdn.net.edgesuite.net
 2001:428:4c02::cda8:ed09 vthumb.ak.fbcdn.net
 2001:428:4c02::cda8:ecdb vthumb.ak.fbcdn.net#vthumb.facebook.com.edgesuite.net
-2600:140e:3::3cfe:af09 fbcdn-photos-a.akamaihd.net
-2600:140e:3::3cfe:af18 fbcdn-photos-a.akamaihd.net
-2600:140e:3::3cfe:af19 fbcdn-photos-a.akamaihd.net#fbcdn-photos-a.akamaihd.net.edgesuite.net
-2600:140e:1::3cfe:8345 fbcdn-profile-a.akamaihd.net
-2600:140e:1::3cfe:8350 fbcdn-profile-a.akamaihd.net#fbcdn-profile-a.akamaihd.net.edgesuite.net
 2001:428:7000:2::3feb:1ca0 fbcdn-sphotos-a.akamaihd.net
 2001:428:7000:2::3feb:1cc9 fbcdn-sphotos-a.akamaihd.net
 2001:428:7000:2::3feb:1ccb fbcdn-sphotos-a.akamaihd.net#fbcdn-sphotos-a.akamaihd.net.edgesuite.net
@@ -5559,6 +5559,7 @@
 2404:6800:8005::8d fakegdict.appspot.com #Fake Google Dictionary
 
 # 托管在 Google 上的其他常用域名 #ghs.l.google.com
+2404:6800:8005::79 www.akb48plus.com
 2404:6800:8005::79 wdyl.com
 2404:6800:8005::79 www.wdyl.com
 2404:6800:8005::79 blog.twitter.com
