@@ -547,7 +547,7 @@
 2404:6800:8005::8b mt3.google.com #mt.l.google.com
 2404:6800:8005::66 gg.google.com
 2404:6800:8005::8b gg.google.cn
-2a00:1450:4001:c01::78 csi.l.google.com
+2404:6800:8005::78 csi.l.google.com
 2404:6800:8005::5e id.google.com #id.l.google.com
 2404:6800:8005::5e id.google.cn #id.l.google.com
 2404:6800:8005::5e id.l.google.com
@@ -1797,7 +1797,7 @@
 
 #GStatic Google 静态文件存储
 2404:6800:8005::78 www.gstatic.com
-2607:f8b0:4004:800::100f csi.gstatic.com
+2404:6800:8005::78 csi.gstatic.com
 2404:6800:8005::78 maps.gstatic.com
 2404:6800:8005::78 ssl.gstatic.com
 2404:6800:8005::67 t0.gstatic.com
@@ -1837,6 +1837,7 @@
 2404:6800:8005::64 mt3.googleapis.com #mt.l.google.com
 
 #BigCache (Google Storage)
+2404:6800:8005::65 redirector.c.youtube.com
 2404:6800:4005::6 v1.lscache1.c.bigcache.googleapis.com
 2404:6800:4005:4::6 v1.lscache2.c.bigcache.googleapis.com
 2404:6800:4005:1::6 v1.lscache3.c.bigcache.googleapis.com
@@ -2509,6 +2510,7 @@
 2404:6800:8005::84 www-fc-opensocial.googleusercontent.com
 2404:6800:8005::84 *-a-fc-opensocial.googleusercontent.com
 2404:6800:8005::84 8fkcem1ves287v3g5lu9gep1j91p3kk1-a-fc-opensocial.googleusercontent.com
+2404:6800:8005::84 r1rk9np7bpcsfoeekl0khkd2juj27q3o-a-fc-opensocial.googleusercontent.com
 2404:6800:8005::84 www-focus-opensocial.googleusercontent.com
 2404:6800:8005::84 images0-focus-opensocial.googleusercontent.com
 2404:6800:8005::84 images1-focus-opensocial.googleusercontent.com
@@ -4544,6 +4546,8 @@
 #2404:6800:8005::63 ??????.ds.ipv6test.google.com #四级域名为随机六位数字
 #2404:6800:8005::63 p2.*.*.??????.i2.ds.ipv6-exp.l.google.com
 2404:6800:8005::63 ds.ipv6test.l.google.com
+2001:4860:b007::97 chrome.googleechotest.com #chromeecho.l.google.com
+2001:4860:b007::97 chromeecho.l.google.com
 
 #其他专题站
 2404:6800:8005::8b www.data-vocabulary.org #www3.l.google.com
