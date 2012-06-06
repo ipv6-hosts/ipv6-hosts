@@ -5583,15 +5583,25 @@
 2001:4998:f011:1fb::c:1101 l3.yimg.com
 2001:4998:f011:1fe::3000 ad.yieldmanager.com
 
-#FR 法国
-2a01:e0d:1:3:58bf:fa02:0:1 videolan.org
-2a01:e0d:1:3:58bf:fa02:0:1 www.videolan.org #ganesh.videolan.org
+##AT 奥地利
+#Tor Project
+2001:858:10f:f::1001 torproject.org
+2001:858:10f:f::1001 www.torproject.org
+2001:4dd0:1234:1::deb deb.torproject.org
+2620:0:6b0:b:1a1a:0:26e5:4808 trac.torproject.org
+2620:0:6b0:b:1a1a:0:26e5:480e cloud.torproject.org
+2620:0:6b0:b:1a1a:0:26e5:480e atlas.torproject.org
+2620:0:6b0:b:1a1a:0:26e5:480b svn.torproject.org
 
 ##AU 澳大利亚
 #APNIC
 2001:dc0:2001:11::211 www.apnic.net
 2001:dc0:2001::14 wq.apnic.net
 2001:dc0:2001:11::205 submit.apnic.net #nori.apnic.net
+
+##FR 法国
+2a01:e0d:1:3:58bf:fa02:0:1 videolan.org
+2a01:e0d:1:3:58bf:fa02:0:1 www.videolan.org #ganesh.videolan.org
 
 ##JP 日本
 #JAIST 北陸先端科学技術大学院大学
