@@ -4626,6 +4626,8 @@
 2600:140e:3:1:8400::38a s-external.ak.fbcdn.net
 2600:140e:3:1:8100::d19 s-static.ak.fbcdn.net #s-static.ak.fbcdn.net.edgekey.net
 2600:140e:3:1:8500::d19 s-static.ak.fbcdn.net
+2600:140e:3:1:8500::eed connect.facebook.net
+2600:140e:3:1:8c00::eed connect.facebook.net #connect.facebook.net.edgekey.net
 2600:140e:1::3cfe:83d1 creative.ak.fbcdn.net #ads.ak.facebook.com.edgesuite.net
 2600:140e:1::3cfe:83cb creative.ak.fbcdn.net
 2600:140e:1::3cfe:83d1 external.ak.fbcdn.net #external.ak.fbcdn.net.edgesuite.net
@@ -4639,6 +4641,8 @@
 2600:140e:1::3cfe:8336 profile.ak.fbcdn.net
 2600:140e:1::3cfe:8345 fbcdn-profile-a.akamaihd.net
 2600:140e:1::3cfe:8350 fbcdn-profile-a.akamaihd.net#fbcdn-profile-a.akamaihd.net.edgesuite.net
+2600:140e:1::3cfe:83ca static.ak.facebook.com
+2600:140e:1::3cfe:83d0 static.ak.facebook.com #static.ak.facebook.com.edgesuite.net
 2600:140e:3::3cfe:af08 photos-a.ak.fbcdn.net
 2600:140e:3::3cfe:af09 photos-e.ak.fbcdn.net
 2600:140e:3::3cfe:af11 photos-i.ak.fbcdn.net
@@ -5688,6 +5692,7 @@
 2001:778:0:ffff:64:0:b8a9:4f21 a4.twimg.com
 2001:778:0:ffff:64:0:5c7a:32b8 a5.twimg.com
 2001:778:0:ffff:64:0:215:5d37 p.twimg.com
+2001:778:0:ffff:64:0:c73b:962b r.twimg.com
 2001:778:0:ffff:64:0:cdfb:db19 s.twimg.com
 2001:778:0:ffff:64:0:b8a9:4f21 si0.twimg.com
 2001:778:0:ffff:64:0:215:6f90 si1.twimg.com
