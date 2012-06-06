@@ -1,0 +1,29 @@
+#summary nginx 简单 HTTP 反向代理服务器配置
+#labels Nginx,IPv6,lnmp,HTTP,proxy
+
+== 说明 ==
+
+通过简单修改该配置文件，可以通过某个 IPv6 地址提供基于 HTTP Get 方法的代理服务。
+
+
+== reverse_proxy.conf ==
+{{{
+server {
+  listen [2001:470:f061::6]:80;
+  server_name rp.lidian.info;
+  location / {
+    #resolver [2001:470:20::2]; #nginx 1.3.1 或更高版本
+    resolver 8.8.8.8; #较低版本适用
+    proxy_redirect off;
+    proxy_set_header Host $http_host;
+    proxy_set_header X-Real-IP $remote_addr;
+    proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+    proxy_pass http://$host;
+    access_log off;
+  }
+}
+}}}
+
+=== 反向代理使用方法 ===
+ * 方法 1：在 hosts 中添加 `2001:470:f061::6 www.example.org`
+ * 方法 2：设置浏览器的 http 代理服务器为 [2001:470:f061::6]:80，或者在 pac 脚本中添加匹配规则 `if(/^[\w\-]+:\/+(?!\/)(?:[^\/]+\.)?example\.org/i.test(url)) return PROXY [2001:470:f061::6]:80;`
