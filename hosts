@@ -2419,6 +2419,7 @@
 2404:6800:8005::84 doc-0s-1o-docs.googleusercontent.com
 2404:6800:8005::84 doc-10-1o-docs.googleusercontent.com
 2404:6800:8005::84 doc-14-1o-docs.googleusercontent.com
+2404:6800:8005::84 doc-10-2c-docs.googleusercontent.com
 2404:6800:8005::84 doc-0k-38-docs.googleusercontent.com
 2404:6800:8005::84 doc-00-6c-docs.googleusercontent.com
 2404:6800:8005::84 doc-04-6c-docs.googleusercontent.com
@@ -4502,6 +4503,8 @@
 2404:6800:8005::8d golang.org
 2404:6800:8005::8d www.golang.org #golang.org
 2404:6800:8005::79 blog.golang.org #ghs.l.google.com
+2404:6800:8005::8d play.golang.org
+2404:6800:8005::8d tour.golang.org
 
 #Goo.gl Google短网址服务
 2404:6800:8005::64 goo.gl
