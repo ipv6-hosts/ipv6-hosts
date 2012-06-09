@@ -5609,6 +5609,14 @@
 2001:dc0:2001::14 wq.apnic.net
 2001:dc0:2001:11::205 submit.apnic.net #nori.apnic.net
 
+#DE 德国
+2002:c247:6b96::1 thepiratebay.se
+2002:c247:6b96::1 www.thepiratebay.se
+2002:c247:6b97::1 static.thepiratebay.se
+2002:c247:6b96::1 thepiratebay.org
+2002:c247:6b96::1 www.thepiratebay.org
+2002:c247:6b97::1 static.thepiratebay.org
+
 ##FR 法国
 2a01:e0d:1:3:58bf:fa02:0:1 videolan.org
 2a01:e0d:1:3:58bf:fa02:0:1 www.videolan.org #ganesh.videolan.org
