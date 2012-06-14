@@ -1,0 +1,30 @@
+#summary 我一定要用 IPv6 Hosts 吗？
+#labels Featured,DNS,IPv6,CMCC,CERNET2
+
+== 简介 ==
+
+本项目建立的初衷是为了让“Google Over IPv6”计划之外的用户（主要来自教育网）可以通过新一代协议获得更佳的网络体验。
+
+然而，至少在下述情况下使用 IPv6 Hosts 并非最佳方案：
+ # [isatap] 等隧道用户——隧道无法连通时无法自动切换回 IPv4
+ # 除大陆、香港以外地区的用户——[BigCache] 会依据自己的判断将大量请求重定向到本项目未收录的数据中心专有域名
+ # 网络状况极差的用户——若 ping 值高于 500ms，您将感到加载明显吃力
+
+此外，主流网站已放开 IPv6 地址解析请求的来源限制，任何 IPv6 用户都可以从 [IPv6DNS] 中推荐的服务器请求到 [AAAA] 记录。
+
+== 我一定要用 IPv6 Hosts 吗？ ==
+
+*绝对不！*
+
+如果您满足下述条件，强烈建议您*直接配置* [IPv6DNS]：
+ * `ping`/`ping6 ordns.he.net` 的回路时间小于 60ms
+ * `ping`/`ping6 google-public-dns-a.google.com` 的回路时间小于 60ms
+ * IPv6 地址归属地在中国大陆或香港
+ * 对 Google 系列业务极度依赖
+ * 懒（本项可选）
+通常来说，接入*第二代教育网*（[CERNET2]）的校园网用户，以及江浙沪三省的*移动宽带*用户，拥有 45ms 左右的理想速度。
+
+如果您符合下述任意一条条件，建议您定期来本项目发布页获取最新 hosts：
+ * ping 主流网站的回路时间 > 300ms（此时 Chrome 会放弃 IPv6 连接，转而发起 IPv4 请求）
+ * 当地 DNS 服务器存在污染，且无法配置 [http://code.google.com/p/ipv6-hosts/wiki/IPv6DNS IPv6 DNS]
+ * 够勤快
