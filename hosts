@@ -125,6 +125,8 @@
 2404:6800:8005::65 encrypted-tbn3.google.com #encrypted-tbn.l.google.com
 2404:6800:8005::64 encrypted-tbn.l.google.com
 2404:6800:8005::8b support.google.com #www3.l.google.com
+2404:6800:8005::c1 mobile.google.com #mobile.l.google.com
+2404:6800:8005::63 mobile.google.com.hk #www.google.com
 
 #Google Apps 企业应用套件
 2404:6800:8005::71 apps.google.com #www3.l.google.com
