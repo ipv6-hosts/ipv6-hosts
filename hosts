@@ -5595,6 +5595,17 @@
 2001:4998:f011:1fb::c:1101 l3.yimg.com
 2001:4998:f011:1fe::3000 ad.yieldmanager.com
 
+#Uncyclopedia
+2001:470:1d:28::6 uncyclopedia.hk
+2001:470:1d:28::6 uncyclopedia.info
+2001:470:1d:28::6 www.uncyclopedia.info
+2001:470:1d:28::6 uncyclopedia.tw
+2001:470:1d:28::6 uncyclomedia.org
+2001:470:1d:28::6 meta.uncyclomedia.org
+2001:470:1d:28::6 images.uncyc.org
+2001:470:1d:28::6 static.uncyc.org
+2001:470:1d:28::6 ansaikuropedia.org
+
 ##AT 奥地利
 #Tor Project
 2001:858:10f:f::1001 torproject.org
@@ -5789,3 +5800,15 @@
 #WikiPedia 维基百科
 2001:778:0:ffff:64:0:d050:98b9 download.wikipedia.org
 2001:778:0:ffff:64:0:d050:9885 mail.wikipedia.org
+
+#Wikia
+2001:778:0:ffff:64:0:4a78:bc05 images1.wikia.nocookie.net
+2001:778:0:ffff:64:0:4a78:bc05 images2.wikia.nocookie.net
+2001:778:0:ffff:64:0:4a78:bc05 images3.wikia.nocookie.net
+2001:778:0:ffff:64:0:4a78:bc7d doraemon.wikia.com
+2001:778:0:ffff:64:0:4a78:bc7d ja.doraemon.wikia.com
+2001:778:0:ffff:64:0:4a78:bc7d zh-cn.doraemon.wikia.com
+2001:778:0:ffff:64:0:4a78:bc7d zh-tw.doraemon.wikia.com
+2001:778:0:ffff:64:0:4a78:bc7d evchk.wikia.com #香港網絡大典
+2001:778:0:ffff:64:0:4a78:bc7d uncyclopedia.wikia.com
+2001:778:0:ffff:64:0:4a78:bc7d cn.uncyclopedia.wikia.com
