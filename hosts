@@ -4640,21 +4640,21 @@
 2600:140e:3:1:8500::d19 s-static.ak.fbcdn.net
 2600:140e:3:1:8500::eed connect.facebook.net
 2600:140e:3:1:8c00::eed connect.facebook.net #connect.facebook.net.edgekey.net
-2600:140e:1::3cfe:83d1 creative.ak.fbcdn.net #ads.ak.facebook.com.edgesuite.net
-2600:140e:1::3cfe:83cb creative.ak.fbcdn.net
-2600:140e:1::3cfe:83d1 external.ak.fbcdn.net #external.ak.fbcdn.net.edgesuite.net
-2600:140e:1::3cfe:83d0 external.ak.fbcdn.net
-2600:140e:1::3cfe:83d0 static.ak.fbcdn.net #static.ak.facebook.com.edgesuite.net
-2600:140e:1::3cfe:83ca static.ak.fbcdn.net
-2600:140e:1::3cfe:83cb platform.ak.fbcdn.net #platform.ak.facebook.com.edgesuite.net
-2600:140e:1::3cfe:83ca platform.ak.fbcdn.net
-2600:140e:1::3cfe:834f profile.ak.fbcdn.net #profile.ak.facebook.com.edgesuite.net
-2600:140e:1::3cfe:8348 profile.ak.fbcdn.net
-2600:140e:1::3cfe:8336 profile.ak.fbcdn.net
-2600:140e:1::3cfe:8345 fbcdn-profile-a.akamaihd.net
-2600:140e:1::3cfe:8350 fbcdn-profile-a.akamaihd.net#fbcdn-profile-a.akamaihd.net.edgesuite.net
-2600:140e:1::3cfe:83ca static.ak.facebook.com
-2600:140e:1::3cfe:83d0 static.ak.facebook.com #static.ak.facebook.com.edgesuite.net
+2600:1406:3::addf:34c1 creative.ak.fbcdn.net #ads.ak.facebook.com.edgesuite.net
+2600:1406:3::addf:34d8 creative.ak.fbcdn.net
+2600:1406:3::addf:34d8 external.ak.fbcdn.net #external.ak.fbcdn.net.edgesuite.net
+2600:1406:3::addf:34db external.ak.fbcdn.net
+2600:1406:3::addf:34a3 static.ak.fbcdn.net #static.ak.facebook.com.edgesuite.net
+2600:1406:3::addf:34d2 static.ak.fbcdn.net
+2600:1406:3::addf:34aa platform.ak.fbcdn.net #platform.ak.facebook.com.edgesuite.net
+2600:1406:3::addf:34b1 platform.ak.fbcdn.net
+2600:1406:3::addf:34a2 profile.ak.fbcdn.net #profile.ak.facebook.com.edgesuite.net
+2600:1406:3::addf:34d8 profile.ak.fbcdn.net
+2600:1406:3::addf:34db profile.ak.fbcdn.net
+2600:1406:3::addf:34aa fbcdn-profile-a.akamaihd.net
+2600:1406:3::addf:34ca fbcdn-profile-a.akamaihd.net#fbcdn-profile-a.akamaihd.net.edgesuite.net
+2600:1406:3::addf:34a3 static.ak.facebook.com
+2600:1406:3::addf:34d2 static.ak.facebook.com #static.ak.facebook.com.edgesuite.net
 2600:140e:3::3cfe:af08 photos-a.ak.fbcdn.net
 2600:140e:3::3cfe:af09 photos-e.ak.fbcdn.net
 2600:140e:3::3cfe:af11 photos-i.ak.fbcdn.net
