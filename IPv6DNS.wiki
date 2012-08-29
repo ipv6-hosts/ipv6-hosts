@@ -1,29 +1,38 @@
 #summary 常用 IPv6 DNS 服务器。
 #labels Featured,DNS,IPv6,Google-over-IPv6,sixxs
 
-== 加入“Google Over IPv6”计划的 DNS ==
-只有加入该计划的 DNS 服务器才能解析出 Google 系列服务的 IPv6 地址。
+== 公共 DNS ==
+~~只有加入“Google Over IPv6”计划的 DNS 服务器才能~~ 2012年6月起，是个 DNS 服务器都能解析出 Google 系列服务的 IPv6 地址。
+
+只要您所处网络的 DNS 请求不受干扰，就可以畅享 IPv6 网络，而无需本项目的辅助。
 
  * *`ordns.he.net`* （最优）
   ** `2001:470:20::2`
   ** `74.82.42.42`
+  ** 运营商：Hurricane Electric, Inc.
  * *`google-public-dns-a.google.com`* （推荐）
   ** `2001:4860:4860::8888`
-  ** `8.8.8.8`（不返回 Google 系列的 AAAA 记录）
+  ** `8.8.8.8`
+  ** 运营商：Google Incorporated
  * *`google-public-dns-b.google.com`* （推荐）
   ** `2001:4860:4860::8844`
-  ** `8.8.4.4`（不返回 Google 系列的 AAAA 记录）
+  ** `8.8.4.4`
+  ** 运营商：Google Incorporated
  * *`ns.ipv6.uni-leipzig.de`* （西欧地区适用）
   ** `2001:638:902:1::10`
   ** `139.18.25.34`
+  ** 运营商：University of Leipzig
 
 == 其他 DNS ==
+这些 DNS 提供商出于各种原因不会正常返回 Google 系列服务的 IPv6 地址。
  * *`resolver1.opendns.com`* *`resolver2.opendns.com`*
-  ** `2620:0:ccc::2` `2620:0:ccd::2`
+  ** `2620:0:ccc::2`（失效） `2620:0:ccd::2`（失效）
   ** `208.67.222.222` `208.67.220.220`
- * *`dns.sjtu.edu.cn`*
+  ** 运营商：OpenDNS, LLC
+ * *`sdns.sjtu.edu.cn`* *`dns.sjtu.edu.cn`*
   ** `2001:da8:8000:1:202:120:2:100` `2001:da8:8000:1:202:120:2:101`
   ** `202.120.2.100` `202.120.2.101`
+  ** 运营商：Shanghai Jiaotong University
 
 == 限制请求来源的 DNS ==
  * sixxs DNS 缓存服务，仅响应来自 AICCU 用户的请求
