@@ -427,12 +427,12 @@
 2404:6800:8005::12 gmail.com
 2404:6800:8005::12 m.gmail.com #googlemail.l.google.com
 2404:6800:8005::13 m.googlemail.com #googlemail.l.google.com
-2a00:1450:4010:c00::6d pop.gmail.com #gmail-pop.l.google.com #Foxmail 等客户端不支持 ipv6 连接，参阅 Issue 33
-2a00:1450:4010:c00::6c gmail-pop.l.google.com
-2a00:1450:4010:c00::10 pop.googlemail.com #googlemail-pop.l.google.com
-2a00:1450:4010:c00::10 googlemail-pop.l.google.com
-2a00:1450:4010:c00::6d smtp.gmail.com #gmail-smtp-msa.l.google.com #Foxmail 暂不支持
-2a00:1450:4010:c00::6d gmail-smtp-msa.l.google.com
+2607:f8b0:400e:c00::6d pop.gmail.com #gmail-pop.l.google.com #Foxmail 等客户端不支持 ipv6 连接，参阅 Issue 33
+2607:f8b0:400e:c00::6d gmail-pop.l.google.com
+2607:f8b0:400e:c00::10 pop.googlemail.com #googlemail-pop.l.google.com
+2607:f8b0:400e:c00::10 googlemail-pop.l.google.com
+2607:f8b0:400e:c00::6d smtp.gmail.com #gmail-smtp-msa.l.google.com #Foxmail 暂不支持
+2607:f8b0:400e:c00::6d gmail-smtp-msa.l.google.com
 2404:6800:8005::62 smtp1.google.com
 ###2404:6800:8005::62 smtp2.google.com
 2404:6800:8005::62 smtp3.google.com
@@ -441,13 +441,12 @@
 2001:4860:8002::6d gmail-smtp.l.google.com
 2001:4860:8002::62 gmail-smtp-in.l.google.com
 2404:6800:8005::62 gmr-smtp-in.l.google.com
-2a00:1450:4010:c00::10 smtp.googlemail.com #googlemail-smtp.l.google.com
-2a00:1450:4010:c00::10 googlemail-smtp.l.google.com
-2a00:1450:4010:c00::6c imap.gmail.com #gmail-imap.l.google.com #Foxmail 暂不支持
-###2001:4860:8005::6c imap.google.com
-2a00:1450:4010:c00::6d gmail-imap.l.google.com
-2a00:1450:4010:c00::10 imap.googlemail.com #googlemail-imap.l.google.com
-2a00:1450:4010:c00::10 googlemail-imap.l.google.com
+2607:f8b0:400e:c00::10 smtp.googlemail.com #googlemail-smtp.l.google.com
+2607:f8b0:400e:c00::10 googlemail-smtp.l.google.com
+2607:f8b0:400e:c03::6d imap.gmail.com #gmail-imap.l.google.com #Foxmail 暂不支持
+2607:f8b0:400e:c03::6d gmail-imap.l.google.com
+2607:f8b0:400e:c01::10 imap.googlemail.com #googlemail-imap.l.google.com
+2607:f8b0:400e:c01::10 googlemail-imap.l.google.com
 
 #Group 论坛
 2404:6800:8005::71 groups.google.com #groups.l.google.com
