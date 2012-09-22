@@ -5580,6 +5580,11 @@
 2001:470:1d:28::6 static.uncyc.org
 2001:470:1d:28::6 ansaikuropedia.org
 
+#华盟
+2001:470:a:4d::2 camoe.org
+2001:470:a:4d::2 g.camoe.org
+2001:470:a:4d::2 g.camoe.net
+
 ##AT 奥地利
 #Tor Project
 2001:858:10f:f::1001 torproject.org
