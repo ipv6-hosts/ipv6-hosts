@@ -4598,22 +4598,20 @@
 #2001:418:e801::15:7 api.bitly.com
 
 #Facebook 脸谱网
-2a03:2880:2110:3f01:face:b00c:: facebook.com
-2a03:2880:10:1f02:face:b00c:0:25 facebook.com
-2a03:2880:10:8f01:face:b00c:0:25 facebook.com
-2a03:2880:10:1f02:face:b00c:0:25 www.facebook.com
-2a03:2880:10:1f03:face:b00c:0:26 api-read.facebook.com
-2a03:2880:10:1f02:face:b00c:0:25 connect.facebook.com #www.facebook.com
-2a03:2880:10:8f01:face:b00c:0:26 graph.facebook.com
-2a03:2880:10:1f03:face:b00c:0:27 zh-cn.facebook.com #star.facebook.com
-2a03:2880:10:1f03:face:b00c:0:27 zh-tw.facebook.com #star.facebook.com
-2a03:2880:10:8f02:face:b00c:0:27 check6.facebook.com
-2a03:2880:10:8f01:face:b00c:0:28 m.facebook.com
-2a03:2880:2110:3f01:face:b00c:0:2 apps.facebook.com
-2a03:2880:2110:3f01:face:b00c:0:2 login.facebook.com #star.facebook.com
-2a03:2880:2110:3f02:face:b00c:0:2 pixel.facebook.com #star.facebook.com
-2a03:2880:2110:3f01:face:b00c:0:2 star.facebook.com
-2a03:2880:2110:3f02:face:b00c:0:4 upload.facebook.com
+2a03:2880:10:cf01:face:b00c::: facebook.com
+2a03:2880:10:8f02:face:b00c:0:25 www.facebook.com
+2a03:2880:10:8f02:face:b00c:0:26 api-read.facebook.com
+2a03:2880:10:cf02:face:b00c:: connect.facebook.com #www.facebook.com
+2a03:2880:10:8f02:face:b00c:0:26 graph.facebook.com
+2a03:2880:10:6f01:face:b00c:0:2 zh-cn.facebook.com #star.facebook.com
+2a03:2880:10:6f01:face:b00c:0:2 zh-tw.facebook.com #star.facebook.com
+2a03:2880:10:6f01:face:b00c:0:2 check6.facebook.com
+2a03:2880:10:6f01:face:b00c:0:3 m.facebook.com
+2a03:2880:10:8f02:face:b00c:0:27 apps.facebook.com
+2a03:2880:10:6f01:face:b00c:0:2 login.facebook.com #star.facebook.com
+2a03:2880:10:8f01:face:b00c:0:27 pixel.facebook.com #star.facebook.com
+2a03:2880:10:8f01:face:b00c:0:27 star.facebook.com
+2a03:2880:10:8f02:face:b00c:0:29 upload.facebook.com
 2620:0:1cfe:face:b00c::3 www.v6.facebook.com
 2620:0:1cfe:face:b00c::3 attachments.facebook.com #?
 #2620:0:1cfe:face:b00c::4 login.v6.facebook.com
@@ -4621,7 +4619,7 @@
 2620:0:1cfe:face:b00c::3 333.channel.facebook.com #?
 #2620:0:1cfe:face:b00c::3 333.ctest.facebook.com
 #如需正常使用页面底部聊天功能，请通过 pac 代理 *.channel.facebook.com
-2620:0:1c18:0:face:b00c:0:6 developers.facebook.com
+2a03:2880:10:cf01:face:b00c:0:4 developers.facebook.com
 #2620:0:1cfe:face:b00c::3 developers.v6.facebook.com
 #2620:0:1cfe:face:b00c::3 external.ak.fbcdn.net
 2620:0:1cfe:face:b00c::3 error.12.channel.facebook.com #?
@@ -4635,79 +4633,53 @@
 
 #Akamai
 2600:140e:3:1:8600::236 s-static.ak.facebook.com #s-static.ak.facebook.com.edgekey.net
-2600:140e:3:1:8d00::236 s-static.ak.facebook.com
 2600:140e:3:1:8000::38a s-external.ak.fbcdn.net #s-external.ak.fbcdn.net.edgekey.net
-2600:140e:3:1:8400::38a s-external.ak.fbcdn.net
 2600:140e:3:1:8100::d19 s-static.ak.fbcdn.net #s-static.ak.fbcdn.net.edgekey.net
-2600:140e:3:1:8500::d19 s-static.ak.fbcdn.net
-2600:140e:3:1:8500::eed connect.facebook.net
 2600:140e:3:1:8c00::eed connect.facebook.net #connect.facebook.net.edgekey.net
-2600:1406:3::addf:34c1 creative.ak.fbcdn.net #ads.ak.facebook.com.edgesuite.net
-2600:1406:3::addf:34d8 creative.ak.fbcdn.net
-2600:1406:3::addf:34d8 external.ak.fbcdn.net #external.ak.fbcdn.net.edgesuite.net
-2600:1406:3::addf:34db external.ak.fbcdn.net
-2600:1406:3::addf:34a3 static.ak.fbcdn.net #static.ak.facebook.com.edgesuite.net
-2600:1406:3::addf:34d2 static.ak.fbcdn.net
-2600:1406:3::addf:34aa platform.ak.fbcdn.net #platform.ak.facebook.com.edgesuite.net
-2600:1406:3::addf:34b1 platform.ak.fbcdn.net
-2600:1406:3::addf:34a2 profile.ak.fbcdn.net #profile.ak.facebook.com.edgesuite.net
-2600:1406:3::addf:34d8 profile.ak.fbcdn.net
-2600:1406:3::addf:34db profile.ak.fbcdn.net
-2600:1406:3::addf:34aa fbcdn-profile-a.akamaihd.net
-2600:1406:3::addf:34ca fbcdn-profile-a.akamaihd.net#fbcdn-profile-a.akamaihd.net.edgesuite.net
-2600:1406:3::addf:34a3 static.ak.facebook.com
-2600:1406:3::addf:34d2 static.ak.facebook.com #static.ak.facebook.com.edgesuite.net
-2600:140e:3::3cfe:af08 photos-a.ak.fbcdn.net
-2600:140e:3::3cfe:af09 photos-e.ak.fbcdn.net
-2600:140e:3::3cfe:af11 photos-i.ak.fbcdn.net
-2600:140e:3::3cfe:af13 photos-m.ak.fbcdn.net
-2600:140e:3::3cfe:af1a photos-q.ak.fbcdn.net
-2600:140e:3::3cfe:af1b photos-u.ak.fbcdn.net
-2600:140e:3::3cfe:af21 photos-y.ak.fbcdn.net#photos-a.ak.facebook.com.edgesuite.net
-2600:140e:3::3cfe:af09 photos-b.ak.fbcdn.net
-2600:140e:3::3cfe:af0a photos-f.ak.fbcdn.net
-2600:140e:3::3cfe:af0b photos-j.ak.fbcdn.net
-2600:140e:3::3cfe:af13 photos-n.ak.fbcdn.net
-2600:140e:3::3cfe:af18 photos-r.ak.fbcdn.net
-2600:140e:3::3cfe:af1b photos-v.ak.fbcdn.net
-2600:140e:3::3cfe:af1b photos-z.ak.fbcdn.net#photos-b.ak.facebook.com.edgesuite.net
-2600:140e:3::3cfe:af12 photos-c.ak.fbcdn.net
-2600:140e:3::3cfe:af13 photos-g.ak.fbcdn.net
-2600:140e:3::3cfe:af18 photos-k.ak.fbcdn.net
-2600:140e:3::3cfe:af1a photos-o.ak.fbcdn.net
-2600:140e:3::3cfe:af1a photos-s.ak.fbcdn.net
-2600:140e:3::3cfe:af1a photos-w.ak.fbcdn.net#photos-c.ak.facebook.com.edgesuite.net
-2600:140e:3::3cfe:af08 photos-d.ak.fbcdn.net
-2600:140e:3::3cfe:af0a photos-h.ak.fbcdn.net
-2600:140e:3::3cfe:af11 photos-l.ak.fbcdn.net
-2600:140e:3::3cfe:af19 photos-p.ak.fbcdn.net
-2600:140e:3::3cfe:af1b photos-t.ak.fbcdn.net
-2600:140e:3::3cfe:af1b photos-x.ak.fbcdn.net#photos-d.ak.facebook.com.edgesuite.net
-2600:140e:3::3cfe:af09 fbcdn-photos-a.akamaihd.net
-2600:140e:3::3cfe:af18 fbcdn-photos-a.akamaihd.net
-2600:140e:3::3cfe:af19 fbcdn-photos-a.akamaihd.net#fbcdn-photos-a.akamaihd.net.edgesuite.net
-2001:590:1:602::3f8d:c05a a1.sphotos.ak.fbcdn.net
-2001:590:1:602::3f8d:c06b a1.sphotos.ak.fbcdn.net#a1.sphotos.ak.fbcdn.net.edgesuite.net
-2001:590:1:602::3f8d:c071 a2.sphotos.ak.fbcdn.net
-2001:590:1:602::3f8d:c07b a2.sphotos.ak.fbcdn.net#a2.sphotos.ak.fbcdn.net.edgesuite.net
-2001:428:4c02:1fd::d02e:a342 a3.sphotos.ak.fbcdn.net
+2600:140e:1::3cfe:833e creative.ak.fbcdn.net #ads.ak.facebook.com.edgesuite.net
+2600:140e:1::3cfe:8336 external.ak.fbcdn.net #external.ak.fbcdn.net.edgesuite.net
+2600:140e:1::3cfe:8335 static.ak.fbcdn.net #static.ak.facebook.com.edgesuite.net
+2600:140e:1::3cfe:8338 platform.ak.fbcdn.net #platform.ak.facebook.com.edgesuite.net
+2600:140e:1::3cfe:833d profile.ak.fbcdn.net #profile.ak.facebook.com.edgesuite.net
+2600:140e:1::3cfe:8348 fbcdn-profile-a.akamaihd.net#fbcdn-profile-a.akamaihd.net.edgesuite.net
+2600:140e:1::3cfe:8337 static.ak.facebook.com #static.ak.facebook.com.edgesuite.net
+2600:140e:1::3cfe:833f photos-a.ak.fbcdn.net
+2600:140e:1::3cfe:833f photos-e.ak.fbcdn.net
+2600:140e:1::3cfe:833f photos-i.ak.fbcdn.net
+2600:140e:1::3cfe:833f photos-m.ak.fbcdn.net
+2600:140e:1::3cfe:833f photos-q.ak.fbcdn.net
+2600:140e:1::3cfe:833f photos-u.ak.fbcdn.net
+2600:140e:1::3cfe:833f photos-y.ak.fbcdn.net#photos-a.ak.facebook.com.edgesuite.net
+2600:140e:1::3cfe:8338 photos-b.ak.fbcdn.net
+2600:140e:1::3cfe:8338 photos-f.ak.fbcdn.net
+2600:140e:1::3cfe:8338 photos-j.ak.fbcdn.net
+2600:140e:1::3cfe:8338 photos-n.ak.fbcdn.net
+2600:140e:1::3cfe:8338 photos-r.ak.fbcdn.net
+2600:140e:1::3cfe:8338 photos-v.ak.fbcdn.net
+2600:140e:1::3cfe:8338 photos-z.ak.fbcdn.net#photos-b.ak.facebook.com.edgesuite.net
+2600:140e:1::3cfe:8336 photos-c.ak.fbcdn.net
+2600:140e:1::3cfe:8336 photos-g.ak.fbcdn.net
+2600:140e:1::3cfe:8336 photos-k.ak.fbcdn.net
+2600:140e:1::3cfe:8336 photos-o.ak.fbcdn.net
+2600:140e:1::3cfe:8336 photos-s.ak.fbcdn.net
+2600:140e:1::3cfe:8336 photos-w.ak.fbcdn.net#photos-c.ak.facebook.com.edgesuite.net
+2600:140e:1::3cfe:8338 photos-d.ak.fbcdn.net
+2600:140e:1::3cfe:8338 photos-h.ak.fbcdn.net
+2600:140e:1::3cfe:8338 photos-l.ak.fbcdn.net
+2600:140e:1::3cfe:8338 photos-p.ak.fbcdn.net
+2600:140e:1::3cfe:8338 photos-t.ak.fbcdn.net
+2600:140e:1::3cfe:8338 photos-x.ak.fbcdn.net#photos-d.ak.facebook.com.edgesuite.net
+2600:140e:1::3cfe:8336 fbcdn-photos-a.akamaihd.net#fbcdn-photos-a.akamaihd.net.edgesuite.net
+2001:590:1:602::3f8d:c05a a1.sphotos.ak.fbcdn.net#a1.sphotos.ak.fbcdn.net.edgesuite.net
+2001:590:1:602::3f8d:c071 a2.sphotos.ak.fbcdn.net#a2.sphotos.ak.fbcdn.net.edgesuite.net
 2001:428:4c02:1fd::d02e:a312 a3.sphotos.ak.fbcdn.net#a3.sphotos.ak.fbcdn.net.edgesuite.net
-2001:428:4c02:1fd::d02e:a339 a4.sphotos.ak.fbcdn.net
-2001:428:4c02:1fd::d02e:a332 a4.sphotos.ak.fbcdn.net#a4.sphotos.ak.fbcdn.net.edgesuite.net
-2001:590:1:601::4516:9680 a5.sphotos.ak.fbcdn.net
-2001:590:1:601::4516:965b a5.sphotos.ak.fbcdn.net#a5.sphotos.ak.fbcdn.net.edgesuite.net
-2001:590:1:601::4516:9668 a6.sphotos.ak.fbcdn.net
-2001:590:1:601::4516:969a a6.sphotos.ak.fbcdn.net#a6.sphotos.ak.fbcdn.net.edgesuite.net
-2001:418:8404:11::c7ef:b6eb a7.sphotos.ak.fbcdn.net
-2001:418:8404:11::c7ef:b701 a7.sphotos.ak.fbcdn.net#a7.sphotos.ak.fbcdn.net.edgesuite.net
-2001:418:8404:11::c7ef:b709 a8.sphotos.ak.fbcdn.net
+2001:428:4c02:1fd::d02e:a339 a4.sphotos.ak.fbcdn.net#a4.sphotos.ak.fbcdn.net.edgesuite.net
+2001:2030:0:c::d9d4:fcb3 a5.sphotos.ak.fbcdn.net#a5.sphotos.ak.fbcdn.net.edgesuite.net
+2001:2030:0:c::d9d4:fc92 a6.sphotos.ak.fbcdn.net#a6.sphotos.ak.fbcdn.net.edgesuite.net
+2001:418:8404:11::c7ef:b6eb a7.sphotos.ak.fbcdn.net#a7.sphotos.ak.fbcdn.net.edgesuite.net
 2001:418:8404:11::c7ef:b6ea a8.sphotos.ak.fbcdn.net#a8.sphotos.ak.fbcdn.net.edgesuite.net
-2001:428:4c02::cda8:ed09 vthumb.ak.fbcdn.net
-2001:428:4c02::cda8:ecdb vthumb.ak.fbcdn.net#vthumb.facebook.com.edgesuite.net
-2001:428:7000:2::3feb:1ca0 fbcdn-sphotos-a.akamaihd.net
-2001:428:7000:2::3feb:1cc9 fbcdn-sphotos-a.akamaihd.net
-2001:428:7000:2::3feb:1ccb fbcdn-sphotos-a.akamaihd.net#fbcdn-sphotos-a.akamaihd.net.edgesuite.net
-2001:428:4c02::cda8:ed09 fbcdn-vthumb-a.akamaihd.net
+2001:428:4c02::cda8:ed09 vthumb.ak.fbcdn.net#vthumb.facebook.com.edgesuite.net
+2001:428:7000:2::3feb:1ca0 fbcdn-sphotos-a.akamaihd.net#fbcdn-sphotos-a.akamaihd.net.edgesuite.net
 2001:428:4c02::cda8:eccb fbcdn-vthumb-a.akamaihd.net#fbcdn-vthumb-a.akamaihd.net.edgesuite.net
 
 #Plurk
@@ -5689,13 +5661,13 @@
 2001:778::37 dns64.litnet.lt
 
 #Amazon S3
-2001:778:0:ffff:64:0:cfab:a3d7 s3.amazonaws.com
-2001:778:0:ffff:64:0:4815:d3c8 twitter-any.s3.amazonaws.com
-2001:778:0:ffff:64:0:4815:d3c8 twitter-blog.s3.amazonaws.com
-2001:778:0:ffff:64:0:4815:c30f twitter-badges.s3.amazonaws.com
-2001:778:0:ffff:64:0:4815:c30f twitter_production.s3.amazonaws.com
-2001:778:0:ffff:64:0:4815:c30f twitter-widgets.s3.amazonaws.com
-2001:778:0:ffff:64:0:4815:c30f xinyusi.s3.amazonaws.com
+2001:778:0:ffff:64:0:cdfb:f2a4 s3.amazonaws.com
+2001:778:0:ffff:64:0:4815:c210 twitter-any.s3.amazonaws.com
+2001:778:0:ffff:64:0:4815:c210 twitter-blog.s3.amazonaws.com
+2001:778:0:ffff:64:0:4815:c210 twitter-badges.s3.amazonaws.com
+2001:778:0:ffff:64:0:4815:c210 twitter_production.s3.amazonaws.com
+2001:778:0:ffff:64:0:4815:c210 twitter-widgets.s3.amazonaws.com
+2001:778:0:ffff:64:0:cdfb:f2c5 xinyusi.s3.amazonaws.com
 
 #bit.ly / j.mp
 2001:778:0:ffff:64:0:a88f:ac35 bit.ly
@@ -5712,16 +5684,17 @@
 2001:778:0:ffff:64:0:45ab:e329 4-333.channel.facebook.com
 2001:778:0:ffff:64:0:45ab:e329 5-333.channel.facebook.com
 2001:778:0:ffff:64:0:45ab:e329 6-333.channel.facebook.com
-2001:778:0:ffff:64:0:42dc:9a1d hphotos-iad1.fbcdn.net
-2001:778:0:ffff:64:0:453f:b897 hphotos-ash1.fbcdn.net
-2001:778:0:ffff:64:0:42dc:9a23 hphotos-ash2.fbcdn.net
-2001:778:0:ffff:64:0:45ab:f00a hphotos-ash4.fbcdn.net
-2001:778:0:ffff:64:0:453f:b723 hphotos-sjc1.fbcdn.net
-2001:778:0:ffff:64:0:453f:b4bb hphotos-snc1.fbcdn.net
-2001:778:0:ffff:64:0:453f:b703 hphotos-snc3.fbcdn.net
-2001:778:0:ffff:64:0:453f:b743 hphotos-snc4.fbcdn.net
-2001:778:0:ffff:64:0:42dc:9717 hphotos-snc6.fbcdn.net
-2001:778:0:ffff:64:0:45ab:e318 hphotos-snc7.fbcdn.net
+#2001:778:0:ffff:64:0:42dc:9a1d hphotos-iad1.fbcdn.net
+2001:778:0:ffff:64:0:45ab:f00c hphotos-ash1.fbcdn.net #hphotos-ak-ash4.facebook.com
+2001:778:0:ffff:64:0:45ab:f00c hphotos-ash2.fbcdn.net #hphotos-ak-ash4.facebook.com
+2001:778:0:ffff:64:0:45ab:f608 hphotos-ash3.fbcdn.net #hphotos-1-01-05-ash3.fbcdn.net
+2001:778:0:ffff:64:0:45ab:f30c hphotos-ash4.fbcdn.net #hphotos-ak-ash4.facebook.com
+#2001:778:0:ffff:64:0:453f:b723 hphotos-sjc1.fbcdn.net
+2001:778:0:ffff:64:0:42dc:9720 hphotos-snc1.fbcdn.net #minull-01-01-snc6.fbcdn.net
+2001:778:0:ffff:64:0:42dc:9720 hphotos-snc3.fbcdn.net #minull-01-01-snc6.fbcdn.net
+2001:778:0:ffff:64:0:45ab:e319 hphotos-snc4.fbcdn.net #hphotos-snc7.fbcdn.net
+2001:778:0:ffff:64:0:42dc:9716 hphotos-snc6.fbcdn.net
+2001:778:0:ffff:64:0:45ab:e319 hphotos-snc7.fbcdn.net #hphotos-04-snc7.fbcdn.net
 
 #Google Plus
 2001:778:0:ffff:64:0:1faa:a606 plus.url.google.com.hk #非官方，有错误请汇报
