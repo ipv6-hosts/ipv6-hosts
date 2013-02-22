@@ -127,6 +127,7 @@
 2001:4860:4001:801::1003 support.google.com #www3.l.google.com
 2001:4860:4001:801::c1 mobile.google.com #mobile.l.google.com
 2001:4860:4001:801::1012 mobile.google.com.hk #www.google.com
+
 #Google Apps 企业应用套件
 2001:4860:4001:801::1000 apps.google.com #www3.l.google.com
 2001:4860:4001:801::79 ghs.google.com #ghs.l.google.com
@@ -401,7 +402,9 @@
 #Download 下载
 2001:4860:4001:801::5d dl.google.com #dl.l.google.com
 2001:4860:4001:801::be dl.l.google.com
-2001:4860:4001:801::5d dl-ssl.google.com #dl-ssl.l.google.com#Google Earth 地球
+2001:4860:4001:801::5d dl-ssl.google.com #dl-ssl.l.google.com
+
+#Google Earth 地球
 2001:4860:4001:801::1003 earth.google.com #www3.l.google.com
 2001:4860:4001:801::1009 auth.keyhole.com #www3.l.google.com
 2001:4860:4001:801::1005 geoauth.google.com #www3.l.google.com
@@ -559,7 +562,9 @@
 2001:4860:4007:800::1009 mts3.google.com #mts.l.google.com
 2001:4860:4007:800::100e mts.l.google.com
 2001:4860:4001:801::a0 maps.gstatic.cn #www.gstatic.cn
-2001:4860:4007:800::1001 mobilemaps.clients.google.com #clients.l.google.com#Music Beta by Google 云音乐服务
+2001:4860:4007:800::1001 mobilemaps.clients.google.com #clients.l.google.com
+
+#Music Beta by Google 云音乐服务
 2001:4860:4007:800::1009 music.google.com #www3.l.google.com
 2001:4860:4001:801::75 t.doc-0-0-sj.sj.googleusercontent.com #music-streaming.l.google.com
 #2404:6800:8003::74 music-streaming.l.google.com
@@ -655,7 +660,9 @@
 2001:4860:4001:801::1001 safebrowsing.cache.l.google.com
 
 #Sandbox 服务沙盒
-2001:4860:4001:801::51 sandbox.google.com #sandbox.l.google.com#Scholar 学术搜索
+2001:4860:4001:801::51 sandbox.google.com #sandbox.l.google.com
+
+#Scholar 学术搜索
 2001:4860:4001:801::63 scholar.google.com
 2001:4860:4001:801::63 scholar.google.com.hk
 2001:4860:4001:801::63 scholar.google.com.tw
@@ -696,7 +703,9 @@
 2001:4860:4001:801::a0 translate.google.cn #www.google.cn
 
 #Trends 趋势
-2001:4860:4001:801::1012 trends.google.com #www2.l.google.com#Video 视频
+2001:4860:4001:801::1012 trends.google.com #www2.l.google.com
+
+#Video 视频
 2001:4860:4001:801::1005 video.google.com #video.l.google.com
 2001:4860:4001:801::1000 video.google.com.hk #video.l.google.com
 2001:4860:4001:801::1000 video.google.com.tw #video.l.google.com
