@@ -127,3 +127,278 @@
 2001:4860:4001:801::1003 support.google.com #www3.l.google.com
 2001:4860:4001:801::c1 mobile.google.com #mobile.l.google.com
 2001:4860:4001:801::1012 mobile.google.com.hk #www.google.com
+#Google Apps 企业应用套件
+2001:4860:4001:801::1000 apps.google.com #www3.l.google.com
+2001:4860:4001:801::79 ghs.google.com #ghs.l.google.com
+2001:4860:4001:801::79 ghs46.google.com #ghs46.l.google.com #GHS 双栈入口！
+2001:4860:4001:801::79 ghs.l.google.com
+2001:4860:4001:801::79 ghs46.l.google.com
+2001:4860:4001:801::79 ghs.l.google.com #可以添加你 GApps 域名的博客地址 / GSites 地址到这里
+
+#Mashups/App Engine GAE
+2001:4860:4001:801::1013 googlemashups.com
+2001:4860:4001:801::1013 www.googlemashups.com #www2.l.google.com
+2001:4860:4001:801::62 googlemashups.l.google.com
+2001:4860:4001:801::1010 *.googlemashups.com #www2.l.google.com
+2001:4860:4001:801::1009 appengine.google.com #www3.l.google.com
+2001:4860:4001:801::8d appspot.l.google.com
+2001:4860:4001:801::8d productideas.appspot.com #appspot.l.google.com
+2001:4860:4001:801::8d storegadgetwizard.appspot.com #appspot.l.google.com
+2001:4860:4001:801::8d moderator.appspot.com #appspot.l.google.com
+2001:4860:4001:801::8d gv-gadget.appspot.com #appspot.l.google.com
+2001:4860:4001:801::8d haiticrisis.appspot.com #appspot.l.google.com
+2001:4860:4001:801::8d codereview.appspot.com #appspot.l.google.com
+2001:4860:4001:801::8d i18napis.appspot.com #appspot.l.google.com
+2001:4860:4001:801::8d googcloudlabs.appspot.com #appspot.l.google.com
+2001:4860:4001:801::8d googlesharedspaces.appspot.com #appspot.l.google.com
+2001:4860:4001:801::8d project-slingshot-gp.appspot.com #appspot.l.google.com
+2001:4860:4001:801::8d r3269-dot-latest-dot-project-slingshot-gp.appspot.com #appspot.l.google.com
+2001:4860:4001:801::8d newsfeed-dot-latest-dot-rovio-ad-engine.appspot.com #appspot.l.google.com
+2001:4860:4001:801::8d evolutionofweb.appspot.com #appspot.l.google.com
+2001:4860:4001:801::8d yt-debates.appspot.com #appspot.l.google.com
+2001:4860:4001:801::8d *.appspot.com #appspot.l.google.com #可以添加自己的 gae 应用
+
+#Answers/Guru/WenDa 问答社区（国际版已停止运营）
+2001:4860:4001:801::1005 answers.google.com #www3.l.google.com
+##2001:4860:4001:801::62 guru.google.com
+2001:4860:4001:801::1010 guru.google.co.th #www2.l.google.com
+2001:4860:4001:801::1001 wenda.google.com.hk #www3.l.google.com
+
+#Blog 博客搜索
+2001:4860:4001:801::1014 blogsearch.google.com #www2.l.google.com
+2001:4860:4001:801::1014 blogsearch.google.com.hk #www2.l.google.com
+2001:4860:4001:801::1010 blogsearch.google.com.tw #www2.l.google.com
+2001:4860:4001:801::a0 blogsearch.google.cn #www.google.cn
+
+#Blogger 博客服务
+2001:4860:4001:801::bf www.blogger.com #blogger.l.google.com
+2001:4860:4001:801::bf blogger.com
+2001:4860:4001:801::bf buttons.blogger.com #blogger.l.google.com
+2001:4860:4001:801::bf beta.blogger.com #blogger.l.google.com
+2001:4860:4001:801::bf draft.blogger.com #blogger.l.google.com
+2001:4860:4001:801::bf status.blogger.com #blogger.l.google.com
+2001:4860:4001:801::1013 help.blogger.com #www2.l.google.com
+2001:4860:4001:801::bf buzz.blogger.com #blogger.l.google.com
+2001:4860:4001:801::1012 photos1.blogger.com #photos1.l.google.com
+2001:4860:4001:801::1003 bp0.blogger.com #bloggerphotos.l.google.com
+2001:4860:4001:801::1008 bp1.blogger.com #bloggerphotos.l.google.com
+2001:4860:4001:801::1000 bp2.blogger.com #bloggerphotos.l.google.com
+2001:4860:4001:801::1009 bp3.blogger.com #bloggerphotos.l.google.com
+2001:4860:4001:801::1008 bloggerphotos.l.google.com
+2001:4860:4001:801::bf blogger.google.com #blogger.l.google.com
+2001:4860:4001:801::bf www2.blogger.com #blogger.l.google.com
+2001:4860:4001:801::bf blogger.l.google.com
+2001:4860:4001:801::bf www.blogblog.com #blogger.l.google.com
+2001:4860:4001:801::bf www1.blogblog.com #blogger.l.google.com
+2001:4860:4001:801::bf www2.blogblog.com #blogger.l.google.com
+2001:4860:4001:801::100a img.blogblog.com #blogspot.l.google.com
+2001:4860:4001:801::bf img1.blogblog.com #blogger.l.google.com
+2001:4860:4001:801::bf img2.blogblog.com #blogger.l.google.com
+2001:4860:4001:801::79 www.textcube.com #ghs.l.google.com
+
+#Blogspot 博客服务
+2001:4860:4001:801::bf www.blogspot.com #blogger.l.google.com
+2001:4860:4001:801::bf blogger.l.google.com
+2001:4860:4001:801::bf blogspot.com
+2001:4860:4001:801::100c blogsofnote.blogspot.com #blogspot.l.google.com
+2001:4860:4001:801::100a knownissues.blogspot.com #blogspot.l.google.com
+2001:4860:4001:801::1009 1.bp.blogspot.com #bloggerphotos.l.google.com
+2001:4860:4001:801::1009 2.bp.blogspot.com #bloggerphotos.l.google.com
+2001:4860:4001:801::1004 3.bp.blogspot.com #bloggerphotos.l.google.com
+2001:4860:4001:801::1000 4.bp.blogspot.com #bloggerphotos.l.google.com
+2001:4860:4001:801::100a bloggertemplatespreview.blogspot.com #blogspot.l.google.com
+#Google 官方博客群
+2001:4860:4001:801::100a adwordsapi.blogspot.com #blogspot.l.google.com
+2001:4860:4001:801::100c adsense-zhs.blogspot.com #blogspot.l.google.com
+2001:4860:4001:801::100c android-developers.blogspot.com #blogspot.l.google.com
+2001:4860:4001:801::100a apacdeveloper.blogspot.com #blogspot.l.google.com
+2001:4860:4001:801::100b booksearch.blogspot.com #blogspot.l.google.com
+2001:4860:4001:801::100a chrome.blogspot.com #blogspot.l.google.com
+2001:4860:4001:801::100b doubleclickpublishersapi.blogspot.com #blogspot.l.google.com
+2001:4860:4001:801::100a emeadev.blogspot.com #blogspot.l.google.com
+2001:4860:4001:801::100c gearsblog.blogspot.com #blogspot.l.google.com
+2001:4860:4001:801::100b google-code-featured.blogspot.com #blogspot.l.google.com
+2001:4860:4001:801::100b google-entertainment-it.blogspot.com #blogspot.l.google.com
+2001:4860:4001:801::100c google-opensource.blogspot.com #blogspot.l.google.com
+2001:4860:4001:801::100a googleajaxsearchapi.blogspot.com #blogspot.l.google.com
+2001:4860:4001:801::100a googleappengine.blogspot.com #blogspot.l.google.com
+2001:4860:4001:801::100a googleappsdeveloper.blogspot.com #blogspot.l.google.com
+2001:4860:4001:801::100b googleblog.blogspot.com #blogspot.l.google.com
+2001:4860:4001:801::100a googlecheckout.blogspot.com #blogspot.l.google.com
+2001:4860:4001:801::100a googlecheckoutapi.blogspot.com #blogspot.l.google.com
+2001:4860:4001:801::100a googlechinablog.blogspot.com #blogspot.l.google.com
+2001:4860:4001:801::100a googlechromereleases.blogspot.com #blogspot.l.google.com
+2001:4860:4001:801::100b googlecode.blogspot.com #blogspot.l.google.com
+2001:4860:4001:801::100c googlecustomsearch.blogspot.com #blogspot.l.google.com
+2001:4860:4001:801::100c googleenterprise.blogspot.com #blogspot.l.google.com
+2001:4860:4001:801::100c googlegeodevelopers.blogspot.com #blogspot.l.google.com
+2001:4860:4001:801::100c googlemashupeditor.blogspot.com #blogspot.l.google.com
+2001:4860:4001:801::100c googlemobile.blogspot.com #blogspot.l.google.com
+2001:4860:4001:801::100a googleplusplatform.blogspot.com #blogspot.l.google.com
+2001:4860:4001:801::100a googleresearch.blogspot.com #blogspot.l.google.com
+2001:4860:4001:801::100c googletalk.blogspot.com #blogspot.l.google.com
+2001:4860:4001:801::100a googlewebmaster-cn.blogspot.com #blogspot.l.google.com
+2001:4860:4001:801::100c googlewebmastercentral.blogspot.com #blogspot.l.google.com
+2001:4860:4001:801::100b googlewebtoolkit.blogspot.com #blogspot.l.google.com
+2001:4860:4001:801::100a golangblog.blogspot.com #blogspot.l.google.com
+2001:4860:4001:801::100c gmailblog.blogspot.com #blogspot.l.google.com
+2001:4860:4001:801::100a igoogledeveloper.blogspot.com #blogspot.l.google.com
+2001:4860:4001:801::100a webmproject.blogspot.com #blogspot.l.google.com
+2001:4860:4001:801::100a youtube-global.blogspot.com #blogspot.l.google.com
+2001:4860:4001:801::100c *.blogspot.com #blogspot.l.google.com #可以添加你自己的博客地址到这里
+2001:4860:4001:801::100b blogspot.l.google.com
+
+#Books 图书
+2001:4860:4001:801::1003 books.google.com #www3.l.google.com
+2001:4860:4001:801::1007 books.google.com.hk #www3.l.google.com
+2001:4860:4001:801::a0 books.google.cn #www.google.cn
+2001:4860:4001:801::1000 bks0.books.google.com #www3.l.google.com
+2001:4860:4001:801::1005 bks1.books.google.com #www3.l.google.com
+2001:4860:4001:801::1009 bks2.books.google.com #www3.l.google.com
+2001:4860:4001:801::1001 bks3.books.google.com #www3.l.google.com
+2001:4860:4001:801::1006 bks4.books.google.com #www3.l.google.com
+2001:4860:4001:801::100e bks5.books.google.com #www3.l.google.com
+2001:4860:4001:801::1000 bks6.books.google.com #www3.l.google.com
+2001:4860:4001:801::100e bks7.books.google.com #www3.l.google.com
+2001:4860:4001:801::1002 bks8.books.google.com #www3.l.google.com
+2001:4860:4001:801::1009 bks9.books.google.com #www3.l.google.com
+2001:4860:4001:801::1003 bks10.books.google.com #www3.l.google.com
+2001:4860:4001:801::1005 bks0.books.google.com.hk #books.google.com
+2001:4860:4001:801::100e bks1.books.google.com.hk #books.google.com
+2001:4860:4001:801::1009 bks2.books.google.com.hk #books.google.com
+2001:4860:4001:801::1005 bks3.books.google.com.hk #books.google.com
+2001:4860:4001:801::1000 bks4.books.google.com.hk #books.google.com
+2001:4860:4001:801::1004 bks5.books.google.com.hk #books.google.com
+2001:4860:4001:801::1007 bks6.books.google.com.hk #books.google.com
+2001:4860:4001:801::1001 bks7.books.google.com.hk #books.google.com
+2001:4860:4001:801::100e bks8.books.google.com.hk #books.google.com
+2001:4860:4001:801::1000 bks9.books.google.com.hk #books.google.com
+2001:4860:4001:801::1002 bks10.books.google.com.hk #books.google.com
+2001:4860:4001:801::100e buzz.google.com #www3.l.google.com
+
+#Calendar 日历
+2001:4860:4001:801::1009 calendar.google.com #www3.l.google.com
+
+#Checkout 买家
+2001:4860:4001:801::73 checkout.google.com #checkout.l.google.com
+2001:4860:4001:801::73 checkout.l.google.com
+2001:4860:4001:801::1009 wallet.google.com #www3.l.google.com
+
+#Chrome 谷歌浏览器
+2001:4860:4001:801::1001 chrome.google.com #www3.l.google.com
+2001:4860:4001:801::66 browsersync.google.com #browsersync.l.google.com
+2001:4860:4001:801::66 browsersync.l.google.com
+2001:4860:4001:801::68 toolbarqueries.google.com #toolbarqueries.l.google.com
+2001:4860:4001:801::68 toolbarqueries.google.com.hk #toolbarqueries.l.google.com
+2001:4860:4001:801::1009 toolbarqueries.clients.google.com #clients.l.google.com
+2001:4860:4001:801::68 toolbarqueries.l.google.com
+2001:4860:4001:801::79 chrome.angrybirds.com #ghs.l.google.com
+
+#Chromium Chromium 项目
+2001:4860:4001:801::1000 chromium.org
+2001:4860:4001:801::79 www.chromium.org #ghs.l.google.com
+2001:4860:4001:801::79 dev.chromium.org #ghs.l.google.com
+2001:4860:4001:801::79 blog.chromium.org #ghs.l.google.com
+2001:4860:4001:801::62 build.chromium.org #planet.chromium.org
+2001:4860:4001:801::79 codereview.chromium.org #ghs.l.google.com
+
+#Chromium OS Chromium 操作系统
+2001:4860:4001:801::79 goto.ext.google.com #ghs.l.google.com
+2001:4860:4001:801::8d welcome-cros.appspot.com #appspot.l.google.com
+
+#Code 代码
+2001:4860:4001:801::1009 code.google.com #code.l.google.com
+2001:4860:4001:801::1009 code.l.google.com
+2001:4860:4001:801::52 *.googlecode.com #googlecode.l.google.com
+2001:4860:4001:801::52 googlecode.l.google.com
+2001:4860:4001:801::52 chromium.googlecode.com #googlecode.l.google.com
+2001:4860:4001:801::52 closure-library.googlecode.com #googlecode.l.google.com
+2001:4860:4001:801::52 earth-api-samples.googlecode.com #googlecode.l.google.com
+2001:4860:4001:801::52 gmaps-samples-flash.googlecode.com #googlecode.l.google.com
+2001:4860:4001:801::52 googleappengine.googlecode.com #googlecode.l.google.com
+2001:4860:4001:801::52 google-code-feed-gadget.googlecode.com #googlecode.l.google.com
+2001:4860:4001:801::52 www.googlesource.com #googlecode.l.google.com
+2001:4860:4001:801::52 android.googlesource.com #googlecode.l.google.com
+
+#Desktop 桌面
+2001:4860:4001:801::68 desktop.google.com #desktop.l.google.com
+2001:4860:4001:801::68 desktop.l.google.com
+
+#Directory 网页目录
+2001:4860:4001:801::1003 directory.google.com #www3.l.google.com
+2001:4860:4001:801::100e dir.google.com #www3.l.google.com
+
+#Docs 文档
+2001:4860:4001:801::100e docs.google.com
+2001:4860:4001:801::1005 drive.google.com
+2001:4860:4001:801::1008 docs0.google.com
+2001:4860:4001:801::1009 docs1.google.com
+2001:4860:4001:801::1001 docs2.google.com
+2001:4860:4001:801::1003 docs3.google.com
+2001:4860:4001:801::1006 docs4.google.com
+2001:4860:4001:801::1003 docs5.google.com
+2001:4860:4001:801::1004 docs6.google.com
+2001:4860:4001:801::1005 docs7.google.com
+2001:4860:4001:801::1003 docs8.google.com
+2001:4860:4001:801::1005 docs9.google.com
+2001:4860:4001:801::bd 0.docs.google.com #browserchannel-docs.l.google.com
+2001:4860:4001:801::bd 1.docs.google.com #browserchannel-docs.l.google.com
+2001:4860:4001:801::bd 2.docs.google.com #browserchannel-docs.l.google.com
+2001:4860:4001:801::bd 3.docs.google.com #browserchannel-docs.l.google.com
+2001:4860:4001:801::bd 4.docs.google.com #browserchannel-docs.l.google.com
+2001:4860:4001:801::bd 5.docs.google.com #browserchannel-docs.l.google.com
+2001:4860:4001:801::bd 6.docs.google.com #browserchannel-docs.l.google.com
+2001:4860:4001:801::bd 7.docs.google.com #browserchannel-docs.l.google.com
+2001:4860:4001:801::bd 8.docs.google.com #browserchannel-docs.l.google.com
+2001:4860:4001:801::bd 9.docs.google.com #browserchannel-docs.l.google.com
+2001:4860:4001:801::bd 10.docs.google.com #browserchannel-docs.l.google.com
+2001:4860:4001:801::bd 11.docs.google.com #browserchannel-docs.l.google.com
+2001:4860:4001:801::bd 12.docs.google.com #browserchannel-docs.l.google.com
+2001:4860:4001:801::bd 13.docs.google.com #browserchannel-docs.l.google.com
+2001:4860:4001:801::bd 14.docs.google.com #browserchannel-docs.l.google.com
+2001:4860:4001:801::bd 15.docs.google.com #browserchannel-docs.l.google.com
+2001:4860:4001:801::bd 16.docs.google.com #browserchannel-docs.l.google.com
+2001:4860:4001:801::bd 0.drive.google.com
+2001:4860:4001:801::bd 1.drive.google.com
+2001:4860:4001:801::bd 2.drive.google.com
+2001:4860:4001:801::bd 3.drive.google.com
+2001:4860:4001:801::bd 4.drive.google.com
+2001:4860:4001:801::bd 5.drive.google.com
+2001:4860:4001:801::bd 6.drive.google.com
+2001:4860:4001:801::bd 7.drive.google.com
+2001:4860:4001:801::bd 8.drive.google.com
+2001:4860:4001:801::bd 9.drive.google.com
+2001:4860:4001:801::bd 10.drive.google.com
+2001:4860:4001:801::bd 11.drive.google.com
+2001:4860:4001:801::bd 12.drive.google.com
+2001:4860:4001:801::bd 13.drive.google.com
+2001:4860:4001:801::bd 14.drive.google.com
+2001:4860:4001:801::bd 15.drive.google.com
+2001:4860:4001:801::bd 16.drive.google.com
+2001:4860:4001:801::bd *.docs.google.com #browserchannel-docs.l.google.com #按需要同时打开的文档个数自行添加
+2001:4860:4001:801::bd *.drive.google.com #browserchannel-docs.l.google.com
+2001:4860:4001:801::bd browserchannel-docs.l.google.com
+2001:4860:4001:801::100e spreadsheet.google.com #spreadsheets.l.google.com
+2001:4860:4001:801::1002 spreadsheets.google.com #spreadsheets.l.google.com
+2001:4860:4001:801::1003 spreadsheets0.google.com #spreadsheets.l.google.com
+2001:4860:4001:801::1000 spreadsheets1.google.com #spreadsheets.l.google.com
+2001:4860:4001:801::1000 spreadsheets2.google.com #spreadsheets.l.google.com
+2001:4860:4001:801::1001 spreadsheets3.google.com #spreadsheets.l.google.com
+2001:4860:4001:801::1003 spreadsheets4.google.com #spreadsheets.l.google.com
+2001:4860:4001:801::1009 spreadsheets5.google.com #spreadsheets.l.google.com
+2001:4860:4001:801::1000 spreadsheets6.google.com #spreadsheets.l.google.com
+2001:4860:4001:801::1001 spreadsheets7.google.com #spreadsheets.l.google.com
+2001:4860:4001:801::1003 spreadsheets8.google.com #spreadsheets.l.google.com
+2001:4860:4001:801::1007 spreadsheets9.google.com #spreadsheets.l.google.com
+2001:4860:4001:801::1004 spreadsheets.l.google.com
+2001:4860:4001:801::1000 spreadsheets-china.l.google.com
+2001:4860:4001:801::100e writely.google.com
+2001:4860:4001:801::100e writely.l.google.com
+##2001:4860:4001:801::62 writely-com.l.google.com
+2001:4860:4001:801::1006 writely-china.l.google.com
+2001:4860:4001:801::74 upload.docs.google.com #large-uploads.l.google.com
+
+#Download 下载
+2001:4860:4001:801::5d dl.google.com #dl.l.google.com
+2001:4860:4001:801::be dl.l.google.com
+2001:4860:4001:801::5d dl-ssl.google.com #dl-ssl.l.google.com
