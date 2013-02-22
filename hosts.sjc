@@ -1,0 +1,96 @@
+# 本版本 hosts 发布地址：
+#  https://docs.google.com/View?id=dfkdmxnt_61d9ck9ffq
+#  https://ipv6-hosts.googlecode.com/hg/hosts
+# Google Code 项目页：
+#  http://code.google.com/p/ipv6-hosts/
+
+##Google.com Google.com
+2001:4860:4001:801::1002 google.com
+2001:4860:4001:801::54 accounts.google.com #accounts.l.google.com
+2001:4860:4001:801::5e accounts.google.com.hk #accounts-cctld.l.google.com
+2001:4860:4001:801::54 accounts.l.google.com
+2001:4860:4001:801::c1 m.google.com #mobile.l.google.com
+2001:4860:4001:801::c1 m.google.com.hk #mobile.l.google.com
+2001:4860:4001:801::c1 mobile.l.google.com
+2001:4860:4860::8888 google-public-dns-a.google.com
+2001:4860:4860::8844 google-public-dns-b.google.com
+2001:4860:4001:801::1004 services.google.com #www3.l.google.com
+2001:4860:4001:801::1001 goto.google.com #www3.l.google.com
+2001:4860:4001:801::1003 jmt0.google.com #www3.l.google.com
+##2001:4860:4001:801::d2 wire.l.google.com
+2001:4860:4001:801::63 ipv6.google.com #ipv6.l.google.com
+2001:4860:4001:801::69 ipv6.google.com #ipv6.l.google.com
+2001:4860:4001:801::63 ipv6.google.com.hk #ipv6.google.com
+2001:4860:4001:801::69 ipv6.google.com.hk #ipv6.google.com
+2001:4860:4001:801::63 ipv6.google.co.jp #ipv6.google.com
+2001:4860:4001:801::69 ipv6.google.co.jp #ipv6.google.com
+2001:4860:4001:801::63 ipv6.l.google.com
+
+##Google.com.hk 谷歌香港
+2001:4860:4001:801::1010 www.google.com.hk #www.l.google.com
+2001:4860:4001:801::5b picasaweb.google.com.hk #picasaweb.l.google.com
+2001:4860:4001:801::63 desktop.google.com.hk #desktop.l.google.com
+2001:4860:4001:801::5e id.google.com.hk #id.l.google.com
+2001:4860:4001:801::1010 google.com.hk
+2001:4860:4001:801::1014 www.googlechinawebmaster.com
+
+##Google.cn 谷歌中国（启用此地址无法正常使用谷歌音乐）
+2001:4860:4001:801::a0 www.google.cn
+2001:4860:4001:801::a0 g.cn
+2001:4860:4001:801::a0 google.cn
+2001:4860:4001:801::a0 news.google.cn #www.google.cn
+2001:4860:4001:801::a0 video.google.cn #www.google.cn
+2001:4860:4001:801::63 ipv6.google.cn #ipv6.l.google.com
+2001:4860:4001:801::69 ipv6.google.cn #ipv6.l.google.com
+##2001:4860:4001:801::6a ipv6cn.l.google.com
+2001:4860:4001:801::100b music.googleusercontent.cn #googleusercontent.cn
+2001:4860:4001:801::a0 m.google.cn #www.google.cn
+2001:4860:4001:801::a0 www.265.com #265.com
+2001:4860:4001:801::a0 265.com
+
+##Google.com.tw Google 台湾
+2001:4860:4001:801::1017 www.google.com.tw #www-cctld.l.google.com
+2001:4860:4001:801::88 picasaweb.google.com.tw #picasaweb.l.google.com
+
+##Google.co.jp Google 日本
+2001:4860:4001:801::1018 www.google.co.jp #www-cctld.l.google.com
+
+##其他
+2001:4860:4001:801::1018 www.google.ae #www-cctld.l.google.com
+2001:4860:4001:801::1018 www.google.com.ar #www-cctld.l.google.com
+2001:4860:4001:801::101f www.google.at #www-cctld.l.google.com
+2001:4860:4001:801::1017 www.google.com.au #www-cctld.l.google.com
+2001:4860:4001:801::101f www.google.be #www-cctld.l.google.com
+2001:4860:4001:801::1017 www.google.com.br #www-cctld.l.google.com
+2001:4860:4001:801::101f www.google.ca #www-cctld.l.google.com
+2001:4860:4001:801::101f www.google.ch #www-cctld.l.google.com
+#####2001:4860:4001:801::a0 www.google.cn #中国（已死）
+2001:4860:4001:801::101f www.google.fi #www-cctld.l.google.com
+2001:4860:4001:801::1017 www.google.fr #www-cctld.l.google.com
+2001:4860:4001:801::101f www.google.de #www-cctld.l.google.com
+2001:4860:4001:801::1018 www.google.com.gr #www-cctld.l.google.com
+2001:4860:4001:801::1017 www.google.co.il #www-cctld.l.google.com
+2001:4860:4001:801::1017 www.google.co.in #www-cctld.l.google.com
+2001:4860:4001:801::1018 www.google.it #www-cctld.l.google.com
+2001:4860:4001:801::1018 www.google.co.jp #www-cctld.l.google.com
+2001:4860:4001:801::1018 www.google.co.kr #www-cctld.l.google.com
+2001:4860:4001:801::1017 www.google.lt #www-cctld.l.google.com
+2001:4860:4001:801::1017 www.google.lv #www-cctld.l.google.com
+2001:4860:4001:801::101f www.google.com.ly #www-cctld.l.google.com
+2001:4860:4001:801::101f www.google.com.my #www-cctld.l.google.com
+2001:4860:4001:801::101f www.google.nl #www-cctld.l.google.com
+2001:4860:4001:801::101f www.google.co.nz #www-cctld.l.google.com
+2001:4860:4001:801::1018 www.google.com.pe #www-cctld.l.google.com
+2001:4860:4001:801::1018 www.google.com.ph #www-cctld.l.google.com
+2001:4860:4001:801::1017 www.google.com.pk #www-cctld.l.google.com
+2001:4860:4001:801::101f www.google.pl #www-cctld.l.google.com
+2001:4860:4001:801::1017 www.google.pt #www-cctld.l.google.com
+2001:4860:4001:801::1017 www.google.ro #www-cctld.l.google.com
+2001:4860:4001:801::1017 www.google.com.ru #www-cctld.l.google.com
+2001:4860:4001:801::1018 www.google.com.sg #www-cctld.l.google.com
+2001:4860:4001:801::1017 www.google.com.tr #www-cctld.l.google.com
+2001:4860:4001:801::101f www.google.com.ua #www-cctld.l.google.com
+2001:4860:4001:801::1018 www.google.co.uk #www-cctld.l.google.com
+2001:4860:4001:801::101f www.google.co.ve #www-cctld.l.google.com
+2001:4860:4001:801::1017 www.google.com.vn #www-cctld.l.google.com
+2001:4860:4001:801::1017 www.google.co.za #www-cctld.l.google.com
