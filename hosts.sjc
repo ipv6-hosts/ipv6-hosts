@@ -472,7 +472,9 @@
 ##2001:4860:4001:801::62 tbn6.google.com
 
 #Knol 在线百科全书
-2001:4860:4001:801::1001 knol.google.com #www3.l.google.com#Labs 实验室
+2001:4860:4001:801::1001 knol.google.com #www3.l.google.com
+
+#Labs 实验室
 2001:4860:4001:801::1004 labs.google.com #www3.l.google.com
 2001:4860:4001:801::1006 labs.google.cn #www3.l.google.com
 2001:4860:4001:801::8d www.googlelabs.com #appspot.l.google.com
@@ -1758,7 +1760,9 @@
 2001:4860:4001:801::a0 0.gvt0.cn #www.gvt0.cn
 2001:4860:4001:801::a0 1.gvt0.cn #www.gvt0.cn
 2001:4860:4001:801::a0 2.gvt0.cn #www.gvt0.cn
-2001:4860:4001:801::a0 3.gvt0.cn #www.gvt0.cn#Wave 波浪
+2001:4860:4001:801::a0 3.gvt0.cn #www.gvt0.cn
+
+#Wave 波浪
 2001:4860:4001:801::1004 wave.google.com #www4.l.google.com
 ##2001:4860:4001:801::76 wave0.google.com
 2001:4860:4001:801::1009 wave1.google.com #www4.l.google.com
@@ -2381,4 +2385,228 @@
 2404:6800:4005:1::19 r20.hkg05s02.c.bigcache.googleapis.com
 2404:6800:4005:2::19 r20.hkg05s03.c.bigcache.googleapis.com
 2404:6800:4005:3::19 r20.hkg05s04.c.bigcache.googleapis.com
+
+#Google Hosted 托管服务
+2001:4860:4001:801::100a commondatastorage.googleapis.com #googlehosted.l.googleusercontent.com
+2001:4860:4001:801::100c googlehosted.l.googleusercontent.com
+2001:4860:4001:801::100a bucket.commondatastorage.googleapis.com #googlehosted.l.googleusercontent.com
+2001:4860:4001:801::100c chromium-browser-symbols.commondatastorage.googleapis.com #googlehosted.l.googleusercontent.com
+2001:4860:4001:801::80 c.commondatastorage.googleapis.com #storage.l.googleusercontent.com
+2001:4860:4001:801::80 storage.l.googleusercontent.com
+2001:4860:4001:801::100b www.googlehosted.com #googlehosted.l.googleusercontent.com
+2001:4860:4001:801::100c googlehosted.l.google.com
+2001:4860:4001:801::1012 base.googlehosted.com #www2.l.google.com
+2001:4860:4001:801::1011 base0.googlehosted.com #www2.l.google.com
+2001:4860:4001:801::1011 base1.googlehosted.com #www2.l.google.com
+2001:4860:4001:801::1012 base2.googlehosted.com #www2.l.google.com
+2001:4860:4001:801::1010 base3.googlehosted.com #www2.l.google.com
+2001:4860:4001:801::100a base4.googlehosted.com #googlehosted.l.googleusercontent.com
+2001:4860:4001:801::101b base5.googlehosted.com #googlehosted.l.googleusercontent.com
+
+#GoogleUserContent 用户自定义的Google服务
+2001:4860:4001:801::100c www.googleusercontent.com #googlehosted.l.googleusercontent.com
+2001:4860:4001:801::100b androidmarket.googleusercontent.com
+2001:4860:4001:801::100a blogger.googleusercontent.com
+2001:4860:4001:801::100b www-blogger-opensocial.googleusercontent.com
+2001:4860:4001:801::100c clients1.googleusercontent.com
+2001:4860:4001:801::100a clients2.googleusercontent.com
+2001:4860:4001:801::100c doc-00-1k-docs.googleusercontent.com
+2001:4860:4001:801::100b doc-00-1o-docs.googleusercontent.com
+2001:4860:4001:801::100c doc-04-1o-docs.googleusercontent.com
+2001:4860:4001:801::100c doc-08-1o-docs.googleusercontent.com
+2001:4860:4001:801::100c doc-0c-1o-docs.googleusercontent.com
+2001:4860:4001:801::100c doc-0g-1o-docs.googleusercontent.com
+2001:4860:4001:801::100c doc-0k-1o-docs.googleusercontent.com
+2001:4860:4001:801::100a doc-0o-1o-docs.googleusercontent.com
+2001:4860:4001:801::100c doc-0s-1o-docs.googleusercontent.com
+2001:4860:4001:801::100c doc-10-1o-docs.googleusercontent.com
+2001:4860:4001:801::100b doc-14-1o-docs.googleusercontent.com
+2001:4860:4001:801::100c doc-10-2c-docs.googleusercontent.com
+2001:4860:4001:801::100a doc-0k-38-docs.googleusercontent.com
+2001:4860:4001:801::100b doc-00-6c-docs.googleusercontent.com
+2001:4860:4001:801::100b doc-04-6c-docs.googleusercontent.com
+2001:4860:4001:801::100a doc-08-6c-docs.googleusercontent.com
+2001:4860:4001:801::100c doc-0c-6c-docs.googleusercontent.com
+2001:4860:4001:801::100a doc-0g-6c-docs.googleusercontent.com
+2001:4860:4001:801::100b doc-0k-6c-docs.googleusercontent.com
+2001:4860:4001:801::100c doc-0o-6c-docs.googleusercontent.com
+2001:4860:4001:801::100a doc-0s-6c-docs.googleusercontent.com
+2001:4860:4001:801::100b doc-10-6c-docs.googleusercontent.com
+2001:4860:4001:801::100c doc-14-6c-docs.googleusercontent.com
+2001:4860:4001:801::100b doc-0o-74-docs.googleusercontent.com
+2001:4860:4001:801::100b doc-14-74-docs.googleusercontent.com
+2001:4860:4001:801::100a doc-00-7o-docs.googleusercontent.com
+2001:4860:4001:801::100b doc-04-7o-docs.googleusercontent.com
+2001:4860:4001:801::100a doc-08-7o-docs.googleusercontent.com
+2001:4860:4001:801::100c doc-0c-7o-docs.googleusercontent.com
+2001:4860:4001:801::100b doc-0g-7o-docs.googleusercontent.com
+2001:4860:4001:801::100c doc-0k-7o-docs.googleusercontent.com
+2001:4860:4001:801::100c doc-0o-7o-docs.googleusercontent.com
+2001:4860:4001:801::100c doc-0s-7o-docs.googleusercontent.com
+2001:4860:4001:801::100b doc-10-7o-docs.googleusercontent.com
+2001:4860:4001:801::100b doc-14-7o-docs.googleusercontent.com
+2001:4860:4001:801::100a doc-00-8k-docs.googleusercontent.com
+2001:4860:4001:801::100c doc-04-8k-docs.googleusercontent.com
+2001:4860:4001:801::100c doc-08-8k-docs.googleusercontent.com
+2001:4860:4001:801::100a doc-0c-8k-docs.googleusercontent.com
+2001:4860:4001:801::100b doc-0g-8k-docs.googleusercontent.com
+2001:4860:4001:801::100c doc-0k-8k-docs.googleusercontent.com
+2001:4860:4001:801::100c doc-0o-8k-docs.googleusercontent.com
+2001:4860:4001:801::100c doc-0s-8k-docs.googleusercontent.com
+2001:4860:4001:801::100c doc-10-8k-docs.googleusercontent.com
+2001:4860:4001:801::100a doc-14-8k-docs.googleusercontent.com
+2001:4860:4001:801::100c doc-00-9k-docs.googleusercontent.com
+2001:4860:4001:801::100a doc-04-9k-docs.googleusercontent.com
+2001:4860:4001:801::100c doc-08-9k-docs.googleusercontent.com
+2001:4860:4001:801::100a doc-0c-9k-docs.googleusercontent.com
+2001:4860:4001:801::100a doc-0g-9k-docs.googleusercontent.com
+2001:4860:4001:801::100a doc-0k-9k-docs.googleusercontent.com
+2001:4860:4001:801::100a doc-0o-9k-docs.googleusercontent.com
+2001:4860:4001:801::100b doc-0s-9k-docs.googleusercontent.com
+2001:4860:4001:801::100a doc-10-9k-docs.googleusercontent.com
+2001:4860:4001:801::100a doc-14-9k-docs.googleusercontent.com
+2001:4860:4001:801::100c doc-00-as-docs.googleusercontent.com
+2001:4860:4001:801::100a doc-04-as-docs.googleusercontent.com
+2001:4860:4001:801::100c doc-08-as-docs.googleusercontent.com
+2001:4860:4001:801::100c doc-0c-as-docs.googleusercontent.com
+2001:4860:4001:801::100c doc-0g-as-docs.googleusercontent.com
+2001:4860:4001:801::100a doc-0k-as-docs.googleusercontent.com
+2001:4860:4001:801::100c doc-0o-as-docs.googleusercontent.com
+2001:4860:4001:801::100a doc-0s-as-docs.googleusercontent.com
+2001:4860:4001:801::100b doc-10-as-docs.googleusercontent.com
+2001:4860:4001:801::100a doc-14-as-docs.googleusercontent.com
+2001:4860:4001:801::100a doc-00-2g-3dwarehouse.googleusercontent.com
+2001:4860:4001:801::100b doc-04-2g-3dwarehouse.googleusercontent.com
+2001:4860:4001:801::100b doc-08-2g-3dwarehouse.googleusercontent.com
+2001:4860:4001:801::100b doc-0c-2g-3dwarehouse.googleusercontent.com
+2001:4860:4001:801::100c doc-0g-2g-3dwarehouse.googleusercontent.com
+2001:4860:4001:801::100b doc-0k-2g-3dwarehouse.googleusercontent.com
+2001:4860:4001:801::100c doc-0o-2g-3dwarehouse.googleusercontent.com
+2001:4860:4001:801::100b doc-0s-2g-3dwarehouse.googleusercontent.com
+2001:4860:4001:801::100a doc-10-2g-3dwarehouse.googleusercontent.com
+2001:4860:4001:801::100a doc-14-2g-3dwarehouse.googleusercontent.com
+2001:4860:4001:801::100c feedback.googleusercontent.com
+2001:4860:4001:801::100c mail-attachment.googleusercontent.com
+2001:4860:4001:801::100a lh0.googleusercontent.com
+2001:4860:4001:801::100c lh1.googleusercontent.com
+2001:4860:4001:801::100c lh2.googleusercontent.com
+2001:4860:4001:801::100b lh3.googleusercontent.com
+2001:4860:4001:801::100b lh4.googleusercontent.com
+2001:4860:4001:801::100b lh5.googleusercontent.com
+2001:4860:4001:801::100a lh6.googleusercontent.com
+2001:4860:4001:801::100a music-onebox.googleusercontent.com
+2001:4860:4001:801::100a oauth.googleusercontent.com
+2001:4860:4001:801::100a reader.googleusercontent.com
+2001:4860:4001:801::100b static.googleusercontent.com
+2001:4860:4001:801::100a s2.googleusercontent.com
+2001:4860:4001:801::100c themes.googleusercontent.com
+2001:4860:4001:801::100c translate.googleusercontent.com
+2001:4860:4001:801::100a wave.googleusercontent.com
+2001:4860:4001:801::100c webcache.googleusercontent.com
+2001:4860:4001:801::100c ytimg.googleusercontent.com
+2001:4860:4001:801::100b code-opensocial.googleusercontent.com
+2001:4860:4001:801::100c spreadsheets-opensocial.googleusercontent.com
+2001:4860:4001:801::100a www-opensocial.googleusercontent.com
+2001:4860:4001:801::100a images-docs-opensocial.googleusercontent.com
+2001:4860:4001:801::100c www-gm-opensocial.googleusercontent.com
+2001:4860:4001:801::100c 4lam9a1ki27mb9p1h5q3furvvf58ss02-a-gm-opensocial.googleusercontent.com
+2001:4860:4001:801::100c nl3atn8402ncgahndqn8rb6qi2ld2g5a-a-gm-opensocial.googleusercontent.com
+2001:4860:4001:801::100c www-opensocial-sandbox.googleusercontent.com
+2001:4860:4001:801::100a www-fc-opensocial.googleusercontent.com
+2001:4860:4001:801::100b *-a-fc-opensocial.googleusercontent.com
+2001:4860:4001:801::100a 8fkcem1ves287v3g5lu9gep1j91p3kk1-a-fc-opensocial.googleusercontent.com
+2001:4860:4001:801::100a r1rk9np7bpcsfoeekl0khkd2juj27q3o-a-fc-opensocial.googleusercontent.com
+2001:4860:4001:801::100a www-focus-opensocial.googleusercontent.com
+2001:4860:4001:801::100c images0-focus-opensocial.googleusercontent.com
+2001:4860:4001:801::100c images1-focus-opensocial.googleusercontent.com
+2001:4860:4001:801::100a images2-focus-opensocial.googleusercontent.com
+2001:4860:4001:801::100b images3-focus-opensocial.googleusercontent.com
+2001:4860:4001:801::100a images4-focus-opensocial.googleusercontent.com
+2001:4860:4001:801::100c images5-focus-opensocial.googleusercontent.com
+2001:4860:4001:801::100c images6-focus-opensocial.googleusercontent.com
+2001:4860:4001:801::100a images7-focus-opensocial.googleusercontent.com
+2001:4860:4001:801::100a images8-focus-opensocial.googleusercontent.com
+2001:4860:4001:801::100a images9-focus-opensocial.googleusercontent.com
+2001:4860:4001:801::100b images*-focus-opensocial.googleusercontent.com
+2001:4860:4001:801::100a www-focus-opensocial.googleusercontent.com
+2001:4860:4001:801::100a 0-focus-opensocial.googleusercontent.com
+2001:4860:4001:801::100a 1-focus-opensocial.googleusercontent.com
+2001:4860:4001:801::100c 2-focus-opensocial.googleusercontent.com
+2001:4860:4001:801::100a 3-focus-opensocial.googleusercontent.com
+2001:4860:4001:801::100b www-fusiontables-opensocial.googleusercontent.com
+2001:4860:4001:801::100b www-kix-opensocial.googleusercontent.com
+2001:4860:4001:801::100b images-lso-opensocial.googleusercontent.com
+2001:4860:4001:801::100b www-onepick-opensocial.googleusercontent.com
+2001:4860:4001:801::100b images-onepick-opensocial.googleusercontent.com
+2001:4860:4001:801::100a www-open-opensocial.googleusercontent.com
+2001:4860:4001:801::100a 0-open-opensocial.googleusercontent.com
+2001:4860:4001:801::100a 1-open-opensocial.googleusercontent.com
+2001:4860:4001:801::100c 2-open-opensocial.googleusercontent.com
+2001:4860:4001:801::100c 3-open-opensocial.googleusercontent.com
+2001:4860:4001:801::100c www-oz-opensocial.googleusercontent.com
+2001:4860:4001:801::100b images-oz-opensocial.googleusercontent.com
+2001:4860:4001:801::100c 4fjvqid3r3oq66t548clrdj52df15coc-a-oz-opensocial.googleusercontent.com
+2001:4860:4001:801::100c 53rd6p0catml6vat6qra84rs0del836d-a-oz-opensocial.googleusercontent.com
+2001:4860:4001:801::100c 59cbv4l9s05pbaks9v77vc3mengeqors-a-oz-opensocial.googleusercontent.com
+2001:4860:4001:801::100a 8kubpeu8314p2efdd7jlv09an9i2ljdo-a-oz-opensocial.googleusercontent.com
+2001:4860:4001:801::84 adstvca8k2ooaknjjmv89j22n9t676ve-a-oz-opensocial.googleusercontent.com
+2001:4860:4001:801::84 bt26mravu2qpe56n8gnmjnpv2inl84bf-a-oz-opensocial.googleusercontent.com
+2001:4860:4001:801::84 debh8vg7vd93bco3prdajidmm7dhql3f-a-oz-opensocial.googleusercontent.com
+2001:4860:4001:801::84 hsco54a20sh11q9jkmb51ad2n3hmkmrg-a-oz-opensocial.googleusercontent.com
+2001:4860:4001:801::84 i8brh95qor6r54nkl52hidj2ggcs4jgm-a-oz-opensocial.googleusercontent.com
+2001:4860:4001:801::84 k6v18tjr24doa89b55o3na41kn4v73eb-a-oz-opensocial.googleusercontent.com
+2001:4860:4001:801::84 ob7f2qc0i50kbjnc81vkhgmb5hsv7a8l-a-oz-opensocial.googleusercontent.com
+2001:4860:4001:801::84 qhie5b8u979rnch1q0hqbrmbkn9estf7-a-oz-opensocial.googleusercontent.com
+2001:4860:4001:801::84 r70rmsn4s0rhk6cehcbbcbfbs31pu0va-a-oz-opensocial.googleusercontent.com
+2001:4860:4001:801::84 rbjhe237k979f79d87gmenp3gejfonu9-a-oz-opensocial.googleusercontent.com
+2001:4860:4001:801::84 u807isd5egseeabjccgcns005p2miucq-a-oz-opensocial.googleusercontent.com
+2001:4860:4001:801::84 upt14k1i2veesusrda9nfotcrbp9d7p5-a-oz-opensocial.googleusercontent.com
+2001:4860:4001:801::100b 4098j3r7bdqqvlggmhbnlu6u5i8d08jq-a-oz-opensocial.googleusercontent.com
+2001:4860:4001:801::100c *-a-oz-opensocial.googleusercontent.com
+2001:4860:4001:801::100c images-pos-opensocial.googleusercontent.com
+2001:4860:4001:801::100a www-trixcopysheet-opensocial.googleusercontent.com
+2001:4860:4001:801::100b www-wave-opensocial.googleusercontent.com
+2001:4860:4001:801::100b wave-opensocial.googleusercontent.com
+2001:4860:4001:801::100b 0-wave-opensocial.googleusercontent.com
+2001:4860:4001:801::100a 1-wave-opensocial.googleusercontent.com
+2001:4860:4001:801::100c 2-wave-opensocial.googleusercontent.com
+2001:4860:4001:801::100a 3-wave-opensocial.googleusercontent.com
+2001:4860:4001:801::100c 4-wave-opensocial.googleusercontent.com
+2001:4860:4001:801::100a 5-wave-opensocial.googleusercontent.com
+2001:4860:4001:801::100a 6-wave-opensocial.googleusercontent.com
+2001:4860:4001:801::100a 7-wave-opensocial.googleusercontent.com
+2001:4860:4001:801::100c 8-wave-opensocial.googleusercontent.com
+2001:4860:4001:801::100b 9-wave-opensocial.googleusercontent.com
+2001:4860:4001:801::100a 10-wave-opensocial.googleusercontent.com
+2001:4860:4001:801::100a 11-wave-opensocial.googleusercontent.com
+2001:4860:4001:801::100c 12-wave-opensocial.googleusercontent.com
+2001:4860:4001:801::84 13-wave-opensocial.googleusercontent.com
+2001:4860:4001:801::84 14-wave-opensocial.googleusercontent.com
+2001:4860:4001:801::84 15-wave-opensocial.googleusercontent.com
+2001:4860:4001:801::84 16-wave-opensocial.googleusercontent.com
+2001:4860:4001:801::84 17-wave-opensocial.googleusercontent.com
+2001:4860:4001:801::84 18-wave-opensocial.googleusercontent.com
+2001:4860:4001:801::84 19-wave-opensocial.googleusercontent.com
+2001:4860:4001:801::84 20-wave-opensocial.googleusercontent.com
+2001:4860:4001:801::84 21-wave-opensocial.googleusercontent.com
+2001:4860:4001:801::84 22-wave-opensocial.googleusercontent.com
+2001:4860:4001:801::84 23-wave-opensocial.googleusercontent.com
+2001:4860:4001:801::84 24-wave-opensocial.googleusercontent.com
+2001:4860:4001:801::84 25-wave-opensocial.googleusercontent.com
+2001:4860:4001:801::84 26-wave-opensocial.googleusercontent.com
+2001:4860:4001:801::84 27-wave-opensocial.googleusercontent.com
+2001:4860:4001:801::84 28-wave-opensocial.googleusercontent.com
+2001:4860:4001:801::84 29-wave-opensocial.googleusercontent.com
+2001:4860:4001:801::84 30-wave-opensocial.googleusercontent.com
+2001:4860:4001:801::84 31-wave-opensocial.googleusercontent.com
+2001:4860:4001:801::84 32-wave-opensocial.googleusercontent.com
+2001:4860:4001:801::84 33-wave-opensocial.googleusercontent.com
+2001:4860:4001:801::84 34-wave-opensocial.googleusercontent.com
+2001:4860:4001:801::84 35-wave-opensocial.googleusercontent.com
+2001:4860:4001:801::84 36-wave-opensocial.googleusercontent.com
+2001:4860:4001:801::84 37-wave-opensocial.googleusercontent.com
+2001:4860:4001:801::84 38-wave-opensocial.googleusercontent.com
+2001:4860:4001:801::84 39-wave-opensocial.googleusercontent.com
+2001:4860:4001:801::84 40-wave-opensocial.googleusercontent.com
+2001:4860:4001:801::100a *-wave-opensocial.googleusercontent.com
 
