@@ -401,4 +401,163 @@
 #Download 下载
 2001:4860:4001:801::5d dl.google.com #dl.l.google.com
 2001:4860:4001:801::be dl.l.google.com
-2001:4860:4001:801::5d dl-ssl.google.com #dl-ssl.l.google.com
+2001:4860:4001:801::5d dl-ssl.google.com #dl-ssl.l.google.com#Google Earth 地球
+2001:4860:4001:801::1003 earth.google.com #www3.l.google.com
+2001:4860:4001:801::1009 auth.keyhole.com #www3.l.google.com
+2001:4860:4001:801::1005 geoauth.google.com #www3.l.google.com
+
+#Finance 财经
+2001:4860:4001:801::1009 finance.google.com #www3.l.google.com
+
+#Fusion RSS 聚合指南
+2001:4860:4001:801::1012 fusion.google.com #www2.l.google.com
+
+#Gmail 邮箱
+2001:4860:4001:801::1016 mail.google.com #googlemail.l.google.com
+2001:4860:4001:801::1015 googlemail.l.google.com
+2001:4860:4001:801::101d chatenabled.mail.google.com #b.googlemail.l.google.com #Gmail 中 Gtalk 聊天服务
+2001:4860:4001:801::101d filetransferenabled.mail.google.com #b.googlemail.l.google.com #可能会造成 GTalk 客户端异常
+2001:4860:4001:801::101d b.googlemail.l.google.com
+##2001:4860:4001:801::62 talk.gmail.com #Gmail中Gtalk聊天服务
+2001:4860:4001:801::1007 gmail.google.com #www3.l.google.com
+2001:4860:4001:801::1016 www.gmail.com #googlemail.l.google.com
+2001:4860:4001:801::1015 gmail.com
+2001:4860:4001:801::1015 m.gmail.com #googlemail.l.google.com
+2001:4860:4001:801::1016 m.googlemail.com #googlemail.l.google.com
+#2607:f8b0:400e:c00::6d pop.gmail.com #gmail-pop.l.google.com #Foxmail 等客户端不支持 ipv6 连接，参阅 Issue 33
+#2607:f8b0:400e:c00::6d gmail-pop.l.google.com
+#2607:f8b0:400e:c00::10 pop.googlemail.com #googlemail-pop.l.google.com
+#2607:f8b0:400e:c00::10 googlemail-pop.l.google.com
+#2607:f8b0:400e:c00::6d smtp.gmail.com #gmail-smtp-msa.l.google.com #Foxmail 暂不支持
+#2607:f8b0:400e:c00::6d gmail-smtp-msa.l.google.com
+2#001:4860:8002::62 smtp1.google.com
+##2001:4860:4001:801::62 smtp2.google.com
+2001:4860:4001:801::62 smtp3.google.com
+2001:4860:4001:801::62 smtp-out.google.com
+2001:4860:4001:801::62 smtp-out3.google.com
+2001:4860:4001:801::6d gmail-smtp.l.google.com
+2001:4860:4001:801::62 gmail-smtp-in.l.google.com
+2001:4860:4001:801::62 gmr-smtp-in.l.google.com
+#2607:f8b0:400e:c00::10 smtp.googlemail.com #googlemail-smtp.l.google.com
+#2607:f8b0:400e:c00::10 googlemail-smtp.l.google.com
+#2607:f8b0:400e:c03::6d imap.gmail.com #gmail-imap.l.google.com #Foxmail 暂不支持
+#2607:f8b0:400e:c03::6d gmail-imap.l.google.com
+#2607:f8b0:400e:c01::10 imap.googlemail.com #googlemail-imap.l.google.com
+#2607:f8b0:400e:c01::10 googlemail-imap.l.google.com#Group 论坛
+2001:4860:4001:801::71 groups.google.com #groups.l.google.com
+###2401:3800:c001::68 groups.google.cn
+2001:4860:4001:801::71 groups.google.com.hk #groups.l.google.com
+2001:4860:4001:801::71 groups-beta.google.com #groups.l.google.com
+2001:4860:4001:801::71 groups.l.google.com
+2001:4860:4001:801::66 productforums.google.com #groups.l.google.com
+2001:4860:4001:801::89 blob-s-docs.googlegroups.com #googlegroups.l.google.com
+2001:4860:4001:801::89 *.googlegroups.com #googlegroups.l.google.com
+
+#Health 健康
+2001:4860:4001:801::100e health.google.com #www3.l.google.com
+
+#Images 图片
+2001:4860:4001:801::1002 images.google.com #images.l.google.com
+2001:4860:4001:801::1007 images.google.com.hk #images.l.google.com
+2001:4860:4001:801::1002 images.l.google.com
+2001:4860:4001:801::1010 tbn0.google.com #tbn.l.google.com
+2001:4860:4001:801::101 tbn1.google.com #tbn.l.google.com
+2001:4860:4001:801::1013 tbn2.google.com #tbn.l.google.com
+2001:4860:4001:801::1011 tbn3.google.com #tbn.l.google.com
+##2001:4860:4001:801::62 tbn4.google.com
+##2001:4860:4001:801::62 tbn5.google.com
+##2001:4860:4001:801::62 tbn6.google.com
+
+#Knol 在线百科全书
+2001:4860:4001:801::1001 knol.google.com #www3.l.google.com#Labs 实验室
+2001:4860:4001:801::1004 labs.google.com #www3.l.google.com
+2001:4860:4001:801::1006 labs.google.cn #www3.l.google.com
+2001:4860:4001:801::8d www.googlelabs.com #appspot.l.google.com
+2001:4860:4001:801::8d browsersize.googlelabs.com #appspot.l.google.com
+2001:4860:4001:801::8d bodybrowser.googlelabs.com #appspot.l.google.com
+2001:4860:4001:801::8d citytours.googlelabs.com #appspot.l.google.com
+2001:4860:4001:801::8d correlate.googlelabs.com #appspot.l.google.com
+2001:4860:4001:801::8d datawiki.googlelabs.com #appspot.l.google.com
+2001:4860:4001:801::8d earthengine.googlelabs.com #appspot.l.google.com
+2001:4860:4001:801::8d fastflip.googlelabs.com #appspot.l.google.com
+2001:4860:4001:801::8d followfinder.googlelabs.com #appspot.l.google.com
+2001:4860:4001:801::8d guru.googlelabs.com #appspot.l.google.com
+2001:4860:4001:801::8d image-swirl.googlelabs.com #appspot.l.google.com
+2001:4860:4001:801::8d juliamap.googlelabs.com #appspot.l.google.com
+2001:4860:4001:801::8d listen.googlelabs.com #appspot.l.google.com
+2001:4860:4001:801::8d livingstories.googlelabs.com #appspot.l.google.com
+2001:4860:4001:801::8d newstimeline.googlelabs.com #appspot.l.google.com
+2001:4860:4001:801::8d ngrams.googlelabs.com #appspot.l.google.com
+2001:4860:4001:801::8d pagespeed.googlelabs.com #appspot.l.google.com
+2001:4860:4001:801::8d relatedlinks.googlelabs.com #appspot.l.google.com
+2001:4860:4001:801::8d scribe.googlelabs.com #appspot.l.google.com
+2001:4860:4001:801::8d scriptconv.googlelabs.com #appspot.l.google.com
+2001:4860:4001:801::8d similar-images.googlelabs.com #appspot.l.google.com
+2001:4860:4001:801::8d storegadget.googlelabs.com #appspot.l.google.com
+2001:4860:4001:801::8d swiffy.googlelabs.com #appspot.l.google.com
+2001:4860:4001:801::8d tables.googlelabs.com #appspot.l.google.com
+
+#Google Mars 火星地图
+2001:4860:4001:801::1000 mars.google.com #www3.l.google.com
+
+#Maps 地图
+2001:4860:4001:801::1009 maps.google.com #maps.l.google.com
+2001:4860:4001:801::1017 maps.google.com.hk #maps.l.google.com
+2001:4860:4001:801::1018 maps.google.com.tw #maps.l.google.com
+2001:4860:4001:801::1000 local.google.com #maps.l.google.com
+2001:4860:4001:801::1009 ditu.google.com #maps.l.google.com
+2001:4860:4001:801::1000 maps-api-ssl.google.com #clients.l.google.com
+2001:4860:4001:801::1000 map.google.com #maps.l.google.com
+2001:4860:4001:801::1002 maps.l.google.com
+2001:4860:4001:801::88 kh.google.com #kh.l.google.com
+2001:4860:4001:801::88 kh.l.google.com
+2001:4860:4001:801::1000 khmdb.google.com #khmdb.l.google.com
+2001:4860:4001:801::100e khm.google.com #khm.l.google.com
+2001:4860:4001:801::1002 khm.l.google.com
+2001:4860:4001:801::1008 khm0.google.com #khm.l.google.com
+2001:4860:4001:801::100e khm1.google.com #khm.l.google.com
+2001:4860:4001:801::1003 khm2.google.com #khm.l.google.com
+2001:4860:4001:801::1001 khm3.google.com #khm.l.google.com
+2001:4860:4001:801::64 cbk0.google.com #cbk.l.google.com
+2001:4860:4001:801::1008 cbk1.google.com #cbk.l.google.com
+2001:4860:4001:801::1009 cbk2.google.com #cbk.l.google.com
+2001:4860:4001:801::1009 cbk3.google.com #cbk.l.google.com
+2001:4860:4001:801::1009 khms.google.com #khms.l.google.com
+2001:4860:4001:801::1005 khms0.google.com #khms.l.google.com
+2001:4860:4001:801::1008 khms1.google.com #khms.l.google.com
+2001:4860:4001:801::100e khms2.google.com #khms.l.google.com
+2001:4860:4001:801::100e khms3.google.com #khms.l.google.com
+2001:4860:4001:801::1000 cbks0.google.com #khms.l.google.com
+2001:4860:4001:801::1003 cbks1.google.com #khms.l.google.com
+2001:4860:4001:801::1004 cbks2.google.com #khms.l.google.com
+2001:4860:4001:801::1005 cbks3.google.com #khms.l.google.com
+2001:4860:4001:801::100e khms.l.google.com
+2001:4860:4001:801::1006 mw1.google.com #mw-small.l.google.com
+2001:4860:4001:801::100e mw2.google.com #mw-medium.l.google.com
+2001:4860:4001:801::1003 mt.l.google.com
+2001:4860:4001:801::100e mt.google.com #mt.l.google.com
+2001:4860:4001:801::1004 mt0.google.com #mt.l.google.com
+2001:4860:4001:801::1000 mt1.google.com #mt.l.google.com
+2001:4860:4001:801::1000 mt2.google.com #mt.l.google.com
+2001:4860:4001:801::1001 mt3.google.com #mt.l.google.com
+2001:4860:4001:801::1003 gg.google.com
+2001:4860:4001:801::1004 gg.google.cn
+2607:f8b0:4007:800::100f csi.l.google.com
+2001:4860:4007:800::101f id.google.com #id.l.google.com
+2001:4860:4007:800::101f id.google.cn #id.l.google.com
+2001:4860:4007:800::1017 id.l.google.com
+2001:4860:4001:801::a0 ditu.google.cn
+2001:4860:4001:801::a0 mt.google.cn #ditu.google.cn
+2001:4860:4001:801::a0 mt0.google.cn #ditu.google.cn
+2001:4860:4001:801::a0 mt1.google.cn #ditu.google.cn
+2001:4860:4001:801::a0 mt2.google.cn #ditu.google.cn
+2001:4860:4001:801::a0 mt3.google.cn #ditu.google.cn
+2001:4860:4007:800::1001 mts.google.com #mts.l.google.com
+2001:4860:4007:800::1005 mts0.google.com #mts.l.google.com
+2001:4860:4007:800::1001 mts1.google.com #mts.l.google.com
+2001:4860:4007:800::1009 mts2.google.com #mts.l.google.com
+2001:4860:4007:800::1009 mts3.google.com #mts.l.google.com
+2001:4860:4007:800::100e mts.l.google.com
+2001:4860:4001:801::a0 maps.gstatic.cn #www.gstatic.cn
+2001:4860:4007:800::1001 mobilemaps.clients.google.com #clients.l.google.com
+
