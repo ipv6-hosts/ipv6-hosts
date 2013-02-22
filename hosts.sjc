@@ -94,3 +94,36 @@
 2001:4860:4001:801::101f www.google.co.ve #www-cctld.l.google.com
 2001:4860:4001:801::1017 www.google.com.vn #www-cctld.l.google.com
 2001:4860:4001:801::1017 www.google.co.za #www-cctld.l.google.com
+
+#Web 网页
+2001:4860:4001:801::1010 www.google.com #www.l.google.com #主/登录域名，GTalk 客户端用户需注释此条，参见 Issue 11
+2001:4860:4001:801::1003 encrypted.google.com #www3.l.google.com
+2001:4860:4001:801::1014 www.l.google.com
+##2001:4860:4001:801::62 www0.l.google.com
+##2001:4860:4001:801::62 www1.l.google.com
+2001:4860:4001:801::1014 www2.l.google.com
+2001:4860:4001:801::100e www3.l.google.com
+2001:4860:4001:801::1007 www4.l.google.com
+2001:4860:4001:801::66 suggestqueries.google.com #suggestqueries.l.google.com
+2001:4860:4001:801::66 suggestqueries.l.google.com
+2001:4860:4001:801::1009 gxc.google.com #www3.l.google.com
+2001:4860:4001:801::1000 gxc.google.com.hk #www3.l.google.com
+2001:4860:4001:801::1000investor.google.com #www3.l.google.com
+2001:4860:4001:801::1004 clients1.google.com #clients.l.google.com
+2001:4860:4001:801::1000 clients2.google.com #clients.l.google.com
+2001:4860:4001:801::1000 clients3.google.com #clients.l.google.com
+2001:4860:4001:801::1000 clients4.google.com #clients.l.google.com
+2001:4860:4001:801::1000 clients5.google.com #clients.l.google.com
+2001:4860:4001:801::1003 clients6.google.com #clients.l.google.com
+2001:4860:4001:801::1018 clients1.google.com.hk #clients-cctld.l.google.com
+2001:4860:4001:801::1017 clients1.google.com.tw #clients-cctld.l.google.com
+2001:4860:4001:801::1001 linkhelp.clients.google.com #clients.l.google.com
+2001:4860:4001:801::100e clients.l.google.com
+2001:4860:4001:801::1007 encrypted-tbn0.google.com #encrypted-tbn.l.google.com
+2001:4860:4001:801::1007 encrypted-tbn1.google.com #encrypted-tbn.l.google.com
+2001:4860:4001:801::1000 encrypted-tbn2.google.com #encrypted-tbn.l.google.com
+2001:4860:4001:801::100e encrypted-tbn3.google.com #encrypted-tbn.l.google.com
+2001:4860:4001:801::1003 encrypted-tbn.l.google.com
+2001:4860:4001:801::1003 support.google.com #www3.l.google.com
+2001:4860:4001:801::c1 mobile.google.com #mobile.l.google.com
+2001:4860:4001:801::1012 mobile.google.com.hk #www.google.com
