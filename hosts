@@ -4600,7 +4600,7 @@
 
 #Facebook 脸谱网
 2a03:2880:2110:df01:face:b00c::8 facebook.com
-a03:2880:2110:df01:face:b00c::8 www.facebook.com
+2a03:2880:2110:df01:face:b00c::8 www.facebook.com
 2a03:2880:2110:df01:face:b00c::8 api-read.facebook.com
 2a03:2880:2110:df01:face:b00c::8 connect.facebook.com #www.facebook.com
 2a03:2880:2110:df01:face:b00c graph.facebook.com
