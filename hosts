@@ -4596,41 +4596,39 @@
 #2001:418:e801::10:7 api.bitly.com
 #2001:418:e801::11:7 api.bitly.com
 #2001:418:e801::12:7 api.bitly.com
-#2001:418:e801::15:7 api.bitly.com
-
-#Facebook 脸谱网
-2a03:2880:2110:df01:face:b00c::8 facebook.com
-2a03:2880:2110:df01:face:b00c::8 www.facebook.com
-2a03:2880:2110:df01:face:b00c::8 api-read.facebook.com
-2a03:2880:2110:df01:face:b00c::8 connect.facebook.com #www.facebook.com
-2a03:2880:2110:df01:face:b00c graph.facebook.com
-2a03:2880:2110:cf01:face:b00c::9 zh-cn.facebook.com #star.facebook.com
-2a03:2880:2110:cf01:face:b00c::9 zh-tw.facebook.com #star.facebook.com
-2a03:2880:2110:cf01:face:b00c::9 check6.facebook.com
-2a03:2880:2110:cf01:face:b00c::a m.facebook.com
-2a03:2880:2110:df01:face:b00c::8 apps.facebook.com
-2a03:2880:2110:cf01:face:b00c::9 login.facebook.com #star.facebook.com
-2a03:2880:2110:df01:face:b00c::8 pixel.facebook.com #star.facebook.com
-2a03:2880:2110:df01:face:b00c::8 star.facebook.com
-2a03:2880:2110:df01:face:b00c::8 upload.facebook.com
-2620::1cfe:face:b00c:0:0:3 www.v6.facebook.com
-2620::1cfe:face:b00c:0:0:3 attachments.facebook.com #?
-#2620:0:1cfe:face:b00c::4 login.v6.facebook.com
-2620::1cfe:face:b00c:0:0:6 apps.v6.facebook.com
-2620::1cfe:face:b00c:0:0:3 333.channel.facebook.com #?
+#2001:418:e801::15:7 api.bitly.com#Facebook 脸谱网
+2a03:2880:2110:df07:face:b00c:0:1 facebook.com
+2a03:2880:10:6f08:face:b00c:0:1 www.facebook.com
+2a03:2880:10:6f08:face:b00c:0:1 api-read.facebook.com
+2a03:2880:10:6f08:face:b00c:0:1 connect.facebook.com #www.facebook.com
+2a03:2880:10:6f08:face:b00c:0:1 graph.facebook.com
+2a03:2880:10:6f08:face:b00c:0:1 zh-cn.facebook.com #star.facebook.com
+2a03:2880:10:6f08:face:b00c:0:1 zh-tw.facebook.com #star.facebook.com
+2a03:2880:10:6f08:face:b00c:0:1 check6.facebook.com
+2a03:2880:10:6f08:face:b00c:0:1 m.facebook.com
+2a03:2880:10:6f08:face:b00c:0:1 apps.facebook.com
+2a03:2880:10:6f08:face:b00c:0:1 login.facebook.com #star.facebook.com
+2a03:2880:10:6f08:face:b00c:0:1 pixel.facebook.com #star.facebook.com
+2a03:2880:10:6f08:face:b00c:0:1 star.facebook.com
+2a03:2880:10:6f08:face:b00c:0:1 upload.facebook.com
+2a03:2880:10:6f08:face:b00c:0:1 attachments.facebook.com #?
+2a03:2880:10:6f08:face:b00c:0:1 developers.facebook.com
 #2620::1cfe:face:b00c:0:0:3 333.ctest.facebook.com
+#2620::1cfe:face:b00c:0:0:3 vupload.facebook.com #?
+#2620::1cfe:face:b00c:0:0:3 333.channel.facebook.com #?
+#2620::1cfe:face:b00c:0:0:3 error.12.channel.facebook.com #?
 #如需正常使用页面底部聊天功能，请通过 pac 代理 *.channel.facebook.com
-2a03:2880:2110:df01:face:b00c::8 developers.facebook.com
+2a03:2880:2110:6f00:face:b00c:0:1 www.v6.facebook.com
+#2620:0:1cfe:face:b00c::4 login.v6.facebook.com
+2a03:2880:2110:6f00:face:b00c:0:1 apps.v6.facebook.com
 #2620::1cfe:face:b00c:0:0:3 developers.v6.facebook.com
-#2620::1cfe:face:b00c:0:0:3 external.ak.fbcdn.net
-2620::1cfe:face:b00c:0:0:3 error.12.channel.facebook.com #?
-2620::1cfe:face:b00c:0:0:3 pixel.v6.facebook.com #www.v6.facebook.com
-2620::1cfe:face:b00c:0:0:3 vupload.facebook.com #?
-#2620::1cfe:face:b00c:0:0:3 static.ak.fbcdn.net #网站资源（图像、脚本等）新机制尚未部署至 ipv6
-#2620:0:1cfe:face:b00c::4 s-static.ak.facebook.com #https 连接用网站资源，证书有问题
-2620::1cfe:face:b00c:0:0:7 m.v6.facebook.com #移动版
-2610:d0:face::9 www.lisp6.facebook.com
-2610:d0:face::9 m.lisp6.facebook.com #www.lisp6.facebook.com
+2a03:2880:2110:6f00:face:b00c:0:1 pixel.v6.facebook.com #www.v6.facebook.com
+2a03:2880:2110:6f00:face:b00c:0:1 m.v6.facebook.com #移动版
+2600:1410::7d38:d661: external.ak.fbcdn.net
+2600:1410::7d38:d652: static.ak.fbcdn.net #网站资源（图像、脚本等）新机制尚未部署至 ipv6
+2600:140b:12:28e::236: s-static.ak.facebook.com #https 连接用网站资源，证书有问题
+#2610:d0:face::9 www.lisp6.facebook.com
+#2610:d0:face::9 m.lisp6.facebook.com #www.lisp6.facebook.com
 
 #Akamai
 2600:140e:3:1:8600::236 s-static.ak.facebook.com #s-static.ak.facebook.com.edgekey.net
