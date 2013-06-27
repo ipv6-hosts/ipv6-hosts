@@ -4596,7 +4596,9 @@
 #2001:418:e801::10:7 api.bitly.com
 #2001:418:e801::11:7 api.bitly.com
 #2001:418:e801::12:7 api.bitly.com
-#2001:418:e801::15:7 api.bitly.com#Facebook 脸谱网
+#2001:418:e801::15:7 api.bitly.com
+
+#Facebook 脸谱网
 2a03:2880:2110:df07:face:b00c:0:1 facebook.com
 2a03:2880:10:6f08:face:b00c:0:1 www.facebook.com
 2a03:2880:10:6f08:face:b00c:0:1 api-read.facebook.com
