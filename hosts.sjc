@@ -1,7 +1,7 @@
 # 本版本 hosts 发布地址：
-#  https://ipv6-hosts.googlecode.com/hg/hosts.sjc
-# Google Code 项目页：
-#  http://code.google.com/p/ipv6-hosts/
+#  https://github.com/ipv6-hosts/ipv6-hosts/raw/master/hosts.sjc
+# GitHub 项目页：
+#  https://github.com/ipv6-hosts/ipv6-hosts
 
 ##Google.com Google.com
 2001:4860:4001:801::1002 google.com
