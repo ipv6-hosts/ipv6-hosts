@@ -1,0 +1,46 @@
+# IPv6 hosts
+
+ipv6 priority records that improve access to Google, YouTube, Facebook, Wikipedia etc.
+
+直接看最新的host列表：
+
+基於Google@Hong Kong的地址：
+http://code.google.com/p/ipv6-hosts/source/browse/hosts
+
+基於Google@Singapore的地址：
+http://code.google.com/p/ipv6-hosts/source/browse/hosts.sin
+
+基於Google@San Jose, California, United States的地址：
+http://code.google.com/p/ipv6-hosts/source/browse/hosts.sjc
+
+要用哪個可以分別ping一下三個列表中的地址 不一定Hong Kong的最快哦=，=
+
+另外https://code.google.com/p/ipv6-hosts/source/browse/
+還有各youtube數據中心單獨的host文件，根據自身網絡狀況自己整合進去吧=，=
+
+
+查看個版本更新歷史：http://code.google.com/p/ipv6-hosts/source/list
+
+其他相關資料:http://code.google.com/p/ipv6-hosts/w/list
+
+有問題請到：http://code.google.com/p/ipv6-hosts/issues/list
+
+
+
+這麼好用的東西還不+1？！——><g:plusone size="tall" href="http://code.google.com/p/ipv6-hosts/"></g:plusone><——If this project is useful for you～～
+
+
+=== 收录原则 ===
+满足下述任意两点即符合本项目组收录条件：
+1、对提高个人素养有重要意义；
+2、网站走在科技前沿；
+3、只有白名单内的 DNS 才能解析出 AAAA 记录。
+
+=== 友情提醒 ===
+1、实名制是 IP 分配的基本要求，您在 IPv6 网络中的活动同样受监控与制约；
+2、常怀感恩之心，切勿滥用免费资源。
+
+歡迎合作完善本文檔，請聯繫VersusClyne小朋友
+
+PS:不准吐槽logo 我是彼爾德的腦殘粉
+
